@@ -21,10 +21,10 @@ export default function RootLayout({
         <header>
           <a href="/" className="logo">missing.link</a>
           <nav>
-            <a href="/claims">Claims</a>
             <a href="/entities">Entities</a>
-            <a href="/sources">Sources</a>
+            <a href="/claims">Claims</a>
             <a href="/topics">Topics</a>
+            <a href="/sources">Sources</a>
             <a href="/corrections">Corrections</a>
           </nav>
         </header>
