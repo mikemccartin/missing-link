@@ -1,9 +1,10 @@
-import { getAllClaims, getAllEntities, getAllSources } from "@/lib/content";
+import { getAllClaims, getAllEntities, getAllSources, getAllTopics } from "@/lib/content";
 import { websiteJsonLd, jsonLdScript } from "@/lib/jsonld";
 
 export default function Home() {
-  const claims = getAllClaims();
   const entities = getAllEntities();
+  const claims = getAllClaims();
+  const topics = getAllTopics();
   const sources = getAllSources();
 
   return (
@@ -33,16 +34,19 @@ export default function Home() {
         <h2>How it works</h2>
         <ul>
           <li>
-            <strong>Claims</strong> are atomic, verifiable statements with citations
+            <strong>Entities</strong> are organizations, people, or concepts
           </li>
           <li>
-            <strong>Sources</strong> are primary documents with access dates and snapshots
+            <strong>Claims</strong> are atomic, verifiable statements about entities
           </li>
           <li>
-            <strong>Entities</strong> are organizations, people, or concepts referenced by claims
+            <strong>Topics</strong> categorize claims by subject area
           </li>
           <li>
-            <strong>Corrections</strong> are tracked transparently through versioned changelogs
+            <strong>Sources</strong> are primary documents cited as evidence
+          </li>
+          <li>
+            <strong>Corrections</strong> track changes transparently through versioned changelogs
           </li>
         </ul>
 
@@ -50,6 +54,7 @@ export default function Home() {
         <p>
           <a href="/entities">{entities.length} entities</a> ·{" "}
           <a href="/claims">{claims.length} claims</a> ·{" "}
+          <a href="/topics">{topics.length} topics</a> ·{" "}
           <a href="/sources">{sources.length} sources</a>
         </p>
 
