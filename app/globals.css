@@ -205,3 +205,41 @@ footer {
   color: #666666;
   border-top: 1px solid #e0e0e0;
 }
+
+/* Client view - clean presentation mode */
+/* Hide site header/footer when in client view */
+body:has(.client-view) > header,
+body:has(.client-view) > footer {
+  display: none;
+}
+
+.client-view main {
+  padding-top: 3rem;
+}
+
+.client-view .client-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.client-view section {
+  margin-bottom: 2rem;
+}
+
+.client-view blockquote {
+  margin: 0.75rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid #e0e0e0;
+  font-style: italic;
+}
+
+.client-view article {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.client-view article:last-child {
+  border-bottom: none;
+}
