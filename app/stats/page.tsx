@@ -40,13 +40,46 @@ export default async function StatsPage() {
           <p className="meta">
             Last checked: {formatTime(mentionData.lastRun)}
           </p>
+
+          {/* Platform breakdown */}
+          {mentionData.platformBreakdown && (
+            <>
+              <h3>By platform</h3>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Platform</th>
+                    <th>Checks</th>
+                    <th>Citations</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {Object.entries(mentionData.platformBreakdown).map(([platform, stats]) => (
+                    <tr key={platform}>
+                      <td>{formatPlatformName(platform)}</td>
+                      <td>{(stats as any).checked}</td>
+                      <td>
+                        {(stats as any).cited > 0 ? (
+                          <strong>{(stats as any).cited}</strong>
+                        ) : (
+                          <span className="meta">0</span>
+                        )}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </>
+          )}
+
+          <h3>Detailed results</h3>
           <table>
             <thead>
               <tr>
                 <th>Entity</th>
                 <th>Platform</th>
                 <th>Cited?</th>
-                <th>Sources checked</th>
+                <th>Sources</th>
               </tr>
             </thead>
             <tbody>
@@ -55,7 +88,7 @@ export default async function StatsPage() {
                   <td>
                     <a href={`/entities/${result.entity}`}>{result.entityName}</a>
                   </td>
-                  <td>{result.platform}</td>
+                  <td>{formatPlatformName(result.platform)}</td>
                   <td>
                     {result.cited ? (
                       <strong style={{ color: "#000" }}>Yes</strong>
@@ -68,10 +101,14 @@ export default async function StatsPage() {
               ))}
             </tbody>
           </table>
-          {mentionData.citations > 0 && (
+          {mentionData.citations > 0 ? (
             <p>
-              <strong>{mentionData.citations}</strong> of {mentionData.totalChecks} entities
-              are being cited by AI platforms.
+              <strong>{mentionData.citations}</strong> of {mentionData.totalChecks} checks
+              resulted in missing.link citations.
+            </p>
+          ) : (
+            <p className="meta">
+              No citations yet. This is expected for new sites—keep building content!
             </p>
           )}
         </>
@@ -164,11 +201,21 @@ export default async function StatsPage() {
         strings and log every visit with timestamp and page path.
       </p>
       <p>
-        <strong>Citation monitoring:</strong> We query AI platforms (Perplexity, etc.)
+        <strong>Citation monitoring:</strong> We query AI platforms (Perplexity, ChatGPT, Google AI Mode)
         about our entities and check if missing.link appears in their cited sources.
       </p>
     </main>
   );
+}
+
+function formatPlatformName(platform: string): string {
+  const names: Record<string, string> = {
+    perplexity: "Perplexity",
+    chatgpt: "ChatGPT",
+    google: "Google AI Mode",
+    google_ai_mode: "Google AI Mode",
+  };
+  return names[platform] || platform;
 }
 
 function formatTime(timestamp: string): string {

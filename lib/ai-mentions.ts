@@ -15,10 +15,16 @@ export interface MentionResult {
   answerExcerpt: string;
 }
 
+export interface PlatformStats {
+  checked: number;
+  cited: number;
+}
+
 export interface MentionSummary {
   lastRun: string;
   totalChecks: number;
   citations: number;
+  platformBreakdown?: Record<string, PlatformStats>;
   results: MentionResult[];
 }
 

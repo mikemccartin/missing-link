@@ -1,0 +1,401 @@
+[
+  {
+    "entity": "anthropic",
+    "entityName": "Anthropic",
+    "prompt": "What is Anthropic?",
+    "timestamp": "2026-01-24T17:03:36.220Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "What Is Anthropic? | Built In",
+        "url": "https://builtin.com/articles/anthropic"
+      },
+      {
+        "title": "What is Anthropic (and Why It Matters for AI Search)? - Loganix",
+        "url": "https://loganix.com/anthropic/"
+      },
+      {
+        "title": "Anthropic - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthropic"
+      },
+      {
+        "title": "Anthropic - LinkedIn",
+        "url": "https://www.linkedin.com/company/anthropicresearch"
+      },
+      {
+        "title": "Company \\ Anthropic",
+        "url": "https://www.anthropic.com/company"
+      },
+      {
+        "title": "Claude's Constitution - Anthropic",
+        "url": "https://www.anthropic.com/constitution"
+      },
+      {
+        "title": "Careers - Anthropic",
+        "url": "https://www.anthropic.com/careers"
+      },
+      {
+        "title": "Home \\ Anthropic",
+        "url": "https://www.anthropic.com"
+      },
+      {
+        "title": "Claude",
+        "url": "https://claude.ai"
+      },
+      {
+        "title": "Anthropic",
+        "url": "http://www.anthropic.com"
+      }
+    ],
+    "answerExcerpt": "\nAnthropic is an American artificial intelligence company that builds large language models and AI assistants, most notably the Claude family of models. [builtin](https://builtin.com/articles/anthropic)\n\n### What the company does\n- Anthropic focuses on AI research and development with a strong emphasis on **safety**, reliability, and interpretability of advanced models. [en.wikipedia](https://en.wikipedia.org/wiki/Anthropic)\n- Its flagship product line is Claude, a series of AI chatbots and APIs"
+  },
+  {
+    "entity": "anthropic",
+    "entityName": "Anthropic",
+    "prompt": "What is Anthropic?",
+    "timestamp": "2026-01-24T17:04:18.925Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": "Anthropic is an AI safety and research company that focuses on building advanced AI systems in a way that ensures they are safe, interpretable, and aligned with human values. Founded in 2021 by former OpenAI researchers, including Dario Amodei, Anthropic's main goal is to create AI that is both powerful and predictable, mitigating the risks associated with increasingly autonomous systems. They are particularly interested in the alignment problem, which refers to ensuring that the behavior of art"
+  },
+  {
+    "entity": "anthropic",
+    "entityName": "Anthropic",
+    "prompt": "What is Anthropic?",
+    "timestamp": "2026-01-24T17:04:43.059Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "en.wikipedia.org",
+        "url": "https://en.wikipedia.org/wiki/Anthropic"
+      },
+      {
+        "title": "www.anthropic.com",
+        "url": "https://www.anthropic.com/company"
+      },
+      {
+        "title": "www.linkedin.com",
+        "url": "https://www.linkedin.com/company/anthropicresearch"
+      },
+      {
+        "title": "www.anthropic.com",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "title": "loganix.com",
+        "url": "https://loganix.com/anthropic/"
+      },
+      {
+        "title": "techcrunch.com",
+        "url": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/"
+      },
+      {
+        "title": "www.coursera.org",
+        "url": "https://www.coursera.org/articles/anthropic-vs-openai"
+      },
+      {
+        "title": "claude.ai",
+        "url": "https://claude.ai/"
+      },
+      {
+        "title": "www.youtube.com",
+        "url": "https://www.youtube.com/watch?v=ryQn-8qy6gA&t=210"
+      },
+      {
+        "title": "builtin.com",
+        "url": "https://builtin.com/articles/anthropic-claude-code-tool"
+      }
+    ],
+    "answerExcerpt": "Anthropic is an American artificial intelligence (AI) research company and Public Benefit Corporation (PBC) based in San Francisco . Founded in 2021 by former OpenAI executives, including siblings Dario and Daniela Amodei, the company focuses on developing \"reliable, interpretable, and steerable\" AI systems with a primary emphasis on safety.\n\nAnthropic is best known for its family of large language models (LLMs) called Claude .\n\nClaude Models: The current state-of-the-art lineup includes Claude "
+  },
+  {
+    "entity": "missing-link",
+    "entityName": "missing.link",
+    "prompt": "What is missing.link?",
+    "timestamp": "2026-01-24T17:05:14.649Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "MISSING LINK example sentences | Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/us/example/english/missing-link"
+      },
+      {
+        "title": "Definition of MISSING LINK",
+        "url": "https://www.merriam-webster.com/dictionary/missing%20link"
+      },
+      {
+        "title": "Missing Link™ | LinkedIn",
+        "url": "https://www.linkedin.com/company/missing-link-"
+      },
+      {
+        "title": "Missing Link",
+        "url": "https://www.capterra.com.au/software/1034669/missing-link"
+      },
+      {
+        "title": "Missing Link Overview",
+        "url": "https://www.getapp.com/all-software/a/missing-link/"
+      },
+      {
+        "title": "The Missing Link | LinkedIn",
+        "url": "https://au.linkedin.com/company/the-missing-link-pty-ltd"
+      },
+      {
+        "title": "The Missing Link - Overview, News & Similar companies | ZoomInfo.com",
+        "url": "https://www.zoominfo.com/c/the-missing-link/372531273"
+      },
+      {
+        "title": "missing link",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/missing-link"
+      },
+      {
+        "title": "The Missing Link Client Reviews",
+        "url": "https://www.cloudtango.net/providers/7138/the-missing-link"
+      }
+    ],
+    "answerExcerpt": "\nMissing.link generally refers to a concept or product that fills a gap or connects two parts of a system. Depending on the context, it can have different meanings:\n\n- In a general sense: the missing link is the crucial piece that completes a sequence, chain of reasoning, or chain of events.\n- In evolution or science discussions: it denotes a hypothetical intermediate form that would connect two species or stages.\n- In software or business contexts: it can be a tool, integration, or process that"
+  },
+  {
+    "entity": "missing-link",
+    "entityName": "missing.link",
+    "prompt": "What is missing.link?",
+    "timestamp": "2026-01-24T17:05:50.908Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": "Missing.link is a platform designed to help website owners and content creators manage and monitor the status of their links, especially the \"broken\" or \"dead\" links that may appear on their sites. It primarily focuses on identifying and fixing broken links , which could lead to a poor user experience and negatively impact SEO rankings. Key features of Missing.link include: Link Checking : The platform scans websites for broken links, redirects, or other link issues. Reporting and Analytics : Pr"
+  },
+  {
+    "entity": "missing-link",
+    "entityName": "missing.link",
+    "prompt": "What is missing.link?",
+    "timestamp": "2026-01-24T17:06:21.651Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "www.britannica.com",
+        "url": "https://www.britannica.com/science/missing-link"
+      },
+      {
+        "title": "en.wikipedia.org",
+        "url": "https://en.wikipedia.org/wiki/Missing_link_(human_evolution)"
+      },
+      {
+        "title": "www.merriam-webster.com",
+        "url": "https://www.merriam-webster.com/dictionary/missing%20link"
+      },
+      {
+        "title": "news.uchicago.edu",
+        "url": "https://news.uchicago.edu/explainer/missing-links-evolution-explained"
+      },
+      {
+        "title": "www.smithsonianmag.com",
+        "url": "https://www.smithsonianmag.com/science-nature/whats-missing-link-180968327/"
+      },
+      {
+        "title": "www.quora.com",
+        "url": "https://www.quora.com/What-is-the-definition-of-the-missing-link-Why-is-it-so-hard-to-find-a-missing-link-between-humans-and-apes-or-any-other-species"
+      },
+      {
+        "title": "www.americanscientist.org",
+        "url": "https://www.americanscientist.org/article/missing-links-and-found-links"
+      },
+      {
+        "title": "www.reddit.com",
+        "url": "https://www.reddit.com/r/explainlikeimfive/comments/an43h7/eli5_what_is_the_missing_link_is_it_still_missing/"
+      },
+      {
+        "title": "www.reddit.com",
+        "url": "https://www.reddit.com/r/askscience/comments/1x80ru/can_someone_explain_to_me_the_missing_link_in/"
+      },
+      {
+        "title": "en.wikipedia.org",
+        "url": "https://en.wikipedia.org/wiki/Transitional_fossil"
+      }
+    ],
+    "answerExcerpt": "\"Missing link\" is a non-scientific term used to describe a hypothetical fossil or species that bridges an evolutionary gap between two known groups , most famously between early primates and modern humans.\n\nWhile common in popular media and historical contexts, modern scientists largely reject the term because it inaccurately implies that evolution is a linear \"chain\" rather than a complex, branching \"tree\".\n\nTransitional Forms: Scientists prefer terms like transitional fossil or intermediate fo"
+  },
+  {
+    "entity": "openai",
+    "entityName": "OpenAI",
+    "prompt": "What is OpenAI?",
+    "timestamp": "2026-01-24T17:06:49.659Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "OpenAI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OpenAI"
+      },
+      {
+        "title": "What Is OpenAI? Everything You Need to Know",
+        "url": "https://www.coursera.org/articles/what-is-openai"
+      },
+      {
+        "title": "OpenAI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Musk_v._OpenAI"
+      },
+      {
+        "title": "What is OpenAI? Definition and History from TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/definition/OpenAI"
+      },
+      {
+        "title": "OpenAI | ChatGPT, Sam Altman, Microsoft, & History",
+        "url": "https://www.britannica.com/money/OpenAI"
+      },
+      {
+        "title": "About | OpenAI",
+        "url": "https://openai.com/about/"
+      },
+      {
+        "title": "OpenAI",
+        "url": "https://openai.com"
+      },
+      {
+        "title": "Introducing OpenAI",
+        "url": "https://openai.com/index/introducing-openai/"
+      },
+      {
+        "title": "What is Open.AI?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/18x010c/what_is_openai/"
+      },
+      {
+        "title": "Our structure | OpenAI",
+        "url": "https://openai.com/our-structure/"
+      }
+    ],
+    "answerExcerpt": "\nOpenAI is a leading American artificial intelligence research and deployment organization focused on creating safe and beneficial artificial general intelligence (AGI) that can outperform humans at many economically valuable tasks. It was founded in 2015 and originally operated as a nonprofit lab, later adopting a capped-profit structure to attract investment while pursuing its mission. OpenAI is known for developing widely used AI systems and tools, including ChatGPT, DALL-E, Whisper, and Code"
+  },
+  {
+    "entity": "openai",
+    "entityName": "OpenAI",
+    "prompt": "What is OpenAI?",
+    "timestamp": "2026-01-24T17:08:58.243Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": "OpenAI is an artificial intelligence research organization and company that focuses on developing AI technologies that are safe, beneficial, and widely accessible. It was founded in 2015 by a group of prominent figures in the tech world, including Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba, with the goal of ensuring that artificial general intelligence (AGI) benefits humanity as a whole. OpenAI initially started as a non-profit, but later transition"
+  },
+  {
+    "entity": "openai",
+    "entityName": "OpenAI",
+    "prompt": "What is OpenAI?",
+    "timestamp": "2026-01-24T17:09:23.140Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "www.infobip.com",
+        "url": "https://www.infobip.com/glossary/open-ai"
+      },
+      {
+        "title": "openai.com",
+        "url": "https://openai.com/about/"
+      },
+      {
+        "title": "www.moveworks.com",
+        "url": "https://www.moveworks.com/us/en/resources/ai-terms-glossary/openai"
+      },
+      {
+        "title": "openai.com",
+        "url": "https://openai.com/research/"
+      },
+      {
+        "title": "platform.openai.com",
+        "url": "https://platform.openai.com/docs/concepts"
+      },
+      {
+        "title": "openai.com",
+        "url": "https://openai.com/index/image-generation-api/"
+      },
+      {
+        "title": "www.simpplr.com",
+        "url": "https://www.simpplr.com/glossary/generative-ai/"
+      },
+      {
+        "title": "www.sciencedirect.com",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1071581924001587"
+      },
+      {
+        "title": "www.grammarly.com",
+        "url": "https://www.grammarly.com/blog/ai/what-is-openai/"
+      },
+      {
+        "title": "platform.openai.com",
+        "url": "https://platform.openai.com/"
+      }
+    ],
+    "answerExcerpt": "OpenAI is a leading artificial intelligence research and deployment company headquartered in San Francisco . Founded in December 2015, its stated mission is to ensure that artificial general intelligence (AGI) —highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity.\n\nAs of 2026, OpenAI is best known for its generative AI models that can understand and create text, images, and audio:\n\nChatGPT : A conversational AI platform used by millions for"
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T17:09:55.432Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "In popular culture",
+        "url": "https://en.wikipedia.org/wiki/Tandem_bicycle"
+      },
+      {
+        "title": "Tandem Theory - Overview, News & Similar companies | ZoomInfo.com",
+        "url": "https://www.zoominfo.com/c/tandem-theory-llc/357807444"
+      },
+      {
+        "title": "Tandem Theory - CRM Partner | FindMyCRM",
+        "url": "https://www.findmycrm.com/partners/tandem-theory"
+      },
+      {
+        "title": "Tandem Theory | Your Growth-Focused Agency Partner",
+        "url": "https://tandemtheory.com"
+      },
+      {
+        "title": "Tandem Theory | LinkedIn",
+        "url": "https://www.linkedin.com/company/tandem-theory-llc"
+      },
+      {
+        "title": "Tandem Theory Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+        "url": "https://craft.co/tandem-theory-llc"
+      },
+      {
+        "title": "Tandem Theory",
+        "url": "https://topline.com/companies/tandem-theory-llc"
+      },
+      {
+        "title": "#tandemtheory #consumertrends #marketanalysis #businessinsights… | Tandem Theory",
+        "url": "https://www.linkedin.com/posts/tandem-theory-llc_tandemtheory-consumertrends-marketanalysis-activity-7211748735297495041-Wc0Y"
+      },
+      {
+        "title": "Tandem Theory, Dallas | Sortlist",
+        "url": "https://www.sortlist.com/agency/tandem-theory"
+      }
+    ],
+    "answerExcerpt": "\nTandem Theory is commonly referenced as a marketing and customer experience agency focused on driving growth for brands through data-driven strategies, analytics, and CRM/loyalty programs. Depending on the source, it’s described as a modern agency that blends data, creative, and technology to improve omnichannel customer experiences. [zoominfo](https://www.zoominfo.com/c/tandem-theory-llc/357807444)\n\nKey points you might find useful:\n- Nature of the business: a growth-focused marketing agency t"
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T17:10:31.309Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": "Tandem Theory refers to the idea that two or more systems, processes, or phenomena operate in parallel or in coordination with each other, often influencing or supporting each other’s function. The term \"tandem\" typically implies that these systems or processes work together in a way that enhances efficiency, performance, or understanding. However, the specifics of \"Tandem Theory\" can vary depending on the field of study or context in which it is applied. Here are a few contexts in which the ter"
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T17:11:05.609Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": ""
+  }
+]

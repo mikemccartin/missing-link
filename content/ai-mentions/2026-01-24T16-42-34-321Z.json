@@ -1,0 +1,358 @@
+[
+  {
+    "entity": "anthropic",
+    "entityName": "Anthropic",
+    "prompt": "What is Anthropic?",
+    "timestamp": "2026-01-24T16:36:18.873Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "ANTHROPIC Definition & Meaning",
+        "url": "https://www.merriam-webster.com/dictionary/anthropic"
+      },
+      {
+        "title": "Anthropic principle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthropic_principle"
+      },
+      {
+        "title": "What Is Anthropic? | Built In",
+        "url": "https://builtin.com/articles/anthropic"
+      },
+      {
+        "title": "Anthropic - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthropic"
+      },
+      {
+        "title": "Anthropic",
+        "url": "https://www.linkedin.com/company/anthropicresearch"
+      },
+      {
+        "title": "Home \\ Anthropic",
+        "url": "https://www.anthropic.com"
+      },
+      {
+        "title": "Company \\ Anthropic",
+        "url": "https://www.anthropic.com/company"
+      },
+      {
+        "title": "Newsroom",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "title": "Careers - Anthropic",
+        "url": "https://www.anthropic.com/careers"
+      },
+      {
+        "title": "What's Anthropic AI? Here's Everything To Know [2026]",
+        "url": "https://www.voiceflow.com/blog/anthropic-ai"
+      }
+    ],
+    "answerExcerpt": "\nAnthropic is a private American artificial intelligence research company known for developing the Claude family of language models and focusing on AI safety, alignment, and interpretability. It was founded in 2021 by Dario and Daniela Amodei and colleagues who previously worked at OpenAI. The company emphasizes building reliable, steerable AI systems and has positioned itself as a safety- and governance-focused player in the AI ecosystem. [builtin](https://builtin.com/articles/anthropic)\n"
+  },
+  {
+    "entity": "anthropic",
+    "entityName": "Anthropic",
+    "prompt": "What is Anthropic?",
+    "timestamp": "2026-01-24T16:36:56.385Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "anthropic",
+    "entityName": "Anthropic",
+    "prompt": "What is Anthropic?",
+    "timestamp": "2026-01-24T16:37:34.987Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      }
+    ],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "missing-link",
+    "entityName": "missing.link",
+    "prompt": "What is missing.link?",
+    "timestamp": "2026-01-24T16:38:03.993Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "Missing link (human evolution) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Missing_link_(human_evolution)"
+      },
+      {
+        "title": "What's the Missing Link? | Live Science",
+        "url": "https://www.livescience.com/32530-what-is-the-missing-link.html"
+      },
+      {
+        "title": "What's a Missing Link? - The Institute for Creation Research",
+        "url": "https://www.icr.org/article/2709/"
+      },
+      {
+        "title": "'Missing links' of evolution, explained | University of Chicago News",
+        "url": "https://news.uchicago.edu/explainer/missing-links-evolution-explained"
+      },
+      {
+        "title": "Missing link | Fossil Evidence, Primates & Evolution - Britannica",
+        "url": "https://www.britannica.com/science/missing-link"
+      },
+      {
+        "title": "Can someone explain to me the \"missing link\" in evolution? - Reddit",
+        "url": "https://www.reddit.com/r/askscience/comments/1x80ru/can_someone_explain_to_me_the_missing_link_in/"
+      },
+      {
+        "title": "The Missing Link That Wasn't - YouTube",
+        "url": "https://www.youtube.com/watch?v=pwW40Dj5Sro"
+      },
+      {
+        "title": "Missing Links | Answers in Genesis",
+        "url": "https://answersingenesis.org/missing-links/"
+      },
+      {
+        "title": "Missing Links and Found Links | American Scientist",
+        "url": "https://www.americanscientist.org/article/missing-links-and-found-links"
+      },
+      {
+        "title": "Human Origins and the Search for “Missing Links” - PMC - NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3352822/"
+      }
+    ],
+    "answerExcerpt": "\n“Missing link” is an informal, non-scientific term that usually refers to a hypothetical transitional form between two stages in evolution, especially between non-human apes and modern humans. [en.wikipedia](https://en.wikipedia.org/wiki/Missing_link_(human_evolution))\n\n### Basic idea\n\n- The term was historically used for a fossil or creature halfway between humans and their supposed ape-like ancestors, imagined as a single “ape-man” that would complete a linear chain from ape to human. [britan"
+  },
+  {
+    "entity": "missing-link",
+    "entityName": "missing.link",
+    "prompt": "What is missing.link?",
+    "timestamp": "2026-01-24T16:38:41.872Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "missing-link",
+    "entityName": "missing.link",
+    "prompt": "What is missing.link?",
+    "timestamp": "2026-01-24T16:39:14.443Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      }
+    ],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "openai",
+    "entityName": "OpenAI",
+    "prompt": "What is OpenAI?",
+    "timestamp": "2026-01-24T16:39:44.361Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "OpenAI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OpenAI"
+      },
+      {
+        "title": "What Is OpenAI? Everything You Need to Know",
+        "url": "https://www.coursera.org/articles/what-is-openai"
+      },
+      {
+        "title": "OpenAI - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Musk_v._OpenAI"
+      },
+      {
+        "title": "What is OpenAI? Definition and History from TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/definition/OpenAI"
+      },
+      {
+        "title": "OpenAI | ChatGPT, Sam Altman, Microsoft, & History",
+        "url": "https://www.britannica.com/money/OpenAI"
+      },
+      {
+        "title": "About | OpenAI",
+        "url": "https://openai.com/about/"
+      },
+      {
+        "title": "OpenAI",
+        "url": "https://openai.com"
+      },
+      {
+        "title": "Introducing OpenAI",
+        "url": "https://openai.com/index/introducing-openai/"
+      },
+      {
+        "title": "What is Open.AI?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/18x010c/what_is_openai/"
+      },
+      {
+        "title": "Our structure | OpenAI",
+        "url": "https://openai.com/our-structure/"
+      }
+    ],
+    "answerExcerpt": "\nOpenAI is an American AI research and deployment organization focused on developing artificial general intelligence (AGI) that benefits humanity. It started in 2015 as a non-profit research lab and later established a hybrid structure with a capped-profit arm to scale funding while pursuing its mission. Common products and projects associated with OpenAI include ChatGPT, DALL-E, Whisper, and Codex, which illustrate its work across conversational AI, image generation, speech, and code generation"
+  },
+  {
+    "entity": "openai",
+    "entityName": "OpenAI",
+    "prompt": "What is OpenAI?",
+    "timestamp": "2026-01-24T16:40:18.755Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "openai",
+    "entityName": "OpenAI",
+    "prompt": "What is OpenAI?",
+    "timestamp": "2026-01-24T16:40:43.918Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      }
+    ],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T16:41:11.532Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "Tandem Theory is a 2025 Inc. 5000 honoree",
+        "url": "https://www.inc.com/profile/tandem-theory"
+      },
+      {
+        "title": "Tandem Theory - Melody Raffloer",
+        "url": "https://www.melodyraffloer.com/work/tandemtheory"
+      },
+      {
+        "title": "Tandem Theory (@tandemtheory) • Instagram photos and videos",
+        "url": "https://www.instagram.com/tandemtheory/"
+      },
+      {
+        "title": "Tandem Theory - Services & Company Info - Clutch",
+        "url": "https://clutch.co/profile/tandem-theory"
+      },
+      {
+        "title": "Tandem Theory | Your Growth-Focused Agency Partner",
+        "url": "https://tandemtheory.com"
+      },
+      {
+        "title": "Tandem Theory - LinkedIn",
+        "url": "https://www.linkedin.com/company/tandem-theory-llc"
+      },
+      {
+        "title": "Tandem Theory - Digital Marketing Agency - Dallas - Reportgarden",
+        "url": "https://reportgarden.com/agencies/tandem-theory/"
+      },
+      {
+        "title": "Tandem Theory (@TandemTheory) - Facebook",
+        "url": "https://www.facebook.com/TandemTheory/"
+      }
+    ],
+    "answerExcerpt": "\nTandem Theory is a marketing and advertising agency, not a scientific or philosophical theory. It is a **customer**-growth focused firm that combines data, strategy, media, and creative services to help brands acquire and retain customers, often positioning itself as an extension of a client’s internal marketing team.\n"
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T16:41:56.029Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T16:42:29.317Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      }
+    ],
+    "answerExcerpt": ""
+  }
+]

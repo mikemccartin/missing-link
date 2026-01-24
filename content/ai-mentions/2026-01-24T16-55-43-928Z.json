@@ -1,0 +1,90 @@
+[
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T16:54:26.971Z",
+    "platform": "perplexity",
+    "cited": false,
+    "sources": [
+      {
+        "title": "Tandem Theory is a 2025 Inc. 5000 honoree",
+        "url": "https://www.inc.com/profile/tandem-theory"
+      },
+      {
+        "title": "Tandem Theory - Melody Raffloer",
+        "url": "https://www.melodyraffloer.com/work/tandemtheory"
+      },
+      {
+        "title": "Tandem Theory - Products, Competitors, Financials, Employees ...",
+        "url": "https://www.cbinsights.com/company/tandem-theory"
+      },
+      {
+        "title": "Tandem Theory (@tandemtheory) • Instagram photos and videos",
+        "url": "https://www.instagram.com/tandemtheory/"
+      },
+      {
+        "title": "Tandem Theory - Services & Company Info - Clutch",
+        "url": "https://clutch.co/profile/tandem-theory"
+      },
+      {
+        "title": "Tandem Theory | Your Growth-Focused Agency Partner",
+        "url": "https://tandemtheory.com"
+      },
+      {
+        "title": "Tandem Theory - LinkedIn",
+        "url": "https://www.linkedin.com/company/tandem-theory-llc"
+      },
+      {
+        "title": "Tandem Theory (@TandemTheory) - Facebook",
+        "url": "https://www.facebook.com/TandemTheory/"
+      }
+    ],
+    "answerExcerpt": "\nTandem Theory is a Dallas-based marketing and advertising agency that focuses on data-driven customer growth, specializing in acquiring and retaining customers for brands through analytics, media, creative, CRM, and loyalty programs. [inc](https://www.inc.com/profile/tandem-theory)\n\n### What Tandem Theory does  \n- Positions itself as a **customer** growth agency that helps brands convert new customers and grow existing ones using conversion-focused analytics, creative, media, and CRM. [tandemth"
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T16:55:02.764Z",
+    "platform": "chatgpt",
+    "cited": false,
+    "sources": [],
+    "answerExcerpt": ""
+  },
+  {
+    "entity": "tandem-theory",
+    "entityName": "Tandem Theory",
+    "prompt": "What is Tandem Theory?",
+    "timestamp": "2026-01-24T16:55:41.927Z",
+    "platform": "google",
+    "cited": false,
+    "sources": [
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "url": ""
+      }
+    ],
+    "answerExcerpt": ""
+  }
+]
