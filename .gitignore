@@ -42,3 +42,5 @@ next-env.d.ts
 
 # source snapshots (large HTML files)
 /content/sources/artifacts/
+.env*.local
+CAPABILITIES.md
