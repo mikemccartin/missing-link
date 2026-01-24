@@ -48,8 +48,8 @@ export default function Home() {
 
         <h2>Current corpus</h2>
         <p>
-          <a href="/claims">{claims.length} claims</a> ·{" "}
           <a href="/entities">{entities.length} entities</a> ·{" "}
+          <a href="/claims">{claims.length} claims</a> ·{" "}
           <a href="/sources">{sources.length} sources</a>
         </p>
 
