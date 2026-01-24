@@ -6,6 +6,105 @@ A **machine-readable claims repository** designed to get cited by AI platforms (
 
 ---
 
+## The Feedback Loop
+
+missing.link operates as a continuous cycle:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   1. FIND CONTENT                                           │
+│      Identify claims to make about an entity                │
+│      (manual today, can be automated)                       │
+│                         ↓                                   │
+│   2. UPLOAD CONTENT                                         │
+│      Deconstruct into claims, sources, entities             │
+│      Deploy to missing.link                                 │
+│      (manual today, can be automated)                       │
+│                         ↓                                   │
+│   3. MONITOR BOT VISITS                                     │
+│      Track when AI crawlers discover the content            │
+│      (automatic - real-time)                                │
+│                         ↓                                   │
+│   4. MONITOR AI CITATIONS                                   │
+│      Check if AI platforms cite missing.link                │
+│      when answering questions about entities                │
+│      (automatic - weekly + Slack alerts)                    │
+│                         ↓                                   │
+│   5. REPEAT                                                 │
+│      Add more content, improve coverage                     │
+│      ↑                                                      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**Steps 1-2 are manual today.** Steps 3-4 are fully automated.
+
+---
+
+## How Content Gets Added (Current Process)
+
+Content is added through **Claude Code sessions**. There is no web UI or form.
+
+### The Manual Workflow
+
+1. **You start a Claude Code session** and say:
+   > "I want to add content about Tandem Theory's services"
+
+2. **Claude visits the source** (e.g., tandemtheory.com/services)
+
+3. **Claude deconstructs the content** into atomic claims:
+   - "Tandem Theory offers brand strategy services"
+   - "Tandem Theory offers media planning and buying"
+   - "Tandem Theory offers CRM and loyalty programs"
+
+4. **Claude creates the JSON files:**
+   ```
+   content/sources/src_tt000002.json   ← source URL + metadata
+   content/claims/clm_tt000010.json    ← claim #1
+   content/claims/clm_tt000011.json    ← claim #2
+   content/claims/clm_tt000012.json    ← claim #3
+   ```
+
+5. **Claude validates and deploys:**
+   ```bash
+   npm run validate   # check everything is valid
+   git push           # deploy to Vercel
+   ```
+
+6. **Content is live** at missing.link within minutes
+
+### Adding a New Entity (Initial Load)
+
+When a new entity is added for the first time:
+
+1. **You provide the entity** (name, website, basic info)
+2. **Claude visits their website** and reviews key pages (about, services, team, etc.)
+3. **Claude creates an initial content load:**
+   - Entity record with description and links
+   - Multiple claims covering key facts
+   - Source records for each page referenced
+4. **Everything deploys together** as a complete entity profile
+
+This "initial load" gives the entity immediate presence on missing.link with multiple citable claims.
+
+---
+
+## Future Automation Possibilities
+
+The manual content process could be automated:
+
+| Feature | Description | Status |
+|---------|-------------|--------|
+| **Web scraper** | Auto-extract claims from client websites | Not built |
+| **AI-assisted ingest** | Feed a URL, get draft claims | Not built |
+| **Google Sheets import** | Bulk import from spreadsheet | Not built |
+| **CMS/Admin UI** | Web interface instead of CLI | Not built |
+| **Scheduled re-scrape** | Periodically check for new content | Not built |
+
+For now, the Claude Code session approach works and ensures quality control.
+
+---
+
 ## Content Structure
 
 | Content Type | Description | Example |
@@ -24,19 +123,19 @@ All content lives as JSON files in the `/content/` folder - no database.
 | Component | Runs Where | How Often |
 |-----------|------------|-----------|
 | **Website** | Vercel (cloud) | Always live at missing.link |
-| **Content Ingest** | Your machine (CLI) | When you add content |
-| **Source Snapshots** | Your machine (CLI) | When you archive sources |
-| **Validation** | Your machine (CLI) | Before deploying |
-| **AI Monitoring** | Your machine OR Vercel Cron | Manual or weekly (Mondays 9am UTC) |
+| **Content Ingest** | Claude Code session | When you add content |
+| **Source Snapshots** | Claude Code session | When you archive sources |
+| **Validation** | Claude Code session | Before deploying |
+| **AI Monitoring** | Vercel Cron (automatic) | Weekly (Mondays 9am UTC) |
 | **Crawler Tracking** | Vercel (automatic) | Real-time on every page visit |
 | **Slack Alerts** | Vercel (automatic) | When citations are found |
 
 ---
 
-## CLI Commands (Run on Your Machine)
+## CLI Commands (Available in Claude Code Sessions)
 
 ```bash
-npm run ingest -- --entity tandem-theory    # Add new claim
+npm run ingest -- --entity tandem-theory    # Add new claim (interactive)
 npm run snapshot -- --all                    # Archive source URLs via Oxylabs
 npm run validate                             # Check all content is valid
 npm run monitor-ai -- --all                  # Check AI platforms for citations
@@ -68,44 +167,21 @@ npm run check                                # Validate + build (pre-deploy)
 - Logs every visit with timestamp and page path
 - Displays on `/stats` page
 
-### 2. AI Citation Monitoring
+### 2. AI Citation Monitoring (Automatic)
 - Queries Perplexity, ChatGPT, Google AI Mode about each entity
 - Checks if missing.link appears in their cited sources
 - Uses Oxylabs API to access these platforms
-- **Manual:** `npm run monitor-ai -- --all`
-- **Automatic:** Vercel Cron runs every Monday 9am UTC
+- Runs automatically every Monday 9am UTC via Vercel Cron
+- Can also run manually: `npm run monitor-ai -- --all`
 
-### 3. Slack Alerts
+### 3. Slack Alerts (Automatic)
 - When a citation IS found, sends notification to Slack
 - Includes entity name, platform, citation URL, answer excerpt
 
-### 4. Historical Tracking
+### 4. Historical Tracking (Automatic)
 - Stores daily monitoring results in Redis
 - Shows trends on `/stats` page
 - Tracks "first citation" milestone
-
----
-
-## Data Flow
-
-```
-1. INGEST (your machine)
-   Write claim → npm run ingest → JSON files created
-
-2. EVIDENCE (your machine)
-   Archive source → npm run snapshot → HTML snapshot via Oxylabs
-
-3. DEPLOY (git push)
-   Push to GitHub → Vercel auto-deploys → Live at missing.link
-
-4. MONITOR (automatic)
-   Monday 9am UTC → Cron queries AI platforms → Results saved
-   → If citation found → Slack alert sent
-
-5. TRACK (real-time)
-   AI crawler visits site → Middleware detects → Logged to Redis
-   → Visible on /stats page
-```
 
 ---
 
