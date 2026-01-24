@@ -1,39 +1,89 @@
 import { Metadata } from "next";
 import { AI_CRAWLERS, getRecentVisits, getCrawlerCounts, CrawlerVisit } from "@/lib/redis";
+import { getLatestMentions, MentionResult } from "@/lib/ai-mentions";
 
 export const metadata: Metadata = {
   title: "Stats",
-  description: "AI crawler activity and site statistics",
+  description: "AI crawler activity and citation monitoring",
 };
 
 // Revalidate every 60 seconds
 export const revalidate = 60;
 
 export default async function StatsPage() {
-  const [recentVisits, crawlerCounts] = await Promise.all([
+  const [recentVisits, crawlerCounts, mentionData] = await Promise.all([
     getRecentVisits(50),
     getCrawlerCounts(),
+    Promise.resolve(getLatestMentions()),
   ]);
 
   const totalVisits = Object.values(crawlerCounts).reduce((a, b) => a + b, 0);
-  const hasData = totalVisits > 0;
+  const hasCrawlerData = totalVisits > 0;
 
   return (
     <main>
       <h1>Stats</h1>
       <p>
-        AI crawler activity and site statistics for missing.link.
+        AI crawler activity and citation monitoring for missing.link.
       </p>
 
       <h2>Why this matters</h2>
       <p>
-        For AI systems to cite your content, they first need to crawl it.
-        This page tracks which AI crawlers have visited missing.link,
-        demonstrating discoverability by large language models.
+        For AI systems to cite your content, they need to: (1) crawl it, and
+        (2) include it in their responses. This page tracks both.
       </p>
 
+      {/* AI Citation Monitoring Section */}
+      <h2>AI citation monitoring</h2>
+      {mentionData ? (
+        <>
+          <p className="meta">
+            Last checked: {formatTime(mentionData.lastRun)}
+          </p>
+          <table>
+            <thead>
+              <tr>
+                <th>Entity</th>
+                <th>Platform</th>
+                <th>Cited?</th>
+                <th>Sources checked</th>
+              </tr>
+            </thead>
+            <tbody>
+              {mentionData.results.map((result: MentionResult, i: number) => (
+                <tr key={i}>
+                  <td>
+                    <a href={`/entities/${result.entity}`}>{result.entityName}</a>
+                  </td>
+                  <td>{result.platform}</td>
+                  <td>
+                    {result.cited ? (
+                      <strong style={{ color: "#000" }}>Yes</strong>
+                    ) : (
+                      <span className="meta">No</span>
+                    )}
+                  </td>
+                  <td>{result.sources.length}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          {mentionData.citations > 0 && (
+            <p>
+              <strong>{mentionData.citations}</strong> of {mentionData.totalChecks} entities
+              are being cited by AI platforms.
+            </p>
+          )}
+        </>
+      ) : (
+        <p className="meta">
+          No AI citation data yet. Run <code>npm run monitor-ai -- --all</code> to check.
+        </p>
+      )}
+
+      {/* Crawler Activity Section */}
       <h2>Crawler activity summary</h2>
-      {hasData ? (
+      {hasCrawlerData ? (
         <>
           <p>
             <strong>{totalVisits}</strong> total visits from AI crawlers.
@@ -64,7 +114,7 @@ export default async function StatsPage() {
         </p>
       )}
 
-      <h2>Recent visits</h2>
+      <h2>Recent crawler visits</h2>
       {recentVisits.length > 0 ? (
         <table>
           <thead>
@@ -108,20 +158,14 @@ export default async function StatsPage() {
         </tbody>
       </table>
 
-      <h2>How we track</h2>
+      <h2>How it works</h2>
       <p>
-        We identify AI crawlers by their user agent strings. When a known
-        AI bot visits any page on missing.link, we log the visit with:
+        <strong>Crawler tracking:</strong> We identify AI crawlers by their user agent
+        strings and log every visit with timestamp and page path.
       </p>
-      <ul>
-        <li>Crawler name and organization</li>
-        <li>Page visited</li>
-        <li>Timestamp</li>
-      </ul>
       <p>
-        This data demonstrates that AI systems are actively indexing our
-        verified claims, making them available for citation in AI-generated
-        responses.
+        <strong>Citation monitoring:</strong> We query AI platforms (Perplexity, etc.)
+        about our entities and check if missing.link appears in their cited sources.
       </p>
     </main>
   );

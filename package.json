@@ -9,6 +9,7 @@
     "validate": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/validate.ts",
     "ingest": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/ingest.ts",
     "snapshot": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/snapshot.ts",
+    "monitor-ai": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/monitor-ai.ts",
     "check": "npm run validate && npm run build"
   },
   "dependencies": {
