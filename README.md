@@ -8,6 +8,8 @@ A machine-first knowledge substrate for AI citation.
 
 missing.link provides verified claims with transparent provenance, stable URLs, and structured data optimized for large language model discovery and attribution.
 
+**For a full system overview, see [CAPABILITIES.md](./CAPABILITIES.md)**
+
 Every claim is:
 - Backed by citations to primary sources
 - Versioned with a complete changelog
