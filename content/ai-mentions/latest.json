@@ -1,0 +1,54 @@
+{
+  "lastRun": "2026-01-24T16:19:11.651Z",
+  "totalChecks": 1,
+  "citations": 0,
+  "results": [
+    {
+      "entity": "tandem-theory",
+      "entityName": "Tandem Theory",
+      "prompt": "What is Tandem Theory?",
+      "timestamp": "2026-01-24T16:19:11.650Z",
+      "platform": "perplexity",
+      "cited": false,
+      "sources": [
+        {
+          "title": "Tandem Theory Revenue and Competitors",
+          "url": "https://growjo.com/company/Tandem_Theory"
+        },
+        {
+          "title": "Tandem Theory - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/tandem-theory-llc/357807444"
+        },
+        {
+          "title": "Tandem Theory : Market and Competitor Analysis - Waxwing Hub",
+          "url": "https://hub.waxwing.ai/tandemtheory"
+        },
+        {
+          "title": "Tandem Theory Information",
+          "url": "https://rocketreach.co/tandem-theory-profile_b5f55510f42d3434"
+        },
+        {
+          "title": "Tandem Theory",
+          "url": "https://superbcompanies.com/organizations/tandem-theory-4090/"
+        },
+        {
+          "title": "Tandem Theory - Strategy Insights | Home",
+          "url": "https://strategyinsights.eu/tandem-theory/"
+        },
+        {
+          "title": "Tandem Theory | LinkedIn",
+          "url": "https://www.linkedin.com/company/tandem-theory-llc"
+        },
+        {
+          "title": "How Tandem Theory helps brands communicate effectively | Tandem Theory membuat paparan tentang topik | LinkedIn",
+          "url": "https://www.linkedin.com/posts/tandem-theory-llc_tandemtheory-digitalagency-marketing-activity-7197219372002676736-N77l"
+        },
+        {
+          "title": "Videos | Tandem Theory",
+          "url": "https://tandemtheory.com/how/"
+        }
+      ],
+      "answerExcerpt": "\nTandem Theory is a marketing and advertising agency focused on data-driven customer growth for brands.\n\n- Core idea: combine data analytics, creative content, and multichannel marketing to improve customer acquisition, activation, and retention.\n- Services typically include data integration and analytics, CRM and loyalty programs, creative and content production, email management, and media planning/buying across digital and traditional channels. This blend aims to reduce friction in the custom"
+    }
+  ]
+}

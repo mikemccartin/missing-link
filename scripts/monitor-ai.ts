@@ -64,22 +64,10 @@ async function queryPerplexity(prompt: string): Promise<PerplexityResult | null>
   }
 
   const payload = JSON.stringify({
-    source: "universal",
-    url: `https://www.perplexity.ai/search?q=${encodeURIComponent(prompt)}`,
-    render: "html",
-    parse: true,
-    parsing_instructions: {
-      answer: {
-        _fns: [{ _fn: "css_one", _args: [".prose"] }, { _fn: "element_text" }]
-      },
-      sources: {
-        _fns: [{ _fn: "css", _args: ["a[href^='http']"] }],
-        _items: {
-          title: { _fns: [{ _fn: "element_text" }] },
-          url: { _fns: [{ _fn: "attr", _args: ["href"] }] }
-        }
-      }
-    }
+    source: "perplexity",
+    prompt: prompt,
+    geo_location: "United States",
+    parse: true
   });
 
   return new Promise((resolve, reject) => {
@@ -93,33 +81,94 @@ async function queryPerplexity(prompt: string): Promise<PerplexityResult | null>
           "Content-Type": "application/json",
           Authorization: `Basic ${Buffer.from(`${username}:${password}`).toString("base64")}`,
         },
+        timeout: 180000, // 180 second timeout for Perplexity
       },
       (res) => {
         let data = "";
         res.on("data", (chunk) => (data += chunk));
         res.on("end", () => {
           if (res.statusCode !== 200) {
-            console.error(`Oxylabs returned status ${res.statusCode}`);
+            console.error(`Oxylabs returned status ${res.statusCode}: ${data.slice(0, 500)}`);
             resolve(null);
             return;
           }
           try {
-            const response: OxylabsResponse = JSON.parse(data);
+            const response = JSON.parse(data);
             if (response.results && response.results[0]) {
-              const content = response.results[0].content;
-              // Try to parse as JSON if it's parsed content
-              try {
-                const parsed = JSON.parse(content);
+              const result = response.results[0];
+              const content = result.content;
+
+              // Handle parsed response from Oxylabs Perplexity scraper
+              if (typeof content === "object") {
+                // Extract sources from answer_results
+                const answerResults = content.answer_results || [];
+                const sources: Array<{ title: string; url: string }> = [];
+
+                // answer_results contains array of answers, each may have citations
+                for (const result of answerResults) {
+                  if (result.citations) {
+                    for (const citation of result.citations) {
+                      sources.push({
+                        title: citation.title || citation.name || "",
+                        url: citation.url || ""
+                      });
+                    }
+                  }
+                  // Also check for sources directly
+                  if (result.sources) {
+                    for (const src of result.sources) {
+                      sources.push({
+                        title: src.title || src.name || "",
+                        url: src.url || ""
+                      });
+                    }
+                  }
+                }
+
+                // Also check additional_results for more sources
+                const additionalResults = content.additional_results;
+                if (Array.isArray(additionalResults)) {
+                  for (const result of additionalResults) {
+                    if (result.url) {
+                      sources.push({
+                        title: result.title || result.name || "",
+                        url: result.url
+                      });
+                    }
+                  }
+                } else if (additionalResults && typeof additionalResults === "object") {
+                  // It might be an object with arrays inside
+                  for (const key of Object.keys(additionalResults)) {
+                    const arr = additionalResults[key];
+                    if (Array.isArray(arr)) {
+                      for (const item of arr) {
+                        if (item.url) {
+                          sources.push({
+                            title: item.title || item.name || "",
+                            url: item.url
+                          });
+                        }
+                      }
+                    }
+                  }
+                }
+
+                // Get the answer text
+                const answerText = content.answer_results_md ||
+                  (answerResults[0]?.answer) ||
+                  (answerResults[0]?.text) ||
+                  "";
+
                 resolve({
-                  url: `https://www.perplexity.ai/search?q=${encodeURIComponent(prompt)}`,
-                  model: "perplexity",
+                  url: content.url || "",
+                  model: content.model || "perplexity",
                   prompt,
-                  answer: parsed.answer || content,
-                  related_queries: [],
-                  sources: parsed.sources || []
+                  answer: typeof answerText === "string" ? answerText : JSON.stringify(answerText),
+                  related_queries: content.related_queries || [],
+                  sources
                 });
-              } catch {
-                // Raw HTML response
+              } else if (typeof content === "string") {
+                // Raw HTML/text response
                 resolve({
                   url: `https://www.perplexity.ai/search?q=${encodeURIComponent(prompt)}`,
                   model: "perplexity",
@@ -128,11 +177,15 @@ async function queryPerplexity(prompt: string): Promise<PerplexityResult | null>
                   related_queries: [],
                   sources: extractLinksFromHtml(content)
                 });
+              } else {
+                resolve(null);
               }
             } else {
+              console.error("No results in response");
               resolve(null);
             }
           } catch (e) {
+            console.error("Parse error:", e);
             reject(e);
           }
         });
@@ -140,6 +193,10 @@ async function queryPerplexity(prompt: string): Promise<PerplexityResult | null>
     );
 
     req.on("error", reject);
+    req.on("timeout", () => {
+      req.destroy();
+      reject(new Error("Request timed out"));
+    });
     req.write(payload);
     req.end();
   });
