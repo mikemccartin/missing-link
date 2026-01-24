@@ -1,0 +1,12 @@
+{
+  "slug": "anthropic",
+  "name": "Anthropic",
+  "type": "organization",
+  "description": "AI safety company founded in 2021 by former OpenAI researchers. Develops Claude, a family of large language models designed with a focus on safety and helpfulness. Pioneered constitutional AI training methods.",
+  "links": {
+    "officialSite": "https://www.anthropic.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthropic",
+    "twitter": "https://twitter.com/AnthropicAI",
+    "linkedin": "https://www.linkedin.com/company/anthropic"
+  }
+}

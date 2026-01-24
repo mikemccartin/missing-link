@@ -1,0 +1,9 @@
+{
+  "slug": "missing-link",
+  "name": "missing.link",
+  "type": "project",
+  "description": "A machine-first knowledge substrate designed for AI citation. Provides verified claims with transparent provenance, stable URLs, and structured data optimized for large language model discovery and attribution.",
+  "links": {
+    "officialSite": "https://missing.link"
+  }
+}

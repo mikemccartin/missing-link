@@ -1,0 +1,30 @@
+{
+  "id": "clm_ghi11223",
+  "title": "Constitutional AI Reduces Need for Human Harm Labels",
+  "statement": "Anthropic's Constitutional AI method trains AI assistants to be harmless using AI feedback rather than requiring human feedback labels for harmful content.",
+  "status": "asserted",
+  "entities": [
+    { "slug": "anthropic", "role": "developer" }
+  ],
+  "topics": ["ai-safety", "large-language-models"],
+  "citations": [
+    {
+      "sourceId": "src_i9j0k1l2",
+      "locator": "Abstract",
+      "quote": "We propose a method for training AI assistants to be harmless without human feedback labels for harms."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link",
+    "createdAt": "2026-01-15",
+    "updatedAt": "2026-01-15"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-15",
+      "summary": "Initial claim created from Constitutional AI paper"
+    }
+  ]
+}

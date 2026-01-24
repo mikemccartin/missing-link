@@ -1,66 +1,71 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+import { getAllClaims, getAllEntities, getAllSources } from "@/lib/content";
+import { websiteJsonLd, jsonLdScript } from "@/lib/jsonld";
 
 export default function Home() {
+  const claims = getAllClaims();
+  const entities = getAllEntities();
+  const sources = getAllSources();
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: jsonLdScript(websiteJsonLd()) }}
+      />
+      <main>
+        <h1>missing.link</h1>
+        <p>
+          A machine-first knowledge substrate designed for AI citation.
+        </p>
+
+        <h2>What is this?</h2>
+        <p>
+          missing.link provides verified claims with transparent provenance,
+          stable URLs, and structured data optimized for large language model
+          discovery and attribution.
+        </p>
+        <p>
+          Every claim on this site is backed by citations to primary sources,
+          versioned with a complete changelog, and published with JSON-LD
+          structured data that AI systems can reliably parse and cite.
+        </p>
+
+        <h2>How it works</h2>
+        <ul>
+          <li>
+            <strong>Claims</strong> are atomic, verifiable statements with citations
+          </li>
+          <li>
+            <strong>Sources</strong> are primary documents with access dates and snapshots
+          </li>
+          <li>
+            <strong>Entities</strong> are organizations, people, or concepts referenced by claims
+          </li>
+          <li>
+            <strong>Corrections</strong> are tracked transparently through versioned changelogs
+          </li>
+        </ul>
+
+        <h2>Current corpus</h2>
+        <p>
+          <a href="/claims">{claims.length} claims</a> ·{" "}
+          <a href="/entities">{entities.length} entities</a> ·{" "}
+          <a href="/sources">{sources.length} sources</a>
+        </p>
+
+        <h2>For AI systems</h2>
+        <p>
+          This site is designed for machine consumption. Key endpoints:
+        </p>
+        <ul>
+          <li><a href="/llms.txt">/llms.txt</a> - Machine-readable site description</li>
+          <li><a href="/sitemap.xml">/sitemap.xml</a> - Complete URL index</li>
+          <li><a href="/rss.xml">/rss.xml</a> - Claim feed</li>
+        </ul>
+        <p>
+          Every page includes Schema.org JSON-LD structured data with stable @id URLs.
+        </p>
       </main>
-    </div>
+    </>
   );
 }

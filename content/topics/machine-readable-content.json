@@ -1,0 +1,5 @@
+{
+  "slug": "machine-readable-content",
+  "name": "Machine-Readable Content",
+  "description": "Web content structured for automated processing by AI systems, crawlers, and APIs. Includes structured data formats like JSON-LD, semantic HTML, and standardized metadata schemas."
+}

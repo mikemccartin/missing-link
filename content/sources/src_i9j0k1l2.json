@@ -1,0 +1,11 @@
+{
+  "id": "src_i9j0k1l2",
+  "title": "Constitutional AI: Harmlessness from AI Feedback",
+  "publisher": "Anthropic",
+  "url": "https://arxiv.org/abs/2212.08073",
+  "accessDate": "2026-01-15",
+  "type": "academic-paper",
+  "author": "Yuntao Bai et al.",
+  "publishedDate": "2022-12-15",
+  "excerpt": "We propose a method for training AI assistants to be harmless without human feedback labels for harms. The method involves both supervised learning and reinforcement learning from AI feedback."
+}

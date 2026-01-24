@@ -1,0 +1,5 @@
+{
+  "slug": "large-language-models",
+  "name": "Large Language Models",
+  "description": "Neural network models trained on large text corpora to generate and understand natural language. Includes GPT, Claude, Llama, and similar transformer-based architectures with billions of parameters."
+}

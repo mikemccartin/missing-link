@@ -1,42 +1,207 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* missing.link - Machine-first knowledge substrate */
+/* Pure minimalism: white background, black text, system fonts */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
+html {
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: #000000;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+/* Layout */
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
 }
 
+header {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 0;
+}
+
+/* Typography */
+h1 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Links - always underlined */
 a {
-  color: inherit;
-  text-decoration: none;
+  color: #000000;
+  text-decoration: underline;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+a:visited {
+  color: #000000;
+}
+
+/* Navigation */
+nav {
+  margin-bottom: 1rem;
+}
+
+nav a {
+  margin-right: 1.5rem;
+}
+
+/* Logo */
+.logo {
+  font-weight: 600;
+  font-size: 1.125rem;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+/* Lists */
+ul, ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Claim/content cards - no visual borders, just spacing */
+.claim-item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.claim-item:last-child {
+  border-bottom: none;
+}
+
+/* Status badges - text only */
+.status {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.status-asserted { color: #000000; }
+.status-disputed { color: #666666; }
+.status-corrected { color: #666666; }
+.status-deprecated { color: #999999; }
+
+/* Metadata */
+.meta {
+  font-size: 0.875rem;
+  color: #666666;
+  margin-bottom: 0.5rem;
+}
+
+/* Citations */
+.citation {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  border-left: 2px solid #e0e0e0;
+}
+
+.citation blockquote {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+/* Changelog/history */
+.changelog {
+  font-size: 0.875rem;
+}
+
+.changelog-entry {
+  margin-bottom: 0.75rem;
+}
+
+/* Entity links */
+.entity-links {
+  margin-top: 1rem;
+}
+
+.entity-links a {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+/* Tables - minimal */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+th {
+  font-weight: 600;
+}
+
+/* Code/pre */
+code {
+  font-family: 'SF Mono', Monaco, 'Courier New', monospace;
+  font-size: 0.875rem;
+  background: #f5f5f5;
+  padding: 0.125rem 0.25rem;
+}
+
+pre {
+  background: #f5f5f5;
+  padding: 1rem;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* Footer */
+footer {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  font-size: 0.875rem;
+  color: #666666;
+  border-top: 1px solid #e0e0e0;
 }

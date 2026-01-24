@@ -1,0 +1,30 @@
+{
+  "id": "clm_abc12345",
+  "title": "Anthropic Founded with AI Safety Mission",
+  "statement": "Anthropic was founded in 2021 with a stated mission focused on the responsible development of advanced AI for the long-term benefit of humanity.",
+  "status": "asserted",
+  "entities": [
+    { "slug": "anthropic", "role": "subject" }
+  ],
+  "topics": ["ai-safety"],
+  "citations": [
+    {
+      "sourceId": "src_a1b2c3d4",
+      "locator": "Company overview page",
+      "quote": "Anthropic is an AI safety company founded in 2021. Our mission is the responsible development and maintenance of advanced AI for the long-term benefit of humanity."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link",
+    "createdAt": "2026-01-15",
+    "updatedAt": "2026-01-15"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-15",
+      "summary": "Initial claim created from Anthropic company page"
+    }
+  ]
+}

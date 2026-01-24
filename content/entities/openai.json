@@ -1,0 +1,12 @@
+{
+  "slug": "openai",
+  "name": "OpenAI",
+  "type": "organization",
+  "description": "AI research organization founded in 2015, originally as a non-profit. Develops GPT series models and ChatGPT. Transitioned to a capped-profit structure in 2019 while maintaining stated commitment to beneficial AI development.",
+  "links": {
+    "officialSite": "https://openai.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/OpenAI",
+    "twitter": "https://twitter.com/OpenAI",
+    "linkedin": "https://www.linkedin.com/company/openai"
+  }
+}

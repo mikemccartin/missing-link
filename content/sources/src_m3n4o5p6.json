@@ -1,0 +1,12 @@
+{
+  "id": "src_m3n4o5p6",
+  "title": "Do Language Models Cite Correctly?",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2308.12345",
+  "accessDate": "2026-01-15",
+  "type": "academic-paper",
+  "author": "Research Team",
+  "publishedDate": "2024-03-10",
+  "excerpt": "Large language models frequently generate citations that appear plausible but cannot be verified. Machine-readable content with structured provenance significantly improves citation accuracy.",
+  "notes": "Hypothetical paper for demonstration purposes"
+}
