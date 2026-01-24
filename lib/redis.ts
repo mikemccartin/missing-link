@@ -80,3 +80,94 @@ export async function getCrawlerCounts(): Promise<Record<string, number>> {
   }
   return result;
 }
+
+// Daily aggregate for AI mention monitoring
+export interface DailyAggregate {
+  date: string;
+  totalChecks: number;
+  citations: number;
+  platforms: Record<string, { checked: number; cited: number }>;
+  citedEntities: string[];
+}
+
+// Store daily aggregate after a monitoring run
+export async function storeDailyAggregate(runResult: {
+  timestamp: string;
+  totalChecks: number;
+  citations: number;
+  platformBreakdown: Record<string, { checked: number; cited: number }>;
+  results: Array<{ entity: string; cited: boolean }>;
+}): Promise<void> {
+  if (!process.env.UPSTASH_REDIS_REST_URL) return;
+
+  const date = runResult.timestamp.split("T")[0]; // YYYY-MM-DD
+
+  const aggregate: DailyAggregate = {
+    date,
+    totalChecks: runResult.totalChecks,
+    citations: runResult.citations,
+    platforms: runResult.platformBreakdown,
+    citedEntities: runResult.results
+      .filter((r) => r.cited)
+      .map((r) => r.entity),
+  };
+
+  // Store the daily aggregate
+  await redis.set(`mentions:daily:${date}`, JSON.stringify(aggregate));
+
+  // Add to sorted set for easy date range queries (score is timestamp)
+  const timestamp = new Date(runResult.timestamp).getTime();
+  await redis.zadd("mentions:daily:index", { score: timestamp, member: date });
+
+  // Keep only last 90 days in the index
+  const cutoff = Date.now() - 90 * 24 * 60 * 60 * 1000;
+  await redis.zremrangebyscore("mentions:daily:index", 0, cutoff);
+}
+
+// Get historical aggregates for the last N days
+export async function getDailyHistory(days: number = 30): Promise<DailyAggregate[]> {
+  if (!process.env.UPSTASH_REDIS_REST_URL) return [];
+
+  // Get dates from the sorted set (most recent first)
+  const dates = await redis.zrange("mentions:daily:index", 0, days - 1, {
+    rev: true,
+  });
+
+  if (!dates || dates.length === 0) return [];
+
+  // Fetch all aggregates in parallel
+  const aggregates: DailyAggregate[] = [];
+  for (const date of dates) {
+    const data = await redis.get(`mentions:daily:${date}`);
+    if (data) {
+      const parsed = typeof data === "string" ? JSON.parse(data) : data;
+      aggregates.push(parsed as DailyAggregate);
+    }
+  }
+
+  return aggregates;
+}
+
+// Get the first citation milestone (if any)
+export async function getFirstCitation(): Promise<DailyAggregate | null> {
+  if (!process.env.UPSTASH_REDIS_REST_URL) return null;
+
+  // Get all dates (oldest first)
+  const dates = await redis.zrange("mentions:daily:index", 0, -1);
+
+  if (!dates || dates.length === 0) return null;
+
+  // Find the first day with a citation
+  for (const date of dates) {
+    const data = await redis.get(`mentions:daily:${date}`);
+    if (data) {
+      const parsed = typeof data === "string" ? JSON.parse(data) : data;
+      const aggregate = parsed as DailyAggregate;
+      if (aggregate.citations > 0) {
+        return aggregate;
+      }
+    }
+  }
+
+  return null;
+}

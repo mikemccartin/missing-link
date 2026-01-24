@@ -3,17 +3,9 @@ import path from "path";
 
 const RESULTS_DIR = path.join(process.cwd(), "content", "ai-mentions");
 
-export interface MentionResult {
-  entity: string;
-  entityName: string;
-  prompt: string;
-  timestamp: string;
-  platform: string;
-  cited: boolean;
-  citedUrl?: string;
-  sources: Array<{ title: string; url: string }>;
-  answerExcerpt: string;
-}
+// Re-export MentionResult from monitor.ts for backward compatibility
+export type { MentionResult } from "./monitor";
+import type { MentionResult } from "./monitor";
 
 export interface PlatformStats {
   checked: number;
