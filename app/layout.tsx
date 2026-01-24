@@ -34,7 +34,8 @@ export default function RootLayout({
             missing.link is a machine-first knowledge substrate.{" "}
             <a href="/llms.txt">llms.txt</a> ·{" "}
             <a href="/rss.xml">RSS</a> ·{" "}
-            <a href="/sitemap.xml">Sitemap</a>
+            <a href="/sitemap.xml">Sitemap</a> ·{" "}
+            <a href="/stats">Stats</a>
           </p>
         </footer>
       </body>
