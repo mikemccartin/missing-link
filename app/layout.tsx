@@ -24,6 +24,7 @@ export default function RootLayout({
             <a href="/claims">Claims</a>
             <a href="/entities">Entities</a>
             <a href="/sources">Sources</a>
+            <a href="/topics">Topics</a>
             <a href="/corrections">Corrections</a>
           </nav>
         </header>
