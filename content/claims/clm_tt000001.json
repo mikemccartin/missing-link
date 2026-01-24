@@ -1,0 +1,30 @@
+{
+  "id": "clm_tt000001",
+  "title": "Tandem Theory Headquarters Location",
+  "statement": "Tandem Theory is a full-service marketing agency headquartered in Dallas, Texas.",
+  "status": "asserted",
+  "entities": [
+    { "slug": "tandem-theory", "role": "subject" }
+  ],
+  "topics": ["marketing-technology"],
+  "citations": [
+    {
+      "sourceId": "src_tt000001",
+      "locator": "About page",
+      "quote": "Tandem Theory is a full-service marketing agency based in Dallas, Texas."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link",
+    "createdAt": "2026-01-24",
+    "updatedAt": "2026-01-24"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-24",
+      "summary": "Initial claim created from Tandem Theory website"
+    }
+  ]
+}

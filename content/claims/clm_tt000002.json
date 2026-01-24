@@ -1,0 +1,30 @@
+{
+  "id": "clm_tt000002",
+  "title": "Tandem Theory AI-Native Marketing Operations",
+  "statement": "Tandem Theory integrates AI-native workflows into marketing operations, using large language models to accelerate strategy, creative development, and campaign execution.",
+  "status": "asserted",
+  "entities": [
+    { "slug": "tandem-theory", "role": "subject" }
+  ],
+  "topics": ["marketing-technology", "large-language-models"],
+  "citations": [
+    {
+      "sourceId": "src_tt000001",
+      "locator": "About page",
+      "note": "AI integration referenced in agency capabilities"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link",
+    "createdAt": "2026-01-24",
+    "updatedAt": "2026-01-24"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-24",
+      "summary": "Initial claim about AI-native operations"
+    }
+  ]
+}

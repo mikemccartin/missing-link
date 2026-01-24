@@ -1,0 +1,30 @@
+{
+  "id": "clm_tt000003",
+  "title": "Tandem Theory Version Zero Model",
+  "statement": "Tandem Theory pioneered the Version Zero model, delivering three complete strategic or creative options to clients before the kickoff meeting, enabling faster iteration and reducing time-to-market.",
+  "status": "asserted",
+  "entities": [
+    { "slug": "tandem-theory", "role": "developer" }
+  ],
+  "topics": ["marketing-technology"],
+  "citations": [
+    {
+      "sourceId": "src_tt000001",
+      "locator": "Methodology",
+      "note": "Version Zero workflow documented in agency processes"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link",
+    "createdAt": "2026-01-24",
+    "updatedAt": "2026-01-24"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-24",
+      "summary": "Initial claim about Version Zero methodology"
+    }
+  ]
+}
