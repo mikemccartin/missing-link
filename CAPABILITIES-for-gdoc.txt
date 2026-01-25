@@ -1,0 +1,572 @@
+# missing.link - System Capabilities
+
+## Purpose and Value
+
+### What missing.link Is
+
+**This site is not built for humans. It is built for machines.**
+
+missing.link is a **machine-first knowledge substrate** designed to make verifiable claims about entities discoverable, citable, and monitorable by AI platforms. It publishes structured, versioned claims with explicit provenance so large language models and AI search systems can reliably reference them.
+
+The primary audience is AI crawlers, large language models, and search systems - not human visitors. The site is human-readable (for transparency and verification), but optimized for machine consumption: structured data, stable URLs, JSON-LD markup, and explicit provenance that AI systems can parse and cite.
+
+---
+
+### Value to Tandem Theory
+
+**Demonstrates expertise in an emerging whitespace (GEO)**
+missing.link positions Tandem Theory as a practitioner—not just a commentator—in Generative Engine Optimization and AI citation infrastructure.
+
+**Provides a tangible product, not a point of view**
+It moves Tandem from advisory language ("AI is changing discovery") to an operational system that directly addresses that shift.
+
+**Creates internal visibility into AI discovery**
+Tandem can monitor how its own entities and claims are:
+- Crawled by AI bots
+- Cited (or not cited) in AI responses
+- Changing over time as coverage increases
+
+**Establishes a durable, compounding asset**
+Unlike campaigns or content programs, missing.link accumulates long-lived knowledge artifacts that grow in relevance as AI adoption increases.
+
+---
+
+### Value to Clients
+
+**Visibility into how they appear in AI platforms**
+Clients can see what factual claims about them are available for AI systems to reference.
+
+**Progress tracking over time**
+Clients can monitor:
+- Whether AI platforms are citing missing.link
+- Which claims are being surfaced
+- How coverage expands as new claims are added
+
+**A controllable source of truth**
+Instead of guessing how AI "understands" them, clients have a clear, reviewable registry of published claims with sources and version history.
+
+**Reduced risk of drift or misrepresentation**
+Claims can be corrected or updated without erasing history, improving long-term accuracy in AI-generated answers.
+
+---
+
+### Value to Users of AI Platforms
+
+**More accurate answers**
+AI responses grounded in explicit, sourced claims rather than inferred or synthesized assumptions.
+
+**Clear attribution**
+Statements can be traced back to stable URLs and primary sources.
+
+**Higher trust**
+Versioning, provenance, and corrections make AI outputs more reliable and auditable.
+
+---
+
+### One-Sentence Positioning
+
+> **missing.link gives Tandem Theory and its clients visibility, control, and progress tracking over how they are discovered and cited by AI systems.**
+
+---
+
+## What It Does
+
+---
+
+## The Feedback Loop
+
+missing.link operates as a continuous cycle:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   1. FIND CONTENT                                           │
+│      Identify claims to make about an entity                │
+│      (manual today, can be automated)                       │
+│                         ↓                                   │
+│   2. UPLOAD CONTENT                                         │
+│      Deconstruct into claims, sources, entities             │
+│      Deploy to missing.link                                 │
+│      (manual today, can be automated)                       │
+│                         ↓                                   │
+│   3. MONITOR BOT VISITS                                     │
+│      Track when AI crawlers discover the content            │
+│      (automatic - real-time)                                │
+│                         ↓                                   │
+│   4. MONITOR AI CITATIONS                                   │
+│      Check if AI platforms cite missing.link                │
+│      when answering questions about entities                │
+│      (automatic - weekly + Slack alerts)                    │
+│                         ↓                                   │
+│   5. REPEAT                                                 │
+│      Add more content, improve coverage                     │
+│      ↑                                                      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**Steps 1-2 are manual today.** Steps 3-4 are fully automated.
+
+---
+
+## How Content Gets Added (Current Process)
+
+Content is added through **Claude Code sessions**. There is no web UI or form.
+
+### The Manual Workflow
+
+1. **You start a Claude Code session** and say:
+   > "I want to add content about Tandem Theory's services"
+
+2. **Claude visits the source** (e.g., tandemtheory.com/services)
+
+3. **Claude deconstructs the content** into atomic claims:
+   - "Tandem Theory offers brand strategy services"
+   - "Tandem Theory offers media planning and buying"
+   - "Tandem Theory offers CRM and loyalty programs"
+
+4. **Claude creates the JSON files:**
+   ```
+   content/sources/src_tt000002.json   ← source URL + metadata
+   content/claims/clm_tt000010.json    ← claim #1
+   content/claims/clm_tt000011.json    ← claim #2
+   content/claims/clm_tt000012.json    ← claim #3
+   ```
+
+5. **Claude validates and deploys:**
+   ```bash
+   npm run validate   # check everything is valid
+   git push           # deploy to Vercel
+   ```
+
+6. **Content is live** at missing.link within minutes
+
+### Adding a New Entity (Initial Load)
+
+When a new entity is added for the first time:
+
+1. **You provide the entity** (name, website, basic info)
+2. **Claude visits their website** and reviews key pages (about, services, team, etc.)
+3. **Claude creates an initial content load:**
+   - Entity record with description and links
+   - Multiple claims covering key facts
+   - Source records for each page referenced
+4. **Everything deploys together** as a complete entity profile
+
+This "initial load" gives the entity immediate presence on missing.link with multiple citable claims.
+
+---
+
+## Future Automation Possibilities
+
+The manual content process could be automated:
+
+| Feature | Description | Status |
+|---------|-------------|--------|
+| **Content Spider** | Crawl websites and extract content for AI processing | **Built** |
+| **AI Processing** | Send crawled content to Claude API, generate draft claims | **Built** |
+| **Draft Review** | Validate and approve drafts, move to content | **Built** |
+| **Google Sheets import** | Bulk import from spreadsheet | Not built |
+| **CMS/Admin UI** | Web interface instead of CLI | Not built |
+| **Scheduled re-scrape** | Periodically check for new content | Not built |
+
+For now, the Claude Code session approach works and ensures quality control.
+
+---
+
+## Content Spider (Level 2 Automation)
+
+The spider crawls websites and extracts content for AI processing into sources, entities, claims, and topics.
+
+### Automation Level
+
+```
+Spider (automated)     →     AI Processing (Phase 2)     →     Human Review
+   ↓                              ↓                              ↓
+Crawl site                  Extract draft content           Approve/edit
+Save raw pages              Create JSON files               Deploy
+Extract metadata            Flag confidence levels
+```
+
+### Spider Features
+
+| Feature | Description |
+|---------|-------------|
+| **URL Discovery** | Follow internal links, respect robots.txt, stay within domain |
+| **Rate Limiting** | Configurable delay between requests (default 1s) |
+| **Depth Control** | Max crawl depth from seed URL |
+| **Page Limits** | Max pages per crawl to control scope |
+| **Resume Support** | Save state to resume interrupted crawls |
+| **Error Handling** | Retry failed requests, log errors, continue crawling |
+
+### Content Extraction
+
+| Extraction | Description |
+|------------|-------------|
+| **Raw HTML** | Full page source for archival |
+| **Clean Text** | Main content without nav, scripts, styles, footer |
+| **Metadata** | Title, description, og:tags, canonical URL |
+| **Page Type** | Classify as: homepage, about, team, product, news, contact, legal, other |
+| **Links** | Internal links for discovery, external links for reference |
+| **Structured Data** | Extract existing JSON-LD if present |
+
+### Spider CLI Usage
+
+```bash
+# Basic crawl
+npm run spider -- --url https://example.com
+
+# With limits
+npm run spider -- --url https://example.com --max-pages 100 --max-depth 5
+
+# With filtering
+npm run spider -- --url https://example.com --include "/about/*,/team/*" --exclude "/blog/*"
+
+# Resume interrupted crawl
+npm run spider -- --resume ./crawls/example.com/2026-01-24_143000/state.json
+
+# Use Oxylabs for JS-heavy sites
+npm run spider -- --url https://example.com --oxylabs
+
+# List recent crawls
+npm run spider -- --list
+```
+
+### Spider Output Structure
+
+```
+crawls/
+└── [domain]/
+    └── [YYYY-MM-DD_HHmmss]/
+        ├── manifest.json        # Crawl metadata + page list
+        ├── pages/
+        │   ├── [url-hash].html  # Raw HTML
+        │   ├── [url-hash].txt   # Clean text
+        │   └── [url-hash].json  # Page metadata
+        └── state.json           # For resume capability
+```
+
+### Spider Options
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--url` | required | Starting URL to crawl |
+| `--max-pages` | 50 | Maximum pages to crawl |
+| `--max-depth` | 3 | Maximum depth from seed URL |
+| `--delay` | 1000 | Delay between requests (ms) |
+| `--include` | - | Glob patterns to include |
+| `--exclude` | - | Glob patterns to exclude |
+| `--output` | ./crawls | Output directory |
+| `--oxylabs` | false | Use Oxylabs for JS rendering |
+| `--no-robots` | false | Ignore robots.txt |
+| `--resume` | - | Resume from state file |
+| `--list` | - | List recent crawls |
+
+### AI Processing (Phase 2) - BUILT
+
+After spider completes, `scripts/process-crawl.ts`:
+1. Reads crawl manifest and extracted page content
+2. Sends each page to Claude API for content extraction
+3. Extracts entities, sources, and claims with confidence levels
+4. Creates draft JSON files in `/drafts/[crawl-id]/`
+5. Human reviews and edits drafts
+6. `scripts/approve-drafts.ts` validates and moves to `/content/`
+
+### Phase 2 CLI Commands
+
+```bash
+# Process crawl with AI
+npm run process-crawl -- --crawl ./crawls/upbound.com/20260125_034546
+
+# With explicit primary entity
+npm run process-crawl -- --crawl ./crawls/upbound.com/20260125_034546 --entity upbound
+
+# Dry run (shows what would be extracted)
+npm run process-crawl -- --crawl ./crawls/upbound.com/20260125_034546 --dry-run
+
+# Validate drafts only
+npm run approve-drafts -- --crawl upbound.com_20260125_034546 --validate-only
+
+# Approve and move to content
+npm run approve-drafts -- --crawl upbound.com_20260125_034546
+```
+
+### Draft Output Structure
+
+```
+drafts/
+└── [domain]_[crawl-id]/
+    ├── manifest.json           # Processing metadata
+    ├── entities/
+    │   ├── upbound.json
+    │   └── rent-a-center.json
+    ├── sources/
+    │   └── src_abc12345.json
+    └── claims/
+        └── clm_111aaaaa.json
+```
+
+### Draft Metadata
+
+Drafts include `_draft` metadata for review:
+
+```json
+{
+  "id": "clm_abc12345",
+  "title": "Upbound Group Owns Rent-A-Center",
+  "statement": "...",
+  "_draft": {
+    "confidence": "high",
+    "sourcePages": ["https://upbound.com/"],
+    "extractedAt": "2026-01-25T03:45:00Z",
+    "model": "claude-sonnet-4-20250514"
+  }
+}
+```
+
+This metadata is stripped when content is approved and moved to `/content/`.
+
+---
+
+## Source Snapshots (Archival)
+
+Sources can be archived as rendered HTML snapshots, preserving evidence even if original pages change or go offline.
+
+### How It Works
+
+1. Run `npm run snapshot -- src_abc12345`
+2. Oxylabs fetches and renders the URL (including JavaScript)
+3. HTML saved to `/content/sources/artifacts/{sourceId}/{timestamp}.html`
+4. Source JSON updated with snapshot reference
+
+### Storage Structure
+
+```
+content/sources/
+├── src_abc12345.json           # Source metadata
+└── artifacts/
+    └── src_abc12345/
+        ├── 2026-01-25T03-45-00-000Z.html   # First snapshot
+        └── 2026-01-30T14-20-00-000Z.html   # Later snapshot
+```
+
+### Source JSON After Snapshot
+
+```json
+{
+  "id": "src_abc12345",
+  "title": "Page Title",
+  "url": "https://example.com/page",
+  "snapshots": [
+    {
+      "timestamp": "2026-01-25T03:45:00.000Z",
+      "artifactPath": "artifacts/src_abc12345/2026-01-25T03-45-00-000Z.html",
+      "method": "oxylabs"
+    }
+  ]
+}
+```
+
+### When to Snapshot
+
+- After adding new sources (evidence preservation)
+- Before source URLs might change (company announcements, press releases)
+- Periodically for critical sources
+
+---
+
+## Content Structure
+
+| Content Type | Description | Example |
+|--------------|-------------|---------|
+| **Entities** | Organizations/people you track | Tandem Theory, OpenAI, Anthropic |
+| **Claims** | Verified statements about entities | "Tandem Theory is a marketing agency..." |
+| **Sources** | Evidence backing claims | URLs with archived HTML snapshots |
+| **Topics** | Categories for organization | Marketing Technology, AI Safety |
+
+All content lives as JSON files in the `/content/` folder - no database.
+
+### Current Content Statistics
+
+| Type | Count |
+|------|-------|
+| Entities | 103 |
+| Sources | 86 |
+| Claims | 426 |
+| Topics | 4 |
+
+**Brands with full coverage:**
+- Upbound Group (parent company)
+- Rent-A-Center (lease-to-own retail)
+- Acima (lease-to-own fintech)
+- Brigit (financial wellness app)
+
+---
+
+## Where Things Run
+
+| Component | Runs Where | How Often |
+|-----------|------------|-----------|
+| **Website** | Vercel (cloud) | Always live at missing.link |
+| **Content Ingest** | Claude Code session | When you add content |
+| **Source Snapshots** | Claude Code session | When you archive sources |
+| **Validation** | Claude Code session | Before deploying |
+| **AI Monitoring** | Vercel Cron (automatic) | Weekly (Mondays 9am UTC) |
+| **Crawler Tracking** | Vercel (automatic) | Real-time on every page visit |
+| **Slack Alerts** | Vercel (automatic) | When citations are found |
+
+---
+
+## CLI Commands (Available in Claude Code Sessions)
+
+```bash
+npm run spider -- --url https://example.com         # Crawl website for content extraction
+npm run process-crawl -- --crawl ./crawls/...       # Process crawl with AI extraction
+npm run approve-drafts -- --crawl [crawl-id]        # Validate and approve drafts
+npm run ingest -- --entity tandem-theory            # Add new claim (interactive)
+npm run snapshot -- src_abc12345                     # Archive single source URL
+npm run snapshot -- --all                           # Archive all source URLs (caution: API costs)
+npm run validate                                    # Check all content is valid
+npm run monitor-ai -- --all                         # Check AI platforms for citations
+npm run check                                       # Validate + build (pre-deploy)
+```
+
+---
+
+## Website Features (missing.link)
+
+| Page | Purpose |
+|------|---------|
+| `/` | Homepage explaining the project |
+| `/entities` | List all tracked organizations |
+| `/entities/[slug]` | Single entity with all its claims (shareable to clients) |
+| `/claims` | All claims with filters |
+| `/claims/[id]` | Single claim with evidence & version history |
+| `/sources` | All sources with archive status |
+| `/topics` | Browse by topic |
+| `/stats` | **Monitoring dashboard** (crawlers + citations + history) |
+| `/llms.txt` | Machine-readable site guide for AI crawlers |
+
+---
+
+## Monitoring & Alerts
+
+### 1. AI Crawler Tracking (Automatic)
+- Detects when GPTBot, PerplexityBot, Claude-Web, etc. crawl the site
+- Logs every visit with timestamp and page path
+- Displays on `/stats` page
+
+### 2. AI Citation Monitoring (Automatic)
+- Queries Perplexity, ChatGPT, Google AI Mode about each entity
+- Checks if missing.link appears in their cited sources
+- Uses Oxylabs API to access these platforms
+- Runs automatically every Monday 9am UTC via Vercel Cron
+- Can also run manually: `npm run monitor-ai -- --all`
+
+### 3. Slack Alerts (Automatic)
+- When a citation IS found, sends notification to Slack
+- Includes entity name, platform, citation URL, answer excerpt
+
+### 4. Historical Tracking (Automatic)
+- Stores daily monitoring results in Redis
+- Shows trends on `/stats` page
+- Tracks "first citation" milestone
+
+---
+
+## Key URLs
+
+- **Live site:** https://missing.link
+- **Stats/Monitoring:** https://missing.link/stats
+- **Entity pages:** https://missing.link/entities/tandem-theory
+
+---
+
+## Client Dashboards
+
+Each entity has a **shareable client dashboard** (`/clients/[slug]`) - a comprehensive view designed for clients and stakeholders to review their content.
+
+When an entity is added, its client dashboard is automatically available. No extra step required.
+
+### Dashboard Features
+
+| Feature | Description |
+|---------|-------------|
+| **Stats Bar** | Clickable counts for Claims, Topics, Sources, Corrections |
+| **Anchor Navigation** | Click any stat to jump to that section |
+| **All Sections Visible** | Topics and Corrections show even when empty |
+| **Parent/Subsidiary Links** | Navigate between related entities |
+| **Source Links** | Direct links to primary evidence |
+
+### Stats Bar Navigation
+
+```
+┌─────────┬─────────┬─────────┬─────────────┐
+│ 42      │ 3       │ 15      │ 0           │
+│ Claims  │ Topics  │ Sources │ Corrections │
+└────┬────┴────┬────┴────┬────┴──────┬──────┘
+     ↓         ↓         ↓           ↓
+  #claims   #topics   #sources  #corrections
+```
+
+Each stat links to its section for quick navigation on long pages.
+
+### Dashboard Sections
+
+1. **Header** - Entity name, type, description, parent/subsidiary links
+2. **Stats Bar** - Clickable navigation to sections
+3. **Published Claims** - All asserted claims with evidence
+4. **Topics** - Categories (or "No topic categorization yet.")
+5. **Sources** - Primary documents cited
+6. **Corrections** - Disputed/corrected claims (or "All claims in good standing.")
+7. **About** - Dashboard explanation + link to public entity page
+
+### Example URLs
+
+| Client | URL |
+|--------|-----|
+| Upbound Group | https://missing.link/clients/upbound |
+| Rent-A-Center | https://missing.link/clients/rent-a-center |
+| Acima | https://missing.link/clients/acima |
+| Brigit | https://missing.link/clients/brigit |
+
+### Important: View Only, Not a Separate Data Structure
+
+The `/clients/` URL is **purely a presentation layer** - it is not a separate folder structure or content repository.
+
+- No duplicate content is created
+- No separate JSON files exist for clients
+- The route dynamically pulls from the same `/content/entities/` data
+
+**For AI crawlers and search engines:**
+- Client dashboards are marked `noindex` so they won't compete with the authoritative `/entities/` pages
+- AI platforms will crawl and cite the main entity pages, not the client dashboards
+- This preserves the integrity of the knowledge graph while providing a clean sharing option
+
+---
+
+## External Services Used
+
+| Service | Purpose | Cost |
+|---------|---------|------|
+| **Vercel** | Hosting, cron jobs | Pro plan |
+| **Upstash Redis** | Crawler logs, historical data | Free tier |
+| **Oxylabs** | AI platform queries, source snapshots | Pay per query |
+| **Slack** | Citation alerts | Free |
+| **GitHub** | Code repository | Free |
+
+---
+
+## Environment Variables Required
+
+```
+OXYLABS_USERNAME=...
+OXYLABS_PASSWORD=...
+UPSTASH_REDIS_REST_URL=...
+UPSTASH_REDIS_REST_TOKEN=...
+SLACK_WEBHOOK_URL=...
+CRON_SECRET=...  (optional, for cron security)
+```
+
+---
+
+*Last updated: 2026-01-25*

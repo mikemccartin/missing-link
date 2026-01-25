@@ -26,9 +26,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!entity) {
     return { title: "Entity Not Found" };
   }
+  const claims = getClaimsForEntity(slug);
   return {
-    title: entity.name,
-    description: entity.description,
+    title: `${entity.name} | Verified Claims & Entity Data - missing.link`,
+    description: `${claims.length} verified claims about ${entity.name} with cited sources. Machine-readable entity data for AI systems.`,
   };
 }
 
@@ -70,7 +71,8 @@ export default async function EntityPage({ params, searchParams }: Props) {
       />
       <main>
         <div className="meta">{entity.type}</div>
-        <h1>{entity.name}</h1>
+        <h1>{entity.name} | Verified Entity Profile</h1>
+        <p className="meta">{claims.length} verified claims with cited sources. Machine-readable entity data for AI systems.</p>
         <p>{entity.description}</p>
 
         {/* Parent/subsidiary relationships */}
@@ -121,7 +123,7 @@ export default async function EntityPage({ params, searchParams }: Props) {
           </div>
         )}
 
-        <h2>Claims ({claims.length})</h2>
+        <h2>Verified Claims about {entity.name} ({claims.length})</h2>
         {sortedClaims.length === 0 ? (
           <p>No claims reference this entity yet.</p>
         ) : (
