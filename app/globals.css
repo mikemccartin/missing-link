@@ -207,14 +207,10 @@ footer {
 }
 
 /* Client view - clean presentation mode */
-/* Hide site header/footer when in client view */
-body:has(.client-view) > header,
-body:has(.client-view) > footer {
-  display: none;
-}
+/* Navigation shows (noindex prevents SEO competition with main entity pages) */
 
 .client-view main {
-  padding-top: 3rem;
+  padding-top: 1rem;
 }
 
 .client-view .client-header {
