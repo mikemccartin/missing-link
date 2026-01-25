@@ -221,6 +221,7 @@ Requires `OXYLABS_USERNAME` and `OXYLABS_PASSWORD` environment variables.
 | `/` | Home page |
 | `/entities` | Entity index |
 | `/entities/[slug]` | Individual entity |
+| `/clients/[slug]` | Client dashboard (shareable, noindex) |
 | `/claims` | Claim index |
 | `/claims/[id]` | Individual claim |
 | `/topics` | Topic index |
@@ -229,6 +230,14 @@ Requires `OXYLABS_USERNAME` and `OXYLABS_PASSWORD` environment variables.
 | `/sources/[id]` | Individual source |
 | `/corrections` | Correction log |
 | `/stats` | AI crawler activity |
+
+### Client Dashboards
+
+Each entity has a client-friendly dashboard at `/clients/[slug]` with:
+- Stats bar with anchor navigation (Claims, Topics, Sources, Corrections)
+- All claims with evidence links
+- Parent/subsidiary relationships
+- Marked `noindex` so AI platforms cite `/entities/` pages instead
 
 ## Machine Endpoints
 
