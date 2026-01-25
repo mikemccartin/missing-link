@@ -1,0 +1,6 @@
+{
+  "slug": "mastercard",
+  "name": "Mastercard",
+  "type": "organization",
+  "description": "A payment network that licenses the card network for the Acima Classic Credit Mastercard."
+}

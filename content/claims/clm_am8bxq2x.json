@@ -1,0 +1,32 @@
+{
+  "id": "clm_am8bxq2x",
+  "title": "Acima works with thousands of retail stores",
+  "statement": "Acima partners with thousands of stores including major retailers, local businesses, and online stores.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_o40ms0tb",
+      "quote": "There are thousands of stores to choose from, including major retailers and local businesses—plus lots of online stores."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.acima.com crawl"
+    }
+  ]
+}

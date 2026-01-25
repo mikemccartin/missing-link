@@ -1,0 +1,32 @@
+{
+  "id": "clm_22j04yu4",
+  "title": "Acima prohibits leasing of services",
+  "statement": "Acima does not lease services such as extended warranties, installation, or repairs.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_c1s82p5v",
+      "quote": "Services (e.g., extended warranties, installation, repairs)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

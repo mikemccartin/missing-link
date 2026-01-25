@@ -1,0 +1,32 @@
+{
+  "id": "clm_gr1rganm",
+  "title": "Acima prohibits leasing of permanently attached items",
+  "statement": "Acima prohibits leasing items meant to be permanently attached to a home or vehicle.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_c1s82p5v",
+      "quote": "Items meant to be permanently attached to a home or vehicle"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

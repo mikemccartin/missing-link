@@ -1,0 +1,36 @@
+{
+  "id": "clm_2jltjq94",
+  "title": "Brigit subscription required for Credit Builder",
+  "statement": "A Brigit subscription is required to use the Credit Builder service.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t0cyxxeu",
+      "quote": "A Brigit subscription is required."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

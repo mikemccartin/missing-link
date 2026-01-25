@@ -1,0 +1,32 @@
+{
+  "id": "clm_89ezrl19",
+  "title": "Acima requires minimum age of 18",
+  "statement": "Acima requires applicants to be 18 years old or older to qualify for their services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7mfqtl73",
+      "quote": "Be 18 years old or older"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

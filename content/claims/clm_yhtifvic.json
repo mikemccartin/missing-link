@@ -1,0 +1,36 @@
+{
+  "id": "clm_yhtifvic",
+  "title": "Bridge It, Inc. is the legal name of Brigit",
+  "statement": "Bridge It, Inc. is the legal corporate entity that operates under the brand name Brigit and provides financial services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "bridge-it-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_erd3x775",
+      "quote": "Bridge It, Inc. (\"Brigit,\" \"we,\" \"us,\" or \"our\") provides this Privacy Policy"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

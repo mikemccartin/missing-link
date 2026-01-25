@@ -1,0 +1,36 @@
+{
+  "id": "clm_h2zee1d1",
+  "title": "Brigit helps users avoid overdrafts and access cash",
+  "statement": "Brigit provides tools to help users avoid overdrafts and access cash when needed.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_50hrp9k8",
+      "quote": "With transparent, fair, and simple tools, we help you avoid overdrafts, access cash when you need it"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

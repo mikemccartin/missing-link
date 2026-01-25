@@ -1,0 +1,32 @@
+{
+  "id": "clm_ftj95qrc",
+  "title": "Brigit works with over 6,000 financial institutions",
+  "statement": "Brigit is compatible with over 6,000 banks and credit unions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngysrrl9",
+      "quote": "Brigit works with over 6,000 banks and credit unions"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

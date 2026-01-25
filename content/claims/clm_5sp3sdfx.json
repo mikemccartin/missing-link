@@ -1,0 +1,32 @@
+{
+  "id": "clm_5sp3sdfx",
+  "title": "Brigit requires US citizenship or legal residency",
+  "statement": "To use Brigit services, users must be a US citizen or legal US resident and at least 18 years old.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gpy4iokr",
+      "quote": "You must be a US citizen or a legal US resident; You must be at least eighteen (18) years old or the age of majority in your jurisdiction"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

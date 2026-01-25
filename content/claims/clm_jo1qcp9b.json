@@ -1,0 +1,32 @@
+{
+  "id": "clm_jo1qcp9b",
+  "title": "Acima payments processed within two business days",
+  "statement": "Most Acima transactions will be paid within two business days of merchandise being delivered or picked up by the customer.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5bo3ty2q",
+      "quote": "The process is simple and most transactions will be paid within two business days of the merchandise being delivered or picked up by the customer."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

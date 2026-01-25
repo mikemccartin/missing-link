@@ -1,0 +1,36 @@
+{
+  "id": "clm_ypuur6sw",
+  "title": "Brigit joined American Fintech Council in February 2024",
+  "statement": "Brigit joined the American Fintech Council in February 2024 to accelerate financial inclusion.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "american-fintech-council",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bir02s3z",
+      "quote": "Brigit Joins American Fintech Council to Accelerate Financial Inclusion for Millions of Everyday Americans"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

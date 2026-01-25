@@ -1,0 +1,32 @@
+{
+  "id": "clm_2lra6xur",
+  "title": "Payment history reported to three major credit bureaus",
+  "statement": "Payment history with the Acima Classic Credit Mastercard is reported to all three major credit bureaus.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_poat0bgm",
+      "quote": "Your payment history with the Acima Classic Credit Mastercard is reported to all three major credit bureaus."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

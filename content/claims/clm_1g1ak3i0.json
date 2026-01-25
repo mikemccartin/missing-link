@@ -1,0 +1,32 @@
+{
+  "id": "clm_1g1ak3i0",
+  "title": "Standard delivery takes 2-3 business days",
+  "statement": "Standard cash advance delivery takes 2-3 business days and is free.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngysrrl9",
+      "quote": "you'll get it in 2-3 business days and it's always free"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

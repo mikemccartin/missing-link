@@ -1,0 +1,36 @@
+{
+  "id": "clm_invpa8st",
+  "title": "Monthly contributions range from $1 to $25",
+  "statement": "Users can choose to contribute between $1 to $25 towards their monthly Credit Builder payment.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t0cyxxeu",
+      "quote": "Choose how much you'd like to contribute towards your monthly payment—$1 to $25."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

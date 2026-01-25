@@ -1,0 +1,36 @@
+{
+  "id": "clm_c3j59rv7",
+  "title": "Upbound Group operates Brigit as a financial health app",
+  "statement": "Upbound Group's Brigit business provides budgeting, early wage access, credit building, identity protection, and money-saving services through an app.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bvc5rsy8",
+      "quote": "Our Brigit business helps customers budget better, get their earned wages early, build their credit through savings, protect themselves from identity theft, and find ways to earn and save money via a holistic financial health app"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}

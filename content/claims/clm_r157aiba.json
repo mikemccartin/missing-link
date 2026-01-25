@@ -1,0 +1,32 @@
+{
+  "id": "clm_r157aiba",
+  "title": "Rent-A-Center offers no credit option",
+  "statement": "Rent-A-Center provides rental services without requiring credit checks",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_v81c9nnj",
+      "quote": "enjoy benefits like our no credit option"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

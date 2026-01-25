@@ -1,11 +1,9 @@
 {
   "slug": "brigit",
   "name": "Brigit",
-  "type": "organization",
-  "description": "Brigit is a financial health technology company with nearly two million monthly active users. Founded in 2019, Brigit offers a subscription-based model that has saved users approximately $1 billion in overdraft fees through its Instant Cash advance product, which leverages proprietary AI and machine learning technology. Acquired by Upbound Group in January 2025 for up to $460 million.",
+  "type": "product",
+  "description": "A financial app that provides cash advances, credit building, and financial management tools with over 12 million users.",
   "links": {
-    "officialSite": "https://www.hellobrigit.com",
-    "linkedin": "https://www.linkedin.com/company/hellobrigit"
-  },
-  "parentEntity": "upbound"
+    "officialSite": "https://hellobrigit.com/"
+  }
 }

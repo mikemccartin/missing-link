@@ -1,0 +1,32 @@
+{
+  "id": "clm_t0y2erav",
+  "title": "Upbound has zero-tolerance forced labor policy",
+  "statement": "Upbound has a zero-tolerance policy regarding forced labor and will immediately disqualify suppliers found using forced labor.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8ekoqt5t",
+      "quote": "Upbound has a zero-tolerance policy regarding forced labor. If forced labor is found in the supply chain for any Upbound supplier, that supplier will be immediately disqualified from doing business with Upbound until such practices are eliminated."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}

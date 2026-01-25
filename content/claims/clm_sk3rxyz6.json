@@ -1,0 +1,36 @@
+{
+  "id": "clm_sk3rxyz6",
+  "title": "Brigit claims to have changed millions of lives in two years",
+  "statement": "According to CEO Zuben Mathews, Brigit changed millions of lives in just two years.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "zuben-mathews",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_21jepjb7",
+      "quote": "In just two years we've already changed millions of lives — but we're just getting started."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

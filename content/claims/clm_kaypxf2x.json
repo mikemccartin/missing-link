@@ -1,0 +1,32 @@
+{
+  "id": "clm_kaypxf2x",
+  "title": "Brigit has 5 Employee Resource Groups",
+  "statement": "Brigit has 5 Employee Resource Groups to support workplace diversity dimensions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_i2tmnhip",
+      "quote": "To support the many dimensions of diversity that exist at Brigit, we have 5 Employee Resource Groups (and we're just getting started)."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

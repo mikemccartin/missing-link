@@ -1,0 +1,31 @@
+{
+  "id": "clm_1yulnhu9",
+  "title": "Rent-A-Center organizes web assets in versioned bundles",
+  "statement": "Rent-A-Center's website uses a bundle system with version number 3731 for organizing static assets.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qpr7q4p9"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_f85tac2u",
+  "title": "Banks made $33 billion in overdraft fees",
+  "statement": "Banks made at least $33 billion in overdraft fees according to a Moebs Services report",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "moebs-services",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ciz7c9l3",
+      "quote": "Banks made at least $33 billion in overdraft fees last year, according to a report from Moebs Services."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

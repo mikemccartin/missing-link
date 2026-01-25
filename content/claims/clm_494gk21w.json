@@ -1,0 +1,36 @@
+{
+  "id": "clm_494gk21w",
+  "title": "Brentt Mellon works as maintenance planner in Ohio",
+  "statement": "Brentt Mellon works in Ohio as a maintenance planner for a global refractory company.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "brentt-mellon",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mz8z94dl",
+      "quote": "Brentt Mellon works in Ohio as a maintenance planner for a global refractory company."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

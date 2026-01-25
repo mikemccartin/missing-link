@@ -1,0 +1,32 @@
+{
+  "id": "clm_kd535kd7",
+  "title": "Brigit raised $35M Series A funding in January 2021",
+  "statement": "Brigit raised $35 million through Series A funding round in January 2021.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6qegqc9j",
+      "quote": "Brigit Raises $35M to Help the 78% of Americans That are Living Paycheck-to-Paycheck"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

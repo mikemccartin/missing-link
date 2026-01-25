@@ -1,0 +1,32 @@
+{
+  "id": "clm_a10drb9b",
+  "title": "Acima purchases products and leases them to customers",
+  "statement": "Acima purchases eligible products selected by customers and leases them to the customer after lease agreement is signed.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_c1s82p5v",
+      "quote": "Once you review your lease agreement and sign, we'll purchase any eligible products you selected and lease them to you."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

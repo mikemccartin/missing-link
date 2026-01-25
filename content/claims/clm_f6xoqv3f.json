@@ -1,0 +1,48 @@
+{
+  "id": "clm_f6xoqv3f",
+  "title": "Brigit team has experience at major companies",
+  "statement": "Brigit's team includes people with experience at Amazon, Deutsche Bank, Palantir, and Two Sigma.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "amazon",
+      "role": "related"
+    },
+    {
+      "slug": "deutsche-bank",
+      "role": "related"
+    },
+    {
+      "slug": "palantir",
+      "role": "related"
+    },
+    {
+      "slug": "two-sigma",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_21jepjb7",
+      "quote": "With experience at Amazon, Deutsche Bank, Palantir, Two Sigma and more, our experts not only have the tools to solve financial insecurity"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

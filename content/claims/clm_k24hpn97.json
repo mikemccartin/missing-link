@@ -1,0 +1,36 @@
+{
+  "id": "clm_k24hpn97",
+  "title": "Brigit provides up to $1 million identity theft protection",
+  "statement": "Brigit offers identity theft protection coverage up to $1 million along with full credit reports.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kvfq76jv",
+      "quote": "Keep your identity safe from fraud with full credit reports and up to $1 million in identity theft protection"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

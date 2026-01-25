@@ -1,0 +1,32 @@
+{
+  "id": "clm_faj9qy8t",
+  "title": "Brigit has over 9 million members",
+  "statement": "Brigit has over 9 million members who trust the platform to improve their financial health.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t0cyxxeu",
+      "quote": "Join over 9 million members who already trust Brigit to improve their financial health"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_2800iv2i",
+  "title": "Rent-A-Center offers rent-to-own deals on multiple product categories",
+  "statement": "Rent-A-Center provides deals on furniture, electronics, appliances and gaming PCs through rent-to-own arrangements.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_g4j62gnz",
+      "quote": "Shop deals at Rent-A-Center! Save on furniture, electronics, appliances & gaming PCs with flexible payments that fit your budget"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

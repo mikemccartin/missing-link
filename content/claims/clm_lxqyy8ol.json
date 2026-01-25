@@ -1,0 +1,32 @@
+{
+  "id": "clm_lxqyy8ol",
+  "title": "Acima requires minimum $750 monthly income",
+  "statement": "Acima requires applicants to have an active checking account with at least $750 of income per month.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7mfqtl73",
+      "quote": "Have an active checking account with at least $750 of income per month"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "clm_avtpaa40",
+  "title": "Upbound Group, Inc. is a Brigit affiliate",
+  "statement": "Upbound Group, Inc. is listed as an affiliate company of Bridge It, Inc. related by common ownership or control.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "upbound-group-inc",
+      "role": "related"
+    },
+    {
+      "slug": "bridge-it-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_erd3x775",
+      "quote": "Affiliates Companies related by common ownership or control. They can be financial and nonfinancial companies. Upbound Group, Inc."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

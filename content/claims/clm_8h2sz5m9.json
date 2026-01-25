@@ -1,0 +1,32 @@
+{
+  "id": "clm_8h2sz5m9",
+  "title": "Acima lease terms are 12, 18, or 24 months",
+  "statement": "Acima lease agreements allow customers to own merchandise in 12, 18, or 24 months if they make all renewal payments.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7mfqtl73",
+      "quote": "If you elect to make all renewal payments you will own the merchandise in 12, 18, or 24 months, based on the lease agreement you are offered."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

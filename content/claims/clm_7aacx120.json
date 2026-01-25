@@ -1,0 +1,32 @@
+{
+  "id": "clm_7aacx120",
+  "title": "Acima leases merchandise for personal, family, or household use",
+  "statement": "Acima leases merchandise for personal, family, or household use to consumers including furniture, mattresses, appliances, electronics, and more.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_c1s82p5v",
+      "quote": "We lease merchandise for personal, family, or household use to consumers. Our merchandise categories include furniture, mattresses, appliances, auto wheels and tires, as well as, home and mobile electronics, car audio, eyewear, power tools, jewelry, and more!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

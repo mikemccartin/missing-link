@@ -1,0 +1,36 @@
+{
+  "id": "clm_pexws4k5",
+  "title": "Acima Leasing was established in 2010",
+  "statement": "Acima Leasing was established in 2010.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "related"
+    },
+    {
+      "slug": "acima-leasing",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_l6d61mx7",
+      "quote": "The company, established in 2010, has partnered with thousands of retailers"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

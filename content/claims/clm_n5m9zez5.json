@@ -1,0 +1,32 @@
+{
+  "id": "clm_n5m9zez5",
+  "title": "Acima offers services without credit requirements",
+  "statement": "Acima helps people access products without credit requirements.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_efcc6cn2",
+      "quote": "Acima helps people from all backgrounds live a better quality of life with easier access to the things they need and want—all without credit*."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

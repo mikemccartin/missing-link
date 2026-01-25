@@ -1,0 +1,40 @@
+{
+  "id": "clm_ssmn9dpp",
+  "title": "Brigit uses Plaid Technologies API for data gathering",
+  "statement": "Bridge It, Inc. uses an Application Programming Interface supplied by Plaid Technologies, Inc. to gather customer data from financial institutions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "plaid-technologies-inc",
+      "role": "related"
+    },
+    {
+      "slug": "bridge-it-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_erd3x775",
+      "quote": "the Company uses an Application Programming Interface supplied by Plaid Technologies, Inc. Plaid, used to gather your data from financial institutions."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

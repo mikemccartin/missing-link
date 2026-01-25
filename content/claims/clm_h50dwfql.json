@@ -1,0 +1,32 @@
+{
+  "id": "clm_h50dwfql",
+  "title": "Rent-A-Center does not report payment history to credit bureaus",
+  "statement": "Rent-A-Center does not report customer payment history to credit bureaus.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rqxvro9q",
+      "quote": "Rent-A-Center does not report your payment history to the credit bureaus."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

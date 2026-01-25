@@ -1,0 +1,31 @@
+{
+  "id": "clm_o9j4r9w9",
+  "title": "Rent-A-Center uses a 32x32 pixel Apple touch icon on their website",
+  "statement": "Rent-A-Center's website includes a 32x32 pixel PNG Apple touch icon file in their mobile bundle assets.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qpr7q4p9"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

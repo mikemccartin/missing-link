@@ -1,0 +1,32 @@
+{
+  "id": "clm_6p4tdsif",
+  "title": "Card delivery within 14 business days if approved",
+  "statement": "If approved, the Acima Classic Credit Mastercard will be mailed and should be received within 14 business days of approval.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ohy4pwaq",
+      "quote": "If approved, a credit card will be mailed to you. You should receive it within 14 business days of approval."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

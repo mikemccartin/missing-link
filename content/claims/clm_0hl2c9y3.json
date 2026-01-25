@@ -1,0 +1,36 @@
+{
+  "id": "clm_0hl2c9y3",
+  "title": "Acima announced exclusive partnership with iFIT in April 2024",
+  "statement": "Acima Leasing announced an exclusive lease-to-own partnership with iFIT in April 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "ifit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rx931u6d",
+      "quote": "Acima Leasing Announces Exclusive LTO Partnership with Global Fitness Leader, iFIT Apr 30, 2024"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

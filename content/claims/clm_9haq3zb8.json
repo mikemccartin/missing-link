@@ -1,0 +1,36 @@
+{
+  "id": "clm_9haq3zb8",
+  "title": "Acima API is organized around REST architecture",
+  "statement": "Acima's API is organized around REST with predictable, resource-oriented URLs and uses HTTP response codes to indicate API errors.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "rest-api",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_u7rece8v",
+      "quote": "Acima is organized around REST. Our API has predictable, resource-oriented URLs and uses HTTP response codes to indicate API errors."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

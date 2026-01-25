@@ -1,0 +1,32 @@
+{
+  "id": "clm_1r7o46qd",
+  "title": "Rent-A-Center partners with largest US tire distributor",
+  "statement": "Rent-A-Center has partnered with the largest tire distributor in the US to provide tire rental services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rqxvro9q",
+      "quote": "Rent-A-Center has partnered with the largest tire distributor in the US to give you the ability to drive safely on a new set of tires."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

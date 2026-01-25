@@ -1,0 +1,32 @@
+{
+  "id": "clm_vc017rj2",
+  "title": "Brigit holds Kansas Earned Wage Access Services Provider License",
+  "statement": "Brigit holds Earned Wage Access Services Provider License EWA.0000003 in Kansas",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2alu5x5j",
+      "quote": "Earned Wage Access Services Provider License – EWA.0000003"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_aygoyir7",
+  "title": "Acima application requirements include income and banking criteria",
+  "statement": "Acima requires applicants to have basic information, an active checking account, and 3 months of income history with $750 or more.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1gjzrrjx",
+      "quote": "All you need is some basic information, an active checking account, and 3 months of income history with $750 or more."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

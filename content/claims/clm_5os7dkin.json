@@ -1,0 +1,36 @@
+{
+  "id": "clm_5os7dkin",
+  "title": "Customer contact email is [email protected]",
+  "statement": "Bridge It, Inc. provides [email protected] as the contact email address for customer inquiries and privacy-related requests.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "bridge-it-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_erd3x775",
+      "quote": "Email us at [email protected]"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

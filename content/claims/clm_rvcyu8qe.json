@@ -1,0 +1,32 @@
+{
+  "id": "clm_rvcyu8qe",
+  "title": "Upbound Group has separate privacy policies for Virginia and California",
+  "statement": "Upbound Group maintains a Privacy Policy for Virginia and a separate California Privacy Policy.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nzhaiye4",
+      "quote": "Please review our Privacy Policy (Virginia) and California Privacy Policy for a more detailed description of how we collect, use, and share the Personal Information of California and Virginia residents"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

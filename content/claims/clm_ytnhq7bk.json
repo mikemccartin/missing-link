@@ -1,0 +1,32 @@
+{
+  "id": "clm_ytnhq7bk",
+  "title": "Upbound Group has six core values",
+  "statement": "Upbound Group operates according to six stated values: Customer Centricity, Winning Together, Empowerment, Respect, Simplicity, and Impact.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bvc5rsy8",
+      "quote": "Our Values Customer Centricity...Winning Together...Empowerment...Respect...Simplicity...Impact"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}

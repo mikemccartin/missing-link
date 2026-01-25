@@ -1,0 +1,32 @@
+{
+  "id": "clm_fjigznwi",
+  "title": "Acima provides application decisions within seconds",
+  "statement": "Acima's application approval decisions are received within seconds.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rx931u6d",
+      "quote": "Application decisions are received within seconds."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clm_so89aqi7",
+  "title": "Brigit app has 4.7+ rating with 562k reviews",
+  "statement": "The Brigit app has a 4.7+ rating with 562,000 reviews across App Store and Google Play.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    },
+    {
+      "slug": "app-store",
+      "role": "related"
+    },
+    {
+      "slug": "google-play",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kvfq76jv",
+      "quote": "4.7+ rating with 562k reviews on the App Store and Google Play"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

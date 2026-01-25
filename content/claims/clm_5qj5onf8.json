@@ -1,0 +1,36 @@
+{
+  "id": "clm_5qj5onf8",
+  "title": "Requires 3 recurring deposits from same source",
+  "statement": "Brigit requires users to have at least 3 recurring deposits from the same employer or source to qualify.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-instant-cash",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngysrrl9",
+      "quote": "Has 3 recurring deposits from the same source"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

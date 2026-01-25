@@ -1,0 +1,40 @@
+{
+  "id": "clm_r47zdi8g",
+  "title": "Brigit partners with Coastal Community Bank for banking services",
+  "statement": "Bridge It, Inc. works with Coastal Community Bank to provide banking services and products to customers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "coastal-community-bank",
+      "role": "related"
+    },
+    {
+      "slug": "bridge-it-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_erd3x775",
+      "quote": "In order to provide you banking services and products, the Company works with Coastal Community Bank."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

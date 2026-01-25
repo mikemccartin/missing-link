@@ -1,0 +1,36 @@
+{
+  "id": "clm_lnj4evol",
+  "title": "Brigit offers credit building for $1/month",
+  "statement": "Brigit offers credit building services starting at $1 per month to help build positive payment history.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kvfq76jv",
+      "quote": "For as little as $1/month, we'll help you build positive payment history"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

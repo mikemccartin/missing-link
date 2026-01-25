@@ -1,0 +1,36 @@
+{
+  "id": "clm_79674hxy",
+  "title": "Credit Builder offers 24-month loans",
+  "statement": "Brigit's Credit Builder helps users open a 24-month loan with funds kept in a locked deposit account.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t0cyxxeu",
+      "quote": "We'll help you open a 24-month loan and keep the funds in a locked deposit account in your name."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

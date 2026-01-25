@@ -1,0 +1,32 @@
+{
+  "id": "clm_t8mbr6kt",
+  "title": "Acima operates at 14,000+ locations with 11,000+ retailers",
+  "statement": "Acima provides lease-to-own services at over 14,000 locations and partners with more than 11,000 retailers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5bo3ty2q",
+      "quote": "14,000+ locations 11,000+ retailers"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

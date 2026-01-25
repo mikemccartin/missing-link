@@ -1,0 +1,32 @@
+{
+  "id": "clm_hesnp5wy",
+  "title": "Brigit terms last revised November 26, 2025",
+  "statement": "Brigit's Terms of Service were last revised on November 26, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gpy4iokr",
+      "quote": "Brigit Terms of Service (Last revised November 26, 2025)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_16j7dlnz",
+  "title": "Upbound Group has a Compliance Officer",
+  "statement": "Upbound Group, Inc. has a Compliance Officer that can be contacted regarding the Supplier Code.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e46ks3x6",
+      "quote": "Should you have any questions regarding this Code, please contact the Company's Compliance Officer listed below."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

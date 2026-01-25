@@ -1,0 +1,32 @@
+{
+  "id": "clm_5ode3u2a",
+  "title": "Acima requires basic information and income history for application",
+  "statement": "Acima's application requirements include basic information, an active checking account, and 3 months of income history with $750+.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8skzryom",
+      "quote": "Todo lo que necesita es información básica, una cuenta corriente activa y 3 meses de historial de ingresos con $750+."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.acima.com crawl"
+    }
+  ]
+}

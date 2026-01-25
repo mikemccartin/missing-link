@@ -1,0 +1,32 @@
+{
+  "id": "clm_6lpw3rwt",
+  "title": "Acima operates through over 15,000 retail stores",
+  "statement": "Acima has more than 15,000 stores in their retail network, including major retailers and local businesses, plus many online stores.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8skzryom",
+      "quote": "Hay más de 15.000 tiendas para elegir, incluidos los principales minoristas y empresas locales, además de muchas tiendas en línea."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.acima.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_x3betyta",
+  "title": "Zuben Mathews immigrated from Delhi, India",
+  "statement": "Zuben Mathews is an immigrant from Delhi, India who came to Chicago for college.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "zuben-mathews",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngg8quho",
+      "quote": "As an immigrant from Delhi, India who came to Chicago for college, Mathews had no credit score"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

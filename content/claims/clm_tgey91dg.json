@@ -1,0 +1,40 @@
+{
+  "id": "clm_tgey91dg",
+  "title": "Brigit raised $35 million Series A",
+  "statement": "Brigit completed a $35 million Series A funding round led by Lightspeed Venture Partners.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "lightspeed-venture-partners",
+      "role": "related"
+    },
+    {
+      "slug": "jeremy-liew",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngg8quho",
+      "quote": "Jeremy Liew from Lightspeed Venture Partners, which has led Brigit's $35 million Series A round of funding"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

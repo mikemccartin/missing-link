@@ -1,0 +1,32 @@
+{
+  "id": "clm_zm37e50n",
+  "title": "Card designed for people with less-than-perfect credit",
+  "statement": "The Acima Classic Credit Mastercard is designed for people with less-than-perfect credit.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_poat0bgm",
+      "quote": "The Acima Classic CreditTM Mastercard® is designed for people with less-than-perfect-credit."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

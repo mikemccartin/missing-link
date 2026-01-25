@@ -1,0 +1,36 @@
+{
+  "id": "clm_q9qikq8y",
+  "title": "Acima becomes exclusive LTO partner for Slumberland Furniture",
+  "statement": "Acima Leasing was named the exclusive lease-to-own partner for Slumberland Furniture customers on June 20, 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "slumberland-furniture",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tbs455ck",
+      "quote": "Acima Leasing is Named the Exclusive LTO Partner for Top Furniture Retailer, Slumberland Furniture Customers 06/20/2024"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

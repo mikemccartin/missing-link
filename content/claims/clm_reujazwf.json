@@ -1,0 +1,36 @@
+{
+  "id": "clm_reujazwf",
+  "title": "Brigit hit $100M in revenue by April 2024",
+  "statement": "Kevin Durant-backed wage-access company Brigit reached $100 million in revenue by April 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "kevin-durant",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6qegqc9j",
+      "quote": "Kevin Durant-backed wage-access company Brigit hits $100M in revenue"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

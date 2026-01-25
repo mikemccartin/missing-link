@@ -1,0 +1,36 @@
+{
+  "id": "clm_usz1qsn1",
+  "title": "Hamel Kothari recognized on Forbes 30 Under 30 list",
+  "statement": "Hamel Kothari was recognized on Forbes 30 Under 30 list in December 2021.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "hamel-kothari",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bir02s3z",
+      "quote": "Hamel Kothari is recognized on Forbes 30 Under 30 list"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

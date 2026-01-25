@@ -1,0 +1,40 @@
+{
+  "id": "clm_k19nsjok",
+  "title": "Credit Builder deposits are held at Coastal Community Bank",
+  "statement": "Brigit deposits Credit Builder installment loans into FDIC insured deposit accounts with Coastal Community Bank.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "coastal-community-bank",
+      "role": "related"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jm659w6t",
+      "quote": "Brigit arranges a credit builder installment loan for you and deposits it into a FDIC insured deposit account with Coastal Community Bank, Member FDIC"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_oej449ig",
+  "title": "Tire rental starts at $19.99 per week with installation",
+  "statement": "Rent-A-Center offers tire rentals starting at $19.99 per week including installation.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rqxvro9q",
+      "quote": "Get started for as low as $19.99 per week for a new set of tires, installation included!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

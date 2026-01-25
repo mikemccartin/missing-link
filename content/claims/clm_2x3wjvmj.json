@@ -1,0 +1,32 @@
+{
+  "id": "clm_2x3wjvmj",
+  "title": "Credit Builder offers up to $1 million identity theft protection",
+  "statement": "Brigit provides up to $1 million in identity theft protection as part of their services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jm659w6t",
+      "quote": "Keep your identity safe from fraud with up to $1 million in identity theft protection"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

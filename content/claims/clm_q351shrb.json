@@ -1,0 +1,36 @@
+{
+  "id": "clm_q351shrb",
+  "title": "Acima offers online retailer access through MarketPlace",
+  "statement": "Customers can shop online retailers through the Acima MarketPlace on web or mobile app.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "acima-marketplace",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ywehszqz",
+      "quote": "You can shop many of your favorite online retailers through the Acima MarketPlace™ right here on the web—or through our mobile app."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

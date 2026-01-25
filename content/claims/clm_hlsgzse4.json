@@ -1,0 +1,32 @@
+{
+  "id": "clm_hlsgzse4",
+  "title": "Brigit implements multi-factor authentication for account security",
+  "statement": "Brigit implements multi-factor authentication, automatic logouts, and ID verification to prevent unauthorized access.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3pom4upe",
+      "quote": "We implement multi-factor authentication, automatic logouts, and ID verification to help prevent unauthorized access."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

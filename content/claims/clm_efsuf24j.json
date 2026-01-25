@@ -1,0 +1,40 @@
+{
+  "id": "clm_efsuf24j",
+  "title": "Kevin Durant invested in Brigit through Thirty Five Ventures",
+  "statement": "Kevin Durant's Thirty Five Ventures made an investment in Brigit in January 2021.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "kevin-durant",
+      "role": "related"
+    },
+    {
+      "slug": "thirty-five-ventures",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bir02s3z",
+      "quote": "Kevin Durant's Thirty Five Ventures Invests in Brigit"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

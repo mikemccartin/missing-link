@@ -1,0 +1,32 @@
+{
+  "id": "clm_10ki0i11",
+  "title": "Acima requires minimum $300 cost for lease eligibility",
+  "statement": "Items must cost at least $300 each to be eligible for lease through Acima.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_c1s82p5v",
+      "quote": "Items must cost at least $300 each to be eligible for lease."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

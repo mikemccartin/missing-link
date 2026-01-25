@@ -1,0 +1,36 @@
+{
+  "id": "clm_c3nm9q2m",
+  "title": "Express Delivery provides cash within 20 minutes",
+  "statement": "Brigit's Express Delivery service delivers cash advances within 20 minutes for a fee.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "express-delivery",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngysrrl9",
+      "quote": "With Express Delivery, you'll receive your advance within 20 minutes"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

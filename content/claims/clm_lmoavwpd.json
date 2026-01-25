@@ -1,0 +1,36 @@
+{
+  "id": "clm_lmoavwpd",
+  "title": "Zuben Mathews won EY Entrepreneur Of The Year 2021 New York Award",
+  "statement": "EY announced Zuben Mathews as a winner of the Entrepreneur Of The Year 2021 New York Award in August 2021.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "zuben-mathews",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bir02s3z",
+      "quote": "EY Announces Zuben Mathews as a winner of the Entrepreneur Of The Year® 2021 New York Award"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_ehmiibnr",
+  "title": "Christopher Arroyo is a veteran on disability",
+  "statement": "Christopher Arroyo is a veteran receiving disability benefits with a daughter.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "christopher-arroyo",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mz8z94dl",
+      "quote": "Christopher Arroyo is a veteran on disability with a daughter to raise."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

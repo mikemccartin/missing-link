@@ -1,0 +1,36 @@
+{
+  "id": "clm_q9n4fykm",
+  "title": "Woodstock Furniture Outlet has 30% customer usage of Acima",
+  "statement": "Roughly 30% of Woodstock Furniture Outlet's customers are using Acima services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "related"
+    },
+    {
+      "slug": "woodstock-furniture-outlet",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5bo3ty2q",
+      "quote": "Roughly 30% of our customers are using this now. Our business has gone up..."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

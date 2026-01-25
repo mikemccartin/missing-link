@@ -1,0 +1,32 @@
+{
+  "id": "clm_x11p8kr9",
+  "title": "Brigit holds Nevada EWA Provider License EWA00008",
+  "statement": "Brigit holds EWA Provider License EWA00008 in Nevada",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2alu5x5j",
+      "quote": "EWA Provider License – EWA00008"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

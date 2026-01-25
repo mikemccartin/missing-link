@@ -1,0 +1,36 @@
+{
+  "id": "clm_zf3cmb4u",
+  "title": "Upbound Group acquired Acima in 2021",
+  "statement": "In 2021, Upbound Group, Inc. acquired Acima.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    },
+    {
+      "slug": "acima-leasing",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_l6d61mx7",
+      "quote": "In 2021, Upbound Group, Inc. acquired Acima."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

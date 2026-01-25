@@ -1,0 +1,36 @@
+{
+  "id": "clm_5iik7qvq",
+  "title": "Brigit is based in New York City",
+  "statement": "Brigit is a holistic financial health app based in New York City, New York.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "related"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_l6d61mx7",
+      "quote": "Brigit is a holistic financial health app based in New York City, New York"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

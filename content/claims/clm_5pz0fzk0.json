@@ -1,0 +1,36 @@
+{
+  "id": "clm_5pz0fzk0",
+  "title": "Brigit guarantees customer care response within 24 hours",
+  "statement": "If Sonny cannot resolve an issue, customers are routed to a Customer Care Associate and receive a response within 24 hours",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "sonny",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_a5rved73",
+      "quote": "If he can't find a solution, you'll be routed to a Customer Care Associate and receive a response within 24 hours"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_5g67oloa",
+  "title": "Rent-A-Center operates multiple store locations",
+  "statement": "Rent-A-Center has multiple physical store locations that customers can find.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hgwhzpz0",
+      "quote": "Find Your Store"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

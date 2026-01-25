@@ -1,0 +1,36 @@
+{
+  "id": "clm_5f6veufg",
+  "title": "Acima partners directly with some retailers",
+  "statement": "Acima partners directly with some retailers on Acima MarketPlace to offer integrated checkout experience.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "acima-marketplace",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_c1s82p5v",
+      "quote": "We partner directly with some retailers you find here on Acima MarketPlace™ to offer a more integrated checkout experience."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

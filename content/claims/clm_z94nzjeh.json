@@ -1,0 +1,36 @@
+{
+  "id": "clm_z94nzjeh",
+  "title": "Credit Builder users can cancel accounts at any time",
+  "statement": "Users can cancel their Credit Builder loan account at any time, with the loan reported as paid in full.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jm659w6t",
+      "quote": "we do allow you to cancel your Credit Builder Loan Account at any time. Should you choose to do so, we will report the Credit Builder installment loan as \"paid in full\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

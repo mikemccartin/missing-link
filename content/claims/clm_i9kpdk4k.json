@@ -1,0 +1,32 @@
+{
+  "id": "clm_i9kpdk4k",
+  "title": "Brigit launched in January 2019",
+  "statement": "Brigit, a holistic financial app, was launched in January 2019.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngg8quho",
+      "quote": "It's people like Phillips we had in mind when we launched Brigit, a holistic financial app, in January 2019."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

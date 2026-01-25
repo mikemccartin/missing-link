@@ -1,0 +1,44 @@
+{
+  "id": "clm_6ew41ml1",
+  "title": "Rent-A-Center offers rent-to-own computers",
+  "statement": "Rent-A-Center provides rent-to-own desktop and laptop computers from Dell, HP, and Asus brands.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "dell",
+      "role": "related"
+    },
+    {
+      "slug": "hp",
+      "role": "related"
+    },
+    {
+      "slug": "asus",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_eno2yszz",
+      "quote": "Shop rent-to-own desktop & laptop computers from Dell, HP & Asus at Rent-A-Center."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

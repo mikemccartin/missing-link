@@ -1,0 +1,36 @@
+{
+  "id": "clm_1wz1zbq5",
+  "title": "Upbound requires supplier code compliance",
+  "statement": "Upbound suppliers are subject to a Supplier Code of Conduct as a condition of doing business with the company.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    },
+    {
+      "slug": "supplier-code-of-conduct",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gqlhnqqu",
+      "quote": "suppliers are subject to as a condition of doing business with Upbound"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

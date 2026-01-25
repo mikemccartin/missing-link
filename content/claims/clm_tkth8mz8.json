@@ -1,0 +1,32 @@
+{
+  "id": "clm_tkth8mz8",
+  "title": "Acima approval amounts range from $300 to $5,000",
+  "statement": "Customers can be approved for eligible items valued between $300 and $5,000 through Acima.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7mfqtl73",
+      "quote": "You can be approved for eligible items valued at $300 to $5,000."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

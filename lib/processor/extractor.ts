@@ -28,6 +28,10 @@ import {
 // Claude API model to use
 const CLAUDE_MODEL = 'claude-sonnet-4-20250514';
 
+// Helper to convert null to undefined for optional fields
+const nullToUndefined = <T>(schema: z.ZodType<T>) =>
+  z.preprocess((val) => (val === null ? undefined : val), schema);
+
 /**
  * Schema for entity extraction response.
  */
@@ -36,8 +40,8 @@ const ExtractedEntitySchema = z.object({
   type: z.enum(['organization', 'person', 'product', 'project', 'event', 'place', 'concept', 'other']),
   description: z.string(),
   confidence: z.enum(['high', 'medium', 'low']),
-  officialSite: z.string().optional(),
-  parentEntity: z.string().optional(),
+  officialSite: nullToUndefined(z.string().optional()),
+  parentEntity: nullToUndefined(z.string().optional()),
 });
 
 /**
@@ -47,9 +51,9 @@ const ExtractedSourceSchema = z.object({
   title: z.string(),
   publisher: z.string(),
   type: z.enum(['webpage', 'pdf', 'academic-paper', 'press-release', 'news-article', 'government-document', 'social-media', 'video', 'podcast', 'book', 'report', 'other']),
-  author: z.string().optional(),
-  publishedDate: z.string().optional(),
-  excerpt: z.string().optional(),
+  author: nullToUndefined(z.string().optional()),
+  publishedDate: nullToUndefined(z.string().optional()),
+  excerpt: nullToUndefined(z.string().optional()),
   confidence: z.enum(['high', 'medium', 'low']),
 });
 
@@ -59,9 +63,9 @@ const ExtractedSourceSchema = z.object({
 const ExtractedClaimSchema = z.object({
   title: z.string().max(120),
   statement: z.string().max(240),
-  quote: z.string().max(300).optional(),
+  quote: nullToUndefined(z.string().max(300).optional()),
   entityRole: z.string(),
-  relatedEntities: z.array(z.string()).optional(),
+  relatedEntities: nullToUndefined(z.array(z.string()).optional()),
   confidence: z.enum(['high', 'medium', 'low']),
 });
 

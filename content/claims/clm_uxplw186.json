@@ -1,0 +1,36 @@
+{
+  "id": "clm_uxplw186",
+  "title": "Acima offers pre-built shopping cart plugins",
+  "statement": "Acima provides pre-built shopping cart plugins for eCommerce integration.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "acima-ecommerce-solutions",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_u7rece8v",
+      "quote": "Pre-built shopping cart plugins"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

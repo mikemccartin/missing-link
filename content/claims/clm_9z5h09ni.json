@@ -1,0 +1,36 @@
+{
+  "id": "clm_9z5h09ni",
+  "title": "Checking account must be active for 60 days",
+  "statement": "To qualify for Brigit Instant Cash, users' checking accounts must be active for at least 60 days.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-instant-cash",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngysrrl9",
+      "quote": "Active for at least 60 days"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

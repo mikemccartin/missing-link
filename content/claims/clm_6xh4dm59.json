@@ -1,0 +1,36 @@
+{
+  "id": "clm_6xh4dm59",
+  "title": "Acima named exclusive lease-to-own provider by Big Brand Tire and Service",
+  "statement": "Acima was named the exclusive lease-to-own provider by Big Brand Tire and Service on June 6, 2023.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "big-brand-tire-and-service",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tbs455ck",
+      "quote": "Acima Named Exclusive Lease-to-Own Provider by Big Brand Tire and Service 06/06/2023"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

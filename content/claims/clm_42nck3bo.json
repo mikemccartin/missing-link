@@ -1,0 +1,32 @@
+{
+  "id": "clm_42nck3bo",
+  "title": "Brigit provides financial wellness content and tips",
+  "statement": "Brigit operates a blog providing financial wellness tips covering budgeting, credit, saving, smart spending, and earning topics.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mdwi5tmf",
+      "quote": "Brigit Blog | Real Financial Wellness Tips By Real People"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

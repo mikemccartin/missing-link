@@ -1,0 +1,32 @@
+{
+  "id": "clm_960g787o",
+  "title": "Upbound Group makes current Code version accessible on corporate website",
+  "statement": "Upbound Group makes the current version of their Supplier Code accessible from their corporate website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e46ks3x6",
+      "quote": "The Company will either provide the updated Code to Supplier or make the current version accessible from the Company's corporate website."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

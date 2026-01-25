@@ -1,0 +1,32 @@
+{
+  "id": "clm_0mjrm7b5",
+  "title": "Acima enables shopping for brand-name products",
+  "statement": "Customers can shop for brand-name products using Acima's service.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_759eq2i7",
+      "quote": "Shop brand-name products at one of our retail partners"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

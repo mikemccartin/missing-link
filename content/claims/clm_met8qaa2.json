@@ -1,0 +1,36 @@
+{
+  "id": "clm_met8qaa2",
+  "title": "Customer service phone number for Acima Classic Credit Mastercard",
+  "statement": "The customer service phone number for the Acima Classic Credit Mastercard is 1-800-719-5467.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "concora-credit-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ohy4pwaq",
+      "quote": "Acima Classic CreditTM Mastercard® | 1-800-719-5467"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

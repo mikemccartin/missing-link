@@ -1,0 +1,32 @@
+{
+  "id": "clm_l7kbn6p3",
+  "title": "Rent-A-Center offers flexible payment schedules with no long-term commitments",
+  "statement": "Rent-A-Center allows customers to set their payment schedule without long-term commitments and provides upgrade flexibility.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7l7x2ftw",
+      "quote": "Set your payment schedule; no long-term commitments and the freedom to upgrade whenever you want."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

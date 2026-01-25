@@ -1,0 +1,36 @@
+{
+  "id": "clm_oogmlqin",
+  "title": "Acima Leasing provides alternative to traditional financing",
+  "statement": "Acima Leasing provides consumers with an alternative to traditional financing for durable goods from retailers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "related"
+    },
+    {
+      "slug": "acima-leasing",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rujmix58",
+      "quote": "providing consumers with an alternative to traditional financing and the ability to select durable goods from a wide range of retailers"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

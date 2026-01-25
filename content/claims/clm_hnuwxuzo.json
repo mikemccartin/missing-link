@@ -1,0 +1,32 @@
+{
+  "id": "clm_hnuwxuzo",
+  "title": "Brigit score ranges from 0-100",
+  "statement": "Brigit calculates a proprietary score ranging from 0 to 100 to determine user eligibility.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngysrrl9",
+      "quote": "Brigit looks at your account information and calculates a Brigit score from 0-100"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

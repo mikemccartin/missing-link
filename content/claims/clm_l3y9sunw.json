@@ -1,0 +1,32 @@
+{
+  "id": "clm_l3y9sunw",
+  "title": "Upbound conducts third-party supplier assessments",
+  "statement": "Upbound engages third-party suppliers to conduct on-site assessments of new supplier facilities, labor practices, and working conditions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gqlhnqqu",
+      "quote": "Upbound has engaged third-party suppliers to conduct on-site assessments of facilities, labor practices, working conditions, and product compliance to qualify as a supplier"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

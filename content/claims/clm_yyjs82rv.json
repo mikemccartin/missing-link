@@ -1,0 +1,48 @@
+{
+  "id": "clm_yyjs82rv",
+  "title": "Payments reported to three major credit bureaus",
+  "statement": "Brigit Credit Builder reports each payment to Experian, Equifax, and TransUnion credit bureaus.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    },
+    {
+      "slug": "experian",
+      "role": "related"
+    },
+    {
+      "slug": "equifax",
+      "role": "related"
+    },
+    {
+      "slug": "transunion",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t0cyxxeu",
+      "quote": "Each payment is reported to the three major credit bureaus—Experian, Equifax, and TransUnion."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

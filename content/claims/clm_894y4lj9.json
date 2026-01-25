@@ -1,0 +1,36 @@
+{
+  "id": "clm_894y4lj9",
+  "title": "RACFI has more than 440 franchised stores",
+  "statement": "RACFI has more than 440 franchised stores in the United States including Rent-A-Center and RimTyme locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "related"
+    },
+    {
+      "slug": "racfi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_l6d61mx7",
+      "quote": "RACFI has more than 440 franchised stores in the United States including Rent-A-Center and RimTyme locations"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

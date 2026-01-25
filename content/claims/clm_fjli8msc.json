@@ -1,0 +1,32 @@
+{
+  "id": "clm_fjli8msc",
+  "title": "NY and HI customers pay $10 processing fee, CA pays $18",
+  "statement": "Customers in New York and Hawaii pay a $10 processing fee, while California customers pay $18.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rqxvro9q",
+      "quote": "Customers in NY, HI will also pay a processing fee of $10 ($18 in CA)."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

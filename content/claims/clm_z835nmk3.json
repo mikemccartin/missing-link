@@ -1,0 +1,36 @@
+{
+  "id": "clm_z835nmk3",
+  "title": "Rent-A-Center carries Michael Kors handbags",
+  "statement": "Rent-A-Center offers handbags from the Michael Kors brand",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "michael-kors",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s39towy9",
+      "quote": "Find stylish rent-to-own affordable handbags from name brands like Michael Kors and Marc Jacobs at Rent-A-Center!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_lk3iev0m",
+  "title": "Brigit members saved over $250 million in fees",
+  "statement": "Since launch, Brigit members have saved over $250 million in fees in aggregate.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngg8quho",
+      "quote": "Since we launched, our members have saved over $250 million in fees in aggregate"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

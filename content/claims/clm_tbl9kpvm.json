@@ -1,0 +1,32 @@
+{
+  "id": "clm_tbl9kpvm",
+  "title": "Acima released Shopify app in August 2023",
+  "statement": "Acima released a new Shopify app in August 2023 to make retailer integration easier.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rx931u6d",
+      "quote": "Acima Releases New Shopify App, Making Retailer Integration Easier Than Ever Aug 8, 2023"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

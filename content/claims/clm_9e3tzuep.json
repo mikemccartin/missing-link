@@ -1,0 +1,32 @@
+{
+  "id": "clm_9e3tzuep",
+  "title": "Upbound Group has subsidiaries, affiliates and divisions",
+  "statement": "Upbound Group, Inc. has subsidiaries, affiliates and divisions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e46ks3x6",
+      "quote": "Upbound Group, Inc. (formerly known as Rent-A-Center, Inc.), and its subsidiaries, affiliates and divisions"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_ed81m0ci",
+  "title": "Minimum age requirement is 18 years old",
+  "statement": "Applicants must be at least 18 years old to be approved for the Acima Classic Credit Mastercard.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_poat0bgm",
+      "quote": "To be approved, you must: Be at least 18 years old, have a valid social security number, physical address, and a US IP address."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

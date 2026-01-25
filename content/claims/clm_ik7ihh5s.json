@@ -1,0 +1,36 @@
+{
+  "id": "clm_ik7ihh5s",
+  "title": "Rent-A-Center carries Marc Jacobs handbags",
+  "statement": "Rent-A-Center offers handbags from the Marc Jacobs brand",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "marc-jacobs",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s39towy9",
+      "quote": "Find stylish rent-to-own affordable handbags from name brands like Michael Kors and Marc Jacobs at Rent-A-Center!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

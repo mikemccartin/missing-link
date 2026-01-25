@@ -1,0 +1,32 @@
+{
+  "id": "clm_oxr8pu0e",
+  "title": "Acima offers Classic Credit Mastercard",
+  "statement": "Acima provides a credit card product called the Acima Classic Credit Mastercard.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_o40ms0tb",
+      "quote": "Introducing the Acima Classic Credit® Mastercard®"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.acima.com crawl"
+    }
+  ]
+}

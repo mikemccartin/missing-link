@@ -1,0 +1,36 @@
+{
+  "id": "clm_zbt8p5ry",
+  "title": "Rent-A-Center is based in Plano, Texas",
+  "statement": "Rent-A-Center is based in Plano, Texas.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "related"
+    },
+    {
+      "slug": "rent-a-center",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_l6d61mx7",
+      "quote": "Rent-A-Center was founded in 1973 and is based in Plano, Texas"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "clm_7kvgofgq",
+  "title": "Rent-A-Center offers pre-approval for top brands",
+  "statement": "Rent-A-Center provides pre-approval services for top brands including Ashley and Samsung.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "ashley",
+      "role": "related"
+    },
+    {
+      "slug": "samsung",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lgzh5j77",
+      "quote": "Get pre-approved for top brands like Ashley, Samsung and more!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_929a0svh",
+  "title": "Acima app provides lease management functionality",
+  "statement": "The Acima app allows online and in-store shopping with lease management capabilities.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "acima-app",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fat0ke3t",
+      "quote": "The Acima app allows online and in-store shopping with lease management."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_rg3hprjl",
+  "title": "Dominique Phillips is a special education teacher",
+  "statement": "Dominique Phillips works as a special education teacher in New York.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "dominique-phillips",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mz8z94dl",
+      "quote": "Dominique Phillips is a New Yorker, born and raised. She's a special education teacher (and a mom)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

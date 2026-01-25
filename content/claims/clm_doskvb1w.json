@@ -1,0 +1,32 @@
+{
+  "id": "clm_doskvb1w",
+  "title": "Rent-A-Center provides Spanish language support",
+  "statement": "Rent-A-Center offers Spanish language options on their website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tklkyedj",
+      "quote": "Español"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

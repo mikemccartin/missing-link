@@ -1,0 +1,36 @@
+{
+  "id": "clm_fsvaw0rl",
+  "title": "Brigit offers cash advances without late fees or credit checks",
+  "statement": "Brigit provides cash advances with no late fees and no credit check required.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hkw86qhn",
+      "quote": "Approval for an advance is a few taps away. No late fees. No credit check."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

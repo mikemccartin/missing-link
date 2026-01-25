@@ -1,0 +1,40 @@
+{
+  "id": "clm_6exn5kyb",
+  "title": "Finance Helper is part of Brigit Free plan",
+  "statement": "Finance Helper is included as part of the Brigit Free plan offering.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "finance-helper",
+      "role": "related"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kvfq76jv",
+      "quote": "As part of the Brigit Free plan, you get access to clear financial insights you can use"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "clm_icsq3wd2",
+  "title": "Rent-A-Center partners with Whirlpool and Amana brands",
+  "statement": "Rent-A-Center rents appliances from top brands including Whirlpool and Amana.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "whirlpool",
+      "role": "related"
+    },
+    {
+      "slug": "amana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gcrhshga",
+      "quote": "Rent appliances from top brands like Whirlpool and Amana at Rent-A-Center."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

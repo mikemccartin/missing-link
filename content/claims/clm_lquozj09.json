@@ -1,0 +1,32 @@
+{
+  "id": "clm_lquozj09",
+  "title": "Acima application does not harm credit",
+  "statement": "Acima's application process does not harm customer credit scores.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_x6qqu2jq",
+      "quote": "Our application is fast and easy to complete, and won't harm your credit"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

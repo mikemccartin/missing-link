@@ -1,0 +1,32 @@
+{
+  "id": "clm_ucujacwp",
+  "title": "Brigit offers services in South Carolina under SCDCA license",
+  "statement": "Brigit offers Earned Wage Access advance services in South Carolina pursuant to a license issued by the South Carolina Department of Consumer Affairs",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2alu5x5j",
+      "quote": "Brigit offers Earned Wage Access advance services in the state of South Carolina pursuant to a license issued by the South Carolina Department of Consumer Affairs"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clm_w4namwcy",
+  "title": "Acima Classic Credit Mastercard issued by The Bank of Missouri",
+  "statement": "The Acima Classic Credit Mastercard is issued by The Bank of Missouri pursuant to a license from Mastercard and serviced by Concora Credit Inc.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "the-bank-of-missouri",
+      "role": "related"
+    },
+    {
+      "slug": "mastercard",
+      "role": "related"
+    },
+    {
+      "slug": "concora-credit-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ohy4pwaq",
+      "quote": "Acima Classic Mastercard is issued by The Bank of Missouri pursuant to a license from Mastercard and serviced by Concora Credit Inc."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

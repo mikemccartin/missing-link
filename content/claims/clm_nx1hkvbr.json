@@ -1,0 +1,36 @@
+{
+  "id": "clm_nx1hkvbr",
+  "title": "Brigit collects Social Security numbers and employment information",
+  "statement": "Brigit collects personal information including Social Security numbers, employment information, income, and account balances from customers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_erd3x775",
+      "quote": "Social Security number Employment information and income Account balances Account transactions and transaction history"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

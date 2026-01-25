@@ -1,0 +1,36 @@
+{
+  "id": "clm_tchwtlcb",
+  "title": "Acima Leasing serves both consumers and retailers",
+  "statement": "Acima Leasing provides consumers financing alternatives while providing retailers with increased business opportunities.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "related"
+    },
+    {
+      "slug": "acima-leasing",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_25kyesvj",
+      "quote": "providing consumers with an alternative to traditional financing and the ability to select durable goods from a wide range of retailers and providing retailers with increased business opportunities"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}

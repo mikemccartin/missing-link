@@ -1,0 +1,44 @@
+{
+  "id": "clm_a98e9e68",
+  "title": "Rent-A-Center carries LG, Samsung, and Nintendo products",
+  "statement": "Rent-A-Center offers electronics from manufacturers including LG, Samsung, and Nintendo.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "lg",
+      "role": "related"
+    },
+    {
+      "slug": "samsung",
+      "role": "related"
+    },
+    {
+      "slug": "nintendo",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tklkyedj",
+      "quote": "Rent electronics like TVs & Game consoles from LG, Samsung, Nintendo & more!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

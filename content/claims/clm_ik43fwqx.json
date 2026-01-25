@@ -1,0 +1,44 @@
+{
+  "id": "clm_ik43fwqx",
+  "title": "Acima uses soft credit pulls",
+  "statement": "Acima uses soft credit pulls when accessing consumer reports from national credit reporting agencies TransUnion, Experian, and Equifax.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "transunion",
+      "role": "related"
+    },
+    {
+      "slug": "experian",
+      "role": "related"
+    },
+    {
+      "slug": "equifax",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7mfqtl73",
+      "quote": "Acima uses a soft pull when it accesses your consumer report from any of the national credit reporting agencies (TransUnion, Experian, and Equifax)."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

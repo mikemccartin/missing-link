@@ -143,7 +143,17 @@ function loadPageResult(crawlPath: string, urlHash: string): PageResult | null {
 
   try {
     const content = fs.readFileSync(jsonPath, 'utf-8');
-    return JSON.parse(content) as PageResult;
+    const pageResult = JSON.parse(content) as PageResult;
+
+    // Load text from separate .txt file if JSON text field is empty
+    if (!pageResult.text || pageResult.text.trim().length === 0) {
+      const txtPath = path.join(crawlPath, 'pages', `${urlHash}.txt`);
+      if (fs.existsSync(txtPath)) {
+        pageResult.text = fs.readFileSync(txtPath, 'utf-8');
+      }
+    }
+
+    return pageResult;
   } catch {
     return null;
   }

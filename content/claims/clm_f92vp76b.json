@@ -1,0 +1,32 @@
+{
+  "id": "clm_f92vp76b",
+  "title": "Acima customers can get approval decisions in seconds",
+  "statement": "Customers can receive approval decisions in seconds through Acima's quick online application process.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_u7rece8v",
+      "quote": "Customers get an approval decision in seconds using our quick online application"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

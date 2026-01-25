@@ -1,0 +1,32 @@
+{
+  "id": "clm_m26s9qwm",
+  "title": "Acima offers lease-to-own shopping services",
+  "statement": "Acima provides lease-to-own services that make shopping easier for customers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xqjy5cvu",
+      "quote": "How Acima Leasing Works: Use Lease-to-Own to Make Shopping Easier"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

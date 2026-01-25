@@ -1,0 +1,32 @@
+{
+  "id": "clm_e3ev1nzw",
+  "title": "Acima provides store locator functionality",
+  "statement": "Acima offers a store locator service to help customers find nearby retailers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ywehszqz",
+      "quote": "Use our store locator to find a retailer near you."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

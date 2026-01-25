@@ -1,0 +1,32 @@
+{
+  "id": "clm_vs4s2q5a",
+  "title": "Acima operates a store locator service",
+  "statement": "Acima provides a store locator service to help customers find stores near them that accept Acima.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jnxpzq8t",
+      "quote": "Find Stores Near You to Shop with Acima - Store Locator"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

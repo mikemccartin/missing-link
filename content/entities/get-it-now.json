@@ -1,10 +1,10 @@
 {
   "slug": "get-it-now",
-  "name": "Get It Now",
+  "name": "Get It Now!",
   "type": "organization",
-  "description": "Get It Now is a retail installment sale retailer operating more than 50 stores in Wisconsin and Minnesota. The brand offers customers a convenient way to own furniture, appliances, electronics, and computers from top brands through flexible payment options.",
+  "description": "A retail installment sale business operating stores in Wisconsin and Minnesota offering furniture, appliances, electronics and computers.",
   "links": {
     "officialSite": "https://www.getitnowstores.com"
   },
-  "parentEntity": "upbound"
+  "parentEntity": "upbound-group-inc"
 }

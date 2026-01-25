@@ -1,0 +1,32 @@
+{
+  "id": "clm_fv7h3n0j",
+  "title": "Upbound stores opt-out choices via cookies",
+  "statement": "Upbound's opt-out choices are stored using cookies and may be lost if cookies are cleared or blocked.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cogrv171",
+      "quote": "Please note that opt-out choices may be stored via cookies. If you clear cookies, if your browser blocks cookies, or if you view the page from a different browser or device, your opt-out choice may no longer be logged"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "clm_6n2ngib7",
+  "title": "Upbound Group provides opt-out rights to California and Virginia residents",
+  "statement": "California and Virginia residents have the right to opt out of personal information sales under CCPA and VCDPA laws.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    },
+    {
+      "slug": "california-consumer-privacy-act",
+      "role": "related"
+    },
+    {
+      "slug": "virginia-consumer-data-protection-act",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nzhaiye4",
+      "quote": "As a California or Virginia resident, you have the right to tell us not to disclose or transfer your Personal Information to a third party in exchange for something of value."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

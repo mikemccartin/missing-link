@@ -1,0 +1,36 @@
+{
+  "id": "clm_o377kah0",
+  "title": "Upbound Group operates Rent-A-Center lease-to-own business",
+  "statement": "Upbound Group's Rent-A-Center business offers omni-channel lease-to-own solutions for home furnishing and durable goods without credit requirements.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    },
+    {
+      "slug": "rent-a-center",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bvc5rsy8",
+      "quote": "Our Rent-A-Center business offers a flexible and easy omni-channel lease-to-own solution for customers to furnish their homes and access other durable goods they need and enjoy, affordably and without incurring a long-term obligation or relying on credit to finance a purchase"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_dyu42kac",
+  "title": "Acima approves 80% of credit denials for lease",
+  "statement": "Over 50% of prime credit applications are denied, but Acima approves 80% of those credit denials for a lease.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5bo3ty2q",
+      "quote": "Over 50% of prime credit apps are denied. Acima approves 80% of those credit denials for a lease."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_i84uwe6c",
+  "title": "Rent-A-Center offers rent-to-own furniture, appliances, electronics, and computers",
+  "statement": "Rent-A-Center provides rent-to-own services for furniture, appliances, electronics, and computers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_v942ij28",
+      "quote": "Rent to Own Furniture, Appliances, Electronics, and Computers"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

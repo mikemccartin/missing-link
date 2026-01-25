@@ -1,0 +1,44 @@
+{
+  "id": "clm_oqtnzbwx",
+  "title": "Acima mobile app includes partnerships with major retailers",
+  "statement": "The Acima mobile app allows shopping with Amazon, Best Buy, and Walmart.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "amazon",
+      "role": "related"
+    },
+    {
+      "slug": "best-buy",
+      "role": "related"
+    },
+    {
+      "slug": "walmart",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1gjzrrjx",
+      "quote": "Shop big names like Amazon, Best Buy & Walmart – only in the app."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

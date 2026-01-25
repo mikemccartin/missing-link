@@ -1,0 +1,32 @@
+{
+  "id": "clm_cm1dnp7d",
+  "title": "Rent-A-Center offers rent-to-own electronics",
+  "statement": "Rent-A-Center provides rent-to-own electronics services including TVs and game consoles.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tklkyedj",
+      "quote": "Rent electronics like TVs & Game consoles from LG, Samsung, Nintendo & more!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

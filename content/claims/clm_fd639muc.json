@@ -1,0 +1,32 @@
+{
+  "id": "clm_fd639muc",
+  "title": "Acima transactions keep customers on merchant websites",
+  "statement": "Customers can complete their transactions through Acima without leaving the merchant's website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_u7rece8v",
+      "quote": "Your customers can complete their transaction without leaving your site."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

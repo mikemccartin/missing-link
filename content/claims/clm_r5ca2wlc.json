@@ -1,0 +1,40 @@
+{
+  "id": "clm_r5ca2wlc",
+  "title": "Coastal Community Bank issues Credit Builder loans",
+  "statement": "Brigit Credit Builder installment loans are issued by Coastal Community Bank, Member FDIC.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    },
+    {
+      "slug": "coastal-community-bank",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t0cyxxeu",
+      "quote": "Brigit Credit Builder installment loans are issued by Coastal Community Bank, Member FDIC, subject to approved underwriting practices."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

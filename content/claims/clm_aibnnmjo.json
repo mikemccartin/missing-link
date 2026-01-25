@@ -1,0 +1,32 @@
+{
+  "id": "clm_aibnnmjo",
+  "title": "Brigit is a financial wellness app for Americans",
+  "statement": "Brigit is a financial wellness app helping Americans build a brighter financial future, get cash, build credit, budget better, and find side gigs.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_50hrp9k8",
+      "quote": "Brigit is a financial wellness app helping Americans build a brighter financial future, get cash, build credit, budget better, and find side gigs."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

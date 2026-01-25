@@ -1,0 +1,32 @@
+{
+  "id": "clm_2m8cdosr",
+  "title": "Brigit recognized on Forbes Fintech 50 list in June 2022",
+  "statement": "Brigit was recognized as the future of personal finance on Forbes Fintech 50 list in June 2022.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6qegqc9j",
+      "quote": "Brigit recognized as the future of personal finance on Forbes Fintech 50 list"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

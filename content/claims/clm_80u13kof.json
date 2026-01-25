@@ -1,0 +1,36 @@
+{
+  "id": "clm_80u13kof",
+  "title": "Brigit uses 256-bit encryption",
+  "statement": "Brigit secures user data with 256-bit encryption, the same level used by banks.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_it470p50",
+      "quote": "We secure all of your data with the same 256-bit encryption that banks use"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

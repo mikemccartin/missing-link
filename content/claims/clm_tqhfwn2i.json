@@ -1,0 +1,36 @@
+{
+  "id": "clm_tqhfwn2i",
+  "title": "Zuben Mathews is Co-founder and CEO of Brigit",
+  "statement": "Zuben Mathews holds the position of Co-founder and CEO at Brigit.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "zuben-mathews",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_21jepjb7",
+      "quote": "Zuben Mathews Co-founder and CEO"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

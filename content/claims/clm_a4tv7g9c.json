@@ -1,0 +1,32 @@
+{
+  "id": "clm_a4tv7g9c",
+  "title": "Services like installation and warranties not eligible for lease",
+  "statement": "Extended warranties, installation services, and similar services are not eligible to be added to Acima lease agreements.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ryfs1w2h",
+      "quote": "These types of services are not eligible to be added to your lease agreement."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

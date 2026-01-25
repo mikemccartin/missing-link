@@ -1,0 +1,36 @@
+{
+  "id": "clm_yqkuui6x",
+  "title": "Brigit received $75M debt financing from CIM in April 2021",
+  "statement": "Brigit announced $75 million in debt financing from Social Impact fund CIM in April 2021.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "cim",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6qegqc9j",
+      "quote": "Brigit Announces $75M in Debt Financing from Social Impact fund - CIM"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

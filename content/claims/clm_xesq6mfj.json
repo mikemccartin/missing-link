@@ -1,0 +1,40 @@
+{
+  "id": "clm_xesq6mfj",
+  "title": "Brigit has 4.7+ rating with 562k reviews",
+  "statement": "Brigit maintains a 4.7+ star rating based on 562,000 reviews across App Store and Google Play.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "app-store",
+      "role": "related"
+    },
+    {
+      "slug": "google-play",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngysrrl9",
+      "quote": "4.7+ rating with 562k reviews on the App Store and Google Play"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

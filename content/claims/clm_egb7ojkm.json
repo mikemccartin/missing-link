@@ -1,0 +1,36 @@
+{
+  "id": "clm_egb7ojkm",
+  "title": "Rent-A-Center carries Ashley brand furniture",
+  "statement": "Rent-A-Center sells furniture from the Ashley brand as part of their rent-to-own inventory.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "ashley",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nb6hxq8t",
+      "quote": "Shop rent-to-own furniture from top brands like Ashley at Rent-A-Center"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

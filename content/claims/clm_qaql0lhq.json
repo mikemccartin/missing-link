@@ -1,0 +1,32 @@
+{
+  "id": "clm_qaql0lhq",
+  "title": "Acima Leasing named 2025 Utah Top Workplace",
+  "statement": "Acima Leasing was honored as a 2025 Utah Top Workplace on September 8, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tbs455ck",
+      "quote": "Acima Leasing Honored as a 2025 Utah Top Workplace 9/8/2025"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

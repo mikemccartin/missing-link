@@ -1,0 +1,32 @@
+{
+  "id": "clm_c7e92k4x",
+  "title": "Starting amount is $10 in most states",
+  "statement": "In most states, customers need only $10 to start an agreement at Rent-A-Center.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rqxvro9q",
+      "quote": "In most states, $10 is all you need to get started at Rent-A-Center."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

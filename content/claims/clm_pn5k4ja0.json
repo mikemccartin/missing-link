@@ -1,0 +1,32 @@
+{
+  "id": "clm_pn5k4ja0",
+  "title": "90% of members report stress reduction",
+  "statement": "More than 90 percent of Brigit members say they have experienced a significant reduction of stress since joining.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngg8quho",
+      "quote": "She is one of the more than 90 percent of our members who say they have experienced a \"significant\" reduction of stress since joining Brigit."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_aksclfao",
+  "title": "Many Americans don't have $400 for emergencies",
+  "statement": "Many Americans don't have $400 saved for emergency expenses.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_21jepjb7",
+      "quote": "Maybe, like them, you don't even have $400 socked away for emergencies."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

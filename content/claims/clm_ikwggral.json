@@ -1,0 +1,32 @@
+{
+  "id": "clm_ikwggral",
+  "title": "Brigit provides security support via email contact",
+  "statement": "Brigit provides security support and can be contacted at info@hellobrigit.com for security questions or concerns.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3pom4upe",
+      "quote": "If you have any questions or concerns about security, please contact info@hellobrigit.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

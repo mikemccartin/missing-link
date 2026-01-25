@@ -1,0 +1,36 @@
+{
+  "id": "clm_ov5zmbt9",
+  "title": "Upbound Group was formerly known as Rent-A-Center",
+  "statement": "Upbound Group, Inc. was formerly known as Rent-A-Center, Inc.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    },
+    {
+      "slug": "rent-a-center-inc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e46ks3x6",
+      "quote": "Upbound Group, Inc. (formerly known as Rent-A-Center, Inc.)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

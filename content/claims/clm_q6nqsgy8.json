@@ -1,0 +1,36 @@
+{
+  "id": "clm_q6nqsgy8",
+  "title": "Brigit requires no credit check",
+  "statement": "Brigit does not require a credit check for signup",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6ibw24mi",
+      "quote": "No credit check required"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from hellobrigit.com crawl"
+    }
+  ]
+}

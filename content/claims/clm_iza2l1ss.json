@@ -1,0 +1,36 @@
+{
+  "id": "clm_iza2l1ss",
+  "title": "Acima provides sandbox and production API credentials",
+  "statement": "Acima has both Sandbox and production API credentials available for testing applications end-to-end before going live.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    },
+    {
+      "slug": "rest-api",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_u7rece8v",
+      "quote": "Acima has Sandbox and production API credentials, allowing you to test the application end-to-end before going live."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

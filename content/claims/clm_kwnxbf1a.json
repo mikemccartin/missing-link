@@ -1,0 +1,32 @@
+{
+  "id": "clm_kwnxbf1a",
+  "title": "Rent-A-Center provides flexible payment options",
+  "statement": "Rent-A-Center offers flexible payments designed to fit customers' budgets.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_g4j62gnz",
+      "quote": "flexible payments that fit your budget"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

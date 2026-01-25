@@ -1,0 +1,7 @@
+{
+  "slug": "finance-helper",
+  "name": "Finance Helper",
+  "type": "product",
+  "description": "A financial tool by Brigit that helps users budget better, track spending, and improve their finances.",
+  "parentEntity": "brigit"
+}

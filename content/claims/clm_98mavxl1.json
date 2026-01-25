@@ -1,0 +1,32 @@
+{
+  "id": "clm_98mavxl1",
+  "title": "Typical overdraft fee amount is $34",
+  "statement": "Banks typically charge about $34 per overdraft transaction",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ciz7c9l3",
+      "quote": "chances are you've seen a pesky fee on your bank statement called an \"overdraft fee\" or \"non-sufficient funds fee\" that deducts about $34 from your balance"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

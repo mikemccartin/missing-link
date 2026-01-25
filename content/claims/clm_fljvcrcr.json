@@ -1,0 +1,36 @@
+{
+  "id": "clm_fljvcrcr",
+  "title": "Brigit offers 24/7 AI customer support via email",
+  "statement": "Brigit provides 24/7 customer support through an AI Agent named Sonny at [email protected]",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "sonny",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_a5rved73",
+      "quote": "For the fastest response, email our new AI Agent, Sonny, 24/7 at [email protected]"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

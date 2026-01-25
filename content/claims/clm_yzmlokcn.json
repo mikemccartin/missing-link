@@ -1,0 +1,32 @@
+{
+  "id": "clm_yzmlokcn",
+  "title": "Rent-A-Center offers online ordering",
+  "statement": "Customers can place orders through Rent-A-Center's online platform",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_v81c9nnj",
+      "quote": "Order online or visit a Rent-A-Center store near you"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

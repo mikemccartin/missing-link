@@ -1,0 +1,36 @@
+{
+  "id": "clm_ki0vdg4q",
+  "title": "Upbound Group operates Acima Leasing business",
+  "statement": "Upbound Group's Acima Leasing business is a lease-to-own technology platform providing consumers alternatives to traditional financing.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    },
+    {
+      "slug": "acima-leasing",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_25kyesvj",
+      "quote": "Our Acima Leasing business is a best in-class lease-to-own technology platform, providing consumers with an alternative to traditional financing"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}

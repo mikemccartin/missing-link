@@ -1,0 +1,40 @@
+{
+  "id": "clm_5pudaus4",
+  "title": "Coastal Community Bank provides Brigit Credit Builder accounts",
+  "statement": "Brigit Credit Builder accounts are provided by Coastal Community Bank, Member FDIC – NMLS ID 462289",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "coastal-community-bank",
+      "role": "related"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2alu5x5j",
+      "quote": "Brigit Credit Builder accounts are provided by Coastal Community Bank, Member FDIC – NMLS ID 462289"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

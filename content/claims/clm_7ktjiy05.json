@@ -1,0 +1,36 @@
+{
+  "id": "clm_7ktjiy05",
+  "title": "Brigit Credit Builder minimum payment is $1 per month",
+  "statement": "Users can build credit with Brigit Credit Builder by saving as little as $1 per month.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jm659w6t",
+      "quote": "you can build credit and grow savings by paying as little as $1 a month"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

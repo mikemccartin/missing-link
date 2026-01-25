@@ -1,0 +1,32 @@
+{
+  "id": "clm_b4vt3lzz",
+  "title": "Rent-A-Center operates without credit verification",
+  "statement": "Rent-A-Center provides access to products without credit checks or verification.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lgzh5j77",
+      "quote": "sin complicaciones ni verificación de crédito"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.rentacenter.com crawl"
+    }
+  ]
+}

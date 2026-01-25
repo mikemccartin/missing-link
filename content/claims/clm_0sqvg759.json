@@ -1,0 +1,32 @@
+{
+  "id": "clm_0sqvg759",
+  "title": "Acima leases merchandise for personal, family, or household use",
+  "statement": "Acima Leasing provides lease services for merchandise intended for personal, family, or household use to consumers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ryfs1w2h",
+      "quote": "We lease merchandise for personal, family, or household use to consumers."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_gizwquov",
+  "title": "Upbound Group collects and shares information with partners and affiliates",
+  "statement": "Upbound Group may collect information from or share information with partners, affiliates, subsidiaries, and joint ventures.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nzhaiye4",
+      "quote": "We may collect information from—or share information with—our partners, such as market research firms, and our affiliates, subsidiaries, joint ventures, or other companies under common control."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

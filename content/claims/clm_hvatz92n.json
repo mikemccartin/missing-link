@@ -1,0 +1,36 @@
+{
+  "id": "clm_hvatz92n",
+  "title": "Brigit has over 12 million users",
+  "statement": "Brigit has joined more than 12 million users according to their homepage.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_it470p50",
+      "quote": "Join 12 million+ users who get cash fast, build their credit, and save smarter with Brigit"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_lzjisihk",
+  "title": "Acima Digital has patent-pending status",
+  "statement": "Acima Digital is a patent-pending digital platform.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "related"
+    },
+    {
+      "slug": "acima-digital",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_o8mfotbq",
+      "quote": "Our new patent-pending digital platform leverages mobile, web, and in-store technology"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

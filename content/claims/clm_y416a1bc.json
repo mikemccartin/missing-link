@@ -1,0 +1,36 @@
+{
+  "id": "clm_y416a1bc",
+  "title": "Chuck Wait Tire increased tire sales by 20% with Acima",
+  "statement": "Chuck Wait Tire in Marietta, GA increased their new tire sales by about 20% from having Acima.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "related"
+    },
+    {
+      "slug": "chuck-wait-tire",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5bo3ty2q",
+      "quote": "We have increased our new tire sales by about 20%, just from having Acima."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_iu9cegwa",
+  "title": "Acima offers approval amounts up to $5,000",
+  "statement": "Acima provides high approval amounts of up to $5,000 for leasing.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rx931u6d",
+      "quote": "High approval amounts of up to $5,000† for leasing help customers get what they need."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

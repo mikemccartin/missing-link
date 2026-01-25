@@ -1,0 +1,32 @@
+{
+  "id": "clm_wzn2hrff",
+  "title": "Brigit provides phone and wifi stipend",
+  "statement": "Brigit provides phone and wifi stipend for hybrid and remote employees.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_i2tmnhip",
+      "quote": "Whether you're in a hybrid or remote role, we make sure our employees have what they need to work effectively outside of the office."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

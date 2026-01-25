@@ -1,0 +1,32 @@
+{
+  "id": "clm_51i885ys",
+  "title": "Bridge IT, Inc. operates hellobrigit website",
+  "statement": "Bridge IT, Inc. operates the website located at www.hellobrigit.com and associated services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gpy4iokr",
+      "quote": "Bridge IT, Inc., its parents, subsidiaries, partners, third-party service providers, affiliates, agents, and assigns (\"Brigit\", \"we\", \"us\", or \"our\") that sets forth the terms and conditions governing your use of and access to the website located at [www.hellobrigit.com]"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

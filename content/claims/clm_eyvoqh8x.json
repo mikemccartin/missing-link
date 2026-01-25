@@ -1,0 +1,32 @@
+{
+  "id": "clm_eyvoqh8x",
+  "title": "Acima partners with thousands of retailers",
+  "statement": "Acima operates at thousands of retailers across the United States.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_efcc6cn2",
+      "quote": "Our proprietary technology enables customers to shop through our mobile app, online, or in stores at thousands of retailers across the nation."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

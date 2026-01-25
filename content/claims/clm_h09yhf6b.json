@@ -1,0 +1,36 @@
+{
+  "id": "clm_h09yhf6b",
+  "title": "Upbound Group acquired Brigit in January 2025",
+  "statement": "Upbound Group completed the acquisition of Brigit, a financial health technology firm, in January 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "upbound-group",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bir02s3z",
+      "quote": "Upbound Group Closes Acquisition of Brigit, a Leading Financial Health Technology Firm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_wottxmcl",
+  "title": "Brigit does not perform hard credit pulls for Credit Builder",
+  "statement": "Brigit does not perform a hard credit pull or inquiry when users apply for Credit Builder accounts.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-credit-builder",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jm659w6t",
+      "quote": "Brigit does NOT perform a hard credit pull or inquiry, and there is no minimum credit score required to open the account"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

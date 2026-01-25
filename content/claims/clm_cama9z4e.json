@@ -1,0 +1,32 @@
+{
+  "id": "clm_cama9z4e",
+  "title": "Brigit members saved over $250M in fees since launch",
+  "statement": "Brigit helped members save more than $250 million in fees since the company's launch.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6qegqc9j",
+      "quote": "Financial Health Mobile App Brigit Helps Members Save More Than $250 Million in Fees Since Launch"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

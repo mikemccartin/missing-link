@@ -1,0 +1,32 @@
+{
+  "id": "clm_2mo5wg64",
+  "title": "Acima offers flexible leasing options",
+  "statement": "Acima provides flexible leasing options for brand-name products.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jnxpzq8t",
+      "quote": "Shop brand-name products at one of our retail partners for flexible leasing options"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

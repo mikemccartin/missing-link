@@ -1,0 +1,32 @@
+{
+  "id": "clm_1bjljozt",
+  "title": "Brigit requires supported bank account with 90-day transaction history",
+  "statement": "Users must have a checking account with Brigit's supported banks that allows third-party data aggregators to view 90 days of transactions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gpy4iokr",
+      "quote": "You must have a checking account with one of our supported banks or credit unions (a \"Bank Account\"); and Your Bank Account must enable our third-party data aggregators to view your transactions for the last ninety (90) days."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

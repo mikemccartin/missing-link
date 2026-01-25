@@ -1,0 +1,36 @@
+{
+  "id": "clm_m5oxdgh3",
+  "title": "Brigit signup takes 2 minutes",
+  "statement": "It takes 2 minutes to sign up for Brigit",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6ibw24mi",
+      "quote": "It only takes 2 minutes to sign up"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from hellobrigit.com crawl"
+    }
+  ]
+}

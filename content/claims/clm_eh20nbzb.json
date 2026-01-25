@@ -1,0 +1,35 @@
+{
+  "id": "clm_eh20nbzb",
+  "title": "Rent-A-Center uses Apple touch icon with 152x152 pixel dimensions",
+  "statement": "Rent-A-Center's website includes an Apple touch icon image file with dimensions of 152x152 pixels.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "rent-a-center",
+      "role": "subject"
+    },
+    {
+      "slug": "rent-a-center",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_v3xznpgc"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from rentacenter.com crawl"
+    }
+  ]
+}

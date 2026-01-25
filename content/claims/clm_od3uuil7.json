@@ -1,0 +1,32 @@
+{
+  "id": "clm_od3uuil7",
+  "title": "Acima helped partners close billions in additional sales",
+  "statement": "Acima has helped retail partners close billions in additional sales.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fat0ke3t",
+      "quote": "We've helped our retail partners close bilions in additional sales"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

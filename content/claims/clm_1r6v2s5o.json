@@ -1,0 +1,36 @@
+{
+  "id": "clm_1r6v2s5o",
+  "title": "Brigit shares customer information for everyday business purposes",
+  "statement": "Brigit shares customer personal information for everyday business purposes such as processing transactions and maintaining accounts.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_erd3x775",
+      "quote": "For our everyday business purposes — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations Yes"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

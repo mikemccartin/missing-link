@@ -1,0 +1,32 @@
+{
+  "id": "clm_0gd4ziyd",
+  "title": "Acima partners with 11,000+ retailers",
+  "statement": "Acima has partnerships with more than 11,000 retailers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rx931u6d",
+      "quote": "11,000+ retailers"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

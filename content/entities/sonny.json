@@ -1,0 +1,7 @@
+{
+  "slug": "sonny",
+  "name": "Sonny",
+  "type": "product",
+  "description": "An AI Agent used by Brigit for customer support via email at [email protected].",
+  "parentEntity": "brigit"
+}

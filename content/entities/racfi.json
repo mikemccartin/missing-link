@@ -1,0 +1,10 @@
+{
+  "slug": "racfi",
+  "name": "RACFI",
+  "type": "organization",
+  "description": "Rent-A-Center Franchise International, a franchise business specializing in rent-to-own home furniture, appliances, electronics and other durable items.",
+  "links": {
+    "officialSite": "https://www.rentacenter.com"
+  },
+  "parentEntity": "upbound-group-inc"
+}

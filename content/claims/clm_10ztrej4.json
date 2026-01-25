@@ -1,0 +1,36 @@
+{
+  "id": "clm_10ztrej4",
+  "title": "Brigit Instant Cash is not credit or a loan",
+  "statement": "Brigit Instant Cash is not credit and any advance obtained through it is not a loan.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "hellobrigit",
+      "role": "subject"
+    },
+    {
+      "slug": "brigit-instant-cash",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gpy4iokr",
+      "quote": "INSTANT CASH IS NOT CREDIT AND ANY ADVANCE YOU OBTAIN IS NOT A LOAN."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.hellobrigit.com crawl"
+    }
+  ]
+}

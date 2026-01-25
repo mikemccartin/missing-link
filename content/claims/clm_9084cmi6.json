@@ -1,0 +1,32 @@
+{
+  "id": "clm_9084cmi6",
+  "title": "Acima offers instant approval for customers",
+  "statement": "Acima provides instant approval for customers to shop at participating retail stores.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "acima",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_759eq2i7",
+      "quote": "get approved instantly"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from acima.com crawl"
+    }
+  ]
+}

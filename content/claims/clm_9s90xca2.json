@@ -1,0 +1,32 @@
+{
+  "id": "clm_9s90xca2",
+  "title": "Upbound uses Work Sans font family",
+  "statement": "Upbound's website styling extensively uses Work Sans as the primary font family.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b37srj4p",
+      "quote": "font-family: \"Work Sans\", sans-serif;"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from www.upbound.com crawl"
+    }
+  ]
+}

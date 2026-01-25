@@ -1,0 +1,32 @@
+{
+  "id": "clm_bclq1v8f",
+  "title": "Upbound does not require human trafficking training",
+  "statement": "Upbound does not currently require specific training on Human Trafficking for coworkers responsible for sourcing and merchandising decisions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "upbound",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8ekoqt5t",
+      "quote": "Upbound does not currently require specific training on Human Trafficking for coworkers responsible for sourcing and merchandising decisions."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from upbound.com crawl"
+    }
+  ]
+}
