@@ -146,12 +146,10 @@ export default async function ClientDashboard({ params }: Props) {
             <span className="stat-value">{stats.sources}</span>
             <span className="stat-label">Sources</span>
           </div>
-          {stats.corrections > 0 && (
-            <div className="stat">
-              <span className="stat-value">{stats.corrections}</span>
-              <span className="stat-label">Corrections</span>
-            </div>
-          )}
+          <div className="stat">
+            <span className="stat-value">{stats.corrections}</span>
+            <span className="stat-label">Corrections</span>
+          </div>
         </section>
 
         {/* Claims Section */}
