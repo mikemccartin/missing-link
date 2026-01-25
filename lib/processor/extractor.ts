@@ -340,7 +340,11 @@ EXTRACTION INSTRUCTIONS:
    - description: 1-2 sentence neutral description
    - confidence: high (explicitly stated), medium (implied/inferred), low (uncertain)
    - officialSite: URL if this is their official website
-   - parentEntity: slug of parent company if mentioned (e.g., "upbound" for Rent-A-Center)
+   - parentEntity: ONLY for corporate subsidiary relationships between organizations (e.g., "upbound" for Rent-A-Center as Rent-A-Center is a subsidiary of Upbound Group). Do NOT set parentEntity for:
+     * People who work at an organization (employees are NOT subsidiaries)
+     * Products, reports, or publications created by an organization
+     * Events organized by an organization
+     * Concepts or places
 
 2. CLAIMS: Extract verifiable factual statements. Each claim should:
    - title: Brief title (max 120 chars)
@@ -396,6 +400,10 @@ Return your response as JSON in this exact format:
       model: CLAUDE_MODEL,
     });
 
+    // Entity types that should NEVER have a parentEntity relationship
+    // Only organizations can be subsidiaries of other organizations
+    const typesWithoutParent = new Set(['person', 'product', 'project', 'event', 'place', 'concept', 'other']);
+
     // Transform entities - use findOrGenerateSlug to match existing entities
     const entities: DraftEntity[] = response.entities.map((e) => ({
       slug: findOrGenerateSlug(e.name),
@@ -403,7 +411,10 @@ Return your response as JSON in this exact format:
       type: e.type,
       description: e.description,
       links: e.officialSite ? { officialSite: e.officialSite } : undefined,
-      parentEntity: e.parentEntity ? findOrGenerateSlug(e.parentEntity) : undefined,
+      // Only allow parentEntity for organizations (corporate subsidiary relationships)
+      parentEntity: (e.parentEntity && e.type === 'organization' && !typesWithoutParent.has(e.type))
+        ? findOrGenerateSlug(e.parentEntity)
+        : undefined,
       _draft: createMetadata(e.confidence),
     }));
 
