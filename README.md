@@ -241,6 +241,17 @@ The site auto-deploys to Vercel on push to `main`.
 2. Vercel builds and deploys automatically
 3. Site updates at https://missing.link
 
+## Current Content
+
+| Type | Count |
+|------|-------|
+| Entities | 103 |
+| Sources | 86 |
+| Claims | 426 |
+| Topics | 4 |
+
+**Brands covered:** Upbound Group, Rent-A-Center, Acima, Brigit
+
 ## Tech Stack
 
 - **Framework:** Next.js 16 (App Router)
@@ -248,6 +259,7 @@ The site auto-deploys to Vercel on push to `main`.
 - **Storage:** JSON files in `/content`
 - **Crawler tracking:** Upstash Redis
 - **Hosting:** Vercel
+- **AI Processing:** Anthropic Claude API (claude-sonnet-4-20250514)
 
 ## License
 
