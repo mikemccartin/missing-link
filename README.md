@@ -122,6 +122,48 @@ Create a JSON file in `content/topics/`:
 
 ## CLI Scripts
 
+### Content Spider
+
+```bash
+# Crawl a website
+npm run spider -- --url https://example.com
+
+# With limits
+npm run spider -- --url https://example.com --max-pages 100 --max-depth 5
+
+# List recent crawls
+npm run spider -- --list
+```
+
+Crawls websites and extracts content (HTML, clean text, metadata) for AI processing. Respects robots.txt, supports resume capability, and classifies pages by type.
+
+### Process Crawl (AI Extraction)
+
+```bash
+# Process a crawl with AI
+npm run process-crawl -- --crawl ./crawls/upbound.com/20260125_034546
+
+# With explicit entity
+npm run process-crawl -- --crawl ./crawls/upbound.com/20260125_034546 --entity upbound
+
+# Dry run (no files created)
+npm run process-crawl -- --crawl ./crawls/upbound.com/20260125_034546 --dry-run
+```
+
+Sends crawled content to Claude API to extract entities, sources, and claims. Outputs draft JSON files to `/drafts/` for human review.
+
+### Approve Drafts
+
+```bash
+# Approve drafts (moves to /content/)
+npm run approve-drafts -- --crawl upbound.com_20260125_034546
+
+# Validate only (no changes)
+npm run approve-drafts -- --crawl upbound.com_20260125_034546 --validate-only
+```
+
+Validates draft content against schemas, checks cross-references, and moves approved files to `/content/`.
+
 ### Validate Content
 
 ```bash

@@ -10,9 +10,13 @@
     "ingest": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/ingest.ts",
     "snapshot": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/snapshot.ts",
     "monitor-ai": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/monitor-ai.ts",
+    "spider": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/spider.ts",
+    "process-crawl": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/process-crawl.ts",
+    "approve-drafts": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/approve-drafts.ts",
     "check": "npm run validate && npm run build"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
     "@upstash/redis": "^1.36.1",
     "next": "16.1.4",
     "react": "19.2.3",

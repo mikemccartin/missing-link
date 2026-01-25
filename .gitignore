@@ -44,3 +44,9 @@ next-env.d.ts
 /content/sources/artifacts/
 .env*.local
 CAPABILITIES.md
+
+# Spider crawl data (large files, local only)
+/crawls/
+
+# Draft content (local review only)
+/drafts/
