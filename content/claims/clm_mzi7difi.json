@@ -1,0 +1,36 @@
+{
+  "id": "clm_mzi7difi",
+  "title": "Michael Sitarzewski is VP of Innovation and Technology at Tandem Theory",
+  "statement": "Michael Sitarzewski serves as VP of Innovation and Technology at Tandem Theory",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "michael-sitarzewski",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1lqkt1rx",
+      "quote": "Michael Sitarzewski, VP of Innovation and Technology at Tandem Theory"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

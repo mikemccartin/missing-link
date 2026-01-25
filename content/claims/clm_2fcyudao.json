@@ -1,0 +1,36 @@
+{
+  "id": "clm_2fcyudao",
+  "title": "Michael Kors achieved 95% customer satisfaction with AI system",
+  "statement": "Michael Kors achieved a 95% customer satisfaction rate through AI-powered customer engagement across multiple channels.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "michael-kors",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_eq0502n3",
+      "quote": "This led to an 83% reduction in response times, a 95% customer satisfaction rate, and a 20% increase in conversion rates."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

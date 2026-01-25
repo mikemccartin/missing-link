@@ -1,0 +1,36 @@
+{
+  "id": "clm_rk9mvyjc",
+  "title": "Astra has Schema.org code integrated",
+  "statement": "The Astra theme comes with Schema.org code integrated and is Native AMP ready.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "astra",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rrqedq7t",
+      "quote": "Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

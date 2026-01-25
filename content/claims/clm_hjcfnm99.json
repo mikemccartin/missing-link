@@ -1,0 +1,32 @@
+{
+  "id": "clm_hjcfnm99",
+  "title": "Company does not track users across third-party websites",
+  "statement": "Tandem Business Strategies does not track Site users over time and across third-party websites to provide targeted advertising",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6215s10b",
+      "quote": "Company does not track Site users over time and across third-party websites to provide targeted advertising."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

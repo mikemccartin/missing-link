@@ -1,0 +1,36 @@
+{
+  "id": "clm_dls5oh7v",
+  "title": "Tandem Theory ranked on Inc. 5000 for third consecutive year",
+  "statement": "Tandem Theory made the Inc. 5000 list of fastest-growing, privately-held companies for the third year in a row as of August 2022.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "inc-5000",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0zu3nfj2",
+      "quote": "Tandem Theory has made the Inc. 5000 list of fastest-growing, privately-held companies for the third year in a row!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

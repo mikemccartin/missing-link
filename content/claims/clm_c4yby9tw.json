@@ -1,0 +1,36 @@
+{
+  "id": "clm_c4yby9tw",
+  "title": "Tandem Theory provides business strategy and analytics services",
+  "statement": "Tandem Theory employs Austin Wright as Head of Strategy & Analytics and offers consulting services on brand culture and business performance.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "austin-wright",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hao2s28u",
+      "quote": "Author: Austin Wright, Head of Strategy & Analytics"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

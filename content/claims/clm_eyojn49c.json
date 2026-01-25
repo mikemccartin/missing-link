@@ -1,0 +1,36 @@
+{
+  "id": "clm_eyojn49c",
+  "title": "Retail price increases expected in first four months",
+  "statement": "Retail businesses expect tariff-related price increases to hit within the first four months as inventory turnover reveals higher costs.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "2025-tariffs",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kq019skn",
+      "quote": "These increases are expected to hit within the first four months as inventory turnover reveals higher costs."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

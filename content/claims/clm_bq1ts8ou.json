@@ -1,0 +1,32 @@
+{
+  "id": "clm_bq1ts8ou",
+  "title": "Tandem Theory website uses custom favicon",
+  "statement": "Tandem Theory has a custom favicon image located at /wp-content/uploads/2025/04/favicon-150x150.png.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s9o6cgzs",
+      "quote": "https://tandemtheory.com/wp-content/uploads/2025/04/favicon-150x150.png"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

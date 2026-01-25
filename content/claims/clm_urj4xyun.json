@@ -1,0 +1,36 @@
+{
+  "id": "clm_urj4xyun",
+  "title": "Purina operates 36 brands",
+  "statement": "Purina has 36 brands in its family of brands.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "purina",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2y15lt9t",
+      "quote": "We're helping Purina grow its customers through a personalized CRM program across 36 brands"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

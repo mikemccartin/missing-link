@@ -1,0 +1,32 @@
+{
+  "id": "clm_lldyy4l6",
+  "title": "Tandem Theory uses AI and various technologies",
+  "statement": "Tandem Theory uses artificial intelligence, marketing automation, media orchestration & demand-side platforms, data management, campaign management, CRM & email management, and other technologies across their services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_giqo4fma",
+      "quote": "Technology cuts across all capability areas and we pride ourselves in being technology agnostic."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_tz5mclgi",
+  "title": "Tandem Theory achieved 20x increase in leads for Daikin dealers",
+  "statement": "Tandem Theory's lead-generation program resulted in a 20x increase in the number of leads for Daikin dealers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "daikin",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2y15lt9t",
+      "quote": "The result is a 20x increase in the number of leads for Daikin dealers across the country."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

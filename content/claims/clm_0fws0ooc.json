@@ -1,0 +1,40 @@
+{
+  "id": "clm_0fws0ooc",
+  "title": "Tandem Theory CSO shared insights with QSR Magazine",
+  "statement": "Tandem Theory's Chief Strategy Officer shared insights about gamification in restaurant marketing with QSR Magazine.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "megan-flynn",
+      "role": "related"
+    },
+    {
+      "slug": "qsr-magazine",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6evvmqyq",
+      "quote": "Megan Flynn, Chief Strategy Officer at Tandem Theory, shared with QSR Magazine how gamification can change the game for modern restaurant marketing."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

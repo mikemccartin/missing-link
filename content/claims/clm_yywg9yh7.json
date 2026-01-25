@@ -1,0 +1,32 @@
+{
+  "id": "clm_yywg9yh7",
+  "title": "Over one billion new social media users in two years",
+  "statement": "Over a billion new social media users entered the marketplace in the two years prior to September 2022.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0zu3nfj2",
+      "quote": "With over a billion new social media users entering the marketplace in the last two years"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

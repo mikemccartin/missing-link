@@ -1,0 +1,40 @@
+{
+  "id": "clm_tat1pqbp",
+  "title": "Universal Analytics sunset announced",
+  "statement": "Google announced the sunset of Universal Analytics to be replaced by Google Analytics 4.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "universal-analytics",
+      "role": "related"
+    },
+    {
+      "slug": "google-analytics-4",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0zu3nfj2",
+      "quote": "With the impending sunset of Universal Analytics, how should brands and agencies prepare for Google Analytics 4 (GA4)."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

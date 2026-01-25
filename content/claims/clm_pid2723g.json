@@ -1,0 +1,32 @@
+{
+  "id": "clm_pid2723g",
+  "title": "Tandem Theory is privately held and management-owned",
+  "statement": "Tandem Theory is a privately held, management-owned firm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_286xjclo",
+      "quote": "it's a privately held, management-owned firm built by a team of seasoned agency owners and operators"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_j5p2l55a",
+  "title": "Tandem Theory has been on INC. 5000 list 6 times",
+  "statement": "Tandem Theory has appeared on the INC. 5000 list six times.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "inc-5000",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_286xjclo",
+      "quote": "INC. 5000 6X"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

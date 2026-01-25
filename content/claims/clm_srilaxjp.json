@@ -1,0 +1,32 @@
+{
+  "id": "clm_srilaxjp",
+  "title": "Tandem Theory uses 'humans + technology' approach",
+  "statement": "Tandem Theory describes their approach as combining humans and technology.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_w6p8pqc6",
+      "quote": "humans + technology"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

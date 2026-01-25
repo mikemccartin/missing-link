@@ -1,0 +1,32 @@
+{
+  "id": "clm_f1iodoll",
+  "title": "Tandem Theory is Dallas-based",
+  "statement": "Tandem Theory is a Dallas-based firm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5kuenl16",
+      "quote": "Tandem Theory, a Dallas-based firm specializing in data-driven customer insights and custom marketing solutions"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

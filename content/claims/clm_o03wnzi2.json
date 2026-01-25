@@ -1,0 +1,36 @@
+{
+  "id": "clm_o03wnzi2",
+  "title": "78% of consumers more loyal to purpose-driven brands according to 2023 Edelman Trust Barometer",
+  "statement": "2023 Edelman Trust Barometer data shows 78% of consumers are more loyal to brands that stand for something bigger than profit.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "edelman-trust-barometer",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hao2s28u",
+      "quote": "2023 data from the Edelman Trust Barometer shows that 78% of consumers say they are more loyal to brands that stand for something bigger than profit."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

@@ -139,7 +139,7 @@ export default async function EntityPage({ params, searchParams }: Props) {
                 <span>{claim.provenance.updatedAt}</span>
               </div>
               <h3>
-                <a href={`/claims/${claim.id}`}>{claim.title}</a>
+                <a href={`/claims/${claim.id}`}>Verified Claim: {claim.title}</a>
               </h3>
               <p>{claim.statement}</p>
 

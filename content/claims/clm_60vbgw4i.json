@@ -1,0 +1,36 @@
+{
+  "id": "clm_60vbgw4i",
+  "title": "Tandem Theory Publishes AI and Consumer Marketing Report",
+  "statement": "Tandem Theory published a marketing trend report called 'Tandem Pulse: How Brands Can Win Consumers with AI' in May 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "tandem-pulse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9qtjvs9h",
+      "quote": "Tandem Pulse: How Brands Can Win Consumers with AI May 20, 2025 In a world of rising skepticism and AI overload, how can brands stay trusted, chosen, and relevant? Access our new marketing trend report."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

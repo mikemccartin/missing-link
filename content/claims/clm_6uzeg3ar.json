@@ -1,0 +1,32 @@
+{
+  "id": "clm_6uzeg3ar",
+  "title": "Consumer trust is critical for brand choice",
+  "statement": "88% of consumers say trust is critical when choosing a brand.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_le882azd",
+      "quote": "88% of consumers say trust is critical when choosing a brand."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

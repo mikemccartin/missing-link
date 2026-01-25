@@ -1,0 +1,36 @@
+{
+  "id": "clm_414s5u21",
+  "title": "Astra theme version is 4.8.10.1736833559",
+  "statement": "The current version of Astra theme is 4.8.10.1736833559.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "astra",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rrqedq7t",
+      "quote": "Version: 4.8.10.1736833559"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

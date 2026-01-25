@@ -1,0 +1,32 @@
+{
+  "id": "clm_eetixf4f",
+  "title": "Consumer trust in companies declining",
+  "statement": "72% of consumers say they trust companies less than they did a year ago.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_le882azd",
+      "quote": "72% say they trust companies less than they did a year ago."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

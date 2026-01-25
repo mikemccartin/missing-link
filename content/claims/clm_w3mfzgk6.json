@@ -1,0 +1,32 @@
+{
+  "id": "clm_w3mfzgk6",
+  "title": "Tandem Theory serves food service and retail brands",
+  "statement": "Tandem Theory helps food service and retail brands gain new customers through conversion-focused analytics, creative, and media services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0di3v2gb",
+      "quote": "Tandem Theory helps leading food service and retail brands gain new customers and grow existing ones through conversion-focused analytics, creative, and media"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

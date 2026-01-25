@@ -1,0 +1,36 @@
+{
+  "id": "clm_55cbxz1p",
+  "title": "Tandem Theory ranks on Inc. 5000 for fifth time",
+  "statement": "Tandem Theory ranks on the 2024 Inc. 5000 list for the 5th time, announced on August 13, 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "inc-5000",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5kuenl16",
+      "quote": "For the 5th Time, Tandem Theory Ranks on the Inc. 5000... Inc. revealed today that Tandem Theory... ranks on the 2024 Inc. 5000"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

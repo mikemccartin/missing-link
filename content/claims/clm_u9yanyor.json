@@ -1,0 +1,36 @@
+{
+  "id": "clm_u9yanyor",
+  "title": "Ray Rosenbaum is Chief Insights Officer",
+  "statement": "Ray Rosenbaum holds the position of Chief Insights Officer at Tandem Theory.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "ray-rosenbaum",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5kuenl16",
+      "quote": "Tandem Theory's Chief Insights Officer Ray Rosenbaum"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

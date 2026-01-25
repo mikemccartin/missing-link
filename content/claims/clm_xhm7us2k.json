@@ -1,0 +1,32 @@
+{
+  "id": "clm_xhm7us2k",
+  "title": "Limited AI implementation roadmaps",
+  "statement": "Only 25% of business leaders have a roadmap for AI implementation.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_le882azd",
+      "quote": "only 25% have a roadmap for doing it right"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

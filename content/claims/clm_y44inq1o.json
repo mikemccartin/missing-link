@@ -1,0 +1,32 @@
+{
+  "id": "clm_y44inq1o",
+  "title": "Tandem Theory published business culture article",
+  "statement": "Tandem Theory published an article titled 'Owning Your Ethos: Culture, Conviction and Business Performance' on April 25, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_46858ovt",
+      "quote": "Owning Your Ethos: Culture, Conviction and Business Performance ... April 25, 2025"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

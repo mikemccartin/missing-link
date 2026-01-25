@@ -309,6 +309,43 @@ The site auto-deploys to Vercel on push to `main`.
 - **Hosting:** Vercel
 - **AI Processing:** Anthropic Claude API (claude-sonnet-4-20250514)
 
+## Security
+
+**Last reviewed:** January 2025
+
+| Area | Status |
+|------|--------|
+| Secrets Management | ✅ All credentials in env vars |
+| Input Validation | ✅ Zod schemas with strict patterns |
+| Code Execution | ✅ No exec/spawn/child_process |
+| API Authentication | ✅ CRON_SECRET bearer token |
+| Gitignore | ✅ `.env*` and sensitive dirs excluded |
+
+**Low-risk items identified:**
+- JSON-LD script escaping (content is curated, minimal risk)
+- Security headers not configured (recommended for hardening)
+- Redis keys not prefixed (consider if sharing instance)
+
+No critical vulnerabilities. Production-ready.
+
+## Client Removal Policy
+
+If a client requests removal from missing.link, we use a **tombstone approach** rather than deletion:
+
+| Action | Why |
+|--------|-----|
+| Keep URLs alive | No broken links for AI platforms that cited us |
+| Show tombstone message | "This entity was removed at client request" |
+| Remove from indexes | No longer appears in listings |
+| Preserve URL stability | Maintains platform credibility |
+
+**Rationale:** missing.link's value is stable, permanent URLs. Deleting content breaks that promise. Tombstoning preserves URL integrity while honoring client requests.
+
+**Client agreements should state:**
+- Tandem maintains the data on missing.link
+- If client leaves, content is tombstoned (not deleted)
+- Original sources remain property of client
+
 ## License
 
 Proprietary - Tandem Theory

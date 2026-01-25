@@ -1,0 +1,36 @@
+{
+  "id": "clm_lu4dg657",
+  "title": "Austin Wright serves as Head of Strategy & Analytics",
+  "statement": "Austin Wright holds the position of Head of Strategy & Analytics at Tandem Theory.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "austin-wright",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_eq0502n3",
+      "quote": "Author: Austin Wright, Head of Strategy & Analytics"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

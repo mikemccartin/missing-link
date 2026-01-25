@@ -1,0 +1,32 @@
+{
+  "id": "clm_ce6oc272",
+  "title": "Tandem Theory has a comments feed system",
+  "statement": "Tandem Theory operates a comments feed accessible at tandemtheory.com/comments/feed.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_80zy8x9d",
+      "quote": "Comments for Tandem Theory https://tandemtheory.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

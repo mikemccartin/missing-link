@@ -1,0 +1,36 @@
+{
+  "id": "clm_hju22110",
+  "title": "Tom Cole serves as CEO and Executive Chairman",
+  "statement": "Tom Cole holds the positions of CEO and Executive Chairman at Tandem Theory.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "tom-cole",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_286xjclo",
+      "quote": "Tom Cole - CEO, Executive Chairman"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

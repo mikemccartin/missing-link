@@ -1,0 +1,36 @@
+{
+  "id": "clm_jis5oz78",
+  "title": "Michael Kors increased conversion rates by 20% with AI",
+  "statement": "Michael Kors experienced a 20% increase in conversion rates from AI-powered chatbot and CRM integration.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "michael-kors",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_eq0502n3",
+      "quote": "This led to an 83% reduction in response times, a 95% customer satisfaction rate, and a 20% increase in conversion rates."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

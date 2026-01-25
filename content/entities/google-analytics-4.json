@@ -1,0 +1,7 @@
+{
+  "slug": "google-analytics-4",
+  "name": "Google Analytics 4",
+  "type": "product",
+  "description": "Google's new analytics platform replacing Universal Analytics, abbreviated as GA4.",
+  "parentEntity": "google"
+}

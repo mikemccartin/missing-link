@@ -1,0 +1,32 @@
+{
+  "id": "clm_elvunqzj",
+  "title": "Business leaders planning AI spending increases",
+  "statement": "92% of business leaders expect to increase AI spending over the next three years.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_le882azd",
+      "quote": "92% of business leaders expect to increase AI spending over the next three years"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

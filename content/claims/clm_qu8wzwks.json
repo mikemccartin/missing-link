@@ -1,0 +1,32 @@
+{
+  "id": "clm_qu8wzwks",
+  "title": "Tandem Theory office location",
+  "statement": "Tandem Theory's office is located at 15400 Knoll Trail Drive #503, Dallas, TX 75248",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yq7qlq0a",
+      "quote": "15400 KNOLL TRAIL DRIVE #503 DALLAS, TX 75248"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

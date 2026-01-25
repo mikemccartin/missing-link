@@ -1,0 +1,36 @@
+{
+  "id": "clm_29jm1zxu",
+  "title": "Automotive industry faces 25% tariff on imports",
+  "statement": "The automotive industry faces a 25% tariff on imported vehicles and parts affecting supply chains worth $460 billion annually.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "2025-tariffs",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kq019skn",
+      "quote": "The automotive industry is grappling with a 25% tariff on imported vehicles and parts—a measure that could disrupt supply chains worth $460 billion annually."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

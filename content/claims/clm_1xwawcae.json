@@ -1,0 +1,36 @@
+{
+  "id": "clm_1xwawcae",
+  "title": "Tandem Theory Publishes 2025 Consumer Trends Report",
+  "statement": "Tandem Theory released 'Tandem Pulse: 2025 Consumer Trends' report in January 2025 titled 'Navigating the Year of Contradictions'.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "tandem-pulse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9qtjvs9h",
+      "quote": "Tandem Pulse: 2025 Consumer Trends January 23, 2025 Explore Tandem Pulse: Navigating the Year of Contradictions to uncover the strategies, insights, and trends you need to stay ahead."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

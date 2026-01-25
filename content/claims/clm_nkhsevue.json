@@ -1,0 +1,36 @@
+{
+  "id": "clm_nkhsevue",
+  "title": "Astra theme is less than 50KB on frontend",
+  "statement": "The Astra WordPress theme is very lightweight with less than 50KB on frontend.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "astra",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rrqedq7t",
+      "quote": "It is very lightweight (less than 50KB on frontend) and offers unparalleled speed."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

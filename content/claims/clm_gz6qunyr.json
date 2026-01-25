@@ -1,0 +1,44 @@
+{
+  "id": "clm_gz6qunyr",
+  "title": "Megan Flynn received Dallas Business Journal C-Suite Leader Award",
+  "statement": "Megan Flynn, Chief Strategy Officer at Tandem Theory, was recognized by Dallas Business Journal with a C-Suite Leader Award.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "megan-flynn",
+      "role": "related"
+    },
+    {
+      "slug": "dallas-business-journal",
+      "role": "related"
+    },
+    {
+      "slug": "c-suite-leader-award",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0di3v2gb",
+      "quote": "Tandem Theory is proud to announce that its Chief Strategy Officer (CSO), Megan Flynn, has been recognized by the Dallas Business Journal (DBJ) with a prestigious C-Suite Leader Award."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

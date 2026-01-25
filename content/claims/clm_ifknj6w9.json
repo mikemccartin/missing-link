@@ -1,0 +1,36 @@
+{
+  "id": "clm_ifknj6w9",
+  "title": "Chick-fil-A has lower employee turnover than QSR average",
+  "statement": "Chick-fil-A's employee turnover rate is dramatically lower than the quick service restaurant industry average.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "chick-fil-a",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hao2s28u",
+      "quote": "Chick-fil-A turnover is dramatically lower than the QSR average."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

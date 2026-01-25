@@ -1,0 +1,36 @@
+{
+  "id": "clm_u4ldzx8p",
+  "title": "Astra theme was updated on January 14, 2025",
+  "statement": "The Astra theme was last updated on 2025-01-14.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "astra",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rrqedq7t",
+      "quote": "Updated: 2025-01-14 05:45:59"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

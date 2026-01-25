@@ -1,0 +1,36 @@
+{
+  "id": "clm_aqfye8a9",
+  "title": "Walmart achieved 20% sales boost from AI personalization",
+  "statement": "Walmart reported a 20% boost in sales directly linked to AI-driven personalized recommendations and customized marketing messages.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "walmart",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_eq0502n3",
+      "quote": "Walmart reported a 20% boost in sales directly linked to these personalized recommendations, along with higher engagement and conversion rates."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

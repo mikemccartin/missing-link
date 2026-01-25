@@ -1,0 +1,32 @@
+{
+  "id": "clm_pebq3lnh",
+  "title": "Tandem Theory is a marketing and technology company",
+  "statement": "Tandem Theory operates as a marketing and technology company.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_w6p8pqc6",
+      "quote": "We are a marketing and technology company."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

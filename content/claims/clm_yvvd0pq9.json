@@ -1,0 +1,36 @@
+{
+  "id": "clm_yvvd0pq9",
+  "title": "Daikin is the world's largest HVAC company",
+  "statement": "Daikin is the world's largest HVAC company.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "daikin",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2y15lt9t",
+      "quote": "We're helping Daikin, the world's largest HVAC company"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

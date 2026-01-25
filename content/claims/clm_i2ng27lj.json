@@ -1,0 +1,32 @@
+{
+  "id": "clm_i2ng27lj",
+  "title": "Over 70% of Gen Z and Millennials prefer values-aligned brands per NielsenIQ",
+  "statement": "A NielsenIQ study found over 70% of Gen Z and Millennials are more likely to purchase from brands reflecting their values.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hao2s28u",
+      "quote": "A recent NielsenIQ study also found that over 70% of Gen Z and Millennials are more likely to buy from brands that reflect their social or environmental values."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

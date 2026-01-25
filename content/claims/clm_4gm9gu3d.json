@@ -1,0 +1,32 @@
+{
+  "id": "clm_4gm9gu3d",
+  "title": "Tandem Theory serves food service and retail brands",
+  "statement": "Tandem Theory helps leading food service and retail brands with marketing solutions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_le882azd",
+      "quote": "we help leading food service and retail brands blend emotional intelligence with artificial intelligence"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

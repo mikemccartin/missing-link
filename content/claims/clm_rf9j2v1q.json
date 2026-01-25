@@ -1,0 +1,32 @@
+{
+  "id": "clm_rf9j2v1q",
+  "title": "Privacy policy effective date is April 17, 2024",
+  "statement": "The privacy policy and terms of use are effective as of April 17, 2024",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6215s10b",
+      "quote": "PRIVACY POLICY & TERMS OF USE AS OF APRIL 17, 2024"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

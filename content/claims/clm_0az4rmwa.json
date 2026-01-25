@@ -1,0 +1,36 @@
+{
+  "id": "clm_0az4rmwa",
+  "title": "Texas Health Resources has more than 400 locations",
+  "statement": "Texas Health Resources operates more than 400 locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "texas-health-resources",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2y15lt9t",
+      "quote": "We're helping Texas Health Resources drive new patient visits across more than 400 locations."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

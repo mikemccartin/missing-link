@@ -1,0 +1,32 @@
+{
+  "id": "clm_c70yaa7d",
+  "title": "Tandem Theory offers analytics capabilities",
+  "statement": "Tandem Theory has an analytics team with capabilities in data strategy & architecture, data sources integration, data standardization & hygiene, segmentation & personas, predictive data modeling, and business analytics & trends.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_giqo4fma",
+      "quote": "Our analytics team is powered by years of hands-on experience across data architecture, science, and analysis."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

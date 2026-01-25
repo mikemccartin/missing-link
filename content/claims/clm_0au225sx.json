@@ -1,0 +1,36 @@
+{
+  "id": "clm_0au225sx",
+  "title": "Tandem Theory publishes marketing trend reports",
+  "statement": "Tandem Theory produces and publishes marketing trend reports under the 'Tandem Pulse' series.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "tandem-pulse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_47mzrw2n",
+      "quote": "Access our new marketing trend report. ... Explore Tandem Pulse: Navigating the Year of Contradictions"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

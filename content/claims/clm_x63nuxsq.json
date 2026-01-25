@@ -1,0 +1,36 @@
+{
+  "id": "clm_x63nuxsq",
+  "title": "Chick-fil-A starts corporate meetings with prayer",
+  "statement": "Chick-fil-A begins their corporate meetings with prayer.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "chick-fil-a",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hao2s28u",
+      "quote": "Chick-fil-A still starts corporate meetings with a prayer."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

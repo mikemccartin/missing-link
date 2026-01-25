@@ -1,0 +1,32 @@
+{
+  "id": "clm_8wsznpju",
+  "title": "Tandem Theory uses Poppins font family",
+  "statement": "The tandemtheory.com website employs Poppins font family for headings and pagination elements.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lg8oft6i",
+      "quote": ".elementor-7148 .elementor-element.elementor-element-073e08d .elementor-heading-title{font-family:\"Poppins\", Sans-serif;"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

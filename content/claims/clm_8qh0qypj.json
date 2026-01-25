@@ -1,0 +1,36 @@
+{
+  "id": "clm_8qh0qypj",
+  "title": "Tandem Theory serves as AOR for Texas Health Resources",
+  "statement": "Tandem Theory serves as agency of record (AOR) for data-driven strategy and creative for Texas Health Resources.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "texas-health-resources",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2y15lt9t",
+      "quote": "As AOR for data-driven strategy and creative, we support highly specialized service lines"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

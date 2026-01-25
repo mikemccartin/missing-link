@@ -1,0 +1,48 @@
+{
+  "id": "clm_rh1j8far",
+  "title": "Tandem Theory executives were interviewed by Authority Magazine",
+  "statement": "Multiple Tandem Theory executives gave interviews to Authority Magazine on topics including customer experience, data science, and AI",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "authority-magazine",
+      "role": "related"
+    },
+    {
+      "slug": "megan-flynn",
+      "role": "related"
+    },
+    {
+      "slug": "dave-mansfield",
+      "role": "related"
+    },
+    {
+      "slug": "michael-sitarzewski",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1lqkt1rx",
+      "quote": "In an interview with Authority Magazine, Megan Flynn, Chief Strategy Officer at Tandem Theory, shares why creating a great customer experience is not only beneficial but crucial to business success."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

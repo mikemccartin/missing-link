@@ -1,0 +1,36 @@
+{
+  "id": "clm_2ko822rr",
+  "title": "Tandem Theory uses Elementor for web design",
+  "statement": "The tandemtheory.com website utilizes Elementor CSS styling framework for its web pages.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "elementor",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lg8oft6i",
+      "quote": ".elementor-7148 .elementor-element.elementor-element-2b729ea{--display:flex;--flex-direction:column;"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

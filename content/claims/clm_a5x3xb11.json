@@ -1,0 +1,32 @@
+{
+  "id": "clm_a5x3xb11",
+  "title": "billy weems is author on Tandem Theory website",
+  "statement": "billy weems is listed as an author with profile URL on the Tandem Theory website",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yp1ydowk",
+      "quote": "\"author_name\":\"billy weems\",\"author_url\":\"https:\\/\\/tandemtheory.com\\/author\\/kingdom\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

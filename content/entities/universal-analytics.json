@@ -1,0 +1,7 @@
+{
+  "slug": "universal-analytics",
+  "name": "Universal Analytics",
+  "type": "product",
+  "description": "Google's analytics platform that is being sunset and replaced by Google Analytics 4.",
+  "parentEntity": "google"
+}

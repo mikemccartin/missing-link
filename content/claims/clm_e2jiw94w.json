@@ -1,0 +1,36 @@
+{
+  "id": "clm_e2jiw94w",
+  "title": "Technology price increases expected within four months",
+  "statement": "Price increases for consumer electronics like smartphones and laptops are expected within the first four months due to tariffs.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "2025-tariffs",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kq019skn",
+      "quote": "Price increases for consumer electronics such as smartphones and laptops are expected within the first four months."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

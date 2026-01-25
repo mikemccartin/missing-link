@@ -1,0 +1,36 @@
+{
+  "id": "clm_h5gu64jm",
+  "title": "Dave Mansfield is Executive VP of Data Science and Analytics at Tandem Theory",
+  "statement": "Dave Mansfield holds the position of Executive Vice President of Data Science and Analytics at Tandem Theory",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "dave-mansfield",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1lqkt1rx",
+      "quote": "Dave Mansfield, Executive Vice President of Data Science and Analytics at Tandem Theory"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_cddixgjl",
+  "title": "Tandem Theory identifies seven key CRM lifecycle stages",
+  "statement": "Tandem Theory defines CRM as a lifecycle composed of seven stages: Lead Management, Contact & Profile Management, Customer Communication, Sales Enablement, Marketing Automation, Customer Service & Support, and Loyalty & Retention.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_eq0502n3",
+      "quote": "CRM as a lifecycle composed of seven key stages: Lead Management, Contact & Profile Management, Customer Communication, Sales Enablement, Marketing Automation, Customer Service & Support, Loyalty & Retention"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

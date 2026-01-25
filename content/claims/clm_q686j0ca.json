@@ -1,0 +1,36 @@
+{
+  "id": "clm_q686j0ca",
+  "title": "Megan Flynn joined Tandem Theory in late 2019",
+  "statement": "Megan Flynn joined Tandem Theory in late 2019 as SVP of Strategy and Client Services before becoming Chief Strategy Officer.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "megan-flynn",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0di3v2gb",
+      "quote": "Since joining Tandem Theory in late 2019, she has been instrumental in the agency's remarkable growth, rising from SVP of Strategy and Client Services to CSO."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

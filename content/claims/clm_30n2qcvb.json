@@ -1,0 +1,36 @@
+{
+  "id": "clm_30n2qcvb",
+  "title": "Tandem Theory has worked with Upbound for over 20 years",
+  "statement": "Tandem Theory has helped Upbound brands acquire new customers and grow existing ones for more than 20 years.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "upbound",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2y15lt9t",
+      "quote": "For more than 20 years, we have helped Upbound brands acquire new customers and grow existing ones."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

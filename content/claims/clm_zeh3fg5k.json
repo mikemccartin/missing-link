@@ -1,0 +1,36 @@
+{
+  "id": "clm_zeh3fg5k",
+  "title": "Madonna Jansen is an author for Tandem Theory",
+  "statement": "Madonna Jansen has author status on the Tandem Theory website with a dedicated author page.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "madonna-jansen",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_dhlwipv8",
+      "quote": "\"author_name\":\"Madonna Jansen\",\"author_url\":\"https:\\/\\/tandemtheory.com\\/author\\/madonna-jansen\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

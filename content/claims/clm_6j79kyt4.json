@@ -1,0 +1,32 @@
+{
+  "id": "clm_6j79kyt4",
+  "title": "Tandem Theory helps brands convert and grow customers",
+  "statement": "Tandem Theory helps leading brands convert new customers and grow existing ones through analytics, strategy, creative, media, and technology.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_w6p8pqc6",
+      "quote": "We help leading brands convert new customers and grow existing ones through analytics, strategy, creative, media, and technology."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_5xex1a3y",
+  "title": "Megan Flynn holds Chief Strategy Officer position at Tandem Theory",
+  "statement": "Megan Flynn serves as Chief Strategy Officer at Tandem Theory.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    },
+    {
+      "slug": "megan-flynn",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6evvmqyq",
+      "quote": "Megan Flynn, Chief Strategy Officer at Tandem Theory, shared with QSR Magazine how gamification can change the game for modern restaurant marketing."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_2303516q",
+  "title": "Company headquarters located in Dallas, Texas",
+  "statement": "Tandem Business Strategies, LLC is located at 15400 Knoll Trail Dr. #503, Dallas, Texas 75248",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6215s10b",
+      "quote": "Any personal information collected by Company is controlled by Company at 15400 Knoll Trail Dr. #503, Dallas, Texas 75248."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}

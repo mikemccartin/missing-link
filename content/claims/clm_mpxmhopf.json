@@ -1,0 +1,36 @@
+{
+  "id": "clm_mpxmhopf",
+  "title": "2025 tariffs include 10% universal tariff",
+  "statement": "The 2025 tariffs include a 10% universal tariff and additional targeted measures on key trading partners.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "tandem-theory",
+      "role": "related"
+    },
+    {
+      "slug": "2025-tariffs",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kq019skn",
+      "quote": "These tariffs, which include a 10% universal tariff and additional targeted measures on key trading partners"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-01-25",
+    "updatedAt": "2026-01-25"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-01-25",
+      "summary": "Auto-extracted from tandemtheory.com crawl"
+    }
+  ]
+}
