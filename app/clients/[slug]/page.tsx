@@ -132,28 +132,28 @@ export default async function ClientDashboard({ params }: Props) {
           )}
         </header>
 
-        {/* Stats Bar */}
-        <section className="stats-bar">
-          <div className="stat">
+        {/* Stats Bar - clickable navigation */}
+        <nav className="stats-bar">
+          <a href="#claims" className="stat">
             <span className="stat-value">{stats.totalClaims}</span>
             <span className="stat-label">Claims</span>
-          </div>
-          <div className="stat">
+          </a>
+          <a href="#topics" className="stat">
             <span className="stat-value">{stats.topics}</span>
             <span className="stat-label">Topics</span>
-          </div>
-          <div className="stat">
+          </a>
+          <a href="#sources" className="stat">
             <span className="stat-value">{stats.sources}</span>
             <span className="stat-label">Sources</span>
-          </div>
-          <div className="stat">
+          </a>
+          <a href="#corrections" className="stat">
             <span className="stat-value">{stats.corrections}</span>
             <span className="stat-label">Corrections</span>
-          </div>
-        </section>
+          </a>
+        </nav>
 
         {/* Claims Section */}
-        <section>
+        <section id="claims">
           <h2>Published Claims ({assertedClaims.length})</h2>
           <p className="meta">Verified statements with sources and version history</p>
 
@@ -202,10 +202,12 @@ export default async function ClientDashboard({ params }: Props) {
         </section>
 
         {/* Topics Section */}
-        {usedTopics.length > 0 && (
-          <section>
-            <h2>Topics ({usedTopics.length})</h2>
-            <p className="meta">Categories these claims are organized under</p>
+        <section id="topics">
+          <h2>Topics ({usedTopics.length})</h2>
+          <p className="meta">Categories these claims are organized under</p>
+          {usedTopics.length === 0 ? (
+            <p>No topic categorization yet.</p>
+          ) : (
             <ul>
               {usedTopics.map((topic) => (
                 <li key={topic.slug}>
@@ -214,11 +216,11 @@ export default async function ClientDashboard({ params }: Props) {
                 </li>
               ))}
             </ul>
-          </section>
-        )}
+          )}
+        </section>
 
         {/* Sources Section */}
-        <section>
+        <section id="sources">
           <h2>Sources ({usedSources.length})</h2>
           <p className="meta">Primary documents cited as evidence</p>
           <ul>
@@ -236,11 +238,13 @@ export default async function ClientDashboard({ params }: Props) {
         </section>
 
         {/* Corrections Section */}
-        {corrections.length > 0 && (
-          <section>
-            <h2>Corrections & Disputes ({corrections.length})</h2>
-            <p className="meta">Claims that have been updated, disputed, or deprecated</p>
-            {corrections.map((claim) => (
+        <section id="corrections">
+          <h2>Corrections & Disputes ({corrections.length})</h2>
+          <p className="meta">Claims that have been updated, disputed, or deprecated</p>
+          {corrections.length === 0 ? (
+            <p>No corrections or disputes. All claims are in good standing.</p>
+          ) : (
+            corrections.map((claim) => (
               <article key={claim.id} className="claim-item">
                 <div className="meta">
                   <span className={`status status-${claim.status}`}>{claim.status}</span>
@@ -261,9 +265,9 @@ export default async function ClientDashboard({ params }: Props) {
                   </div>
                 )}
               </article>
-            ))}
-          </section>
-        )}
+            ))
+          )}
+        </section>
 
         {/* About Section */}
         <section className="meta">
