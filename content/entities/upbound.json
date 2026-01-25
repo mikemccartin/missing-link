@@ -1,0 +1,11 @@
+{
+  "slug": "upbound",
+  "name": "Upbound Group",
+  "type": "organization",
+  "description": "Upbound Group, Inc. (NASDAQ: UPBD) is a technology and data-driven leader in accessible and inclusive financial products serving underserved consumers. Formed in February 2023 when Rent-A-Center rebranded into a holding company, Upbound operates industry-leading brands including Rent-A-Center, Acima, Brigit, Get It Now, and Home Choice across more than 2,300 retail locations in the United States, Mexico, and Puerto Rico.",
+  "links": {
+    "officialSite": "https://www.upbound.com",
+    "linkedin": "https://www.linkedin.com/company/upbound-group"
+  },
+  "subsidiaries": ["rent-a-center", "acima", "brigit", "get-it-now", "home-choice"]
+}

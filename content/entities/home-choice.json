@@ -1,0 +1,10 @@
+{
+  "slug": "home-choice",
+  "name": "Home Choice",
+  "type": "organization",
+  "description": "Home Choice is a retail installment sale retailer operating alongside Get It Now stores in Wisconsin and Minnesota. The brand provides customers with flexible ownership options for furniture, appliances, electronics, and computers from leading brands.",
+  "links": {
+    "officialSite": "https://www.homechoicestores.com"
+  },
+  "parentEntity": "upbound"
+}

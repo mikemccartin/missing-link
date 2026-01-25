@@ -81,7 +81,7 @@ export function sourceToJsonLd(source: Source): object {
 }
 
 // Entity as Schema.org Organization/Person/Thing
-export function entityToJsonLd(entity: Entity): object {
+export function entityToJsonLd(entity: Entity, parentEntity?: Entity, subsidiaryEntities?: Entity[]): object {
   const typeMap: Record<string, string> = {
     'organization': 'Organization',
     'person': 'Person',
@@ -106,6 +106,22 @@ export function entityToJsonLd(entity: Entity): object {
       entity.links?.twitter,
       entity.links?.crunchbase,
     ].filter(Boolean),
+    // Parent organization (Schema.org standard)
+    ...(parentEntity && {
+      parentOrganization: {
+        '@type': typeMap[parentEntity.type] || 'Organization',
+        '@id': `${BASE_URL}/entities/${parentEntity.slug}`,
+        name: parentEntity.name,
+      },
+    }),
+    // Subsidiary organizations (Schema.org standard)
+    ...(subsidiaryEntities && subsidiaryEntities.length > 0 && {
+      subOrganization: subsidiaryEntities.map(sub => ({
+        '@type': typeMap[sub.type] || 'Organization',
+        '@id': `${BASE_URL}/entities/${sub.slug}`,
+        name: sub.name,
+      })),
+    }),
   };
 }
 

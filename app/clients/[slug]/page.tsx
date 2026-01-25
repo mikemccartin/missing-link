@@ -5,6 +5,8 @@ import {
   getEntity,
   getClaimsForEntity,
   getAllSources,
+  getParentEntity,
+  getSubsidiaryEntities,
 } from "@/lib/content";
 import { entityToJsonLd, jsonLdScript } from "@/lib/jsonld";
 
@@ -41,6 +43,10 @@ export default async function ClientPage({ params }: Props) {
   const sources = getAllSources();
   const sourceMap = new Map(sources.map((s) => [s.id, s]));
 
+  // Get parent/subsidiary relationships
+  const parentEntity = getParentEntity(entity);
+  const subsidiaries = getSubsidiaryEntities(entity);
+
   // Sort claims by status (asserted first) then by date
   const sortedClaims = [...claims].sort((a, b) => {
     if (a.status !== b.status) {
@@ -66,7 +72,7 @@ export default async function ClientPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: jsonLdScript(entityToJsonLd(entity)),
+          __html: jsonLdScript(entityToJsonLd(entity, parentEntity ?? undefined, subsidiaries)),
         }}
       />
       <main>
@@ -74,6 +80,24 @@ export default async function ClientPage({ params }: Props) {
           <div className="meta">{entity.type}</div>
           <h1>{entity.name}</h1>
           <p>{entity.description}</p>
+
+          {/* Parent/subsidiary relationships */}
+          {parentEntity && (
+            <p className="meta">
+              Parent organization: <a href={`/entities/${parentEntity.slug}`}>{parentEntity.name}</a>
+            </p>
+          )}
+          {subsidiaries.length > 0 && (
+            <p className="meta">
+              Subsidiaries:{" "}
+              {subsidiaries.map((sub, i) => (
+                <span key={sub.slug}>
+                  {i > 0 && ", "}
+                  <a href={`/entities/${sub.slug}`}>{sub.name}</a>
+                </span>
+              ))}
+            </p>
+          )}
 
           {entity.links?.officialSite && (
             <p>

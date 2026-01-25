@@ -1,0 +1,11 @@
+{
+  "slug": "rent-a-center",
+  "name": "Rent-A-Center",
+  "type": "organization",
+  "description": "Rent-A-Center is a lease-to-own retailer providing customers with furniture, appliances, electronics, and computers on flexible payment terms. With over 2,000 company-owned stores across the United States and Puerto Rico, plus franchise locations, Rent-A-Center serves customers with little or no credit history who need access to essential household goods.",
+  "links": {
+    "officialSite": "https://www.rentacenter.com",
+    "linkedin": "https://www.linkedin.com/company/rent-a-center"
+  },
+  "parentEntity": "upbound"
+}

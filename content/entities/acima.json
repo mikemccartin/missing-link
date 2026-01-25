@@ -1,0 +1,11 @@
+{
+  "slug": "acima",
+  "name": "Acima",
+  "type": "organization",
+  "description": "Acima is a technology company offering lease-to-own solutions at the point of sale for thousands of retail partners. Acquired by Rent-A-Center in 2020, Acima enables consumers to shop at their favorite retailers and pay over time through a virtual lease-to-own platform, serving customers who may not qualify for traditional financing.",
+  "links": {
+    "officialSite": "https://www.acima.com",
+    "linkedin": "https://www.linkedin.com/company/acima-credit"
+  },
+  "parentEntity": "upbound"
+}

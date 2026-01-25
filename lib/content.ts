@@ -84,6 +84,20 @@ export function getEntity(slug: string): Entity | null {
   return loadJsonFile('entities', slug, EntitySchema);
 }
 
+// Get parent entity if one exists
+export function getParentEntity(entity: Entity): Entity | null {
+  if (!entity.parentEntity) return null;
+  return getEntity(entity.parentEntity);
+}
+
+// Get subsidiary entities if any exist
+export function getSubsidiaryEntities(entity: Entity): Entity[] {
+  if (!entity.subsidiaries || entity.subsidiaries.length === 0) return [];
+  return entity.subsidiaries
+    .map(slug => getEntity(slug))
+    .filter((e): e is Entity => e !== null);
+}
+
 // Topics
 export function getAllTopics(): Topic[] {
   return loadJsonFiles('topics', TopicSchema);

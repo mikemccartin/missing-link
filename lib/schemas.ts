@@ -121,6 +121,9 @@ export const EntitySchema = z.object({
   type: EntityTypeSchema,
   description: z.string().min(1),
   links: EntityLinksSchema,
+  // Parent/child relationships for corporate structures
+  parentEntity: SlugSchema.optional(), // slug of parent entity
+  subsidiaries: z.array(SlugSchema).optional(), // slugs of child entities
 });
 export type Entity = z.infer<typeof EntitySchema>;
 
