@@ -2,6 +2,5 @@
   "slug": "acima-mobile-app",
   "name": "Acima Mobile App",
   "type": "product",
-  "description": "A mobile application that allows users to apply for leases, shop online or in stores, complete agreements and manage leases.",
-  "parentEntity": "acima"
+  "description": "A mobile application that allows users to apply for leases, shop online or in stores, complete agreements and manage leases."
 }

@@ -2,6 +2,5 @@
   "slug": "acima-leasing",
   "name": "Acima Leasing",
   "type": "product",
-  "description": "A lease-to-own service offered by Acima that allows customers to obtain furniture, electronics, and other items without perfect credit.",
-  "parentEntity": "acima"
+  "description": "A lease-to-own service offered by Acima that allows customers to obtain furniture, electronics, and other items without perfect credit."
 }

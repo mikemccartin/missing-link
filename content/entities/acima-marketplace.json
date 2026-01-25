@@ -2,6 +2,5 @@
   "slug": "acima-marketplace",
   "name": "Acima Marketplace",
   "type": "product",
-  "description": "A shopping platform or service offered by Acima for lease-to-own purchases.",
-  "parentEntity": "acima"
+  "description": "A shopping platform or service offered by Acima for lease-to-own purchases."
 }

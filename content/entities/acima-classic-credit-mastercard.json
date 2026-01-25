@@ -2,6 +2,5 @@
   "slug": "acima-classic-credit-mastercard",
   "name": "Acima Classic Credit Mastercard",
   "type": "product",
-  "description": "A credit card product offered by Acima in partnership with Mastercard.",
-  "parentEntity": "acima"
+  "description": "A credit card product offered by Acima in partnership with Mastercard."
 }

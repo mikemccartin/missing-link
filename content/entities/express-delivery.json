@@ -2,6 +2,5 @@
   "slug": "express-delivery",
   "name": "Express Delivery",
   "type": "product",
-  "description": "A service feature that delivers cash advances within 20 minutes for a small fee.",
-  "parentEntity": "brigit"
+  "description": "A service feature that delivers cash advances within 20 minutes for a small fee."
 }

@@ -2,6 +2,5 @@
   "slug": "rest-api",
   "name": "Rest API",
   "type": "product",
-  "description": "Acima's REST-based application programming interface with predictable URLs and HTTP response codes for error indication.",
-  "parentEntity": "acima"
+  "description": "Acima's REST-based application programming interface with predictable URLs and HTTP response codes for error indication."
 }

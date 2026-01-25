@@ -2,6 +2,5 @@
   "slug": "acima-private-credit",
   "name": "Acima Private Credit",
   "type": "product",
-  "description": "Acima's credit service where customers own products after purchase and make payments on an Acima Private Credit Account.",
-  "parentEntity": "acima"
+  "description": "Acima's credit service where customers own products after purchase and make payments on an Acima Private Credit Account."
 }
