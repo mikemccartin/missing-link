@@ -2,7 +2,8 @@
   "slug": "acima",
   "name": "Acima",
   "type": "organization",
-  "description": "A company that provides lease-to-own and flexible leasing solutions for furniture, electronics, and other consumer goods.",
+  "description": "A lease-to-own fintech company that provides flexible payment solutions for furniture, electronics, and other consumer goods. A subsidiary of Upbound Group.",
+  "parentEntity": "upbound",
   "links": {
     "officialSite": "https://acima.com/"
   }

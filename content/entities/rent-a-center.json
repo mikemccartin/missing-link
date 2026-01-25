@@ -2,7 +2,8 @@
   "slug": "rent-a-center",
   "name": "Rent-A-Center",
   "type": "organization",
-  "description": "A rent-to-own company that provides furniture, appliances, electronics, and computers to customers. The company offers rental services without requiring perfect credit.",
+  "description": "A rent-to-own retail company that provides furniture, appliances, electronics, and computers to customers without requiring credit checks. A subsidiary of Upbound Group.",
+  "parentEntity": "upbound",
   "links": {
     "officialSite": "https://rentacenter.com/"
   }

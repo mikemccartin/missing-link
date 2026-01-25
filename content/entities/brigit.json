@@ -1,8 +1,9 @@
 {
   "slug": "brigit",
   "name": "Brigit",
-  "type": "product",
-  "description": "A financial app that provides cash advances, credit building, and financial management tools with over 12 million users.",
+  "type": "organization",
+  "description": "A financial wellness app that provides cash advances, credit building, and budgeting tools. Acquired by Upbound Group in January 2025.",
+  "parentEntity": "upbound",
   "links": {
     "officialSite": "https://hellobrigit.com/"
   }
