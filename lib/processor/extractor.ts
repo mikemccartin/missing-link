@@ -24,6 +24,7 @@ import {
   PageData,
   ConfidenceLevel,
 } from './types';
+import { getAllEntities } from '../content';
 
 // Claude API model to use
 const CLAUDE_MODEL = 'claude-sonnet-4-20250514';
@@ -89,6 +90,104 @@ function generateSlug(name: string): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
     .substring(0, 50);
+}
+
+/**
+ * Normalize a name by removing common suffixes and variations.
+ */
+function normalizeName(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/,?\s*(inc\.?|llc\.?|corp\.?|co\.?|ltd\.?|l\.?l\.?c\.?|incorporated|corporation|company)$/i, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/**
+ * Entity slug cache - maps variations to canonical slugs.
+ */
+let existingEntitySlugs: Map<string, string> | null = null;
+
+/**
+ * Load existing entities and build a lookup map for slug normalization.
+ */
+function loadExistingEntities(): Map<string, string> {
+  if (existingEntitySlugs) {
+    return existingEntitySlugs;
+  }
+
+  existingEntitySlugs = new Map<string, string>();
+
+  try {
+    const entities = getAllEntities();
+    for (const entity of entities) {
+      // Map the exact slug to itself
+      existingEntitySlugs.set(entity.slug, entity.slug);
+
+      // Map normalized name to slug
+      const normalizedName = normalizeName(entity.name);
+      existingEntitySlugs.set(normalizedName, entity.slug);
+
+      // Map the slug without common suffixes
+      const normalizedSlug = entity.slug
+        .replace(/-inc$/, '')
+        .replace(/-llc$/, '')
+        .replace(/-corp$/, '')
+        .replace(/-group$/, '');
+      if (normalizedSlug !== entity.slug) {
+        // Only map if not already taken by another entity
+        if (!existingEntitySlugs.has(normalizedSlug)) {
+          existingEntitySlugs.set(normalizedSlug, entity.slug);
+        }
+      }
+    }
+  } catch (error) {
+    console.warn('Could not load existing entities for slug normalization:', error);
+  }
+
+  return existingEntitySlugs;
+}
+
+/**
+ * Find existing entity slug that matches this name, or generate a new one.
+ */
+function findOrGenerateSlug(name: string): string {
+  const entityMap = loadExistingEntities();
+
+  // Try exact slug match
+  const rawSlug = generateSlug(name);
+  if (entityMap.has(rawSlug)) {
+    return entityMap.get(rawSlug)!;
+  }
+
+  // Try normalized name match
+  const normalizedName = normalizeName(name);
+  if (entityMap.has(normalizedName)) {
+    return entityMap.get(normalizedName)!;
+  }
+
+  // Try normalized slug (without suffixes)
+  const normalizedSlug = rawSlug
+    .replace(/-inc$/, '')
+    .replace(/-llc$/, '')
+    .replace(/-corp$/, '')
+    .replace(/-group$/, '')
+    .replace(/-s-.*$/, ''); // Remove possessive patterns like "-s-supplier-code"
+
+  if (entityMap.has(normalizedSlug)) {
+    return entityMap.get(normalizedSlug)!;
+  }
+
+  // No match found - use the normalized slug for new entities
+  // This prevents creating "upbound-group-inc" when "upbound" doesn't exist yet
+  return normalizedSlug || rawSlug;
+}
+
+/**
+ * Clear the entity slug cache (call when entities are modified).
+ */
+export function clearEntityCache(): void {
+  existingEntitySlugs = null;
 }
 
 /**
@@ -297,14 +396,14 @@ Return your response as JSON in this exact format:
       model: CLAUDE_MODEL,
     });
 
-    // Transform entities
+    // Transform entities - use findOrGenerateSlug to match existing entities
     const entities: DraftEntity[] = response.entities.map((e) => ({
-      slug: generateSlug(e.name),
+      slug: findOrGenerateSlug(e.name),
       name: e.name,
       type: e.type,
       description: e.description,
       links: e.officialSite ? { officialSite: e.officialSite } : undefined,
-      parentEntity: e.parentEntity ? generateSlug(e.parentEntity) : undefined,
+      parentEntity: e.parentEntity ? findOrGenerateSlug(e.parentEntity) : undefined,
       _draft: createMetadata(e.confidence),
     }));
 
@@ -323,11 +422,11 @@ Return your response as JSON in this exact format:
       _draft: createMetadata(response.sourceInfo.confidence),
     };
 
-    // Transform claims
+    // Transform claims - use findOrGenerateSlug to match existing entities
     const claims: DraftClaim[] = response.claims.map((c) => {
       // Find the primary entity slug
       const primarySlug = primaryEntity
-        ? generateSlug(primaryEntity)
+        ? findOrGenerateSlug(primaryEntity)
         : entities[0]?.slug || 'unknown';
 
       // Build entity references
@@ -338,7 +437,7 @@ Return your response as JSON in this exact format:
       // Add related entities
       if (c.relatedEntities) {
         c.relatedEntities.forEach((name) => {
-          const slug = generateSlug(name);
+          const slug = findOrGenerateSlug(name);
           if (slug !== primarySlug) {
             entityRefs.push({ slug, role: 'related' });
           }
