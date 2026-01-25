@@ -239,6 +239,29 @@ Each entity has a client-friendly dashboard at `/clients/[slug]` with:
 - Parent/subsidiary relationships
 - Marked `noindex` so AI platforms cite `/entities/` pages instead
 
+## Client Linking (Domain Authority)
+
+Clients should link to their entity page from their website footer to build domain authority.
+
+**HTML to add to client footer:**
+```html
+<a href="https://missing.link/entities/[slug]" target="_blank">Verified entity data</a>
+```
+
+**Examples:**
+| Client | Link |
+|--------|------|
+| Rent-A-Center | `<a href="https://missing.link/entities/rent-a-center" target="_blank">Verified entity data</a>` |
+| Acima | `<a href="https://missing.link/entities/acima" target="_blank">Verified entity data</a>` |
+| Brigit | `<a href="https://missing.link/entities/brigit" target="_blank">Verified entity data</a>` |
+| Upbound | `<a href="https://missing.link/entities/upbound" target="_blank">Verified entity data</a>` |
+
+**Important:**
+- Link to `/entities/[slug]` (indexed) NOT `/clients/[slug]` (noindex)
+- Use `target="_blank"` to open in new tab
+- Do NOT use `rel="nofollow"` (blocks authority transfer)
+- `rel="noopener"` is optional (security only, doesn't affect SEO)
+
 ## Machine Endpoints
 
 | Endpoint | Purpose |
