@@ -182,12 +182,28 @@ Interactive script to create claim + source from simple markdown input.
 
 ### Snapshot Sources (Oxylabs)
 
+Archives source URLs as rendered HTML so evidence is preserved even if original pages change or go offline.
+
 ```bash
 # Snapshot specific source
 npm run snapshot -- src_abc12345
 
-# Snapshot all sources
+# Snapshot all sources (caution: API costs)
 npm run snapshot -- --all
+```
+
+**How it works:**
+1. Fetches URL via Oxylabs API (renders JavaScript)
+2. Saves HTML to `/content/sources/artifacts/{sourceId}/{timestamp}.html`
+3. Updates source JSON with snapshot reference
+
+**Storage structure:**
+```
+content/sources/
+├── src_abc12345.json
+└── artifacts/
+    └── src_abc12345/
+        └── 2026-01-25T03-45-00-000Z.html
 ```
 
 Requires `OXYLABS_USERNAME` and `OXYLABS_PASSWORD` environment variables.
