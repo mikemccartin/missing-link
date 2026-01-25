@@ -239,3 +239,30 @@ footer {
 .client-view article:last-child {
   border-bottom: none;
 }
+
+/* Stats bar for client dashboard */
+.client-view .stats-bar {
+  display: flex;
+  gap: 2rem;
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.client-view .stat {
+  display: flex;
+  flex-direction: column;
+}
+
+.client-view .stat-value {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.client-view .stat-label {
+  font-size: 0.75rem;
+  color: #666666;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}

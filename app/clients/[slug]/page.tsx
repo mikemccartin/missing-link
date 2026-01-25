@@ -5,6 +5,7 @@ import {
   getEntity,
   getClaimsForEntity,
   getAllSources,
+  getAllTopics,
   getParentEntity,
   getSubsidiaryEntities,
 } from "@/lib/content";
@@ -26,12 +27,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: "Not Found" };
   }
   return {
-    title: entity.name,
-    description: `Claims and sources for ${entity.name}`,
+    title: `${entity.name} Dashboard`,
+    description: `Claims, sources, and coverage for ${entity.name}`,
   };
 }
 
-export default async function ClientPage({ params }: Props) {
+export default async function ClientDashboard({ params }: Props) {
   const { slug } = await params;
   const entity = getEntity(slug);
 
@@ -41,6 +42,7 @@ export default async function ClientPage({ params }: Props) {
 
   const claims = getClaimsForEntity(slug);
   const sources = getAllSources();
+  const allTopics = getAllTopics();
   const sourceMap = new Map(sources.map((s) => [s.id, s]));
 
   // Get parent/subsidiary relationships
@@ -67,6 +69,28 @@ export default async function ClientPage({ params }: Props) {
     .map((id) => sourceMap.get(id))
     .filter(Boolean);
 
+  // Get unique topics used across all claims
+  const usedTopicSlugs = new Set<string>();
+  for (const claim of claims) {
+    for (const topicSlug of claim.topics) {
+      usedTopicSlugs.add(topicSlug);
+    }
+  }
+  const usedTopics = allTopics.filter((t) => usedTopicSlugs.has(t.slug));
+
+  // Separate claims by status
+  const assertedClaims = sortedClaims.filter((c) => c.status === "asserted");
+  const corrections = sortedClaims.filter((c) => c.status !== "asserted");
+
+  // Calculate stats
+  const stats = {
+    totalClaims: claims.length,
+    asserted: assertedClaims.length,
+    corrections: corrections.length,
+    topics: usedTopics.length,
+    sources: usedSources.length,
+  };
+
   return (
     <>
       <script
@@ -76,15 +100,15 @@ export default async function ClientPage({ params }: Props) {
         }}
       />
       <main>
+        {/* Header */}
         <header className="client-header">
           <div className="meta">{entity.type}</div>
           <h1>{entity.name}</h1>
           <p>{entity.description}</p>
 
-          {/* Parent/subsidiary relationships */}
           {parentEntity && (
             <p className="meta">
-              Parent organization: <a href={`/entities/${parentEntity.slug}`}>{parentEntity.name}</a>
+              Parent: <a href={`/clients/${parentEntity.slug}`}>{parentEntity.name}</a>
             </p>
           )}
           {subsidiaries.length > 0 && (
@@ -93,7 +117,7 @@ export default async function ClientPage({ params }: Props) {
               {subsidiaries.map((sub, i) => (
                 <span key={sub.slug}>
                   {i > 0 && ", "}
-                  <a href={`/entities/${sub.slug}`}>{sub.name}</a>
+                  <a href={`/clients/${sub.slug}`}>{sub.name}</a>
                 </span>
               ))}
             </p>
@@ -102,36 +126,51 @@ export default async function ClientPage({ params }: Props) {
           {entity.links?.officialSite && (
             <p>
               <a href={entity.links.officialSite} target="_blank" rel="noopener noreferrer">
-                {entity.links.officialSite.replace(/^https?:\/\//, '')}
+                {entity.links.officialSite.replace(/^https?:\/\//, "")}
               </a>
             </p>
           )}
         </header>
 
-        <section>
-          <h2>Published Claims ({claims.length})</h2>
-          <p className="meta">
-            Verified statements with sources and version history
-          </p>
+        {/* Stats Bar */}
+        <section className="stats-bar">
+          <div className="stat">
+            <span className="stat-value">{stats.totalClaims}</span>
+            <span className="stat-label">Claims</span>
+          </div>
+          <div className="stat">
+            <span className="stat-value">{stats.topics}</span>
+            <span className="stat-label">Topics</span>
+          </div>
+          <div className="stat">
+            <span className="stat-value">{stats.sources}</span>
+            <span className="stat-label">Sources</span>
+          </div>
+          {stats.corrections > 0 && (
+            <div className="stat">
+              <span className="stat-value">{stats.corrections}</span>
+              <span className="stat-label">Corrections</span>
+            </div>
+          )}
+        </section>
 
-          {sortedClaims.length === 0 ? (
+        {/* Claims Section */}
+        <section>
+          <h2>Published Claims ({assertedClaims.length})</h2>
+          <p className="meta">Verified statements with sources and version history</p>
+
+          {assertedClaims.length === 0 ? (
             <p>No claims published yet.</p>
           ) : (
-            sortedClaims.map((claim) => (
+            assertedClaims.map((claim) => (
               <article key={claim.id} className="claim-item">
                 <div className="meta">
-                  <span className={`status status-${claim.status}`}>
-                    {claim.status}
-                  </span>
-                  {" · "}
-                  <span>Version {claim.version}</span>
-                  {" · "}
-                  <span>Updated {claim.provenance.updatedAt}</span>
+                  <span className={`status status-${claim.status}`}>{claim.status}</span>
+                  {" · "}v{claim.version}
+                  {" · "}{claim.provenance.updatedAt}
                 </div>
                 <h3>{claim.title}</h3>
                 <p>{claim.statement}</p>
-
-                {/* Show citations */}
                 <div className="meta">
                   Evidence:{" "}
                   {claim.citations.map((citation, i) => {
@@ -150,8 +189,6 @@ export default async function ClientPage({ params }: Props) {
                     );
                   })}
                 </div>
-
-                {/* Show quotes if available */}
                 {claim.citations.some((c) => c.quote) && (
                   <blockquote className="meta">
                     {claim.citations
@@ -166,6 +203,23 @@ export default async function ClientPage({ params }: Props) {
           )}
         </section>
 
+        {/* Topics Section */}
+        {usedTopics.length > 0 && (
+          <section>
+            <h2>Topics ({usedTopics.length})</h2>
+            <p className="meta">Categories these claims are organized under</p>
+            <ul>
+              {usedTopics.map((topic) => (
+                <li key={topic.slug}>
+                  <a href={`/topics/${topic.slug}`}>{topic.name}</a>
+                  <span className="meta"> — {topic.description}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {/* Sources Section */}
         <section>
           <h2>Sources ({usedSources.length})</h2>
           <p className="meta">Primary documents cited as evidence</p>
@@ -175,27 +229,58 @@ export default async function ClientPage({ params }: Props) {
                 <a href={source!.url} target="_blank" rel="noopener noreferrer">
                   {source!.title}
                 </a>
-                <span className="meta"> — {source!.publisher}, accessed {source!.accessDate}</span>
+                <span className="meta">
+                  {" "}— {source!.publisher}, accessed {source!.accessDate}
+                </span>
               </li>
             ))}
           </ul>
         </section>
 
+        {/* Corrections Section */}
+        {corrections.length > 0 && (
+          <section>
+            <h2>Corrections & Disputes ({corrections.length})</h2>
+            <p className="meta">Claims that have been updated, disputed, or deprecated</p>
+            {corrections.map((claim) => (
+              <article key={claim.id} className="claim-item">
+                <div className="meta">
+                  <span className={`status status-${claim.status}`}>{claim.status}</span>
+                  {" · "}v{claim.version}
+                  {" · "}{claim.provenance.updatedAt}
+                </div>
+                <h3>{claim.title}</h3>
+                <p>{claim.statement}</p>
+                {claim.changelog.length > 1 && (
+                  <div className="meta">
+                    History:{" "}
+                    {claim.changelog.map((entry, i) => (
+                      <span key={i}>
+                        {i > 0 && " → "}
+                        v{entry.version} ({entry.date})
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </article>
+            ))}
+          </section>
+        )}
+
+        {/* About Section */}
         <section className="meta">
-          <h2>About this page</h2>
+          <h2>About this dashboard</h2>
           <p>
-            This page is generated by <a href="https://missing.link">missing.link</a>,
-            a knowledge substrate designed to make verified claims discoverable and
-            citable by AI platforms.
+            This dashboard shows all verified claims about {entity.name} published on{" "}
+            <a href="https://missing.link">missing.link</a>, a knowledge substrate
+            designed for AI citation.
           </p>
           <p>
             All claims include version history, explicit provenance, and links to
             primary sources. Claims can be corrected or updated without erasing history.
           </p>
           <p>
-            <a href={`https://missing.link/entities/${slug}`}>
-              View full entity page →
-            </a>
+            <a href={`/entities/${slug}`}>View public entity page →</a>
           </p>
         </section>
       </main>
