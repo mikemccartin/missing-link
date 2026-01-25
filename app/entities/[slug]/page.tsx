@@ -160,11 +160,9 @@ export default async function EntityPage({ params, searchParams }: Props) {
           ))
         )}
 
-        {!isClientView && (
-          <p className="meta">
-            <a href={`/entities/${slug}?view=client`}>View client-friendly version</a>
-          </p>
-        )}
+        <p className="meta">
+          <a href={`/clients/${slug}`}>View client-friendly version</a>
+        </p>
       </main>
     </>
   );
