@@ -90,12 +90,9 @@ export function getParentEntity(entity: Entity): Entity | null {
   return getEntity(entity.parentEntity);
 }
 
-// Get subsidiary entities if any exist
+// Get subsidiary entities (reverse lookup - finds entities with parentEntity matching this entity's slug)
 export function getSubsidiaryEntities(entity: Entity): Entity[] {
-  if (!entity.subsidiaries || entity.subsidiaries.length === 0) return [];
-  return entity.subsidiaries
-    .map(slug => getEntity(slug))
-    .filter((e): e is Entity => e !== null);
+  return getAllEntities().filter(e => e.parentEntity === entity.slug);
 }
 
 // Topics
