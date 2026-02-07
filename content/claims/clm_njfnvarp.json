@@ -1,0 +1,32 @@
+{
+  "id": "clm_njfnvarp",
+  "title": "RA Sushi serves inventive sushi rolls and sashimi",
+  "statement": "RA Sushi offers freshly made inventive rolls and sashimi as part of their menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hevl5kag",
+      "quote": "get ready for freshly made inventive rolls, sashimi, bold Japanese flavors and a high energy dining experience"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

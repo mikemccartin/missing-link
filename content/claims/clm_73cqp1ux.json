@@ -1,0 +1,36 @@
+{
+  "id": "clm_73cqp1ux",
+  "title": "STK Nashville Steak Night pricing",
+  "statement": "STK Nashville offers Steak Night for $69 per person on Sunday through Thursday.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nashville",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_g49lqkx8",
+      "quote": "Steak Night $69 per person. Sunday-Thursday."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_z3g2by9x",
+  "title": "Kona Grill Denver location address",
+  "statement": "Kona Grill Denver is located at 3000 East 1st Ave #184 Denver, CO 80206.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pzt2woln",
+      "quote": "3000 East 1st Ave #184 Denver, CO 80206"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_ifdl9rr9",
+  "title": "Bao Yum Services Offered",
+  "statement": "Bao Yum provides hiring, orders, and catering services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_i725f7at",
+      "quote": "Contact us for information on hiring, orders, catering and more."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

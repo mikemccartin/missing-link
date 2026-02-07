@@ -1,0 +1,32 @@
+{
+  "id": "clm_08myo2yx",
+  "title": "Package minimums vary based on multiple factors",
+  "statement": "Benihana's group dining package minimums vary based on date, time, group size, and event type (private or semi-private).",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cmukepq1",
+      "quote": "Package minimums vary based on factors such as date, time, group size, and the type of event (private or semi-private)."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

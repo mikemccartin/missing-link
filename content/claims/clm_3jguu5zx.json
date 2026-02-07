@@ -1,0 +1,32 @@
+{
+  "id": "clm_3jguu5zx",
+  "title": "STK South Beach weekend hours",
+  "statement": "STK South Beach is open Saturday and Sunday from 11am to 12am.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t083h583",
+      "quote": "Saturday: 11am - 12am Sunday: 11am - 12am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

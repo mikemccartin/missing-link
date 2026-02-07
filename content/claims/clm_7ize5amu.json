@@ -1,0 +1,32 @@
+{
+  "id": "clm_7ize5amu",
+  "title": "RA Sushi serves inventive sushi and Japanese cuisine",
+  "statement": "RA Sushi offers inventive sushi, Japanese cuisine, and innovative cocktails in a high-energy environment.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hbuiv06u",
+      "quote": "Inventive sushi, Japanese cuisine, innovative cocktails served in a high-energy, fun and sexy environment."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_qbyida49",
+  "title": "STK Doha phone number",
+  "statement": "STK Doha's contact phone number is 4484 8588.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k79fjimt",
+      "quote": "4484 8588"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

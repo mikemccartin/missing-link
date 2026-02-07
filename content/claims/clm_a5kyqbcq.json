@@ -1,0 +1,32 @@
+{
+  "id": "clm_a5kyqbcq",
+  "title": "togrp operates a gift cards page",
+  "statement": "togrp maintains a dedicated gift cards page on their website at togrp.com/gift-cards/",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hpg06o19",
+      "quote": "\"slug\":\"gift-cards\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/togrp.com\\/gift-cards\\/\",\"title\":{\"rendered\":\"Gift Cards\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

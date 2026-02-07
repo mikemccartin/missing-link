@@ -1,0 +1,32 @@
+{
+  "id": "clm_14r0scuw",
+  "title": "Be The Chef not available at international locations",
+  "statement": "Be The Chef packages cannot be redeemed or purchased at Benihana's international locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_opm98ynp",
+      "quote": "Be The Chef packages cannot be redeemed or purchased in international locations."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_j44hf7lp",
+  "title": "STK Bellevue offers Japanese A5 Wagyu",
+  "statement": "STK Bellevue serves Japanese A5 Wagyu as part of their premium dining menu offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "japanese-a5-wagyu",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_12jpky1y",
+      "quote": "Experience fine dining at STK Bellevue with our Dinner Menu. Premium steaks, Japanese A5 Wagyu, seafood bar, and signature cocktails."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

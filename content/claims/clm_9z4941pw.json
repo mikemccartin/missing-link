@@ -1,0 +1,32 @@
+{
+  "id": "clm_9z4941pw",
+  "title": "STK Chicago lunch hours weekdays",
+  "statement": "STK Chicago serves lunch Monday through Friday from 11am to 3pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_en2jtk9y",
+      "quote": "Monday – Friday: 11am – 3pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_0cekglf8",
+  "title": "Kona Bar Burger available at all locations",
+  "statement": "The $6 Kona Burger is available at any Kona Grill location.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "kona-bar-burger",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_l4ueexav",
+      "quote": "It's the perfect casual bite, whether for lunch, dinner, or late-night, at any Kona Grill location."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

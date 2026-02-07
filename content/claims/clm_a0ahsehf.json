@@ -1,0 +1,32 @@
+{
+  "id": "clm_a0ahsehf",
+  "title": "STK Scottsdale located at 3815 N. Scottsdale Rd",
+  "statement": "STK Scottsdale is located at 3815 N. Scottsdale Rd, Scottsdale, AZ 85251 in Old Town Scottsdale.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jjl4hchu",
+      "quote": "STK Scottsdale is located at 3815 N. Scottsdale Rd, Scottsdale, AZ 85251 , in Old Town Scottsdale."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

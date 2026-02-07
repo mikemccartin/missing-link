@@ -1,0 +1,36 @@
+{
+  "id": "clm_yv8r7d3p",
+  "title": "Kona Grill El Paso location address",
+  "statement": "Kona Grill's El Paso location is at 8889 Gateway Blvd West, Ste. 1740 El Paso, TX 79925.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "el-paso",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7a29pr0q",
+      "quote": "8889 Gateway Blvd West, Ste. 1740 El Paso, TX 79925"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

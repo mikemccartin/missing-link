@@ -1,0 +1,7 @@
+{
+  "slug": "stk-las-vegas",
+  "name": "STK Las Vegas",
+  "type": "organization",
+  "description": "A steakhouse and lounge located inside The Cosmopolitan of Las Vegas, offering fine dining with a DJ-driven atmosphere.",
+  "parentEntity": "stk-steakhouse"
+}

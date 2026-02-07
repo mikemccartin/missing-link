@@ -1,0 +1,32 @@
+{
+  "id": "clm_el1upz75",
+  "title": "STK Happy Hour operates Monday-Friday 2:30-6:30PM",
+  "statement": "STK Happy Hour is available Monday through Friday from 2:30PM to 6:30PM in the bar, lounge, and patio areas.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ujkxed6e",
+      "quote": "Sip, snack, and savor Monday–Friday from 2:30–6:30PM"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_di2ukp5w",
+  "title": "Viva Las Vegas Roll is award-winning",
+  "statement": "The Viva Las Vegas Roll served at RA Sushi is described as award-winning.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xvizf0jx",
+      "quote": "Indulge in our award winning Viva Las Vegas Roll"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

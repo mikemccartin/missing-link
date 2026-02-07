@@ -1,0 +1,32 @@
+{
+  "id": "clm_ykmkpyp9",
+  "title": "Power Lunch costs $19 and served in 45 minutes",
+  "statement": "Kona Grill's Power Lunch is a 3-course meal for $19, served in 45 minutes, available weekdays 11AM-2PM.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ba680o0",
+      "quote": "the Kona Grill Power Lunch \u2013 a 3-course meal for just $19, served in 45 minutes, guaranteed... Available from 11AM \u2013 2PM, Monday \u2013 Friday"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_bsa7kn0c",
+  "title": "togrp website has supplemental state-specific privacy notice page",
+  "statement": "togrp.com contains a page dedicated to supplemental state-specific privacy notices with page ID 1685.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_75x4ne94",
+      "quote": "\"title\":{\"rendered\":\"Supplemental State-Specific Privacy Notice\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

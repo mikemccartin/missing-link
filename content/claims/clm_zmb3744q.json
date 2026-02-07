@@ -1,0 +1,32 @@
+{
+  "id": "clm_zmb3744q",
+  "title": "Wagyu fried rice is designed for sharing",
+  "statement": "RA Sushi's wagyu fried rice contains rice, egg, chopped vegetables and spicy mayo and is meant for two people.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fyxev6m6",
+      "quote": "WAGYU FRIED RICE TO SHARE Rice, egg, chopped vegetables and spicy mayo (meant for two)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

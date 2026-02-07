@@ -1,0 +1,36 @@
+{
+  "id": "clm_70vx83b5",
+  "title": "Steak Night Milan pricing",
+  "statement": "Steak Night Milan offers a special set menu for around \u20ac59 featuring signature cuts and sides",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "stk-milan",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_egjeb4ip",
+      "quote": "Steak Night Milan offers a special set menu (around \u20ac59) featuring signature cuts and sides on selected nights"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

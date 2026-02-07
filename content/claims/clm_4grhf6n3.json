@@ -1,0 +1,36 @@
+{
+  "id": "clm_4grhf6n3",
+  "title": "Benihana gift cards can be redeemed at RA Sushi",
+  "statement": "Benihana gift cards and $10 Promotional Cards can be redeemed at RA Sushi restaurants, both dine-in and online.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bghppns7",
+      "quote": "Benihana gift cards and $10 Promotional Cards can also be redeemed at RA Sushi restaurants, dine-in and online."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

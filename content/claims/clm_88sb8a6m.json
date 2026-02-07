@@ -1,0 +1,32 @@
+{
+  "id": "clm_88sb8a6m",
+  "title": "Kona Grill implements oEmbed protocol for content embedding",
+  "statement": "Kona Grill's website implements the oEmbed protocol version 1.0 for content embedding services",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_saux700o",
+      "quote": "\"version\":\"1.0\",\"provider_name\":\"Kona Grill\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

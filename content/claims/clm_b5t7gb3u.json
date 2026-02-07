@@ -1,0 +1,36 @@
+{
+  "id": "clm_b5t7gb3u",
+  "title": "STK offers $30 lunch menu during Chicago Restaurant Week",
+  "statement": "STK offers a $30 lunch prix-fixe menu during Chicago Restaurant Week featuring Tuna Tartare Tacos and Steakhouse Skirt Steak.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "chicago-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n61zo0ez",
+      "quote": "enjoy our exclusive prix-fixe menus, including a $30 Lunch featuring Tuna Tartare Tacos and Steakhouse Skirt Steak"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

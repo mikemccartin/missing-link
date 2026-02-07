@@ -1,0 +1,32 @@
+{
+  "id": "clm_7450m7yd",
+  "title": "Kona Grill maintains a press page on their website",
+  "statement": "Kona Grill has a dedicated press page at konagrill.com/press/ for media-related content.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_godfzqhb",
+      "quote": "\"link\":\"https:\\/\\/konagrill.com\\/press\\/\",\"title\":{\"rendered\":\"Press\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

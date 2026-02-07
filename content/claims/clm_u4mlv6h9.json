@@ -1,0 +1,32 @@
+{
+  "id": "clm_u4mlv6h9",
+  "title": "Nectar Slider supports multiple transition effects",
+  "statement": "Nectar Slider includes support for fade transitions and reveal title caption transitions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fcf7o8fc",
+      "quote": ".nectar-slider-wrap[data-transition=\"fade\"] .swiper-slide-active and .nectar-slider-wrap[data-caption-trans=\"reveal_title\"]"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_iv0kyd81",
+  "title": "Benihana offers Sushi & Me culinary classes for children and adults",
+  "statement": "Benihana's Sushi & Me is a culinary experience that teaches both children and adults how to make sushi with the opportunity to create their own sushi roll masterpieces.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_24r5ajfg",
+      "quote": "Benihana's Sushi & Me is a culinary experience that teaches both the child and adult (Mother, Grandmother, Aunt, Father, etc.) the fine art of how to make sushi with the opportunity to create their own sushi roll masterpieces."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

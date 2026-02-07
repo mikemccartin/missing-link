@@ -1,0 +1,36 @@
+{
+  "id": "clm_gwi5x1tm",
+  "title": "STK Fallsview floor location in hotel",
+  "statement": "STK Niagara Fallsview is located on the 9th floor of Embassy Suites in the Fallsview District.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "embassy-suites-hotel",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sqh2cfld",
+      "quote": "Perched on the 9th floor of Embassy Suites in the heart of the Fallsview District"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

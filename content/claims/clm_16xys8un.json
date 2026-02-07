@@ -1,0 +1,32 @@
+{
+  "id": "clm_16xys8un",
+  "title": "Benihana offers wine service with multiple categories",
+  "statement": "Benihana offers sparkling, white, rosé, red wines and a reserve list as part of their wine menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_p8ypthft",
+      "quote": "Explore the Benihana wine menu to discover the wide selection of sparkling, white, blush, red, and plum wines we offer as well as our reserve list."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

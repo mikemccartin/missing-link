@@ -1,0 +1,32 @@
+{
+  "id": "clm_on9ajz4r",
+  "title": "Benihana offers sushi and sashimi",
+  "statement": "Benihana's menu includes sushi and sashimi options alongside their teppanyaki offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ul6256vp",
+      "quote": "Explore Benihana's main menu, featuring signature teppanyaki dishes, sushi, sashimi, and handcrafted cocktails."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

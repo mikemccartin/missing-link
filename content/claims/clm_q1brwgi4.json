@@ -1,0 +1,36 @@
+{
+  "id": "clm_q1brwgi4",
+  "title": "STK NYC Rooftop serves cocktails at $22 each",
+  "statement": "STK NYC Rooftop offers cocktails priced at $22 each on their Pumpkin Menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nyc-rooftop",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_au709v7c",
+      "quote": "Pumpkin Menu Cocktails $22 each"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

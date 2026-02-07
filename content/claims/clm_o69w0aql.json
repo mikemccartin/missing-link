@@ -1,0 +1,40 @@
+{
+  "id": "clm_o69w0aql",
+  "title": "STK San Francisco location near Embarcadero",
+  "statement": "STK San Francisco is located near the Embarcadero and Financial District.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "embarcadero",
+      "role": "related"
+    },
+    {
+      "slug": "financial-district",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xacq3hic",
+      "quote": "STK San Francisco is located at 1 Market Street, San Francisco, CA 94105 , near the Embarcadero and Financial District"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

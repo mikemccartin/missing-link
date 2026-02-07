@@ -1,0 +1,32 @@
+{
+  "id": "clm_16pg9tm9",
+  "title": "Kona Grill website includes contact page",
+  "statement": "The Kona Grill website includes a contact page accessible through their web interface",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xc50itfl",
+      "quote": "\"title\":\"Contact\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

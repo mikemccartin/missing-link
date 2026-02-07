@@ -1,0 +1,48 @@
+{
+  "id": "clm_v73pixe4",
+  "title": "RA Sushi is owned by The ONE Group Hospitality, Inc.",
+  "statement": "RA Sushi is one of The ONE Group's iconic restaurant brands along with STK, Benihana, and Kona Grill.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wjj7cw8c",
+      "quote": "The ONE Group's iconic restaurant brands include STK®, Benihana®, Kona Grill®, and RA® Sushi."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

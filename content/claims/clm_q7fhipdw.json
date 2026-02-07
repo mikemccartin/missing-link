@@ -1,0 +1,32 @@
+{
+  "id": "clm_q7fhipdw",
+  "title": "RA Sushi has CEO reporting structure for ethics concerns",
+  "statement": "RA Sushi employees and directors must report conflicts of interest and ethics violations to the company's CEO.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_61x2glmk",
+      "quote": "Any Employee or Director who becomes aware of a conflict of interest or potential conflict should bring it to the attention of our CEO of the Company."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

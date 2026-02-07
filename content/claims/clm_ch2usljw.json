@@ -1,0 +1,36 @@
+{
+  "id": "clm_ch2usljw",
+  "title": "STK Los Cabos location at airport",
+  "statement": "STK Los Cabos is located inside Los Cabos International Airport near Terminal 2 at B.C.S MX, Carr. Transpeninsular Km 43.5, 23420 San José del Cabo, B.C., Mexico",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "los-cabos-international-airport",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_icjfm2ha",
+      "quote": "STK Los Cabos is located at B.C.S MX, Carr. Transpeninsular Km 43.5, 23420 San José del Cabo, B.C., Mexico , inside the Los Cabos International Airport complex near Terminal 2."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

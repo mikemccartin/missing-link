@@ -1,0 +1,32 @@
+{
+  "id": "clm_v487kcoo",
+  "title": "Wagyu menu includes onion soup, salad, fried rice and vegetables",
+  "statement": "The wagyu menu is accompanied with onion soup, uchi no salad, wagyu fried rice, and hibachi vegetables.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fyxev6m6",
+      "quote": "Accompanied with \u2022 onion soup \u2022uchi no salad \u2022 wagyu fried rice \u2022 hibachi vegetables"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

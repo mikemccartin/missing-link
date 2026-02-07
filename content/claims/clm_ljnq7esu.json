@@ -1,0 +1,32 @@
+{
+  "id": "clm_ljnq7esu",
+  "title": "Benihana provides six-week chef training program",
+  "statement": "Benihana provides a six-week chef training program that includes working as a chef in an existing Benihana restaurant.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f3ifsklw",
+      "quote": "Our six-week chef training program, a portion of which is spent working as a chef in an existing BENIHANA restaurant, addresses both in-kitchen and tableside food preparation techniques"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

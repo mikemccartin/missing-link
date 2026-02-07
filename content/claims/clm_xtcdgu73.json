@@ -1,0 +1,32 @@
+{
+  "id": "clm_xtcdgu73",
+  "title": "Golden Road Mango Cart specifications",
+  "statement": "Golden Road Mango Cart is a mango wheat ale from Los Angeles, CA with 4% ABV served in 12 oz portions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wntmd75m",
+      "quote": "GOLDEN ROAD \"MANGO CART\" Mango Wheat Ale | Los Angeles, CA 12 oz | ABV 4%"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

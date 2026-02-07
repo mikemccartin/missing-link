@@ -1,0 +1,40 @@
+{
+  "id": "clm_1c7ole8g",
+  "title": "Kona Grill Kansas City location on Country Club Plaza",
+  "statement": "Kona Grill Kansas City is located on the south end of Country Club Plaza on Ward Parkway, next to Brush Creek.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "country-club-plaza",
+      "role": "related"
+    },
+    {
+      "slug": "ward-parkway",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5usn9842",
+      "quote": "We are located on the south end of Country Club Plaza on Ward Parkway. Next to Brush Creek."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

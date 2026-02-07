@@ -1,0 +1,32 @@
+{
+  "id": "clm_eenqyd6f",
+  "title": "RA Sushi offers customer loyalty program",
+  "statement": "RA Sushi operates a customer loyalty program accessible through their website",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n37yfyry",
+      "quote": "\"title\":\"Loyalty\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

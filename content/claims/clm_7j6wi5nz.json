@@ -1,0 +1,32 @@
+{
+  "id": "clm_7j6wi5nz",
+  "title": "STK Boston serves Sunday Brunch from 10am-2pm",
+  "statement": "STK Boston serves Sunday Brunch from 10am to 2pm with modern steakhouse twists on brunch classics.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n44n8mug",
+      "quote": "STK Boston serves Sunday Brunch (10am – 2pm) with modern steakhouse twists on brunch classics, cocktails, and a high‑energy lounge atmosphere."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

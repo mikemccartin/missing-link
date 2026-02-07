@@ -1,0 +1,36 @@
+{
+  "id": "clm_55k8mzhq",
+  "title": "The ONE Group operates Benihana restaurant brand",
+  "statement": "The ONE Group is associated with the Benihana restaurant brand through their corporate website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8j2aqn9a",
+      "quote": "\"provider_name\":\"The ONE Group\",\"provider_url\":\"https:\\/\\/togrp.com\",\"title\":\"Benihana\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

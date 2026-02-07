@@ -1,0 +1,32 @@
+{
+  "id": "clm_3lhcbk2m",
+  "title": "RA Sushi website uses Tailwind CSS framework",
+  "statement": "RA Sushi's website styling is built with Tailwind CSS version 3.3.5.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_99frs28d",
+      "quote": "/*! tailwindcss v3.3.5 | MIT License | https://tailwindcss.com*/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

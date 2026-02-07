@@ -1,0 +1,36 @@
+{
+  "id": "clm_11ru2k8j",
+  "title": "Kona Grill uses Open Table for reservations",
+  "statement": "Kona Grill uses Open Table as third-party software for their reservation system.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "opentable",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5c2vgf6p",
+      "quote": "This error specifically is due to 3rd party software (Open Table) and not immediately resolvable."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

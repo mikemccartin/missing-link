@@ -1,0 +1,32 @@
+{
+  "id": "clm_87d5bqc7",
+  "title": "Benihana offers signature cocktails menu",
+  "statement": "Benihana has a signature cocktails menu featuring specialty drinks like the Benihana Ocean Punch Bowl and the Beni-Tini.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y9ghkdfm",
+      "quote": "Explore the Benihana specialty and signature drink menu to discover Benihana favorites like the Benihana Ocean Punch Bowl or the Beni-Tini."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

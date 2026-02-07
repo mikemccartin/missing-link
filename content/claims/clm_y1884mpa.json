@@ -1,0 +1,32 @@
+{
+  "id": "clm_y1884mpa",
+  "title": "STK Atlanta serves Sunday brunch 10am-2pm",
+  "statement": "STK Atlanta serves Sunday brunch between 10am and 2pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_konbsmnj",
+      "quote": "Try our brunch menu between 10am – 2pm on Sundays."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

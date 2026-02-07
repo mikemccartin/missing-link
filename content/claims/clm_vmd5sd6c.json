@@ -1,0 +1,32 @@
+{
+  "id": "clm_vmd5sd6c",
+  "title": "Sapporo beer available in two sizes",
+  "statement": "RA Sushi serves Sapporo beer in both 22 oz and 12 oz sizes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wntmd75m",
+      "quote": "SAPPORO (22 oz) SAPPORO (12 oz)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

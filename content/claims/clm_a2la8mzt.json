@@ -1,0 +1,32 @@
+{
+  "id": "clm_a2la8mzt",
+  "title": "Kabuki Kids Menu includes hibachi protein options",
+  "statement": "The Kabuki Kids Menu features multiple hibachi-style protein dishes including chicken, shrimp, steak, and filet mignon in various combinations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sobxnm1o",
+      "quote": "HIBACHI CHICKEN HIBACHI SHRIMP HIBACHI STEAK HIBACHI FILET MIGNON CHICKEN & SHRIMP CHICKEN & STEAK STEAK & SHRIMP FILET MIGNON & SHRIMP FILET MIGNON & CHICKEN"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

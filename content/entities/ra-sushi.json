@@ -1,0 +1,10 @@
+{
+  "slug": "ra-sushi",
+  "name": "RA Sushi",
+  "type": "organization",
+  "description": "A restaurant chain specializing in inventive sushi, Japanese cuisine, and innovative cocktails served in a high-energy environment.",
+  "links": {
+    "officialSite": "https://rasushi.com/"
+  },
+  "parentEntity": "the-one-group-hospitality"
+}

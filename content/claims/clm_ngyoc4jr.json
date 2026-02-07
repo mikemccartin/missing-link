@@ -1,0 +1,40 @@
+{
+  "id": "clm_ngyoc4jr",
+  "title": "Kona Grill location in Windsor Plaza",
+  "statement": "Kona Grill is located in Windsor Plaza on the corner of Flying Cloud Drive and Regional Center Rd, across from Eden Prairie Center Mall.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "windsor-plaza",
+      "role": "related"
+    },
+    {
+      "slug": "eden-prairie-center-mall",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wlcgr3ww",
+      "quote": "We are located in Windsor Plaza on the corner of Flying Cloud Drive and Regional Center Rd, across from Eden Prairie Center Mall."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

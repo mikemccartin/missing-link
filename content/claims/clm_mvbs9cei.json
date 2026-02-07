@@ -1,0 +1,32 @@
+{
+  "id": "clm_mvbs9cei",
+  "title": "Kona Grill gift cards page was last modified on January 26, 2026",
+  "statement": "The Kona Grill gift cards webpage was last modified on January 26, 2026 at 17:32:50 UTC",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_d9csnuh2",
+      "quote": "\"modified\":\"2026-01-26T17:32:50\",\"modified_gmt\":\"2026-01-26T17:32:50\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

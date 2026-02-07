@@ -1,0 +1,32 @@
+{
+  "id": "clm_wydlj5rs",
+  "title": "Kona Grill committed to cage-free eggs by 2024",
+  "statement": "Kona Grill is committed to sourcing exclusively cage-free eggs for all locations by 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jheq4e62",
+      "quote": "Kona Grill is committed to sourcing exclusively cage-free eggs (inclusive of shell, liquid, and ingredient eggs) for all locations by 2024"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

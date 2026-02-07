@@ -1,0 +1,32 @@
+{
+  "id": "clm_0wpub2rj",
+  "title": "togrp licensee opportunities page last modified August 2025",
+  "statement": "The licensee opportunities page was last modified on August 4, 2025 at 20:51:05.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7t0q0has",
+      "quote": "\"modified\":\"2025-08-04T20:51:05\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

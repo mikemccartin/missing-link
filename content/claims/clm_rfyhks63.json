@@ -1,0 +1,36 @@
+{
+  "id": "clm_rfyhks63",
+  "title": "Benihana's supplier requires annual facility audits",
+  "statement": "Benihana's supplier requires annual processing and production facility audits by both internal and third-party auditors certified by the Professional Animal Auditor Certification Program.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "professional-animal-auditor-certification-program",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_on9j5ri1",
+      "quote": "Our supplier requires annual processing and production facility audits by both internal and third-party auditors who are certified by the Professional Animal Auditor Certification Program"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

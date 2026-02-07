@@ -1,0 +1,32 @@
+{
+  "id": "clm_gjohc0y5",
+  "title": "RA Sushi has a lifestyle menu section",
+  "statement": "RA Sushi offers a menu section categorized as 'Lifestyle'",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_voclsi84",
+      "quote": "\"title\":\"Lifestyle\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

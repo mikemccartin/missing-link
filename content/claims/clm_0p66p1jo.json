@@ -1,0 +1,32 @@
+{
+  "id": "clm_0p66p1jo",
+  "title": "Benihana offers table reservations",
+  "statement": "Benihana provides a table reservation system for customers to book dining experiences.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tw6aru5e",
+      "quote": "Reserve your table at Benihana for an unforgettable teppanyaki dining experience"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

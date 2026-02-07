@@ -1,0 +1,32 @@
+{
+  "id": "clm_ze9vp28t",
+  "title": "RA Sushi operates throughout multiple states",
+  "statement": "RA Sushi conducts business operations throughout the states.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_61x2glmk",
+      "quote": "it is the foundation for the way we conduct ourselves and do business throughout the states."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_i8vrs03x",
+  "title": "STK Dallas offers Japanese A5 Wagyu",
+  "statement": "STK Dallas serves Japanese A5 Wagyu as part of their premium dining offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-dallas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ex5xzb2g",
+      "quote": "Premium steaks, Japanese A5 Wagyu, seafood bar, and signature cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

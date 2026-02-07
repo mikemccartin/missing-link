@@ -1,0 +1,32 @@
+{
+  "id": "clm_gadnkwo6",
+  "title": "RA Sushi has an About Us page on their website",
+  "statement": "RA Sushi maintains an About Us page as part of their official website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_udwbi3up",
+      "quote": "\"title\":\"About Us\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

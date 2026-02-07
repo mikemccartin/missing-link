@@ -1,0 +1,32 @@
+{
+  "id": "clm_0ndf86mq",
+  "title": "RA Sushi supports limited number of non-profit organizations",
+  "statement": "RA Sushi supports a limited number of non-profit organizations with the donation of restaurant gift certificates.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ltow6jz",
+      "quote": "RA Sushi supports a limited number of non-profit organizations with the donation of a restaurant gift certificate."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_8hnt8ipc",
+  "title": "Friends With Benefits Rewards allows points from past visits",
+  "statement": "The Friends With Benefits Rewards program allows customers to receive points from past visits by providing receipt pictures.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_osbggcut",
+      "quote": "To receive points from a past visit, please provide a picture of your itemized receipt."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

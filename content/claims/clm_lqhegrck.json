@@ -1,0 +1,32 @@
+{
+  "id": "clm_lqhegrck",
+  "title": "Power Lunch available 11AM-2PM Monday-Friday",
+  "statement": "Power Lunch is available from 11AM to 2PM, Monday through Friday at most locations",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_afzx9v0i",
+      "quote": "Available from 11AM \u2013 2PM, Monday \u2013 Friday"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

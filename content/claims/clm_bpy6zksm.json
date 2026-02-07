@@ -1,0 +1,36 @@
+{
+  "id": "clm_bpy6zksm",
+  "title": "Benihana opened first restaurant in 1964 in New York City",
+  "statement": "Benihana opened its first restaurant in New York City in 1964 with the goal of introducing teppanyaki cooking to people around the world.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "new-york-city",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f3ifsklw",
+      "quote": "In 1964, a small Japanese restaurant named BENIHANA\u00ae opened in New York City with the goal of introducing teppanyaki cooking to people around the world."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

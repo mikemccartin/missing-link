@@ -1,0 +1,9 @@
+{
+  "slug": "font-awesome",
+  "name": "Font Awesome",
+  "type": "organization",
+  "description": "Icon and font toolkit company that provides Font Awesome Free 6.4.2 icon library.",
+  "links": {
+    "officialSite": "https://fontawesome.com"
+  }
+}

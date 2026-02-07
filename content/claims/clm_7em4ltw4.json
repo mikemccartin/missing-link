@@ -1,0 +1,32 @@
+{
+  "id": "clm_7em4ltw4",
+  "title": "Benihana offers beer and hard seltzer selections",
+  "statement": "Benihana provides a selection of beers and hard seltzers to complement their dining experience.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_clil7tuk",
+      "quote": "Explore Benihana's selection of beers and hard seltzers, perfectly paired with our teppanyaki dishes."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_9vye889i",
+  "title": "RA Sushi serves Cinnamon Tempura Ice Cream",
+  "statement": "RA Sushi offers Cinnamon Tempura Ice Cream, which is lightly battered cinnamon-swirl ice cream that is flash fried.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19vneux1",
+      "quote": "CINNAMON TEMPURA ICE CREAM Lightly battered cinnamon-swirl ice cream, flash fried and finished with raspberry and chocolate sauces"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "src_876v080a",
+  "title": "Sushi",
+  "publisher": "RA Sushi",
+  "url": "https://rasushi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frasushi.com%2Fmenu%2Fsushi%2F",
+  "accessDate": "2026-02-06",
+  "type": "webpage",
+  "excerpt": "oEmbed JSON response for RA Sushi's sushi menu page, containing metadata about their sushi offerings."
+}

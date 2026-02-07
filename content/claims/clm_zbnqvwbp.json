@@ -1,0 +1,36 @@
+{
+  "id": "clm_zbnqvwbp",
+  "title": "First Benihana restaurant opened in 1964 on West 56th Street",
+  "statement": "The first Benihana restaurant opened in 1964 at 61 West 56th Street in Manhattan.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "rocky-h-aoki",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_db0l3ppq",
+      "quote": "Rocky took out a loan and used it to start America's first Japanese teppanyaki restaurant on West 56th street. Named after his parents' Tokyo coffee shop, Benihana opened in 1964"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

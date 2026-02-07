@@ -1,0 +1,32 @@
+{
+  "id": "clm_a621frie",
+  "title": "RA Sushi serves cocktails designed for sharing",
+  "statement": "RA Sushi offers cocktails specifically designed for two or more people, including Blue Samurai, Strawberry Seduction Margarita, and Tipsy Dragon.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ouf02ne2",
+      "quote": "BLUE SAMURAI RumHaven, SKYY Pineapple Vodka, sake, blue curaçao and tropical fruit juices (for two or more)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

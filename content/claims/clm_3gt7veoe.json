@@ -1,0 +1,32 @@
+{
+  "id": "clm_3gt7veoe",
+  "title": "RA Sushi offers Hakutsuru Nama sake from Nada",
+  "statement": "RA Sushi serves Hakutsuru Nama 'Draft' Junmai sake from Nada in 180 ml bottles.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nfpt77wm",
+      "quote": "HAKUTSURU NAMA 'DRAFT' | Nada Junmai \u2013 Light, crisp, refreshing 180 ml Bottle"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_9uuoiqmw",
+  "title": "Benihana serves Kirin beer during Happy Hour",
+  "statement": "Benihana offers Kirin Light beer in 12 oz servings as part of their Happy Hour menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rgbmv5wi",
+      "quote": "BEER \u2022 Seasonal Draft (16 oz) \u2022 Kirin Light (12 oz)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

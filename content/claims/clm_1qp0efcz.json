@@ -1,0 +1,32 @@
+{
+  "id": "clm_1qp0efcz",
+  "title": "The ONE Group head office located in Denver, Colorado",
+  "statement": "The ONE Group's head office is located at 1624 Market St. STE. 311, Denver, CO 80202.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jgxm7qpe",
+      "quote": "Head Office 1624 Market St. STE. 311 Denver, CO 80202"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

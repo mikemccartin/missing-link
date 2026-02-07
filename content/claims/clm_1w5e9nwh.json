@@ -1,0 +1,32 @@
+{
+  "id": "clm_1w5e9nwh",
+  "title": "STK Topanga weekend hours Friday-Saturday",
+  "statement": "STK Topanga operates Friday and Saturday from 11am to 12am (midnight).",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hpulmx9t",
+      "quote": "Friday & Saturday: 11am – 12am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

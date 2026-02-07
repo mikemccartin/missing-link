@@ -1,0 +1,32 @@
+{
+  "id": "clm_dfavcinw",
+  "title": "STK Orlando weekend hours",
+  "statement": "STK Orlando is open Saturday 9:30am to 11:15pm and Sunday 9:30am to 10:45pm",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5okrshbl",
+      "quote": "Saturday 9:30am – 11:15pm, and Sunday 9:30am – 10:45pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

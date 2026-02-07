@@ -1,0 +1,32 @@
+{
+  "id": "clm_fjggvjx5",
+  "title": "Benihana offers catering services",
+  "statement": "Benihana provides catering services featuring signature teppanyaki dishes for events and occasions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_a2nu2s2d",
+      "quote": "Bring the Benihana experience to your event with our catering services. Enjoy signature teppanyaki dishes, expertly prepared for any occasion."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from benihana.com crawl"
+    }
+  ]
+}

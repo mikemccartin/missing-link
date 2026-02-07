@@ -1,0 +1,40 @@
+{
+  "id": "clm_panm5xzr",
+  "title": "Bao Yum operates in London and Denver",
+  "statement": "Bao Yum has restaurant locations in both London and Denver.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    },
+    {
+      "slug": "london",
+      "role": "related"
+    },
+    {
+      "slug": "denver",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_16a6ldea",
+      "quote": "SELECT YOUR LOCATION LONDON DENVER"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

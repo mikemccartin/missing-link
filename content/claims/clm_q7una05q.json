@@ -1,0 +1,32 @@
+{
+  "id": "clm_q7una05q",
+  "title": "STK offers Happy Hour pricing",
+  "statement": "STK Los Angeles offers a $3 | $6 | $9 Happy Hour on select days.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6tmgux27",
+      "quote": "STK Los Angeles offers a $3 | $6 | $9 Happy Hour on select days"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

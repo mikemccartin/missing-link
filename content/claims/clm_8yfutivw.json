@@ -1,0 +1,32 @@
+{
+  "id": "clm_8yfutivw",
+  "title": "The ONE Group collects personal information for business purposes",
+  "statement": "The ONE Group collects personal information for business purposes including internal research, operations, auditing, security, service improvement, quality control, and legal compliance.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_18v75hhl",
+      "quote": "We collect personal information for our own business purposes as set forth in our Privacy Notice, including internal research, internal operations, auditing, detecting security incidents, improving our services, quality control, and legal compliance."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

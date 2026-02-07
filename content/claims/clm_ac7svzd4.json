@@ -1,0 +1,32 @@
+{
+  "id": "clm_ac7svzd4",
+  "title": "The ONE Group uses togrp.com domain for business email communications",
+  "statement": "The ONE Group operates multiple business email addresses using the togrp.com domain for reservations, business inquiries, loyalty, marketing, press, and careers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jgxm7qpe",
+      "quote": "Reservations: togreservations@togrp.com Business: info@togrp.com Loyalty: loyalty@togrp.com Marketing: TOG_Marketing_All@togrp.com Press: press@togrp.com Careers: careers@togrp.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

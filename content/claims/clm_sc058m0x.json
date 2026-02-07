@@ -1,0 +1,32 @@
+{
+  "id": "clm_sc058m0x",
+  "title": "Nutty Grilled Salad offers protein choice options",
+  "statement": "RA Sushi's Nutty Grilled Salad is available with customer's choice of salmon or chicken protein.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_50orwhzz",
+      "quote": "NUTTY GRILLED SALAD Cashews, edamame, carrots and mixed greens tossed in Japanese vinaigrette; topped with avocado, mandarin oranges and fried noodles. Your choice of: Salmon Chicken"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

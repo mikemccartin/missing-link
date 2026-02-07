@@ -1,0 +1,32 @@
+{
+  "id": "clm_nmz7dx86",
+  "title": "Private events contact information",
+  "statement": "Private events at STK Salt Lake City can be booked by calling (647) 735-5318 or emailing events.slc@stkhouse.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1koeyxvf",
+      "quote": "To Plan Your Next Event, Call (647) 735-5318-STK-EVTS. That's (647) 735-5318)-785-3887 or by email at events.slc@stkhouse.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

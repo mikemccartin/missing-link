@@ -1,0 +1,32 @@
+{
+  "id": "clm_9eoid8d5",
+  "title": "RA Sushi offers Wagyu from around the world",
+  "statement": "RA Sushi has a menu offering called 'Wagyu of the World' that features Wagyu beef from multiple countries.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hbuiv06u",
+      "quote": "Wagyu of the World Experience Wagyu from around the world."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

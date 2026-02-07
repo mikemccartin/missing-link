@@ -1,0 +1,32 @@
+{
+  "id": "clm_qqf3wk5j",
+  "title": "Espresso Martini made with Reyka vodka and illy espresso",
+  "statement": "RA Sushi's Espresso Martini is made with Reyka Small Batch Vodka shaken with illy espresso.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19vneux1",
+      "quote": "ESPRESSO MARTINI Reyka Small Batch Vodka, shaken with illy espresso"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

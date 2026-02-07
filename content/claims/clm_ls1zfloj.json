@@ -1,0 +1,32 @@
+{
+  "id": "clm_ls1zfloj",
+  "title": "STK Boston offers Power Lunch Menu pricing",
+  "statement": "STK Boston's Power Lunch Menu is priced at $45 prix fixe and available Monday through Friday from 11am to 3pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ox4y2t6o",
+      "quote": "$45 Prix Fixe. Available Monday - Friday, 11am - 3pm. Select One from Each Course. 45 Minutes Guaranteed"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

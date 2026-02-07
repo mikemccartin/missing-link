@@ -1,0 +1,32 @@
+{
+  "id": "clm_4wfmshk1",
+  "title": "STK Steakhouse offers private event and venue hire services",
+  "statement": "STK Steakhouse provides private event rooms and spaces for occasions ranging from intimate dinners to large celebrations with dedicated event planning services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wqjiuv7n",
+      "quote": "STK Steakhouse offers stunning spaces and private event rooms for any occasion with a vibrant mix of stylish dining, signature menus and world-class service."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

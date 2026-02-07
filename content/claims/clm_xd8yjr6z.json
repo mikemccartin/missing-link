@@ -1,0 +1,32 @@
+{
+  "id": "clm_xd8yjr6z",
+  "title": "RA Sushi headquarters address",
+  "statement": "RA Sushi's public relations office is located at 21500 Biscayne Boulevard, Suite 900, Aventura, FL 33180.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ltow6jz",
+      "quote": "RA Sushi ATTN: Public Relations 21500 Biscayne Boulevard Suite 900 Aventura, FL 33180"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

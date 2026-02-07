@@ -1,0 +1,32 @@
+{
+  "id": "clm_0g8xl3d0",
+  "title": "TOG processes candidate data for recruitment purposes",
+  "statement": "TOG processes candidate personal data for recruitment and hiring purposes including evaluation, interviews, and background checks.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5h3fvlr3",
+      "quote": "TOG will process candidate personal data for recruitment and hiring purposes... Our recruitment purposes include communicating with you, internally evaluating your qualifications and skills, preparing for interview or screening discussions"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

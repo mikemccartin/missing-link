@@ -1,0 +1,36 @@
+{
+  "id": "clm_vi7ek5tl",
+  "title": "Valentine's Feast is dine-in only at participating locations",
+  "statement": "The Valentine's Feast featuring Hibachi Filet & Lobster Inferno is available for dine-in only at participating RA Sushi locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "valentine",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ag3rscau",
+      "quote": "The Hibachi Filet & Lobster Inferno and Valentine's Feast are dine\u2011in only"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

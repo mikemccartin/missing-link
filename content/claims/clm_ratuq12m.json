@@ -1,0 +1,32 @@
+{
+  "id": "clm_ratuq12m",
+  "title": "Kona Grill offers sushi, steak, and cocktails",
+  "statement": "Kona Grill Tigard delivers sushi, steak, and cocktails.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s9nfdc5j",
+      "quote": "Kona Grill Tigard delivers a unique blend of sushi, steak, and cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

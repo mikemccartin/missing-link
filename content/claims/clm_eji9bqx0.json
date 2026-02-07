@@ -1,0 +1,32 @@
+{
+  "id": "clm_eji9bqx0",
+  "title": "STK San Juan offers Drink & Dine menu on Sundays",
+  "statement": "STK San Juan has a Drink & Dine menu available in the restaurant area from 4 to 6pm on Sundays, including 375ml Laurent Perrier Brut.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_q63jqobb",
+      "quote": "Drink & Dine available in Restaurant Area Only | 4 to 6pm | Sundays - Daily - NOT AVAILABLE ON HOLIDAYS. Includes 375ml Laurent Perrier Brut"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

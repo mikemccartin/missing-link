@@ -1,0 +1,40 @@
+{
+  "id": "clm_og5b21km",
+  "title": "STK Las Vegas provides complimentary parking at The Cosmopolitan",
+  "statement": "STK Las Vegas offers complimentary parking at The Cosmopolitan for Vegas locals and industry professionals on Mondays.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "the-cosmopolitan",
+      "role": "related"
+    },
+    {
+      "slug": "las-vegas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5r6n1i6e",
+      "quote": "plus complimentary parking at The Cosmopolitan"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

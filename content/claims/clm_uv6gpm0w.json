@@ -1,0 +1,32 @@
+{
+  "id": "clm_uv6gpm0w",
+  "title": "Kona Grill Denver email address",
+  "statement": "Kona Grill Denver's email address is denver@konagrill.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pzt2woln",
+      "quote": "denver@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

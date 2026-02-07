@@ -1,0 +1,32 @@
+{
+  "id": "clm_6vuvjlo5",
+  "title": "Benihana offers five-course menu for $39",
+  "statement": "Benihana offers a 'Taste of Benihana' five-course menu priced at $39.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_85tfj0qr",
+      "quote": "Five courses just $39 Taste of Benihana Five Courses Menu"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from benihana.com crawl"
+    }
+  ]
+}

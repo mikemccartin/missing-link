@@ -1,0 +1,32 @@
+{
+  "id": "clm_u9zes2jq",
+  "title": "Sushi & Me classes are offered at participating Benihana restaurants",
+  "statement": "The Sushi & Me experience is available at participating Benihana restaurants and offered a few times a year at various locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_24r5ajfg",
+      "quote": "Enjoy this interactive and fun experience at participating Benihana restaurants for $61 per child and adult. This educational class is offered a few times a year at various Benihana restaurants."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

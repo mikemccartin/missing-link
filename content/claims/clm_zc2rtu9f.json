@@ -1,0 +1,36 @@
+{
+  "id": "clm_zc2rtu9f",
+  "title": "STK Washington DC offers special steak night promotion",
+  "statement": "STK Washington DC offers Steak Night Sunday-Thursday for $69 per person, including a bottle of La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-washington-dc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9h73b3s",
+      "quote": "Steak Night Sunday-Thursday. $69 per person, includes Bottle of: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

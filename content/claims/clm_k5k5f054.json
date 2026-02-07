@@ -1,0 +1,32 @@
+{
+  "id": "clm_k5k5f054",
+  "title": "RA Sushi participates in childhood cancer fight",
+  "statement": "RA Sushi participates in efforts to fight against childhood cancer.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6nmhf3i0",
+      "quote": "JOIN US IN THE FIGHT AGAINST CHILDHOOD CANCER"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

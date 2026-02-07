@@ -1,0 +1,32 @@
+{
+  "id": "clm_83z4r4jx",
+  "title": "A5 Japanese Wagyu Bistro Filet is 4 ounces",
+  "statement": "RA Sushi serves a 4-ounce A5 Japanese Wagyu Bistro Filet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1h7158kp",
+      "quote": "A5 JAPANESE WAGYU BISTRO FILET (4oz)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

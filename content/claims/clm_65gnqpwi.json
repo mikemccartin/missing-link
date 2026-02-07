@@ -1,0 +1,32 @@
+{
+  "id": "clm_65gnqpwi",
+  "title": "RA Sushi serves traditional Japanese items",
+  "statement": "RA Sushi serves traditional Japanese dishes including edamame, miso soup, sashimi, and nigiri.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4wkf87xa",
+      "quote": "EDAMAME Steamed soybeans dusted with salt... MISO SOUP Tofu, seaweed and green onions in a miso broth... SASHIMI ASSORTMENT... NIGIRI ASSORTMENT"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

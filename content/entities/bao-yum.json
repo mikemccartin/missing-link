@@ -1,0 +1,10 @@
+{
+  "slug": "bao-yum",
+  "name": "Bao Yum",
+  "type": "organization",
+  "description": "A food service company that operates restaurants in multiple locations and offers delivery services.",
+  "links": {
+    "officialSite": "https://baoyum.com/"
+  },
+  "parentEntity": "the-one-group-hospitality"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_1jb2p37w",
+  "title": "RA Sushi serves Mionetto Prosecco",
+  "statement": "RA Sushi includes Mionetto Prosecco on their wine menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k8gp16v1",
+      "quote": "MIONETTO PROSECCO"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

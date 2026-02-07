@@ -1,0 +1,32 @@
+{
+  "id": "clm_74ixi7ot",
+  "title": "RA Sushi serves cocktails with Japanese-inspired names and ingredients",
+  "statement": "RA Sushi offers cocktails with Japanese-themed names like Blushing Geisha, Japanese Mule, and Blue Samurai, incorporating Japanese ingredients like sake, yuzu, and shiso.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ouf02ne2",
+      "quote": "JAPANESE MULE Absolut Citron Vodka mixed with Nigori Crème de Sake fresh lime and Q Ginger Beer"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

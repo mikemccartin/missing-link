@@ -1,0 +1,32 @@
+{
+  "id": "clm_i7mw4tx2",
+  "title": "Kona Grill Cincinnati phone number",
+  "statement": "Kona Grill Cincinnati can be reached by phone at 513-322-5860",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yzadv6kt",
+      "quote": "513-322-5860"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

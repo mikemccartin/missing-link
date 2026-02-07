@@ -1,0 +1,32 @@
+{
+  "id": "clm_sbmn0usz",
+  "title": "STK Steakhouse operates in Washington DC",
+  "statement": "STK Steakhouse has a location in Washington DC.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gqv7ug26",
+      "quote": "D.C. Washington DC"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

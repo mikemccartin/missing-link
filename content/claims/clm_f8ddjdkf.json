@@ -1,0 +1,32 @@
+{
+  "id": "clm_f8ddjdkf",
+  "title": "STK NYC Downtown offers $3|$6|$9 Happy Hour",
+  "statement": "STK NYC Downtown offers a $3|$6|$9 Happy Hour Monday-Friday 2:30pm-6:30pm and Saturday-Sunday 2:30pm-5:30pm",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6sm9ff4x",
+      "quote": "Monday – Friday: 2:30pm – 6:30pm, Saturday & Sunday: 2:30pm – 5:30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

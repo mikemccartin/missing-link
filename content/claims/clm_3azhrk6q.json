@@ -1,0 +1,32 @@
+{
+  "id": "clm_3azhrk6q",
+  "title": "Bao Yum offers multiple bao varieties",
+  "statement": "Bao Yum offers Cheeseburger Bao, Sweet Custard Bao, Kung Pao Bao, and Hot Dog Bao products.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_recx5jj3",
+      "quote": "Cheeseburger Bao. Sweet Custard Bao. Kung Pao Bao. Hot Dog Bao."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

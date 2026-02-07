@@ -1,0 +1,32 @@
+{
+  "id": "clm_0gty4ghu",
+  "title": "STK Toronto has private event spaces",
+  "statement": "STK Toronto has private and semi-private spaces for corporate events, holiday parties, brand dinners and special celebrations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gy51jotk",
+      "quote": "Yes, STK Toronto has private and semi‑private spaces ideal for corporate events, holiday parties, brand dinners and special celebrations in Yorkville."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

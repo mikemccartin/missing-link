@@ -1,0 +1,52 @@
+{
+  "id": "clm_5uul4r47",
+  "title": "The ONE Group operates reservation system for multiple restaurant brands",
+  "statement": "The ONE Group provides reservation booking services for STK Steakhouse, RA Sushi, Benihana, Samurai, Kona Grill, and Salt Water Social.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jvwp9m29",
+      "quote": "Choose a restaurant to book for: STK Steakhouse, RA Sushi, Benihana, Samurai, Kona Grill, Salt Water Social"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

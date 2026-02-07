@@ -1,0 +1,32 @@
+{
+  "id": "clm_36dbx4xo",
+  "title": "Bao Yum phone contact number",
+  "statement": "Bao Yum can be contacted by phone at +44-079324747.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_16a6ldea",
+      "quote": "Phone: +44-079324747"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

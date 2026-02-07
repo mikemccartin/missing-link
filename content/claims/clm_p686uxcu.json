@@ -1,0 +1,36 @@
+{
+  "id": "clm_p686uxcu",
+  "title": "Kona Grill Tampa address and location",
+  "statement": "Kona Grill Tampa is located at 4134 W. Boy Scout Blvd. #b-1 Tampa, FL 33607 at MetWest International.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "metwest-international",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_z41hk1ea",
+      "quote": "4134 W. Boy Scout Blvd. #b-1 Tampa, FL 33607"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

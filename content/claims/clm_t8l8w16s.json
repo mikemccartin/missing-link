@@ -1,0 +1,32 @@
+{
+  "id": "clm_t8l8w16s",
+  "title": "STK Las Vegas Saturday operating hours",
+  "statement": "STK Las Vegas is open Saturday from 9am to 12:30am.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sc3d0ebn",
+      "quote": "Saturday: 9am – 12:30am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

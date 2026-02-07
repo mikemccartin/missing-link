@@ -1,0 +1,36 @@
+{
+  "id": "clm_ymjezadt",
+  "title": "Benihana offers franchising opportunities",
+  "statement": "Benihana provides franchising opportunities for new restaurant locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_14nxkz4n",
+      "quote": "FRANCHISING OPPORTUNITIES The BENIHANA name is well known throughout the world... Ready to be part of the Benihana brand?"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

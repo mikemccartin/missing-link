@@ -1,0 +1,32 @@
+{
+  "id": "clm_3gqb10dd",
+  "title": "STK Aventura offers Restaurant Week lunch for $35",
+  "statement": "STK Aventura provides a Restaurant Week lunch menu for $35 with one selection from each course, Monday through Friday 11am-3pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yn8rc1p0",
+      "quote": "Lunch: $35 | Select 1 From Each Course | Monday - Friday 11am - 3pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

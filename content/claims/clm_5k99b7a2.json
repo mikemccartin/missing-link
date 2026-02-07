@@ -1,0 +1,32 @@
+{
+  "id": "clm_5k99b7a2",
+  "title": "Benihana adds 18% service charge for large parties",
+  "statement": "Benihana adds an 18% service charge to all guest checks for parties of eight or more, paid directly to service employees.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lxqy4gxu",
+      "quote": "An 18% service charge is added to all guest checks for parties of eight or more. This service charge will be paid directly to the employees who provided service to you"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

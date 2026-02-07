@@ -1,0 +1,32 @@
+{
+  "id": "clm_lnd8biep",
+  "title": "STK Oak Brook provides private event services",
+  "statement": "STK Oak Brook offers private event rooms and can be contacted at 833.785.3887 or [email protected] for event planning.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_p63290yw",
+      "quote": "To Plan Your Next Event Call 833.785.3887 or email [email protected]"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

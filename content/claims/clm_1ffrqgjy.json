@@ -1,0 +1,32 @@
+{
+  "id": "clm_1ffrqgjy",
+  "title": "STK Boston offers Steak Night special",
+  "statement": "STK Boston's Steak Night is available Sunday through Thursday for $69 per person and includes La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ox4y2t6o",
+      "quote": "Steak Night Sunday - Thursday. $69 Per Person. Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

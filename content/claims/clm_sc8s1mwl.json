@@ -1,0 +1,32 @@
+{
+  "id": "clm_sc8s1mwl",
+  "title": "STK Nashville offers Happy Hour",
+  "statement": "STK Nashville offers Happy Hour Monday-Friday from 2:30pm to 6:30pm and Saturday-Sunday from 2:30pm to 5:30pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_snyz0y40",
+      "quote": "Monday – Friday: 2:30pm – 6:30pm Saturday & Sunday: 2:30pm – 5:30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

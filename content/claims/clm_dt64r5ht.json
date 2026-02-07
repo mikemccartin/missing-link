@@ -1,0 +1,32 @@
+{
+  "id": "clm_dt64r5ht",
+  "title": "Happy hour menu includes sushi, appetizers, and cocktails",
+  "statement": "RA Sushi's happy hour menu includes sushi rolls, nigiri, small plates, hot and cold appetizers, beer, sake, wine, and cocktails.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xvizf0jx",
+      "quote": "A line‑up of sushi rolls, nigiri, small plates, hot and cold appetizers, draft and bottled beer, sake, wine, and inventive cocktails."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

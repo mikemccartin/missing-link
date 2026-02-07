@@ -1,0 +1,32 @@
+{
+  "id": "clm_i1yl5f7t",
+  "title": "Bao Yum operates website at baoyum.com",
+  "statement": "Bao Yum operates an official website at the domain baoyum.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ekukdh74",
+      "quote": "\"provider_name\":\"Bao Yum\",\"provider_url\":\"https:\\/\\/baoyum.com\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

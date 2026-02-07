@@ -1,0 +1,32 @@
+{
+  "id": "clm_yosm3csz",
+  "title": "Kona Grill serves Catch Me If You Can cocktail with specific ingredients",
+  "statement": "Kona Grill serves a cocktail called 'Catch Me If You Can' made with Maker's Mark whisky, Grand Marnier, and Monin gingerbread.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_unaqxb56",
+      "quote": "Keep the spirit alive with our featured cocktail, Catch Me If You Can, a warming blend of Maker's Mark whisky, Grand Marnier, and Monin gingerbread."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

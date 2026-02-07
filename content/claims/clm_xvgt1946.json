@@ -1,0 +1,32 @@
+{
+  "id": "clm_xvgt1946",
+  "title": "MIO Sparkling Sake is 300ml size from Nada region",
+  "statement": "MIO Sparkling Sake is served in 300ml bottles and originates from the Nada region.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6mq7laq8",
+      "quote": "MIO SPARKLING SAKE Sparkling \u2013 Delicate bubbles; hint of soft citrus and lightly sweet. 300 ml / Nada"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

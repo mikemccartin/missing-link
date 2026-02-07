@@ -1,0 +1,32 @@
+{
+  "id": "clm_blec3te7",
+  "title": "RA Sushi enables users to withdraw cookie consent immediately",
+  "statement": "RA Sushi allows users to withdraw their cookie consent immediately through their cookie preference system.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_23a805xk",
+      "quote": "This will allow you to revisit the cookie consent banner and update your preferences or withdraw your consent immediately."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

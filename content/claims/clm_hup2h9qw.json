@@ -1,0 +1,32 @@
+{
+  "id": "clm_hup2h9qw",
+  "title": "Power Lunch available Monday-Friday 11 AM to 3 PM",
+  "statement": "Power Lunch is available Monday through Friday between 11 AM and 3 PM, in the dining room only.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qljpz088",
+      "quote": "Available Monday through Friday between 11 AM and 3 PM, in the dining room only."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

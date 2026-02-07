@@ -1,0 +1,7 @@
+{
+  "slug": "stk-washington",
+  "name": "STK Washington",
+  "type": "organization",
+  "description": "A specific location of STK Steakhouse in Washington D.C., located on Massachusetts Avenue near the Convention Center.",
+  "parentEntity": "stk-steakhouse"
+}

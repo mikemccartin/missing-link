@@ -1,0 +1,36 @@
+{
+  "id": "clm_g43iibbi",
+  "title": "Friends with Benefits loyalty program offers free perks and birthday rewards",
+  "statement": "Kona Grill's Friends with Benefits loyalty club provides free perks, birthday rewards, exclusive offers, and member-only dining experiences.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_i8liz1lx",
+      "quote": "Join Kona Grill's loyalty club for free perks, birthday rewards, exclusive offers, and member-only dining experiences."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

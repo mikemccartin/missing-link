@@ -1,0 +1,32 @@
+{
+  "id": "clm_4cc1xirt",
+  "title": "RA Sushi offers seasonal winter cocktails for limited time",
+  "statement": "RA Sushi serves handcrafted seasonal cocktails during winter that are available for a limited time.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5un1nk6b",
+      "quote": "HERE FOR A GOOD TIME, NOT A LONG TIME. Sip your way through the season with our handcrafted cocktails. Enjoy our drinks while they last!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

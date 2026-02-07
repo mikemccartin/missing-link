@@ -1,0 +1,32 @@
+{
+  "id": "clm_17bihrxu",
+  "title": "Benihana serves Lobster & Shrimp Gyoza",
+  "statement": "Benihana offers six dumplings filled with lobster and shrimp, wrapped in pumpkin gyoza skin, served with ponzu lime sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lxqy4gxu",
+      "quote": "Six dumplings filled with lobster and shrimp, wrapped in pumpkin gyoza skin, served with ponzu lime sauce."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

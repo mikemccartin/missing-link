@@ -1,0 +1,32 @@
+{
+  "id": "clm_w0mp4ebm",
+  "title": "Kona Grill has two locations in San Antonio, Texas",
+  "statement": "Kona Grill operates two restaurant locations in San Antonio, TX: North Star and Landmark.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e3nwgans",
+      "quote": "San Antonio, TX – North Star... San Antonio, TX – Landmark"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

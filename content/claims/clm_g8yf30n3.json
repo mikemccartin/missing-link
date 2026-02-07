@@ -1,0 +1,32 @@
+{
+  "id": "clm_g8yf30n3",
+  "title": "STK Bellevue operating hours Friday-Saturday",
+  "statement": "STK Bellevue operates Friday and Saturday from 11am to 12am.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kyn5h6qo",
+      "quote": "Friday & Saturday: 11am – 12am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

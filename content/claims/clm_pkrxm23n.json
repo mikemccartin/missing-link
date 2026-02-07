@@ -1,0 +1,32 @@
+{
+  "id": "clm_pkrxm23n",
+  "title": "STK South Beach weekday hours",
+  "statement": "STK South Beach is open Monday through Friday from 2:30pm to 12am.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t083h583",
+      "quote": "Monday - Friday: 2:30pm - 12am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

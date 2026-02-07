@@ -1,0 +1,36 @@
+{
+  "id": "clm_fer61705",
+  "title": "Kona Grill recommends 2-week advance booking for Valentine's prime time",
+  "statement": "Kona Grill recommends booking at least 2 weeks in advance for prime dinner times (6 PM – 8 PM) on Valentine's Day.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "valentine",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xyxoon02",
+      "quote": "We highly recommend booking at least 2 weeks in advance for prime dinner times (6 PM – 8 PM)."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

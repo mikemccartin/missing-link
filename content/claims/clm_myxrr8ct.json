@@ -1,0 +1,32 @@
+{
+  "id": "clm_myxrr8ct",
+  "title": "Kona Grill has a cookie policy",
+  "statement": "Kona Grill maintains a cookie policy as part of their website operations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_d1bjra8n",
+      "quote": "Cookie Policy - Kona Grill"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

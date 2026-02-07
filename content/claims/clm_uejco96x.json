@@ -1,0 +1,32 @@
+{
+  "id": "clm_uejco96x",
+  "title": "STK Oak Brook serves weekend brunch",
+  "statement": "STK Oak Brook serves a high energy weekend brunch with signature steaks, brunch classics, and cocktails.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_p63290yw",
+      "quote": "STK Oak Brook serves a high energy weekend brunch with signature steaks, brunch classics, and cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "stk-steakhouse",
+  "name": "STK Steakhouse",
+  "type": "organization",
+  "description": "A modern steakhouse chain that blends steakhouse dining with a chic lounge atmosphere, operating multiple locations internationally.",
+  "links": {
+    "officialSite": "https://stksteakhouse.com/"
+  },
+  "parentEntity": "the-one-group-hospitality"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_rxf5qqox",
+  "title": "RA Sushi requires 501(c)(3) determination letter",
+  "statement": "Organizations must provide a copy of their current IRS 501(c)(3) determination letter to receive donations from RA Sushi.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "irs",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ltow6jz",
+      "quote": "The organization must provide a copy of their current IRS 501(c)(3) determination letter."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

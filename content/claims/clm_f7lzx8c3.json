@@ -1,0 +1,44 @@
+{
+  "id": "clm_f7lzx8c3",
+  "title": "STK Dubai located at Rixos Premium Dubai",
+  "statement": "STK Dubai is located at Rixos Premium Dubai The Walk in Jumeirah Beach Residence.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-dubai",
+      "role": "related"
+    },
+    {
+      "slug": "rixos-premium-dubai",
+      "role": "related"
+    },
+    {
+      "slug": "jumeirah-beach-residence",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_54c7zqxf",
+      "quote": "Rixos Premium Dubai The Walk - Jumeirah Beach Residence Dubai, United Arab Emirates"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

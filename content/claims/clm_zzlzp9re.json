@@ -1,0 +1,36 @@
+{
+  "id": "clm_zzlzp9re",
+  "title": "Points expire one year from earning date",
+  "statement": "Points in the loyalty program expire one year from the date they are earned.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ebie157t",
+      "quote": "Points expire one year from the date they are earned"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

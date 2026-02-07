@@ -1,0 +1,32 @@
+{
+  "id": "clm_umkysazb",
+  "title": "Bao Yum offers whimsical twist on classic bao",
+  "statement": "Bao Yum describes its offering as 'A Whimsical Twist on Classic Bao'",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_31oqz7az",
+      "quote": "A Whimsical Twist on Classic Bao"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

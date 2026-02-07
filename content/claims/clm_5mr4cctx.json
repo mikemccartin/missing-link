@@ -1,0 +1,32 @@
+{
+  "id": "clm_5mr4cctx",
+  "title": "Benihana offers catering services",
+  "statement": "Benihana provides catering services that bring their restaurant experience to offsite events.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0uulzaak",
+      "quote": "Bring the Benihana experience to your event with our catering services. Enjoy signature teppanyaki dishes, expertly prepared for any occasion."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

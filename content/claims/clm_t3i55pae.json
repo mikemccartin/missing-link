@@ -1,0 +1,36 @@
+{
+  "id": "clm_t3i55pae",
+  "title": "Friends With Benefits offers free appetizer for signing up",
+  "statement": "Members receive a complimentary appetizer just for joining the Friends With Benefits loyalty program.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1p3j2gwf",
+      "quote": "Join Friends with Benefits to instantly unlock member status. Sign up to savor a free appetizer during your next visit."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

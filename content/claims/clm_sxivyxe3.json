@@ -1,0 +1,32 @@
+{
+  "id": "clm_sxivyxe3",
+  "title": "STK Nashville private event pricing starts at $45 lunch",
+  "statement": "STK Nashville's lunch pricing for private events begins at $45 per person.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_snyz0y40",
+      "quote": "Lunch pricing begins at $45"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_7ba41l8e",
+  "title": "STK Washington private dining capacity",
+  "statement": "STK Washington can host up to 500 guests for cocktails or 280 guests for seated dinner on main floor",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ths5sr01",
+      "quote": "Our expansive main floor can comfortably host 500 guests for cocktails, or if you want to get fancy, up to 280 guests for a seated dinner!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

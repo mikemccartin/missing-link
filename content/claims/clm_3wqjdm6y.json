@@ -1,0 +1,32 @@
+{
+  "id": "clm_3wqjdm6y",
+  "title": "Be The Chef packages start at $300",
+  "statement": "Benihana's Be The Chef packages have a starting price of $300 for a guest chef and five guests.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_opm98ynp",
+      "quote": "Be The Chef packages start at just $300 for a guest chef and five guests."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

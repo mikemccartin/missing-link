@@ -1,0 +1,40 @@
+{
+  "id": "clm_isfshe2d",
+  "title": "Kona Grill Desert Ridge location address",
+  "statement": "Kona Grill Desert Ridge is located at 21001 N Tatum Blvd Phoenix, AZ 85050.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "phoenix",
+      "role": "related"
+    },
+    {
+      "slug": "desert-ridge",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rtai5n37",
+      "quote": "21001 N Tatum Blvd Phoenix, AZ – Desert Ridge 85050"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

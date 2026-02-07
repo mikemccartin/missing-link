@@ -1,0 +1,32 @@
+{
+  "id": "clm_b3j1ewt6",
+  "title": "Benihana Inc. headquarters located in Aventura, Florida",
+  "statement": "Benihana Inc. has offices at 21500 Biscayne Boulevard, Suite 900, Aventura, FL 33180.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8uypu4d5",
+      "quote": "Benihana Inc. ATTN: Public Relations 21500 Biscayne Boulevard Suite 900 Aventura, FL 33180"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

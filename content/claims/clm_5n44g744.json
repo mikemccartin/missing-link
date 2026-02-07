@@ -1,0 +1,32 @@
+{
+  "id": "clm_5n44g744",
+  "title": "Perfect Pi\u00f1a Margarita ingredients and preparation",
+  "statement": "Perfect Pi\u00f1a Margarita contains Don Julio Blanco Tequila mixed with yuzu, fresh lime and pineapple juice, finished with fresh lime and pineapple slice.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hnabzuej",
+      "quote": "Don Julio Blanco Tequila is mixed with yuzu, fresh lime and pineapple juice; finished with a fresh lime and pineapple slice"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_xgow305k",
+  "title": "Benihana offers wide variety of cold sakes and Japanese premium spirits",
+  "statement": "Benihana's menu includes a wide variety of cold sakes and Japanese premium spirits.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6mq7laq8",
+      "quote": "our wide variety of cold sakes and Japanese premium spirits"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_gkncdk5h",
+  "title": "togrp website homepage was created on March 26, 2024",
+  "statement": "The homepage of togrp.com was originally created on March 26, 2024 at 11:04:18 GMT.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t4ta9tf4",
+      "quote": "\"date\":\"2024-03-26T11:04:18\",\"date_gmt\":\"2024-03-26T11:04:18\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

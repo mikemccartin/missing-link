@@ -1,0 +1,32 @@
+{
+  "id": "clm_7rty3h61",
+  "title": "Bao Yum operates daily from 7am to 7pm",
+  "statement": "Bao Yum is open daily from 7am to 7pm",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pza84d8v",
+      "quote": "Hours : Daily 7am - 7pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

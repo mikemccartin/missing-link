@@ -1,0 +1,32 @@
+{
+  "id": "clm_cfigshl8",
+  "title": "STK Scottsdale has $69 per person Steak Night promotion",
+  "statement": "STK Scottsdale offers a $69 per person Steak Night promotion available Sunday through Thursday.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y30fdkhe",
+      "quote": "Steak Night $69 per person. Sunday-Thursday. Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

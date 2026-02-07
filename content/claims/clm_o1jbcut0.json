@@ -1,0 +1,32 @@
+{
+  "id": "clm_o1jbcut0",
+  "title": "RA Sushi uses imitation crab in certain menu items",
+  "statement": "Kani Kama crab and Kani Kama Crab mix used at RA Sushi contain imitation crab.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k2awoj8d",
+      "quote": "† Kani Kama crab & Kani Kama Crab mix contain imitation crab."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

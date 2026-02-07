@@ -1,0 +1,32 @@
+{
+  "id": "clm_basjfz05",
+  "title": "togrp.com has images without alternative text",
+  "statement": "Some images on togrp.com do not have alternative text, and other images need more descriptive alternative text for users with visual disabilities.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_uod8tiw7",
+      "quote": "There are some images that do not have alternative text, and other images that need more descriptive alternative text that will allow users with visual disabilities to experience the full context of our content."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

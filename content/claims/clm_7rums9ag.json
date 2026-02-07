@@ -1,0 +1,32 @@
+{
+  "id": "clm_7rums9ag",
+  "title": "RA Sushi offers concession menu with hibachi bowls and sushi burritos",
+  "statement": "RA Sushi provides a concession menu featuring hibachi bowls, sushi burritos, maki rolls and other items.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_td6mc7sg",
+      "quote": "Grab hibachi bowls, sushi burritos, maki rolls and more. Fresh, fast and packed with RA Sushi flavor on our concession menu."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

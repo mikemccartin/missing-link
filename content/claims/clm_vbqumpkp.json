@@ -1,0 +1,32 @@
+{
+  "id": "clm_vbqumpkp",
+  "title": "Bao Yum has a contact page for Denver location",
+  "statement": "Bao Yum operates or has a presence in Denver with a dedicated contact page",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ngydq6ks",
+      "quote": "\"title\":\"Contact Us - Bao Yum\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

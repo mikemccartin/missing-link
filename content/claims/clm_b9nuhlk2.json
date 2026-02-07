@@ -1,0 +1,36 @@
+{
+  "id": "clm_b9nuhlk2",
+  "title": "Benihana At Home available in specific Florida counties",
+  "statement": "Benihana At Home service is currently available in Palm Beach, Broward, and Miami-Dade Counties.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana-at-home",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_85tfj0qr",
+      "quote": "Currently available in Palm Beach, Broward, and Miami-Dade Counties."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from benihana.com crawl"
+    }
+  ]
+}

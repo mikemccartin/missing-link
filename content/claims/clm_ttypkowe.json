@@ -1,0 +1,32 @@
+{
+  "id": "clm_ttypkowe",
+  "title": "Benihana serves award-winning signature hot sake",
+  "statement": "Benihana offers famous award-winning signature hot sake on their menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6mq7laq8",
+      "quote": "Explore the Benihana sake menu to learn about our famous award-winning signature hot sake"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

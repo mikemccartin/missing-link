@@ -1,0 +1,32 @@
+{
+  "id": "clm_i2nc1uwu",
+  "title": "Orion Premium Lager specifications",
+  "statement": "Orion Premium Lager is a rice lager from Okinawa, Japan with 5% ABV, served in 21.4 oz size with exhilarating crispness and soft flavor.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_17b533m3",
+      "quote": "ORION PREMIUM LAGER Rice Lager | Okinawa, Japan 21.4 oz | ABV 5% Exhilarating crispness and soft flavor"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_8vfmodo2",
+  "title": "Kona Grill features live DJ sets on weekends",
+  "statement": "Kona Grill has live sets from local DJs on Friday and Saturday nights.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jheq4e62",
+      "quote": "along with live sets from local DJs on Friday and Saturday nights"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

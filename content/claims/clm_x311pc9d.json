@@ -1,0 +1,32 @@
+{
+  "id": "clm_x311pc9d",
+  "title": "Privacy notice is a sub-page under main privacy policy",
+  "statement": "The supplemental state-specific privacy notice is a child page under the main privacy policy section with parent page ID 3.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_75x4ne94",
+      "quote": "\"link\":\"https:\\/\\/togrp.com\\/privacy-policy\\/supplemental-state-specific-privacy-notice\\/\",\"parent\":3"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

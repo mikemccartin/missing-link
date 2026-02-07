@@ -1,0 +1,36 @@
+{
+  "id": "clm_9klpmj8c",
+  "title": "togrp operates Friends with Benefits Rewards program",
+  "statement": "togrp has a rewards program called 'Friends with Benefits Rewards' with dedicated terms of use.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hmeieicb",
+      "quote": "Friends with Benefits Rewards Terms of Use"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

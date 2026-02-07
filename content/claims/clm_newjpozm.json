@@ -1,0 +1,32 @@
+{
+  "id": "clm_newjpozm",
+  "title": "Sushi & Me classes operate on first-come, first-serve basis",
+  "statement": "Benihana Sushi & Me classes are filled on a first-come, first-serve basis and require payment to hold a place.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_24r5ajfg",
+      "quote": "No, the Benihana Sushi & Me classes are filled on a first-come, first-serve basis and in order for us to hold a place for your party, we must receive your payment."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

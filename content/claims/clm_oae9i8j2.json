@@ -1,0 +1,32 @@
+{
+  "id": "clm_oae9i8j2",
+  "title": "Kona Grill Denver has a patio",
+  "statement": "Kona Grill Denver has a fully-shaded patio where customers can dine.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pzt2woln",
+      "quote": "Join us on our fully-shaded patio for our award-winning happy hour after work or a day of shopping!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

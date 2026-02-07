@@ -1,0 +1,36 @@
+{
+  "id": "clm_x01pf78i",
+  "title": "Terms of Use page last modified in January 2026",
+  "statement": "The Friends with Benefits Rewards Terms of Use page was last modified on January 28, 2026.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hmeieicb",
+      "quote": "\"modified\":\"2026-01-28T13:50:49\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

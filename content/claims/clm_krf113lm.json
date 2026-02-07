@@ -1,0 +1,32 @@
+{
+  "id": "clm_krf113lm",
+  "title": "Kona Grill Troy email address",
+  "statement": "The Troy Kona Grill location's email address is Troy@konagrill.com",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19emvtj9",
+      "quote": "Troy@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

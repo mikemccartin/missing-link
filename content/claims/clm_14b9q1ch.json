@@ -1,0 +1,32 @@
+{
+  "id": "clm_14b9q1ch",
+  "title": "Benihana offers $39 Taste of Benihana menu",
+  "statement": "Benihana restaurants offer a Taste of Benihana menu option priced at $39.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8ytcpob1",
+      "quote": "$39 Taste of Benihana"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

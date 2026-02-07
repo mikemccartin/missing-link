@@ -1,0 +1,36 @@
+{
+  "id": "clm_j2phud9a",
+  "title": "STK operates 29 restaurants",
+  "statement": "STK restaurant brand operates 29 restaurants.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hlw0zpj6",
+      "quote": "29 Restaurants"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

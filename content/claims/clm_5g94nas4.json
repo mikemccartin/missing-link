@@ -1,0 +1,36 @@
+{
+  "id": "clm_5g94nas4",
+  "title": "STK San Diego is located near Petco Park",
+  "statement": "STK San Diego is located within walking distance of Petco Park.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "petco-park",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5rvpgspm",
+      "quote": "surrounded by rooftop bars, live‑music venues, Petco Park, and the downtown waterfront"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

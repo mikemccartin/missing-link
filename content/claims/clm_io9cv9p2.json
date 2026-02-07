@@ -1,0 +1,36 @@
+{
+  "id": "clm_io9cv9p2",
+  "title": "STK has Nashville location",
+  "statement": "STK Steakhouse operates a restaurant location in Nashville, Tennessee.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nashville",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_g49lqkx8",
+      "quote": "STK Nashville - Dinner Menu | Premium Steaks & Dining"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

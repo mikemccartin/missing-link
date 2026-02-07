@@ -1,0 +1,32 @@
+{
+  "id": "clm_jioi4cu3",
+  "title": "Kona Grill has a catering page on their website",
+  "statement": "Kona Grill maintains a catering page at konagrill.com/catering/ that was last modified on December 30, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_r5abkloq",
+      "quote": "\"slug\":\"catering\",\"status\":\"publish\",\"link\":\"https:\\/\\/konagrill.com\\/catering\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

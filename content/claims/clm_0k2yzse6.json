@@ -1,0 +1,32 @@
+{
+  "id": "clm_0k2yzse6",
+  "title": "STK Aventura location address",
+  "statement": "STK Aventura is located at 19505 Biscayne Blvd, Aventura, FL 33180, United States.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xphhwqx4",
+      "quote": "19505 Biscayne Blvd, Aventura, FL 33180, United States"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

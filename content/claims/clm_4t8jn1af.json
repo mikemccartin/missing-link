@@ -1,0 +1,36 @@
+{
+  "id": "clm_4t8jn1af",
+  "title": "STK NYC Downtown address is 26 Little West 12th Street",
+  "statement": "STK NYC Downtown is located at 26 Little West 12th Street, New York, NY 10014",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "meatpacking-district",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6sm9ff4x",
+      "quote": "STK NYC Downtown is located at 26 Little West 12th Street, New York, NY 10014, in the Meatpacking District"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

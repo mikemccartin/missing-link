@@ -1,0 +1,32 @@
+{
+  "id": "clm_d99fsxie",
+  "title": "STK Steakhouse website uses TailwindCSS",
+  "statement": "The STK Steakhouse website incorporates TailwindCSS version 3.4.6 for styling.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4dvxrjs6",
+      "quote": "/*! tailwindcss v3.4.6 | MIT License | https://tailwindcss.com*/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_vq6rpuoi",
+  "title": "Benihana gift cards co-branded with RA Sushi",
+  "statement": "Benihana gift cards are co-branded for use at both Benihana and RA Sushi restaurants.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1mdg1xi9",
+      "quote": "Our gift cards are co-branded for use at both Benihana and RA Sushi restaurants."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

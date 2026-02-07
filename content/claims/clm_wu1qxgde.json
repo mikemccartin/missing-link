@@ -1,0 +1,36 @@
+{
+  "id": "clm_wu1qxgde",
+  "title": "Friends With Benefits points expire after one year",
+  "statement": "Points in the Friends With Benefits program expire one year from the date they are earned.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t8zvgx98",
+      "quote": "Points expire one year from the date they are earned."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_0x8otbjy",
+  "title": "RA Sushi serves wagyu beef dishes",
+  "statement": "RA Sushi offers a 'Wagyu of the World' menu featuring wagyu beef dishes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hvbc2h1u",
+      "quote": "Wagyu of the World https://rasushi.com/menu/wagyu-of-the-world/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

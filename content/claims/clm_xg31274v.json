@@ -1,0 +1,44 @@
+{
+  "id": "clm_xg31274v",
+  "title": "STK Boston is near Copley Square and Newbury Street shopping",
+  "statement": "STK Boston is located near Copley Square and Newbury Street boutiques in Boston's Back Bay neighborhood.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "copley-square",
+      "role": "related"
+    },
+    {
+      "slug": "newbury-street",
+      "role": "related"
+    },
+    {
+      "slug": "back-bay",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n44n8mug",
+      "quote": "Right in the heart of Back Bay, STK Boston brings modern steakhouse energy to Berkeley Street, just a short walk from Copley Square, Newbury Street boutiques"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

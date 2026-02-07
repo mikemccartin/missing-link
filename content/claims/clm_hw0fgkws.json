@@ -1,0 +1,32 @@
+{
+  "id": "clm_hw0fgkws",
+  "title": "Multiple sake sangria varieties offered",
+  "statement": "Benihana offers three sake sangria varieties: Sparkling Rosé, White Peach Sake, and Red Plum Sake.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yx9gc1po",
+      "quote": "SAKE SANGRIA • Sparkling Rosé • White Peach Sake • Red Plum Sake"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

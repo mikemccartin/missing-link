@@ -1,0 +1,32 @@
+{
+  "id": "clm_h55zxvlv",
+  "title": "Salmon Poke Bowl is a signature item",
+  "statement": "The Salmon Poke Bowl is designated as a signature item on RA Sushi's menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sheh5z1n",
+      "quote": "Signature Item SALMON POKE BOWL"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

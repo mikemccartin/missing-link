@@ -1,0 +1,32 @@
+{
+  "id": "clm_i8dtblkg",
+  "title": "RA Sushi has Board of Directors with Audit Committee",
+  "statement": "RA Sushi has a Board of Directors that includes an Audit Committee with a Chairman.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_61x2glmk",
+      "quote": "submit those concerns or complaints (anonymously, if preferred) to the Chairman of the Audit Committee of the Board of Directors"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

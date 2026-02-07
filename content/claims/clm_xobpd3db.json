@@ -1,0 +1,32 @@
+{
+  "id": "clm_xobpd3db",
+  "title": "Benihana serves items that may contain raw or undercooked ingredients",
+  "statement": "Benihana serves menu items that may contain raw or undercooked ingredients, which they are required to disclose by the Health Department.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9f40zk56",
+      "quote": "We are required by the Health Department to inform you that the items indicated may contain raw or undercooked ingredients"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_dihpd7fd",
+  "title": "Bao Yum's official website is baoyum.com",
+  "statement": "Bao Yum's official website domain is baoyum.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ixrswwtf",
+      "quote": "provider_url\":\"https:\\/\\/baoyum.com\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

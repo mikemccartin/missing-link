@@ -1,0 +1,9 @@
+{
+  "id": "src_398grvt7",
+  "title": "Careers",
+  "publisher": "Kona Grill",
+  "url": "https://konagrill.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkonagrill.com%2Fcareers%2F",
+  "accessDate": "2026-02-07",
+  "type": "webpage",
+  "excerpt": "An embed endpoint for Kona Grill's careers page containing minimal content and JavaScript for iframe embedding."
+}

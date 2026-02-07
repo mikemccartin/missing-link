@@ -1,0 +1,32 @@
+{
+  "id": "clm_2gz3qgvj",
+  "title": "STK Doha hosts Dare to Brunch events",
+  "statement": "STK Doha hosts 'Dare to Brunch', a high-energy brunch with DJs, live performers and sharing-style dishes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k79fjimt",
+      "quote": "STK Doha hosts \" Dare to Brunch \", a high\u2011energy brunch with DJs, live performers and sharing\u2011style dishes"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

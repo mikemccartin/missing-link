@@ -1,0 +1,32 @@
+{
+  "id": "clm_h1b9twkw",
+  "title": "RA Sushi incorporates Asian flavors in cocktails",
+  "statement": "RA Sushi uses Asian-inspired ingredients like yuzu, shiso, nigori sake, and lychee in their cocktail preparations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6yf7dro1",
+      "quote": "Japanese yuzu... Japanese shiso... nigori sake... lychee purée and sweet nigori sake"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_vmi0tc9g",
+  "title": "Kona Grill has location in Dallas, Texas",
+  "statement": "Kona Grill operates a restaurant location in Dallas, TX.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e3nwgans",
+      "quote": "Dallas, TX https://konagrill.com/location/dallas-tx/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_18odfn81",
+  "title": "Kona Grill offers sushi and margaritas at American grill restaurants",
+  "statement": "Kona Grill is a classic American grill that features sushi and margaritas among their menu offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jheq4e62",
+      "quote": "Kona Grill is a classic American grill featuring an array of delicious menu items including hearty steaks and fresh seafood complemented by the best choice of sushi and margaritas"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

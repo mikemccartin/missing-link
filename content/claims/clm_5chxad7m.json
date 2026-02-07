@@ -1,0 +1,32 @@
+{
+  "id": "clm_5chxad7m",
+  "title": "RA Sushi serves Japanese lagers and craft beers",
+  "statement": "RA Sushi offers Japanese lagers, craft brews, hard seltzer, and cider alongside classic sake and draft beer.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_17b533m3",
+      "quote": "Sip Japanese lagers, craft brews, hard seltzer, and cider at RA Sushi. Cheers with a classic sake or cold draft beer, perfect with sushi."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

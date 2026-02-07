@@ -1,0 +1,32 @@
+{
+  "id": "clm_2ddudzjr",
+  "title": "Benihana plans to resolve accessibility issues by May 2025",
+  "statement": "Benihana is working with an external team to address accessibility issues and plans to resolve them by May 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tfcossuo",
+      "quote": "We are working with an external team to address these issues plus refining the site in other areas for accessibility. We plan to resolve the above issues by May 2025."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

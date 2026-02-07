@@ -1,0 +1,36 @@
+{
+  "id": "clm_6yxhdjta",
+  "title": "STK Charlotte offers happy hour pricing",
+  "statement": "STK Charlotte offers happy hour with $3, $6, and $9 pricing tiers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-charlotte",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_axuvj47s",
+      "quote": "$3 | $6 | $9 - Happy Hour"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

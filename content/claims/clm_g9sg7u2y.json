@@ -1,0 +1,32 @@
+{
+  "id": "clm_g9sg7u2y",
+  "title": "Benihana offers private and semi-private dining options",
+  "statement": "Many Benihana locations offer private or semi-private dining options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ruc0rcdn",
+      "quote": "Many of our locations offer private or semi-private dining options"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

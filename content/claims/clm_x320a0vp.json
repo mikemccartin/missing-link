@@ -1,0 +1,32 @@
+{
+  "id": "clm_x320a0vp",
+  "title": "Kona Grill requires inquiry process for parties of 15 or more",
+  "statement": "Groups of 15 or more people must submit an inquiry form or call to book events at Kona Grill.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mhmyysxb",
+      "quote": "For general inquires or parties of 15 or more: Fill out the form below and we'll be in touch with you shortly"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

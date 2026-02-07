@@ -1,0 +1,32 @@
+{
+  "id": "clm_3g554o9w",
+  "title": "Pan fried gyoza dumplings have specific calorie counts",
+  "statement": "Benihana's pan fried gyoza dumplings contain 250 calories for pork and 370 calories for spicy chicken varieties.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yx9gc1po",
+      "quote": "PAN FRIED GYOZA DUMPLINGS • Pork (250 cal) • Spicy Chicken (370 cal)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

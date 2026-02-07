@@ -1,0 +1,32 @@
+{
+  "id": "clm_qhgvrmls",
+  "title": "Bao Yum serves hot dog bao",
+  "statement": "Bao Yum offers hot dog bao as one of their menu items.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_iz5y9y9u",
+      "quote": "Hot Dog Bao"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

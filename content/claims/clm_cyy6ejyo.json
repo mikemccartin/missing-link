@@ -1,0 +1,32 @@
+{
+  "id": "clm_cyy6ejyo",
+  "title": "Benihana Inc. supports limited number of non-profit organizations with donations",
+  "statement": "Benihana Inc. supports a limited number of non-profit organizations with the donation of a restaurant gift certificate.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8uypu4d5",
+      "quote": "Benihana Inc. supports a limited number of non-profit organizations with the donation of a restaurant gift certificate."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

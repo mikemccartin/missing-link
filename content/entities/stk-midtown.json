@@ -1,0 +1,7 @@
+{
+  "slug": "stk-midtown",
+  "name": "STK Midtown",
+  "type": "organization",
+  "description": "A midtown New York location of STK Steakhouse participating in Restaurant Week.",
+  "parentEntity": "stk-steakhouse"
+}

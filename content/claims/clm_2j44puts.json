@@ -1,0 +1,36 @@
+{
+  "id": "clm_2j44puts",
+  "title": "Rocky Aoki died in 2008 at age 69",
+  "statement": "Rocky Aoki, founder of Benihana, died in 2008 at the age of 69.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "rocky-h-aoki",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_db0l3ppq",
+      "quote": "Sadly, Rocky Aoki died in 2008 at the age of 69."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_pqvoq0o6",
+  "title": "Benihana operates website at benihana.com",
+  "statement": "Benihana operates a website at benihana.com as one of The ONE Group's digital properties.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0nddr49e",
+      "quote": "visits to our websites ( togrp.com ; stksteakhouse.com ; benihana.com ; konagrill.com ; rasushi.com ; samurairestaurant.com ; baoyum.com ; saltwatersocial.com )"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

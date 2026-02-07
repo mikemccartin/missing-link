@@ -1,0 +1,32 @@
+{
+  "id": "clm_fah0usfa",
+  "title": "STK Scottsdale Happy Hour schedule weekends",
+  "statement": "STK Scottsdale offers Happy Hour Saturday and Sunday from 1:00pm to 5:30pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jjl4hchu",
+      "quote": "Saturday & Sunday: 1:00pm - 5:30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

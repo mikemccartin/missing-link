@@ -1,0 +1,36 @@
+{
+  "id": "clm_wojd3xc2",
+  "title": "The ONE Group operates multiple restaurant websites",
+  "statement": "The ONE Group operates websites including togrp.com, stksteakhouse.com, benihana.com, konagrill.com, rasushi.com, and others.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8bww5ipc",
+      "quote": "visits to our websites ( togrp.com ; stksteakhouse.com ; benihana.com ; konagrill.com ; rasushi.com ; samurairestaurant.com ; baoyum.com ; saltwatersocial.com )"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

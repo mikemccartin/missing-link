@@ -1,0 +1,32 @@
+{
+  "id": "clm_mwoxc5ty",
+  "title": "Benihana offers three categories of nutritional information",
+  "statement": "Benihana provides nutritional information in three categories: food (dine-in menu items), beverages (drinks), and catering (party platters).",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8xhz3jce",
+      "quote": "Food: Nutrition facts for dine-in menu items including hibachi entrées, fried rice, appetizers, sauces, and more. Beverage: Calorie and sugar information for cocktails, beer, wine, sake and soft drinks. Catering: Nutritional info for catering orders and party platters"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

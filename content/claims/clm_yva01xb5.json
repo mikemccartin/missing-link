@@ -1,0 +1,52 @@
+{
+  "id": "clm_yva01xb5",
+  "title": "The ONE Group offers gift cards for its restaurant brands",
+  "statement": "The ONE Group provides gift card purchasing options for each of its restaurant brands through its website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xfshxoon",
+      "quote": "Choose a restaurant to buy a Gift Card from"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

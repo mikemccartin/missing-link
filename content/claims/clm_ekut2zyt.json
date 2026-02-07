@@ -1,0 +1,40 @@
+{
+  "id": "clm_ekut2zyt",
+  "title": "STK Stratford location address",
+  "statement": "STK Rooftop Steakhouse & Bar is located at The Gantry, 40 Celebration Ave, East Village, London E20 1DB.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "the-gantry",
+      "role": "related"
+    },
+    {
+      "slug": "east-village",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wxwxewhr",
+      "quote": "STK Rooftop Steakhouse & Bar is located at The Gantry, 40 Celebration Ave, East Village, London E20 1DB"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

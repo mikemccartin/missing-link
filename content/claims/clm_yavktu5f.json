@@ -1,0 +1,32 @@
+{
+  "id": "clm_yavktu5f",
+  "title": "50% of Kona Grill egg volume was cage-free as of March 2024",
+  "statement": "As of March 2024, 50% of Kona Grill's total egg volume comes from cage-free sources.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zbinuqq",
+      "quote": "As of March 2024, 50% of our total egg volume comes from cage-free sources"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

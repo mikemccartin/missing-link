@@ -1,0 +1,32 @@
+{
+  "id": "clm_pnsay5cx",
+  "title": "STK London Strand location address",
+  "statement": "STK London – Strand is located at 336–337 Strand, London WC2R 1HA.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3xi1w6m0",
+      "quote": "STK London – Strand is located at 336–337 Strand, London WC2R 1HA"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_913n7x5s",
+  "title": "togrp gift cards page last modified",
+  "statement": "The gift cards page on togrp.com was last modified on August 21, 2025",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hpg06o19",
+      "quote": "\"modified\":\"2025-08-21T06:49:23\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

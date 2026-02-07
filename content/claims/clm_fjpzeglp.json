@@ -1,0 +1,32 @@
+{
+  "id": "clm_fjpzeglp",
+  "title": "STK Chicago happy hour times",
+  "statement": "STK Chicago offers happy hour Sunday through Friday from 3pm to 5:30pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_en2jtk9y",
+      "quote": "Sunday – Friday 3pm – 5:30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

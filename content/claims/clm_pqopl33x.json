@@ -1,0 +1,32 @@
+{
+  "id": "clm_pqopl33x",
+  "title": "STK gift cards valid for purchase, tax and gratuity",
+  "statement": "STK gift cards are valid for use on purchase, tax and/or gratuity at STK locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_uppm7x4a",
+      "quote": "Gift cards are valid for use on purchase, tax and/or gratuity."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

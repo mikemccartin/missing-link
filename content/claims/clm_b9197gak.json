@@ -1,0 +1,32 @@
+{
+  "id": "clm_b9197gak",
+  "title": "Kona Grill offers Taste of Kona menu item",
+  "statement": "Kona Grill features a menu item called 'Taste of Kona' with multiple category selections available.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_dd203f9k",
+      "quote": "Taste of Kona | Select One From Each Category Below"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_sm3abc8s",
+  "title": "STK has multiple NYC locations",
+  "statement": "STK Steakhouse operates three locations in New York City: Downtown, Rooftop, and Midtown.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_dw2ttpvb",
+      "quote": "NYC – Downtown, NYC – Rooftop, NYC – Midtown"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

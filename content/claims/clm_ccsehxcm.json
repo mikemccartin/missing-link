@@ -1,0 +1,32 @@
+{
+  "id": "clm_ccsehxcm",
+  "title": "STK NYC Midtown operating hours Thursday-Saturday",
+  "statement": "STK NYC Midtown is open Thursday through Saturday from 11am to 12am.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zifi2f1",
+      "quote": "Thursday - Saturday: 11am – 12am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "clm_mn1dv8i5",
+  "title": "The ONE Group owns six restaurant brands",
+  "statement": "The ONE Group operates STK Steakhouse, Kona Grill, RA Sushi, Benihana, Samurai and Salt Water Social restaurant brands.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xl737qcu",
+      "quote": "The ONE Group, Inc. corporate-owned locations of the following The ONE Group restaurant brands: STK Steakhouse, Kona Grill, RA Sushi, Benihana, Samurai and Salt Water Social"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

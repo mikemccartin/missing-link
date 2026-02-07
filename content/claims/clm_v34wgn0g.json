@@ -1,0 +1,32 @@
+{
+  "id": "clm_v34wgn0g",
+  "title": "STK Steakhouse operates in Aventura, Florida",
+  "statement": "STK Steakhouse has a location at 19505 Biscayne Blvd, Aventura, FL 33180 with phone number 786-347-5299",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Aventura 19505 Biscayne Blvd, Aventura, FL 33180, United States 786-347-5299"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

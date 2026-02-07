@@ -1,0 +1,32 @@
+{
+  "id": "clm_1w9xnpvj",
+  "title": "Benihana features teppan chefs performing tableside shows",
+  "statement": "Benihana's teppan chefs perform tableside shows with flame, flair, and knife skills that turn dinner into entertainment.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ostntaj3",
+      "quote": "Our iconic teppan chefs bring the night to life with flame, flair, and knife skills that turn dinner into a full-on show"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

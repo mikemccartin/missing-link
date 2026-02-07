@@ -1,0 +1,32 @@
+{
+  "id": "clm_o6l0nzym",
+  "title": "Hibachi Burritos contain fried rice and teriyaki",
+  "statement": "Hibachi Burritos include hibachi favorites such as fried rice and teriyaki rolled into burrito form.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4bw269q3",
+      "quote": "All your hibachi favorites\u2014fried rice and teriyaki\u2014rolled into one delicious burrito."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

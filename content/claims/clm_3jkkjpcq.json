@@ -1,0 +1,36 @@
+{
+  "id": "clm_3jkkjpcq",
+  "title": "The ONE Group has a Samurai-related offering",
+  "statement": "The ONE Group has created content or offering titled 'Samurai' with dedicated webpage presence.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tszcjlxz",
+      "quote": "\"title\":\"Samurai\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

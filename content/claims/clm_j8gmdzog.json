@@ -1,0 +1,36 @@
+{
+  "id": "clm_j8gmdzog",
+  "title": "Kona Grill Las Vegas email is Las Vegas@konagrill.com",
+  "statement": "The Las Vegas Kona Grill location's email address is Las Vegas@konagrill.com",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "las-vegas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ztu5baw9",
+      "quote": "Las Vegas@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

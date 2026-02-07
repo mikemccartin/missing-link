@@ -1,0 +1,32 @@
+{
+  "id": "clm_3iyx7iar",
+  "title": "Kona Grill serves contemporary American favorites and sushi",
+  "statement": "Kona Grill features a global menu of contemporary American favorites and award-winning sushi.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bjvprkj0",
+      "quote": "Kona Grill features a global menu of contemporary American favorites, award-winning sushi, and specialty craft cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

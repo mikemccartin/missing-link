@@ -1,0 +1,40 @@
+{
+  "id": "clm_neex6qh5",
+  "title": "Kona Grill Carmel location address",
+  "statement": "Kona Grill has a location at 14395 Clay Terrace Blvd Carmel, IN 46032",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "carmel",
+      "role": "related"
+    },
+    {
+      "slug": "clay-terrace",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ju6ipwdi",
+      "quote": "14395 Clay Terrace Blvd Carmel, IN 46032"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_3kyngeth",
+  "title": "Kona Grill Troy offers valet parking",
+  "statement": "Valet parking is available at the Troy Kona Grill location",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19emvtj9",
+      "quote": "Valet parking available"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

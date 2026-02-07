@@ -1,0 +1,32 @@
+{
+  "id": "clm_3hfnxsmn",
+  "title": "Takeout and delivery not available in Las Vegas location",
+  "statement": "STK's Las Vegas location does not offer takeout and delivery services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1dre71np",
+      "quote": "*Takeout & Delivery not available in Las Vegas."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

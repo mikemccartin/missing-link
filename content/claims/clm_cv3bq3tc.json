@@ -1,0 +1,32 @@
+{
+  "id": "clm_cv3bq3tc",
+  "title": "Kona Grill Woodbridge location address",
+  "statement": "Kona Grill Woodbridge is located at 511 US Highway 1 South Woodbridge, NJ 08830.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yk7e5d96",
+      "quote": "511 US Highway 1 South Woodbridge, NJ 08830"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

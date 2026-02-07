@@ -1,0 +1,36 @@
+{
+  "id": "clm_0346s89y",
+  "title": "RA Sushi conducts annual St. Jude fundraiser",
+  "statement": "RA Sushi conducts an annual St. Jude fundraiser called \"RA\"CKIN' FOR NICKY.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "st-jude",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_osiocoto",
+      "quote": "our \"RA\"CKIN' FOR NICKY annual St. Jude fundraiser"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

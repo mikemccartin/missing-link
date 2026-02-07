@@ -1,0 +1,32 @@
+{
+  "id": "clm_b7kshtth",
+  "title": "STK Los Angeles offers multiple menu options",
+  "statement": "STK Los Angeles provides various dining options including dinner menu, brunch, happy hour, pre-theater menu, and take-out services.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_evmphkmk",
+      "quote": "Dinner Menu, Market Salads & Starters, Beverage Menu, Cocktails, Wine by the Bottle, Champagne & Sparkling, Pre Theater Menu, Sunday Brunch, All You Can Eat STK Brunch, Happy Hour Menu, Take Out"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

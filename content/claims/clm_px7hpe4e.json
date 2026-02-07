@@ -1,0 +1,36 @@
+{
+  "id": "clm_px7hpe4e",
+  "title": "STK Charlotte participates in Charlotte Restaurant Week 2026",
+  "statement": "STK Steakhouse Charlotte is participating in Charlotte Restaurant Week from January 23 to February 1, 2026.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "charlotte-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5s6971xn",
+      "quote": "Charlotte Restaurant Week at STK Steakhouse Jan 23 – Feb 1, 2026"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

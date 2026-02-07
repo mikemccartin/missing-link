@@ -1,0 +1,36 @@
+{
+  "id": "clm_tfsoxvrr",
+  "title": "Bao Yum has presence in Denver",
+  "statement": "Bao Yum has operations or presence in Denver.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    },
+    {
+      "slug": "denver",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_iz5y9y9u",
+      "quote": "Denver"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_s1w9hbip",
+  "title": "STK Atlanta location unavailable January 26-29, 2026",
+  "statement": "STK's Atlanta location will not be available from January 26, 2026 to January 29, 2026.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ujkxed6e",
+      "quote": "* Not Available in Atlanta 1.26.26-1.29.26"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

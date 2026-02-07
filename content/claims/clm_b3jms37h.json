@@ -1,0 +1,32 @@
+{
+  "id": "clm_b3jms37h",
+  "title": "Benihana offers $18 Filet Steak Frites",
+  "statement": "Benihana offers a Filet Steak Frites dish priced at $18.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_74w93zez",
+      "quote": "$18 Filet Steak Frites"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_rg9vxz1z",
+  "title": "Points typically appear within 24 hours",
+  "statement": "Friends With Benefits points typically appear in customer accounts within 24 hours of earning.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t8zvgx98",
+      "quote": "Points typically appear within 24 hours."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_6mog239a",
+  "title": "togrp cookie policy page was created on June 20, 2024",
+  "statement": "The cookie policy page on togrp.com was initially created on June 20, 2024 at 15:56:08.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cow6pbde",
+      "quote": "\"date\":\"2024-06-20T15:56:08\",\"date_gmt\":\"2024-06-20T15:56:08\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_8e3mtwgy",
+  "title": "Kona Grill has a nutrition information page",
+  "statement": "Kona Grill maintains a nutrition page on their website at konagrill.com/nutrition/",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_oflec9mo",
+      "quote": "\"slug\":\"nutrition\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/konagrill.com\\/nutrition\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

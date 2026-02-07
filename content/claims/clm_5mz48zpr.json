@@ -1,0 +1,44 @@
+{
+  "id": "clm_5mz48zpr",
+  "title": "STK participates in Dine LA Restaurant Week 2026",
+  "statement": "STK Los Angeles and STK Topanga participate in Dine LA Restaurant Week from January 23 – February 6, 2026.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "dine-la-restaurant-week",
+      "role": "related"
+    },
+    {
+      "slug": "stk-los-angeles",
+      "role": "related"
+    },
+    {
+      "slug": "stk-topanga",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4gc2l1c5",
+      "quote": "Join us for Dine LA Restaurant Week at STK Los Angeles and STK Topanga ! From January 23 – February 6, 2026"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

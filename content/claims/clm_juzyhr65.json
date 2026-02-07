@@ -1,0 +1,32 @@
+{
+  "id": "clm_juzyhr65",
+  "title": "Benihana website timezone is UTC-4",
+  "statement": "Benihana's website is configured with a GMT offset of -4 hours.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vlmxcv0y",
+      "quote": "\"gmt_offset\":\"-4\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

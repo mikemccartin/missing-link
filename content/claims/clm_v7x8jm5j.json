@@ -1,0 +1,44 @@
+{
+  "id": "clm_v7x8jm5j",
+  "title": "STK participates in Chicago Restaurant Week 2026",
+  "statement": "STK Chicago and Oak Brook locations are participating in Chicago Restaurant Week from January 23 to February 8, 2026.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "chicago-restaurant-week",
+      "role": "related"
+    },
+    {
+      "slug": "stk-chicago",
+      "role": "related"
+    },
+    {
+      "slug": "stk-oak-brook",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n61zo0ez",
+      "quote": "Join us for Chicago Restaurant Week at STK Chicago and Oak Brook ! From January 23 – February 8, 2026"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_tpsgv61x",
+  "title": "The ONE Group released Q2 2024 financial results",
+  "statement": "The ONE Group released its latest financial results for Q2 2024 on June 30, 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hlw0zpj6",
+      "quote": "Latest Financial Results Q2 2024"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_niq0xisl",
+  "title": "Benihana has a loyalty program webpage",
+  "statement": "Benihana maintains a loyalty program page on their website at benihana.com/loyalty/",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_18ra0zr3",
+      "quote": "\"title\":{\"rendered\":\"Loyalty Program\"},\"link\":\"https:\\/\\/www.benihana.com\\/loyalty\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

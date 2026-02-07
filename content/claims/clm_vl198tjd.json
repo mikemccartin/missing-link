@@ -1,0 +1,32 @@
+{
+  "id": "clm_vl198tjd",
+  "title": "Benihana offers teppanyaki dining",
+  "statement": "Benihana provides teppanyaki dining experiences at their restaurants.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gzhh3bwp",
+      "quote": "Reserve your table at Benihana for an unforgettable teppanyaki dining experience."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_piekrhxz",
+  "title": "Kona Grill provides indoor and outdoor patio dining at all locations",
+  "statement": "All Kona Grill locations offer both indoor dining and outdoor patio dining options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zbinuqq",
+      "quote": "Kona Grill offers indoor and outdoor patio dining at all our locations"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

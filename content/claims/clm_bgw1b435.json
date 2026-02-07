@@ -1,0 +1,36 @@
+{
+  "id": "clm_bgw1b435",
+  "title": "Health Department requires Benihana to warn about raw food risks",
+  "statement": "The Health Department requires Benihana to inform customers that certain menu items may contain raw or undercooked ingredients that increase foodborne illness risk.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "health-department",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0337kl9b",
+      "quote": "We are required by the Health Department to inform you that the items indicated may contain raw or undercooked ingredients and consuming raw or undercooked meat, poultry seafood, shellfish or eggs may increase your risk of foodborne illness"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_8tavey43",
+  "title": "Benihana event managers respond within 24 hours",
+  "statement": "Benihana's event managers commit to reaching out to inquirers within 24 hours of form submission.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_m4ratk76",
+      "quote": "one of our event managers will reach out to you within 24 hours"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

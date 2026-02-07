@@ -1,0 +1,32 @@
+{
+  "id": "clm_pi3w5b7e",
+  "title": "Hibachi Chicken Rice is Benihana's original classic dish",
+  "statement": "Hibachi Chicken Rice is described as the original Benihana classic dish.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_val50e61",
+      "quote": "The original Benihana classic. Grilled chicken, rice, egg and chopped vegetables."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_m9sdatst",
+  "title": "Kona Grill provides event booking phone number",
+  "statement": "Kona Grill can be contacted at 702-936-7489 for event bookings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mhmyysxb",
+      "quote": "Call today to book your event: 702-936-7489"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

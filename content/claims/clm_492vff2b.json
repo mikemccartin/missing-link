@@ -1,0 +1,36 @@
+{
+  "id": "clm_492vff2b",
+  "title": "Kona Grill Riverton phone number is 385-317-7744",
+  "statement": "The Kona Grill location in Riverton can be reached by phone at 385-317-7744.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "riverton",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fhsvufvh",
+      "quote": "385-317-7744"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

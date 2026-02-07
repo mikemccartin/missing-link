@@ -1,0 +1,32 @@
+{
+  "id": "clm_7f2cb9zx",
+  "title": "STK Los Cabos lunch hours",
+  "statement": "STK Los Cabos serves lunch Monday-Friday 11am-3pm",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_icjfm2ha",
+      "quote": "Lunch Monday – Friday: 11am – 3pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

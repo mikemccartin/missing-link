@@ -1,0 +1,36 @@
+{
+  "id": "clm_nye49o48",
+  "title": "Kona Grill operates 77 restaurants",
+  "statement": "The Kona Grill restaurant brand operates 77 restaurant locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4jsnyjq9",
+      "quote": "77 Restaurants"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

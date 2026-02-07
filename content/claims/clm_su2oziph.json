@@ -1,0 +1,32 @@
+{
+  "id": "clm_su2oziph",
+  "title": "Sushi burritos wrapped in soy paper and served with chili mayo",
+  "statement": "Both spicy salmon and spicy tuna sushi burritos are rolled in soy paper and served with a side of chili mayo.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_td6mc7sg",
+      "quote": "rolled into a burrito with soy paper; served with a side of chili mayo"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_lrx29qu1",
+  "title": "STK Los Cabos offers Japanese A5 Wagyu",
+  "statement": "STK Los Cabos serves Japanese A5 Wagyu beef on their menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "japanese-a5-wagyu",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tam49yst",
+      "quote": "Premium steaks, Japanese A5 Wagyu, seafood bar, and signature cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

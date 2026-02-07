@@ -1,0 +1,32 @@
+{
+  "id": "clm_x6gaxf99",
+  "title": "Benihana uses branded sake in cocktails",
+  "statement": "Benihana uses its own branded sake in sangria cocktails including White Peach Sake Sangria and Red Plum Sake Sangria.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y9ghkdfm",
+      "quote": "WHITE PEACH SAKE SANGRIA White wine, Benihana Sake with pineapple juice, white peach and passion fruit pur\u00e9es. RED PLUM SAKE SANGRIA Red wine, Benihana Sake, plum wine with pomegranate and orange juices."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

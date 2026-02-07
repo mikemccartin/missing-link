@@ -1,0 +1,32 @@
+{
+  "id": "clm_vl27epkx",
+  "title": "Kona Grill website home page was last modified on January 30, 2026",
+  "statement": "The Kona Grill website home page was last modified on January 30, 2026 at 10:22:42 GMT.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vrppfjt6",
+      "quote": "\"modified\":\"2026-01-30T10:22:42\",\"modified_gmt\":\"2026-01-30T10:22:42\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

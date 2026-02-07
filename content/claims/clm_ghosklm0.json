@@ -1,0 +1,32 @@
+{
+  "id": "clm_ghosklm0",
+  "title": "RA Sushi offers margarita variations with multiple flavor options",
+  "statement": "RA Sushi serves Emperor's Margarita and Umami Margarita in multiple flavors including traditional, mango, cucumber, strawberry, and passion fruit.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ouf02ne2",
+      "quote": "EMPEROR'S MARGARITA Casamigos Blanco Tequila, Combier Liqueur d'Orange, lime juice, Japanese yuzu and agave n\u00e9ctar: Traditional Mango Cucumber Strawberry Passion Fruit"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

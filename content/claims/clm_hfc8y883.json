@@ -1,0 +1,32 @@
+{
+  "id": "clm_hfc8y883",
+  "title": "Benihana has happy hour pricing Monday-Friday",
+  "statement": "Benihana offers happy hour pricing of $3, $6, and $9 available Monday through Friday.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_85tfj0qr",
+      "quote": "Happy Hour $3, $6, $9 Available, Monday – Friday."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from benihana.com crawl"
+    }
+  ]
+}

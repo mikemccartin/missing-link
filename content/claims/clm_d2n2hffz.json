@@ -1,0 +1,31 @@
+{
+  "id": "clm_d2n2hffz",
+  "title": "STK Steakhouse has multiple US locations",
+  "statement": "STK Steakhouse operates in US cities including Atlanta, Boston, Chicago, Dallas, Denver, Las Vegas, Los Angeles, Nashville, New York City, Orlando, Salt Lake City, San Diego, San Francisco, and Washington DC.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_doah7b8a"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

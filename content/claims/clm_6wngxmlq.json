@@ -1,0 +1,32 @@
+{
+  "id": "clm_6wngxmlq",
+  "title": "Prickly Pear Margarita recipe composition",
+  "statement": "Prickly Pear Margarita is made with Casamigos Reposado Tequila, lime agave sour and prickly pear pur\u00e9e with a Grand Marnier float.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hnabzuej",
+      "quote": "Casamigos Reposado Tequila, lime agave sour and prickly pear pur\u00e9e; float of Grand Marnier"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

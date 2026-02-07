@@ -1,0 +1,40 @@
+{
+  "id": "clm_fi4ward5",
+  "title": "Privacy notice applies to 13 states with specific privacy laws",
+  "statement": "The supplemental privacy notice applies to residents of California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Virginia, and Utah.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "california-consumer-privacy-act",
+      "role": "related"
+    },
+    {
+      "slug": "colorado-privacy-act",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_18v75hhl",
+      "quote": "provides residents of California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Virginia, and Utah additional information about their privacy rights"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

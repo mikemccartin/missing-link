@@ -1,0 +1,40 @@
+{
+  "id": "clm_uf0thhga",
+  "title": "STK Los Angeles located at 1100 Glendon Ave",
+  "statement": "STK Los Angeles is located at 1100 Glendon Ave, Los Angeles, CA 90024 in Westwood.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "westwood-village",
+      "role": "related"
+    },
+    {
+      "slug": "ucla",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6tmgux27",
+      "quote": "STK Los Angeles is located at 1100 Glendon Ave, Los Angeles, CA 90024, in Westwood near UCLA and Wilshire Boulevard."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

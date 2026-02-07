@@ -1,0 +1,32 @@
+{
+  "id": "clm_bjhv7lai",
+  "title": "Benihana Trio includes filet mignon, colossal shrimp and chicken breast",
+  "statement": "The Benihana Trio menu item consists of filet mignon, colossal shrimp and chicken breast.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1qdklr1t",
+      "quote": "BENIHANA TRIO* Filet mignon, colossal shrimp and chicken breast."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

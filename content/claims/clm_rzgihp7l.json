@@ -1,0 +1,36 @@
+{
+  "id": "clm_rzgihp7l",
+  "title": "Kona Grill Riverton email is Riverton@konagrill.com",
+  "statement": "The Kona Grill Riverton location can be contacted via email at Riverton@konagrill.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "riverton",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fhsvufvh",
+      "quote": "Riverton@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

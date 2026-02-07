@@ -1,0 +1,32 @@
+{
+  "id": "clm_daabveq4",
+  "title": "$26 Steak Date includes choice of two dishes",
+  "statement": "The $26 Steak Date special features a choice between Steak Frites or Wagyu Fried Rice.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3sbcomeh",
+      "quote": "now features your choice of two amazing dishes. Select either the timeless Steak Frites or our fan-favorite Wagyu Fried Rice"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

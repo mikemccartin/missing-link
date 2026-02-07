@@ -1,0 +1,36 @@
+{
+  "id": "clm_wm5krjsu",
+  "title": "STK London Stratford offers Sunday Roast service",
+  "statement": "STK London Stratford serves Sunday Roast for £28 per person every Sunday from 12pm to 4:30pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-london-stratford",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2jljc2mu",
+      "quote": "Sunday Roast £28 per person | Every Sunday, 12pm - 4.30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

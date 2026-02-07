@@ -1,0 +1,32 @@
+{
+  "id": "clm_7lb1e3k6",
+  "title": "Benihana teaches teenagers to make Nigiri sushi and California Rolls",
+  "statement": "Through the Dojo Sushi class, Benihana teaches teenagers to make two types of Nigiri sushi and the classic California Roll.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5czk1b92",
+      "quote": "They will learn to make two types of Nigiri sushi and the classic California Roll."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

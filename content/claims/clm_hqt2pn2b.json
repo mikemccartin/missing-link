@@ -1,0 +1,32 @@
+{
+  "id": "clm_hqt2pn2b",
+  "title": "Kona Grill Dallas email address",
+  "statement": "Kona Grill Dallas email address is Dallas@konagrill.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ht7ra9fn",
+      "quote": "Dallas@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

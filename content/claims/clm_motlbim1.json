@@ -1,0 +1,44 @@
+{
+  "id": "clm_motlbim1",
+  "title": "Kona Grill participates in Chicago Restaurant Week",
+  "statement": "Kona Grill participates in Chicago Restaurant Week offering exclusive lunch and dinner menus at special pricing.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "chicago-restaurant-week",
+      "role": "related"
+    },
+    {
+      "slug": "chicago",
+      "role": "related"
+    },
+    {
+      "slug": "oak-brook",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ba680o0",
+      "quote": "Kona Grill is excited to participate in Chicago Restaurant Week, offering exclusive lunch and dinner menus that showcase the bold, globally inspired flavors"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

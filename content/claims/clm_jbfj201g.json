@@ -1,0 +1,32 @@
+{
+  "id": "clm_jbfj201g",
+  "title": "RA Sushi serves signature rolls including Viva Las Vegas and RA'ckin' Roll",
+  "statement": "RA Sushi's menu includes signature sushi rolls named Viva Las Vegas and RA'ckin' Roll among their offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hcsxxn9d",
+      "quote": "Explore signature rolls like Viva Las Vegas and \"RA\"ckin' Roll with sashimi and nigiri, served in our fun and lively atmosphere."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

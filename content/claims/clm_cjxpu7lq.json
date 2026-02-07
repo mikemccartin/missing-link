@@ -1,0 +1,32 @@
+{
+  "id": "clm_cjxpu7lq",
+  "title": "Kona Grill serves lunch, dinner, and happy hour",
+  "statement": "Kona Grill Kansas City serves lunch, dinner, and offers happy hour.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5usn9842",
+      "quote": "Come for lunch, dinner, or one of Kansas City's best happy hours!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

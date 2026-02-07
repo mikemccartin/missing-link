@@ -1,0 +1,32 @@
+{
+  "id": "clm_jtz8mh3h",
+  "title": "STK Scottsdale Happy Hour schedule weekdays",
+  "statement": "STK Scottsdale offers Happy Hour Monday through Friday from 1:00pm to 6:30pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jjl4hchu",
+      "quote": "Monday - Friday: 1:00pm - 6:30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

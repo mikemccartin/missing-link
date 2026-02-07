@@ -1,0 +1,32 @@
+{
+  "id": "clm_tal4sxd1",
+  "title": "Kona Grill operates as a Classic American grill",
+  "statement": "Kona Grill is a Classic American grill featuring steaks, fresh seafood, sushi and margaritas.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_990t6ov4",
+      "quote": "At Kona Grill, we are a Classic American grill featuring an array of delicious menu items including hearty steaks and fresh seafood complemented by the best choice of sushi and margaritas at any grill in America."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

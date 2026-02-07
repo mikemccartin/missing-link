@@ -1,0 +1,32 @@
+{
+  "id": "clm_8rq9lrip",
+  "title": "RA Sushi offers wine menu with sparkling wines",
+  "statement": "RA Sushi's wine menu includes sparkling wines such as Mionetto Prosecco, Ferrari Ros\u00e9 Sparkling, and Veuve Clicquot.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ebljw9dn",
+      "quote": "MIONETTO PROSECCO FERRARI ROS\u00c9 SPARKLING VUEVE CLICQUOT"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

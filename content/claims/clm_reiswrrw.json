@@ -1,0 +1,32 @@
+{
+  "id": "clm_reiswrrw",
+  "title": "Kabuki Kids parties include keepsake photos",
+  "statement": "Kabuki Kids birthday celebrations include a keepsake photo for families.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ljahlki3",
+      "quote": "plus a keepsake photo so families can remember the moment for years to come"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

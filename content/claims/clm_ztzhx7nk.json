@@ -1,0 +1,40 @@
+{
+  "id": "clm_ztzhx7nk",
+  "title": "STK Denver proximity to landmarks",
+  "statement": "STK Denver is located steps from Union Station and Coors Field.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "union-station",
+      "role": "related"
+    },
+    {
+      "slug": "coors-field",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y2fi34ec",
+      "quote": "STK Denver sits on Market Street just steps from Union Station, Coors Field"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

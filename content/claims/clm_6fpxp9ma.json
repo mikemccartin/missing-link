@@ -1,0 +1,32 @@
+{
+  "id": "clm_6fpxp9ma",
+  "title": "Hibachi Burritos served with Uchi No Salad and dipping sauce",
+  "statement": "Hibachi Burritos are served with Uchi No Salad and choice of dipping sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n2y2kt89",
+      "quote": "Served with Uchi No Salad and your favorite dipping sauce"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

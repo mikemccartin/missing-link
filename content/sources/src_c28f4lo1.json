@@ -1,0 +1,9 @@
+{
+  "id": "src_c28f4lo1",
+  "title": "Beer",
+  "publisher": "RA Sushi",
+  "url": "https://rasushi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frasushi.com%2Fmenu%2Fbeer-menu%2F",
+  "accessDate": "2026-02-07",
+  "type": "webpage",
+  "excerpt": "oEmbed endpoint data for RA Sushi's beer menu page, containing basic metadata about their beer offerings."
+}

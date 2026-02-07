@@ -1,0 +1,36 @@
+{
+  "id": "clm_tc16w4bu",
+  "title": "STK Oak Brook has Steak Night promotion",
+  "statement": "STK Oak Brook offers a Steak Night menu for $69 per person, available Sunday through Thursday, including La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-oak-brook",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b9ls10lk",
+      "quote": "$69 Per Person. Sunday-Thursday. Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

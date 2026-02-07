@@ -1,0 +1,32 @@
+{
+  "id": "clm_fgz5nm70",
+  "title": "RA Sushi offers seasonal specials menu section",
+  "statement": "RA Sushi has a seasonal specials menu section accessible at rasushi.com/menu/seasonal-specials/.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mxeylius",
+      "quote": "url=https%3A%2F%2Frasushi.com%2Fmenu%2Fseasonal-specials%2F"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_0l380wif",
+  "title": "RA Sushi offers Coconut Cr\u00e8me Br\u00fbl\u00e9e as signature item",
+  "statement": "RA Sushi serves a homemade coconut and vanilla cr\u00e8me br\u00fbl\u00e9e garnished with a strawberry as a signature dessert item.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19vneux1",
+      "quote": "COCONUT CR\u00c8ME BR\u00dbL\u00c9E A decadent homemade coconut and vanilla cr\u00e8me br\u00fbl\u00e9e, garnished with a strawberry Signature Item"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

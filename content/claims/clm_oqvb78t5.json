@@ -1,0 +1,32 @@
+{
+  "id": "clm_oqvb78t5",
+  "title": "STK Steakhouse operates three NYC locations",
+  "statement": "STK Steakhouse operates three New York City locations: Downtown (26 Little West 12th Street), Rooftop (26 Little West 12th Street 4th Floor), and Midtown (1114 Avenue of the Americas)",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "NYC – Downtown 26 Little West 12th Street New York, NY 10014... NYC - Rooftop 26 Little West 12th Street 4th Floor New York, NY 10014... NYC - Midtown 1114 Avenue of the Americas New York, NY 10036"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

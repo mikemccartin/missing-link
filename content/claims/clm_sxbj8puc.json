@@ -1,0 +1,36 @@
+{
+  "id": "clm_sxbj8puc",
+  "title": "Benihana operates Friends with Benefits loyalty program",
+  "statement": "Benihana participates in the Friends with Benefits loyalty program where members earn points for every dollar spent.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ebie157t",
+      "quote": "you'll earn points for every dollar you spend at STK Steakhouse, Kona Grill, Benihana, RA Sushi, Samurai or Salt Water Social"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

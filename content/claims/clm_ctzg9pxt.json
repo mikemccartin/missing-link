@@ -1,0 +1,32 @@
+{
+  "id": "clm_ctzg9pxt",
+  "title": "RA Sushi About Us page created August 2025",
+  "statement": "RA Sushi's About Us webpage was created on August 12, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8duq7pyd",
+      "quote": "\"date\":\"2025-08-12T12:49:19\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

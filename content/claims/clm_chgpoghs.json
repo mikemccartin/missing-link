@@ -1,0 +1,32 @@
+{
+  "id": "clm_chgpoghs",
+  "title": "RA Sushi offers four varieties of Hibachi Burritos",
+  "statement": "RA Sushi's Hibachi Burrito menu includes Steak, Chicken, Shrimp, and 'RA RA' Shrimp varieties.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n2y2kt89",
+      "quote": "STEAK BURRITO CHICKEN BURRITO SHRIMP BURRITO \"RA\" \"RA\" SHRIMP BURRITO"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "clm_vkj5xy7u",
+  "title": "Points earned for spending at multiple restaurant brands",
+  "statement": "Members earn points for every dollar spent at Benihana, Kona Grill, RA Sushi, Samurai, Salt Water Social, or STK Steakhouse.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b0tyj3ud",
+      "quote": "Earn points for every dollar you spend at Benihana, Kona Grill, RA Sushi, Samurai, Salt Water Social, or STK Steakhouse"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

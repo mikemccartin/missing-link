@@ -1,0 +1,32 @@
+{
+  "id": "clm_uysxhk51",
+  "title": "STK combines steakhouse and lounge concepts",
+  "statement": "STK is a unique concept that artfully blends the modern steakhouse and a chic lounge into one venue.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_iyu21inv",
+      "quote": "STK is a unique concept that artfully blends the modern steakhouse and a chic lounge into one"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

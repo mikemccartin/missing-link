@@ -1,0 +1,32 @@
+{
+  "id": "clm_fv6urwl3",
+  "title": "Kona Grill Oak Brook menu offerings",
+  "statement": "Kona Grill Oak Brook offers upscale American food prepared in a scratch kitchen and sushi",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1am3h43x",
+      "quote": "upscale American food freshly prepared in a scratch kitchen, award-winning sushi"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

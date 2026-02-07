@@ -1,0 +1,32 @@
+{
+  "id": "clm_ljocgblx",
+  "title": "RA Sushi offers flavored hot sake in multiple varieties",
+  "statement": "RA Sushi serves hot sake in Peach, Ginger, Black Raspberry and Apple flavors.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nfpt77wm",
+      "quote": "FLAVORED HOT SAKE Peach, Ginger, Black Raspberry or Apple"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

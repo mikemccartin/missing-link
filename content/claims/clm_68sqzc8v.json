@@ -1,0 +1,40 @@
+{
+  "id": "clm_68sqzc8v",
+  "title": "Kona Grill location in The Village at Meridian",
+  "statement": "Kona Grill operates a restaurant location at The Village at Meridian",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "the-village-at-meridian",
+      "role": "related"
+    },
+    {
+      "slug": "treasure-valley",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_akajof36",
+      "quote": "The Village at Meridian Kona Grill restaurant offers an experience unrivaled in the Treasure Valley"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

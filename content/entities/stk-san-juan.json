@@ -1,0 +1,7 @@
+{
+  "slug": "stk-san-juan",
+  "name": "STK San Juan",
+  "type": "organization",
+  "description": "A restaurant location of STK Steakhouse situated in Condado, San Juan, Puerto Rico. It serves steaks, seafood, cocktails, and offers brunch and happy hour services.",
+  "parentEntity": "stk-steakhouse"
+}

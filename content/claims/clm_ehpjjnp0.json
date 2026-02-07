@@ -1,0 +1,32 @@
+{
+  "id": "clm_ehpjjnp0",
+  "title": "Benihana offers family-friendly takeout options",
+  "statement": "Benihana provides family-friendly takeout meal options for catering.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_we1gtqch",
+      "quote": "Treat your family to a memorable meal with our family-friendly takeout options."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

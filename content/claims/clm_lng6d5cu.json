@@ -1,0 +1,32 @@
+{
+  "id": "clm_lng6d5cu",
+  "title": "Teriyaki served with rice and sautéed vegetables",
+  "statement": "RA Sushi's teriyaki dishes are served with rice and sautéed zucchini, mushrooms and onions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pwtfddxc",
+      "quote": "Your choice of grilled chicken, steak or salmon; served with rice and sautéed zucchini, mushrooms and onions."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

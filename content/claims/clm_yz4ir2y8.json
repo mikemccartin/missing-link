@@ -1,0 +1,32 @@
+{
+  "id": "clm_yz4ir2y8",
+  "title": "Benihana alcohol age requirement",
+  "statement": "Customers must be 21 years old to consume alcohol at Benihana.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b7a066mx",
+      "quote": "Must be 21 to enjoy alcohol."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

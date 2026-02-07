@@ -1,0 +1,32 @@
+{
+  "id": "clm_oiu2tnhc",
+  "title": "The ONE Group operates restaurants in 21 states",
+  "statement": "The ONE Group operates restaurant locations across 21 states in the United States.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wn36m2hw",
+      "quote": "Operating nationally 21 states"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

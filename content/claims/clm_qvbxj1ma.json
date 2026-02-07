@@ -1,0 +1,32 @@
+{
+  "id": "clm_qvbxj1ma",
+  "title": "A5 Japanese Wagyu Tokyo Broil is 5 ounces",
+  "statement": "RA Sushi serves a 5-ounce A5 Japanese Wagyu Tokyo Broil.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1h7158kp",
+      "quote": "A5 JAPANESE WAGYU TOKYO BROIL (5oz)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

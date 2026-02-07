@@ -1,0 +1,32 @@
+{
+  "id": "clm_z09ky9yh",
+  "title": "STK Oak Brook offers happy hour pricing",
+  "statement": "STK Oak Brook offers $3-$6-$9 Happy Hour pricing on select bites and drinks in the bar and lounge on designated days.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_p63290yw",
+      "quote": "Guests can enjoy STK's signature $3‑$6‑$9 Happy Hour pricing on select bites and drinks in the bar and lounge on designated days"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

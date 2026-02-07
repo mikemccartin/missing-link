@@ -1,0 +1,32 @@
+{
+  "id": "clm_p2ps0kui",
+  "title": "RA Sushi has location in Scottsdale, Arizona",
+  "statement": "RA Sushi operates a restaurant location in Scottsdale, AZ.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hb5cux13",
+      "quote": "Scottsdale, AZ"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

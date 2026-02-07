@@ -1,0 +1,32 @@
+{
+  "id": "clm_1g4vgxy2",
+  "title": "Kona Grill Oak Brook dining options",
+  "statement": "Kona Grill Oak Brook serves lunch, dinner, and happy hour",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1am3h43x",
+      "quote": "Come for lunch, dinner, or one of Oak Brook's best happy hours!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

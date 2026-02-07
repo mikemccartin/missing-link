@@ -1,0 +1,32 @@
+{
+  "id": "clm_zzr4w468",
+  "title": "STK provides takeout options for holiday menu",
+  "statement": "STK Steakhouse offers a takeout menu that allows customers to enjoy the holiday feast at home.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1dre71np",
+      "quote": "STK Steakhouse offers a convenient takeout menu that brings the holiday feast directly to your dining table"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

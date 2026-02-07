@@ -1,0 +1,32 @@
+{
+  "id": "clm_0x39pkgg",
+  "title": "Benihana offers photo download service for customers",
+  "statement": "Benihana provides a service for customers to download photos from their recent restaurant visits.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_m0pr6abf",
+      "quote": "Make your Benihana memories last even longer. Download the photo from your recent visit to your favorite Benihana restaurant."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

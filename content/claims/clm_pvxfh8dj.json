@@ -1,0 +1,36 @@
+{
+  "id": "clm_pvxfh8dj",
+  "title": "STK Nashville brunch menu includes chicken & waffles and eggs benedict",
+  "statement": "STK Nashville's brunch menu includes items such as Chicken & Waffles, Biscuits & Gravy, Eggs Benedict, and STK Breakfast Cheeseburger.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nashville",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wwjzpdcr",
+      "quote": "Mains: Chicken & Waffles, Biscuits & Gravy, Cheesy Tots, Scrambled Eggs, Bacon & Sausage A La Carte: Oysters, Eggs Benedict, Prime Rib, The Pancake, Avocado Toast, Bagel Lox, Cinnamon French Toast, STK Breakfast Cheeseburger, Steak & Eggs"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

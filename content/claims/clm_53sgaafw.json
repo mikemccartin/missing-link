@@ -1,0 +1,32 @@
+{
+  "id": "clm_53sgaafw",
+  "title": "Benihana franchisees pay 1% advertising contribution",
+  "statement": "Benihana franchisees pay a monthly advertising contribution equal to one percent of gross sales to support brand marketing and advertising expenses.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f3ifsklw",
+      "quote": "franchisees are required to pay to BNC a monthly advertising contribution equal to one percent (1%) of gross sales to support brand marketing and advertising expenses"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

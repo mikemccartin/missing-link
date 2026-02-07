@@ -1,0 +1,32 @@
+{
+  "id": "clm_w5lgcjl8",
+  "title": "Benihana serves Stella Artois beer",
+  "statement": "Benihana offers Stella Artois beer in giant cans at their concession locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b49ng4j2",
+      "quote": "GIANT STELLA ARTOIS CAN"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

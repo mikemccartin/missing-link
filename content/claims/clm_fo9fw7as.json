@@ -1,0 +1,32 @@
+{
+  "id": "clm_fo9fw7as",
+  "title": "togrp website uses WordPress",
+  "statement": "The togrp.com website is built using WordPress content management system.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rma5g9vx",
+      "quote": "https://togrp.com/wp-json/wp/v2/pages/1043"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

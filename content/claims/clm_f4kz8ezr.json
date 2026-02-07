@@ -1,0 +1,36 @@
+{
+  "id": "clm_f4kz8ezr",
+  "title": "Program includes birthday and half-birthday surprises",
+  "statement": "Friends With Benefits members receive special birthday and half-birthday surprises each year.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b0tyj3ud",
+      "quote": "revel in special birthday and half-birthday surprises each year!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

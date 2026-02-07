@@ -1,0 +1,32 @@
+{
+  "id": "clm_ikq2sbru",
+  "title": "STK has multiple US locations across various states",
+  "statement": "STK operates restaurants in Arizona, California, Colorado, D.C., Florida, Georgia, Illinois, Massachusetts, Nevada, New York, North Carolina, Puerto Rico, Tennessee, Texas, Utah, and Washington.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_na8nfylx",
+      "quote": "Arizona Scottsdale California Los Angeles San Diego San Francisco... Florida Aventura Orlando South Beach... New York NYC – Downtown NYC – Rooftop NYC – Midtown"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

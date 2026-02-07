@@ -1,0 +1,32 @@
+{
+  "id": "clm_222smugh",
+  "title": "Kona Grill Power Lunch costs $19",
+  "statement": "Kona Grill offers a Power Lunch meal for $19",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_afzx9v0i",
+      "quote": "Take your lunch break to the next level with the Kona Grill Power Lunch \u2013 a 3-course meal for just $19"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_m5t7i6z8",
+  "title": "STK international locations",
+  "statement": "STK Steakhouse operates in multiple countries including the United States, Canada, Qatar, UAE, England, Italy, and Mexico.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t083h583",
+      "quote": "Mexico Los Cabos Nevada Las Vegas New York NYC Qatar Doha United Arab Emirates Dubai England London – Stratford London – Strand Italy Milan"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

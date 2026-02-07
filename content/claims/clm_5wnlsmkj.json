@@ -1,0 +1,32 @@
+{
+  "id": "clm_5wnlsmkj",
+  "title": "Benihana has age restriction for alcohol service",
+  "statement": "Benihana requires customers to be 21 years old to enjoy alcoholic beverages.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4h24k6m4",
+      "quote": "Must be 21 to enjoy alcohol. Please drink responsibly."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

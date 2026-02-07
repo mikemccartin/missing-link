@@ -1,0 +1,32 @@
+{
+  "id": "clm_19umg6hf",
+  "title": "RA Sushi offers signature cocktail items",
+  "statement": "RA Sushi designates certain cocktails as signature items, including Blushing Geisha, Dragon Bite, Japanese Mule, Blue Samurai, and others.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ouf02ne2",
+      "quote": "Signature Item BLUSHING GEISHA"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_lc1ggl7c",
+  "title": "STK Steakhouse page last modified June 2025",
+  "statement": "The STK Steakhouse page on togrp.com was last modified on June 5, 2025 at 15:31:43.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s0361egi",
+      "quote": "\"modified\":\"2025-06-05T15:31:43\",\"modified_gmt\":\"2025-06-05T15:31:43\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

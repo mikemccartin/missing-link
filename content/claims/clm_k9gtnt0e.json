@@ -1,0 +1,36 @@
+{
+  "id": "clm_k9gtnt0e",
+  "title": "Digital gift cards available through CashStar",
+  "statement": "Digital gift cards can be purchased by visiting benihana.cashstar.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "cashstar",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bghppns7",
+      "quote": "Yes, you may purchase a digital gift card by visiting benihana.cashstar.com ."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

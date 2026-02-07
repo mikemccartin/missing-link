@@ -1,0 +1,36 @@
+{
+  "id": "clm_6prl1l9g",
+  "title": "Chassis theme provides bespoke website framework",
+  "statement": "The Chassis theme provides a framework for building completely bespoke WordPress websites.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "chassis-by-fanatic",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4dvxrjs6",
+      "quote": "Description: Providing the framework to build a completely bespoke WordPress website."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

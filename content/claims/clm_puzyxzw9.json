@@ -1,0 +1,32 @@
+{
+  "id": "clm_puzyxzw9",
+  "title": "Monthly footfall exceeds 5000 customers",
+  "statement": "The ONE Group's restaurants achieve average monthly footfall of over 5000 customers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qh3bu4zr",
+      "quote": "Average Monthly footfall 5000+"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

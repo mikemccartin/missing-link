@@ -1,0 +1,36 @@
+{
+  "id": "clm_y3vmamgt",
+  "title": "Bao Yum London Address",
+  "statement": "Bao Yum is located at 76 Stewart's Rd, Nine Elms, London SW8 4DE.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    },
+    {
+      "slug": "nine-elms",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yl2c8yiw",
+      "quote": "Address: 76 Stewart's Rd, Nine Elms, London SW8 4DE"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_tin9frq1",
+  "title": "The ONE Group operates restaurants nationally and internationally",
+  "statement": "The ONE Group develops and operates upscale restaurants and provides hospitality management services both nationally and internationally.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8bww5ipc",
+      "quote": "develops and operates upscale, high-energy restaurants and lounges and provides hospitality management services for hotels, casinos and other high-end venues both nationally and internationally"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

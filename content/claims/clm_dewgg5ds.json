@@ -1,0 +1,32 @@
+{
+  "id": "clm_dewgg5ds",
+  "title": "Kona Grill nutritional guides include calorie counts",
+  "statement": "Kona Grill's nutritional guides contain exact calorie counts and nutritional values for all menu items.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j5ctuurf",
+      "quote": "Our nutritional guides include exact calorie counts and key nutritional values for every menu item, including entrées, sushi, sides and drinks."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_bkua1xo5",
+  "title": "Birthday rewards include $50 and $25 benefits",
+  "statement": "Members receive a $50 birthday reward and a $25 half-birthday reward six months from their birthday.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xl737qcu",
+      "quote": "a birthday reward (provided on or around the Member's identified birthday) that entitles the Member to a $50 reward; and (b) a half-birthday reward... that entitles the Member to a $25 reward"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

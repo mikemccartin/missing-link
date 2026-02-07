@@ -1,0 +1,32 @@
+{
+  "id": "clm_8j2redny",
+  "title": "togrp contact page last modified July 5, 2024",
+  "statement": "togrp's contact page was last modified on July 5, 2024 at 14:03:13",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_082v8ez8",
+      "quote": "\"modified\":\"2024-07-05T14:03:13\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

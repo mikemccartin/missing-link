@@ -1,0 +1,32 @@
+{
+  "id": "clm_4aakyt3g",
+  "title": "RA'ckin' Roll contains guacamole and RA'ckin' Shrimp",
+  "statement": "The RA'ckin' Roll is made with lightly battered krab and cream cheese, topped with guacamole and RA'ckin' Shrimp.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hcsxxn9d",
+      "quote": "Lightly battered krab \u2020 and cream cheese; topped with guacamole and \"RA\"ckin' Shrimp; finished with ginger teriyaki sauce, red tempura bits and togarashi"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

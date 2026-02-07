@@ -1,0 +1,32 @@
+{
+  "id": "clm_vpk0o0yc",
+  "title": "RA Sushi offers red wine selection",
+  "statement": "RA Sushi's wine menu includes red wines such as Pinot Noir, Malbec, Merlot, and Cabernet blends.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ebljw9dn",
+      "quote": "MEIOMI PINOT NOIR PORTILLO MALBEC 14 HANDS MERLOT BONANZA BY CAYMUS CHARLES & CHARLES CABERNET BLEND THE PRISONER"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

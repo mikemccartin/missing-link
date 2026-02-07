@@ -1,0 +1,32 @@
+{
+  "id": "clm_ndzq7det",
+  "title": "Benihana serves edamame warm with sea salt",
+  "statement": "Benihana serves edamame warm and sprinkled with sea salt.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1qdklr1t",
+      "quote": "EDAMAME Served warm and sprinkled with sea salt."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

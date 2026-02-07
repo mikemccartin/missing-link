@@ -1,0 +1,32 @@
+{
+  "id": "clm_5u8jdmr1",
+  "title": "Benihana offers gift cards",
+  "statement": "Benihana provides gift cards as a service to customers through their website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1qc2ngbd",
+      "quote": "\"title\":\"Gift Cards\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

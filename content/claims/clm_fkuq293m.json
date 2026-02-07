@@ -1,0 +1,32 @@
+{
+  "id": "clm_fkuq293m",
+  "title": "Benihana franchisees pay 5% monthly royalty fee",
+  "statement": "Benihana franchisees pay a monthly royalty fee of five percent of gross sales to Benihana National Corp.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f3ifsklw",
+      "quote": "Currently franchisees pay a monthly royalty fee of five percent (5%) of gross sales to BNC"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

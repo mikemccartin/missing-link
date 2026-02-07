@@ -1,0 +1,36 @@
+{
+  "id": "clm_5le4amx0",
+  "title": "STK Steakhouse operates in Dubai, UAE",
+  "statement": "STK Steakhouse has a location at Rixos Premium Dubai The Walk - Jumeirah Beach Residence, Dubai with phone number +971564564085",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "rixos-premium-dubai",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Dubai Rixos Premium Dubai The Walk - Jumeirah Beach Residence Dubai, United Arab Emirates +971564564085"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

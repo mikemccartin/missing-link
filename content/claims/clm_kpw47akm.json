@@ -1,0 +1,32 @@
+{
+  "id": "clm_kpw47akm",
+  "title": "Benihana Onion Soup has been a specialty since 1964",
+  "statement": "Benihana's onion soup has been a restaurant specialty since 1964.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vqtr4raa",
+      "quote": "This Benihana specialty has been a favorite since 1964"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

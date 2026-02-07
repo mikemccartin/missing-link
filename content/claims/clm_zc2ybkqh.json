@@ -1,0 +1,32 @@
+{
+  "id": "clm_zc2ybkqh",
+  "title": "Benihana offers sushi-making classes for children",
+  "statement": "Benihana provides interactive sushi-making classes specifically designed for children through their Kabuki Sushi program.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5czk1b92",
+      "quote": "A fun, interactive class designed to teach your child the basics of how to make sushi."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

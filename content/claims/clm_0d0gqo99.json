@@ -1,0 +1,40 @@
+{
+  "id": "clm_0d0gqo99",
+  "title": "Kona Grill location at The Shops at Landmark",
+  "statement": "Kona Grill operates a restaurant location at The Shops at Landmark in San Antonio",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "the-shops-at-landmark",
+      "role": "related"
+    },
+    {
+      "slug": "san-antonio",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xov3kibj",
+      "quote": "The Shops at Landmark"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

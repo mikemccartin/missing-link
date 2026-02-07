@@ -1,0 +1,9 @@
+{
+  "id": "src_az7c3gc8",
+  "title": "RESERVATIONS",
+  "publisher": "RA Sushi",
+  "url": "https://rasushi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frasushi.com%2Freservations%2F",
+  "accessDate": "2026-02-06",
+  "type": "webpage",
+  "excerpt": "An embedded webpage component for RA Sushi's reservation system"
+}

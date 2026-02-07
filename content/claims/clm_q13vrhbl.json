@@ -1,0 +1,32 @@
+{
+  "id": "clm_q13vrhbl",
+  "title": "Benihana Inc. does not provide food donations for fundraising events",
+  "statement": "Benihana Inc. does not provide food donations or food samplings for fundraising events.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8uypu4d5",
+      "quote": "Please note that Benihana Inc. does not provide food donations or food samplings for fundraising events."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

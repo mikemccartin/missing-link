@@ -1,0 +1,32 @@
+{
+  "id": "clm_iff31u7h",
+  "title": "STK Steakhouse operates in United States",
+  "statement": "STK Steakhouse has locations across multiple U.S. states including Arizona, California, Colorado, Florida, Georgia, Illinois, Massachusetts, Nevada, New York, North Carolina, Tennessee, Texas, Utah, and Washington.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2rydufxk",
+      "quote": "Arizona Scottsdale, California Los Angeles San Diego San Francisco Topanga, Colorado Denver, D.C. Washington DC, Florida Aventura Orlando South Beach, Georgia Atlanta"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

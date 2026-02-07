@@ -1,0 +1,44 @@
+{
+  "id": "clm_o345f181",
+  "title": "STK Nashville located between Downtown and Music Row",
+  "statement": "STK Nashville is located in The Gulch between Downtown Nashville and Music Row.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "the-gulch",
+      "role": "related"
+    },
+    {
+      "slug": "downtown-nashville",
+      "role": "related"
+    },
+    {
+      "slug": "music-row",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_snyz0y40",
+      "quote": "Located in the Gulch – between Nashville's Music Row and Downtown"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

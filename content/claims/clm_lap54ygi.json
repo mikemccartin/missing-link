@@ -1,0 +1,32 @@
+{
+  "id": "clm_lap54ygi",
+  "title": "The ONE Group operates Salt Water Social restaurants",
+  "statement": "Salt Water Social is one of the restaurant brands operated by The ONE Group.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_h8cm8lel",
+      "quote": "Order from OLO for: Salt Water Social"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

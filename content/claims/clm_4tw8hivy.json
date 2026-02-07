@@ -1,0 +1,36 @@
+{
+  "id": "clm_4tw8hivy",
+  "title": "The One Group daily hours",
+  "statement": "The One Group operates daily from 7am to 7pm",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "related"
+    },
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_v5nzm9sy",
+      "quote": "Hours : Daily 7am - 7pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

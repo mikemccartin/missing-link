@@ -1,0 +1,32 @@
+{
+  "id": "clm_zzi2avjq",
+  "title": "Teriyaki Chicken Crisp made with 100% real chicken",
+  "statement": "The Benihana-inspired Teriyaki Chicken Crisp snack is made with 100% real chicken and packed with protein.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3zvlqbad",
+      "quote": "Made with 100% real chicken and packed with protein"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

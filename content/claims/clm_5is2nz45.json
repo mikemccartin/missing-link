@@ -1,0 +1,32 @@
+{
+  "id": "clm_5is2nz45",
+  "title": "Kabuki Kids members get free souvenir mug on birthday",
+  "statement": "Kabuki Kids members receive a birthday certificate for a free souvenir mug with purchase of any Kabuki Kids meal.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ebie157t",
+      "quote": "Members receive a special email certificate for their birthday that entitles them to the free souvenir mug of their choice with the purchase of any Kabuki Kids\u00ae meal"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

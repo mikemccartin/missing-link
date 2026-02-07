@@ -1,0 +1,32 @@
+{
+  "id": "clm_gr34if0v",
+  "title": "Kona Grill offers state-specific privacy notice for certain US states",
+  "statement": "Residents of California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Texas, Utah, and Virginia have additional privacy rights detailed in a state-specific privacy notice.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8bww5ipc",
+      "quote": "Residents of California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Texas, Utah, and Virginia have certain additional privacy rights"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

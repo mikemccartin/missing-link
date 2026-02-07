@@ -1,0 +1,36 @@
+{
+  "id": "clm_70bn37q5",
+  "title": "Kona Grill Columbus email is Columbus@konagrill.com",
+  "statement": "The Columbus Kona Grill location uses the email address Columbus@konagrill.com",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "columbus",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j3lb4s3c",
+      "quote": "Columbus@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

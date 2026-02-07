@@ -1,0 +1,10 @@
+{
+  "slug": "kona-grill",
+  "name": "Kona Grill",
+  "type": "organization",
+  "description": "A restaurant chain featuring contemporary American cuisine, sushi, and craft cocktails in a casual dining atmosphere.",
+  "links": {
+    "officialSite": "https://konagrill.com/"
+  },
+  "parentEntity": "the-one-group-hospitality"
+}

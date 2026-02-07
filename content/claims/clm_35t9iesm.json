@@ -1,0 +1,32 @@
+{
+  "id": "clm_35t9iesm",
+  "title": "Braille gift cards available by phone",
+  "statement": "Gift cards with Braille can be ordered by calling 1 (305) 702-2897.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bghppns7",
+      "quote": "If you wish to purchase a gift card with Braille, you may order one by calling 1 (305) 702-2897."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

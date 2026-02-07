@@ -1,0 +1,32 @@
+{
+  "id": "clm_nfsll3k1",
+  "title": "RA Sushi requires compliance with federal and state laws",
+  "statement": "All RA Sushi employees and directors must observe and comply with all Federal and State laws and regulations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_61x2glmk",
+      "quote": "All Employees and Directors of the Company shall observe and comply with all Federal and State laws and regulations (and those of any foreign jurisdiction), which apply to the Company or its business"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

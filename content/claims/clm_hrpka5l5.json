@@ -1,0 +1,36 @@
+{
+  "id": "clm_hrpka5l5",
+  "title": "Customer support available via email for loyalty program",
+  "statement": "Kona Grill provides customer support for Friends with Benefits program issues via email at [email protected].",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_i8liz1lx",
+      "quote": "email [email protected] with your receipt and confirmation that your account info was provided at the restaurant."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

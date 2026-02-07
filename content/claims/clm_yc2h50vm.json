@@ -1,0 +1,36 @@
+{
+  "id": "clm_yc2h50vm",
+  "title": "STK Dallas has Power Lunch Menu pricing",
+  "statement": "STK Dallas offers a $45 Prix Fixe Power Lunch Menu available Monday through Friday from 11am to 3pm with 45 minutes guaranteed.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-dallas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ex5xzb2g",
+      "quote": "$45 Prix Fixe. Available Monday - Friday, 11am - 3pm. Select One From Each Course. 45 Minutes Guaranteed"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

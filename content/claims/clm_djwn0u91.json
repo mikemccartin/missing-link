@@ -1,0 +1,36 @@
+{
+  "id": "clm_djwn0u91",
+  "title": "Kona Grill operates Friends With Benefits loyalty program",
+  "statement": "Kona Grill operates a loyalty program called Friends With Benefits where customers can earn and redeem points.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t8zvgx98",
+      "quote": "Sign up on any participating brand's website or via the app. Then, provide your account number, email or phone number to your server before your check is closed."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

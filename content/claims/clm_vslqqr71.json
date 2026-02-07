@@ -1,0 +1,32 @@
+{
+  "id": "clm_vslqqr71",
+  "title": "Teriyaki Chicken Crisp nutritional specifications",
+  "statement": "The Teriyaki Chicken Crisp contains 1g carbs, less than 1g sugar, 13g protein, and is dairy-free and gluten-free.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3zvlqbad",
+      "quote": "Low Carb/Keto Friendly (1G Carbs) \u2713 Zero Sugar (<1G) \u2713 High Protein (13G) \u2713 Dairy Free \u2713 Gluten Free"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

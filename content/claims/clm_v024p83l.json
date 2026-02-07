@@ -1,0 +1,36 @@
+{
+  "id": "clm_v024p83l",
+  "title": "STK Dallas located at 2000 McKinney Ave",
+  "statement": "STK Dallas is located at 2000 McKinney Ave, Dallas, TX 75201 in the Uptown area.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "mckinney-avenue",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_iizfqkp0",
+      "quote": "STK Dallas is located at 2000 McKinney Ave, Dallas, TX 75201 , in the Uptown area near Klyde Warren Park and the Dallas Arts District."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "src_xdeihug7",
+  "title": "Nutrition",
+  "publisher": "Kona Grill",
+  "url": "https://konagrill.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkonagrill.com%2Fnutrition%2F",
+  "accessDate": "2026-02-06",
+  "type": "webpage",
+  "excerpt": "An embedded nutrition information page from Kona Grill's website, accessed through their oEmbed API endpoint."
+}

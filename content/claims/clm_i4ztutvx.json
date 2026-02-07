@@ -1,0 +1,36 @@
+{
+  "id": "clm_i4ztutvx",
+  "title": "Bao Yum has Lakewood location at 5519 Mississippi Ave",
+  "statement": "Bao Yum operates a restaurant location at 5519 Mississippi Ave, Lakewood, CO 80226.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    },
+    {
+      "slug": "lakewood",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t2i14msl",
+      "quote": "5519 Mississippi Ave, Lakewood, CO 80226"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clm_3dj40qlq",
+  "title": "STK participates in New York Restaurant Week 2026",
+  "statement": "STK Downtown and Midtown locations participate in New York Restaurant Week from January 20 to February 12, 2026.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "new-york-restaurant-week",
+      "role": "related"
+    },
+    {
+      "slug": "stk-nyc-downtown",
+      "role": "related"
+    },
+    {
+      "slug": "stk-midtown",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qb5uz6wm",
+      "quote": "Join us for New York Restaurant Week at STK Downtown and Oak Brook ! From January 20 – February 12, 2026"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

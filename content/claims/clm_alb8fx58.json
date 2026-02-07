@@ -1,0 +1,32 @@
+{
+  "id": "clm_alb8fx58",
+  "title": "Kona Grill contact page was last modified on August 12, 2025",
+  "statement": "The contact page was last modified on August 12, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qvpyvlrv",
+      "quote": "\"modified\":\"2025-08-12T20:54:51\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

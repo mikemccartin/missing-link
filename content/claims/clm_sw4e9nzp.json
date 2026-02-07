@@ -1,0 +1,32 @@
+{
+  "id": "clm_sw4e9nzp",
+  "title": "The ONE Group operates togrp.com website",
+  "statement": "The ONE Group is the provider of the togrp.com website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kprowxvp",
+      "quote": "\"provider_name\":\"The ONE Group\",\"provider_url\":\"https:\\/\\/togrp.com\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

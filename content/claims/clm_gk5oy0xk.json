@@ -1,0 +1,36 @@
+{
+  "id": "clm_gk5oy0xk",
+  "title": "STK offers Valentine's three-course menu",
+  "statement": "STK provides a special three-course Valentine's menu including caviar kisses, surf & turf with filet and lobster tail, and molten chocolate cake.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "valentine",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ua7c9h8s",
+      "quote": "Set the mood with a three course Valentine's menu built to impress, from luxe starters to a sweet finish made to share."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

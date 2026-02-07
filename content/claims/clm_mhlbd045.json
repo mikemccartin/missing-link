@@ -1,0 +1,32 @@
+{
+  "id": "clm_mhlbd045",
+  "title": "Benihana offers local and seasonal beer selections",
+  "statement": "Benihana provides local and seasonal specialty beer selections in addition to their regular menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_clil7tuk",
+      "quote": "LOCAL SELECTIONS Local/Seasonal specialties also available."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

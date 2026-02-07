@@ -1,0 +1,32 @@
+{
+  "id": "clm_1nzjb6n4",
+  "title": "Kona Grill offers family meals for 2, 4, and 6 people",
+  "statement": "Kona Grill offers family meal options designed for two, four, and six people.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ba680o0",
+      "quote": "With Options For Two, Four & Six People, Kona Family Meals Have EVERYTHING You Need For The PERFECT Dinner"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

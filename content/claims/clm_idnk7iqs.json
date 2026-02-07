@@ -1,0 +1,32 @@
+{
+  "id": "clm_idnk7iqs",
+  "title": "RA Sushi donation requests must be mailed",
+  "statement": "RA Sushi cannot accept donation requests by phone or email and requires them to be mailed to their Aventura, FL address.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ltow6jz",
+      "quote": "Please mail your request to the below address (we cannot accept requests by phone or email)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

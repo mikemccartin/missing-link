@@ -1,0 +1,36 @@
+{
+  "id": "clm_jfo4hfxt",
+  "title": "STK Topanga address and location",
+  "statement": "STK Topanga is located at 6600 Topanga Canyon Blvd Suite 2230, Canoga Park, CA 91303 inside Westfield Topanga.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "westfield-topanga",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hpulmx9t",
+      "quote": "STK Topanga is located inside Westfield Topanga at 6600 Topanga Canyon Blvd, Suite 2230, Canoga Park, CA 91303"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

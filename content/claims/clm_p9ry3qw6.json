@@ -1,0 +1,32 @@
+{
+  "id": "clm_p9ry3qw6",
+  "title": "STK features live DJ entertainment",
+  "statement": "STK restaurants have live DJs providing entertainment during dining service.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ua7c9h8s",
+      "quote": "Think luxe surf & turf, caviar and bubbles, molten chocolate cake and a live DJ keeping the energy high from first toast to last bite."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

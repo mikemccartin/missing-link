@@ -1,0 +1,32 @@
+{
+  "id": "clm_oek19fb6",
+  "title": "Happy Hour pricing structure",
+  "statement": "STK Salt Lake City offers a $3 | $6 | $9 Happy Hour.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1koeyxvf",
+      "quote": "$3 | $6 | $9 Happy Hour"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

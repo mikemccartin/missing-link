@@ -1,0 +1,32 @@
+{
+  "id": "clm_0zzj2m94",
+  "title": "Sushi stalls were banned after WWII",
+  "statement": "After World War II, sushi stalls were banned by the Allies due to sanitary concerns and eventually disappeared.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_009lw9q2",
+      "quote": "It was only after World War II that the modern sushi boom hit a snag. Banned by the Allies due to sanitary concerns, the stalls started to disappear"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

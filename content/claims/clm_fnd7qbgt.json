@@ -1,0 +1,36 @@
+{
+  "id": "clm_fnd7qbgt",
+  "title": "STK Toronto located at 153 Yorkville Avenue",
+  "statement": "STK Toronto is located at 153 Yorkville Avenue, Toronto, ON M5R 1C4 in the heart of the Yorkville neighbourhood just off Bloor Street.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "yorkville",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gy51jotk",
+      "quote": "STK Toronto is located at 153 Yorkville Avenue, Toronto, ON M5R 1C4 , in the heart of the Yorkville neighbourhood just off Bloor Street."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

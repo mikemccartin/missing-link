@@ -1,0 +1,32 @@
+{
+  "id": "clm_tma8lxmp",
+  "title": "Bao Yum operates multiple locations",
+  "statement": "Bao Yum has multiple locations as indicated by their locations page",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_x41f0cy0",
+      "quote": "\"title\":\"Locations - Bao Yum\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

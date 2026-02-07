@@ -1,0 +1,32 @@
+{
+  "id": "clm_66glij1x",
+  "title": "Benihana has a location in San Mateo",
+  "statement": "Benihana operates a restaurant location in San Mateo.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kumabcvz",
+      "quote": "San Mateo https://www.benihana.com/locations/san-mateo/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_wswsdmbp",
+  "title": "RA Sushi operates multiple restaurant locations",
+  "statement": "RA Sushi has multiple restaurant locations that can be found through their location finder service.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_073fhci7",
+      "quote": "Find your local RA Sushi"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

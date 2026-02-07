@@ -1,0 +1,36 @@
+{
+  "id": "clm_5m3nd80i",
+  "title": "Kona Grill Kansas City location address",
+  "statement": "Kona Grill Kansas City is located at 444 Ward Parkway Kansas City, MO 64112.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "ward-parkway",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5usn9842",
+      "quote": "444 Ward Parkway Kansas City, MO 64112"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_1h52uhgf",
+  "title": "Benihana offers at-home teppanyaki catering service",
+  "statement": "Benihana operates a service called 'Benihana at Home' that brings teppanyaki experiences to customer locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana-at-home",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_m4ratk76",
+      "quote": "Submit your inquiry for Benihana at Home and bring the teppanyaki experience to your location."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

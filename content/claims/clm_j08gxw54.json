@@ -1,0 +1,32 @@
+{
+  "id": "clm_j08gxw54",
+  "title": "RA Sushi offers sake bomb cocktail",
+  "statement": "RA Sushi serves an Asahi/Sapporo sake bomb in 22 oz size.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_17b533m3",
+      "quote": "ASAHI/SAPPORO SAKE BOMB (22 oz)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

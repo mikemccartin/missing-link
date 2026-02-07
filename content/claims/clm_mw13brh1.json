@@ -1,0 +1,32 @@
+{
+  "id": "clm_mw13brh1",
+  "title": "Benihana offers offsite events and catering services",
+  "statement": "Benihana provides offsite events and catering services as indicated by their dedicated webpage.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hgxjct8i",
+      "quote": "title:{\"rendered\":\"Offsite Events & Catering\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

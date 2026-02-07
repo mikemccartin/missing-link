@@ -1,0 +1,36 @@
+{
+  "id": "clm_ujc8qw50",
+  "title": "STK Aventura proximity to Aventura Mall",
+  "statement": "STK Aventura is located just steps from Aventura Mall.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "aventura-mall",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xphhwqx4",
+      "quote": "Just steps from Aventura Mall and The Esplanade"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

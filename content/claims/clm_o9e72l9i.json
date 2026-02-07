@@ -1,0 +1,32 @@
+{
+  "id": "clm_o9e72l9i",
+  "title": "RA Sushi offers grilled entrees with vegetables",
+  "statement": "RA Sushi serves grilled chicken, steak, or salmon with rice and sautéed zucchini, mushrooms, and onions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_85l3t7nz",
+      "quote": "GRILLED ENTRÉES Your choice of grilled chicken, steak or salmon; served with rice and sautéed zucchini, mushrooms and onions"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

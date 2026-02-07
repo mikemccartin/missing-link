@@ -1,0 +1,32 @@
+{
+  "id": "clm_f9qteg4z",
+  "title": "Kona Grill private events page was created in January 2025",
+  "statement": "The private events page on Kona Grill's website was published on January 14, 2025",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bjznehrj",
+      "quote": "\"date\":\"2025-01-14T11:32:21\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

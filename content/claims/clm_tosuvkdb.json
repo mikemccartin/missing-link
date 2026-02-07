@@ -1,0 +1,32 @@
+{
+  "id": "clm_tosuvkdb",
+  "title": "Benihana chefs cook on sizzling grills at customer tables",
+  "statement": "At Benihana, skilled chefs cook fresh ingredients on a sizzling grill right at customer tables as part of the teppanyaki experience.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e8v25jm9",
+      "quote": "skilled chefs cook fresh ingredients on a sizzling grill right at your table"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

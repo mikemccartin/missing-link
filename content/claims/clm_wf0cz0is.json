@@ -1,0 +1,36 @@
+{
+  "id": "clm_wf0cz0is",
+  "title": "Benihana code applies to executives, directors, and employees",
+  "statement": "Benihana's Code of Business Conduct and Ethics applies to executives, directors, and employees.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "code-of-business-conduct-and-ethics",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j9vfh16d",
+      "quote": "It calls for the highest standards of ethical behavior from our executives, directors, and employees"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

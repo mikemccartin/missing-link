@@ -1,0 +1,32 @@
+{
+  "id": "clm_zm9raoft",
+  "title": "TOG collects personal data from job candidates",
+  "statement": "The ONE Group Hospitality, Inc. and its subsidiaries collect and process personal data from job candidates to facilitate job candidacy.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5h3fvlr3",
+      "quote": "In order to facilitate your job candidacy, The ONE Group Hospitality, Inc. and/or all or any of its subsidiaries and affiliates (\" TOG \") collects and processes certain categories of personal data from and about you."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_lglik71l",
+  "title": "Viva Las Vegas Roll is made with krab, cream cheese, and spicy tuna",
+  "statement": "The Viva Las Vegas Roll contains lightly battered krab and cream cheese, topped with spicy tuna, krab mix and sliced lotus root.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hcsxxn9d",
+      "quote": "Lightly battered krab \u2020 and cream cheese; topped with spicy tuna, krab\u2020 mix and sliced lotus root; finished with sweet eel sauce and green tempura bits"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

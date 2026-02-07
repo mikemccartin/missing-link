@@ -1,0 +1,32 @@
+{
+  "id": "clm_3rtzwwtw",
+  "title": "STK Las Vegas offers $7 $7 $7 Happy Hour",
+  "statement": "STK Las Vegas offers a $7 $7 $7 Happy Hour daily from 2:30pm to 5:30pm with exclusions applying.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sc3d0ebn",
+      "quote": "Daily: 2:30pm \u2013 5:30pm* *Exclusions Apply"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

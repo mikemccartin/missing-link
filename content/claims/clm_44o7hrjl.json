@@ -1,0 +1,32 @@
+{
+  "id": "clm_44o7hrjl",
+  "title": "Kona Grill operates multiple restaurant locations",
+  "statement": "Kona Grill has a system for managing multiple restaurant locations with individual restaurant IDs.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_d1bjra8n",
+      "quote": "this.restaurantId = selectedOption.getAttribute('data-restaurant-id');"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

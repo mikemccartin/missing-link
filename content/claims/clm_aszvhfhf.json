@@ -1,0 +1,32 @@
+{
+  "id": "clm_aszvhfhf",
+  "title": "The ONE Group operates in 2 countries across 10 locations",
+  "statement": "The ONE Group has operations spanning 2 countries with 10 locations total.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4jsnyjq9",
+      "quote": "2 Countries 10 Locations"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

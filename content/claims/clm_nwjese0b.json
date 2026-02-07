@@ -1,0 +1,32 @@
+{
+  "id": "clm_nwjese0b",
+  "title": "RA Sushi provides nutritional information PDFs",
+  "statement": "RA Sushi makes available nutritional information in PDF format for food, beverages, and catering.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6nmhf3i0",
+      "quote": "RA Sushi Food Nutritional Information (PDF) RA Sushi Beverages Nutritional Information (PDF) RA Sushi Catering Nutritional Information (PDF)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

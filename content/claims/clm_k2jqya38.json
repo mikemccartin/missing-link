@@ -1,0 +1,32 @@
+{
+  "id": "clm_k2jqya38",
+  "title": "STK Steakhouse operates locations in Denver, Colorado",
+  "statement": "STK Steakhouse has a location in Denver, Colorado.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gqv7ug26",
+      "quote": "Colorado Denver"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

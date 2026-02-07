@@ -1,0 +1,32 @@
+{
+  "id": "clm_s4ltlc7f",
+  "title": "Blue Ocean Punch Bowl serves multiple people",
+  "statement": "The Blue Ocean Punch Bowl is designed for two or more people.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y9ghkdfm",
+      "quote": "BLUE OCEAN PUNCH BOWL For two or more. A tropical blue concoction with RumHaven, New Amsterdam Pineapple Vodka, sake, blue cura\u00e7ao and tropical fruit juices."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

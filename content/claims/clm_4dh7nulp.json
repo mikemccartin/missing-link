@@ -1,0 +1,32 @@
+{
+  "id": "clm_4dh7nulp",
+  "title": "Privacy notice last updated July 23, 2025",
+  "statement": "The Job Candidate Privacy Notice was last updated on July 23rd, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5h3fvlr3",
+      "quote": "Date of Last Update to this Privacy Notice: 23rd July 2025"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

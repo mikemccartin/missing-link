@@ -1,0 +1,32 @@
+{
+  "id": "clm_fyl8nh3t",
+  "title": "STK NYC Midtown operating hours Monday-Wednesday",
+  "statement": "STK NYC Midtown is open Monday through Wednesday from 11am to 11pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zifi2f1",
+      "quote": "Monday – Wednesday: 11am – 11pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

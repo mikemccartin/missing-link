@@ -1,0 +1,40 @@
+{
+  "id": "clm_a47cohqp",
+  "title": "The Chefs Table program has been retired",
+  "statement": "Benihana retired The Chefs Table program with the launch of Friends with Benefits.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "the-chefs-table",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ebie157t",
+      "quote": "With the launch of our brand new loyalty program, Friends with Benefits, we have retired The Chefs Table program"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

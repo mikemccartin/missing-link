@@ -1,0 +1,32 @@
+{
+  "id": "clm_9nmt7xw0",
+  "title": "STK Nashville phone number is 615-619-3500",
+  "statement": "STK Nashville's phone number is 615-619-3500.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_snyz0y40",
+      "quote": "615-619-3500"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

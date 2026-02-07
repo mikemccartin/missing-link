@@ -1,0 +1,32 @@
+{
+  "id": "clm_iupwrzk0",
+  "title": "RA Sushi offers Sweet Mochi Trio dessert",
+  "statement": "RA Sushi serves a Sweet Mochi Trio, which is a traditional Japanese ice cream dessert wrapped in sweet rice cake with three flavor choices.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19vneux1",
+      "quote": "SWEET MOCHI TRIO A traditional Japanese ice cream dessert wrapped in sweet rice cake; your choice of any three flavors: chocolate, strawberry and mango"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

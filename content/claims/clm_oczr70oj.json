@@ -1,0 +1,36 @@
+{
+  "id": "clm_oczr70oj",
+  "title": "RA Sushi is partially conformant with WCAG 2.1 level AA",
+  "statement": "RA Sushi website is partially conformant with Web Content Accessibility Guidelines 2.1 level AA standards.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "web-content-accessibility-guidelines-wcag",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_aec9fw3t",
+      "quote": "RA Sushi is partially conformant with WCAG 2.1 level AA. Partially conformant means that some parts of the content do not fully conform to the accessibility standard."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_q32pm3bc",
+  "title": "STK Happy Hour operates weekends 2:30-5:30PM",
+  "statement": "STK Happy Hour is available on weekends from 2:30PM to 5:30PM in the bar, lounge, and patio areas.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ujkxed6e",
+      "quote": "weekends from 2:30–5:30PM"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

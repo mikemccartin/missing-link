@@ -1,0 +1,40 @@
+{
+  "id": "clm_q2zq01ar",
+  "title": "STK Doha serves Japanese A5 Wagyu",
+  "statement": "STK Doha offers Japanese A5 Wagyu beef on their menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-doha",
+      "role": "related"
+    },
+    {
+      "slug": "japanese-a5-wagyu",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ku6wy5dm",
+      "quote": "Premium steaks, Japanese A5 Wagyu, seafood bar, and signature cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

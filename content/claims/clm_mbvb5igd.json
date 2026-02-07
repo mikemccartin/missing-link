@@ -1,0 +1,32 @@
+{
+  "id": "clm_mbvb5igd",
+  "title": "Benihana offers three-tier pricing for Happy Hour",
+  "statement": "Benihana's Happy Hour features a menu with $3, $6, and $9 price points for various drinks and food items.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rgbmv5wi",
+      "quote": "Try our new $3, $6 and $9 Happy Hour menu \u2013 featuring a delicious selection of drinks and bites."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

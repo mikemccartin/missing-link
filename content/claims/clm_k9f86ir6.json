@@ -1,0 +1,36 @@
+{
+  "id": "clm_k9f86ir6",
+  "title": "The ONE Group leadership created Kona Grill's cage-free commitment",
+  "statement": "The cage-free egg sourcing commitment was created by The ONE Group leadership without influence from outside sources.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zbinuqq",
+      "quote": "The path towards this commitment, albeit in the most challenging of times for sourcing, was created by The ONE Group leadership, and was not influenced by outside sources"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

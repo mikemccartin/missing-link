@@ -1,0 +1,56 @@
+{
+  "id": "clm_qfxtpppz",
+  "title": "The ONE Group restaurants offer online ordering through OLO",
+  "statement": "The ONE Group's restaurant brands use OLO as their online ordering platform.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "olo",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_h8cm8lel",
+      "quote": "Order from OLO for: STK Steakhouse Order from OLO for: Benihana Order from OLO for: RA Sushi Order from OLO for: Samurai Order from OLO for: Kona Grill Order from OLO for: Salt Water Social"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

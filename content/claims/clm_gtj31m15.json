@@ -1,0 +1,32 @@
+{
+  "id": "clm_gtj31m15",
+  "title": "Kona Grill Kansas City phone number",
+  "statement": "The Kansas City Kona Grill location can be reached at 816-931-5888.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5usn9842",
+      "quote": "816-931-5888"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

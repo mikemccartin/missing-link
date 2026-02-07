@@ -1,0 +1,32 @@
+{
+  "id": "clm_6swee62r",
+  "title": "Benihana offers progressive sushi and sake education programs",
+  "statement": "Benihana offers both introductory (Sushi & Sake 101) and advanced (Sushi & Sake 201) classes for sushi making and sake appreciation.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e8v25jm9",
+      "quote": "A more advanced study of sushi and sake that builds on what was taught in Sushi & Sake 101"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

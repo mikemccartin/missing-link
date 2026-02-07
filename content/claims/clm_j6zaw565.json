@@ -1,0 +1,32 @@
+{
+  "id": "clm_j6zaw565",
+  "title": "togrp.com offers reservation services",
+  "statement": "The togrp.com website has a reservations section for what appears to be a 'friends with benefits' service or program.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_dj8ndr8w",
+      "quote": "\"title\":\"Reservations\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

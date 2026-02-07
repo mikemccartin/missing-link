@@ -1,0 +1,32 @@
+{
+  "id": "clm_jx81b6zo",
+  "title": "RA Sushi changes menu seasonally",
+  "statement": "RA Sushi updates their menu seasonally with seasonal rolls and limited time beverages throughout the year.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_d1ald66g",
+      "quote": "Seasonal rolls and limited time sips pop in throughout the year"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

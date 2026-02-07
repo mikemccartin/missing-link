@@ -1,0 +1,32 @@
+{
+  "id": "clm_jnwqf0bh",
+  "title": "STK Oak Brook address and contact information",
+  "statement": "STK Oak Brook is located at 1225 W 22nd St, Oak Brook, IL 60523 and can be reached at (312) 340-5637.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_p63290yw",
+      "quote": "1225 W 22nd St, Oak Brook, IL 60523... (312) 340-5637"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

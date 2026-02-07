@@ -1,0 +1,32 @@
+{
+  "id": "clm_5drcvqgb",
+  "title": "RA Sushi's mango ceviche contains four types of seafood",
+  "statement": "The mango ceviche at RA Sushi contains lobster, octopus, whitefish and shrimp mixed with mango, avocado, jalape\u00f1o, cilantro, shallots and citrus vinaigrette.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3js1y2no",
+      "quote": "Lobster, octopus, whitefish and shrimp mixed with mango, avocado, jalape\u00f1o, cilantro, shallots and citrus vinaigrette; served with chips"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_bghrp2ml",
+  "title": "Kona Grill offers Power Lunch service",
+  "statement": "Kona Grill provides a Power Lunch option that is 45 minutes long and costs $19 per person.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_dd203f9k",
+      "quote": "Power Lunch - 45 Minute | $19 Per Person"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

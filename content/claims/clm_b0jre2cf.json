@@ -1,0 +1,32 @@
+{
+  "id": "clm_b0jre2cf",
+  "title": "Kona Grill operates official website at konagrill.com",
+  "statement": "Kona Grill maintains an official website at konagrill.com with a contact page.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qvpyvlrv",
+      "quote": "https://konagrill.com/contact/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_u3wlw3lr",
+  "title": "Benihana accepts major credit cards for payment",
+  "statement": "Benihana accepts VISA, Mastercard, Discover and American Express credit cards.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_krmxpfaq",
+      "quote": "We accept any major credit card – VISA, Mastercard, Discover and American Express."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

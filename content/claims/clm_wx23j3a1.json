@@ -1,0 +1,32 @@
+{
+  "id": "clm_wx23j3a1",
+  "title": "Kona Grill page creation date",
+  "statement": "The Kona Grill page on togrp.com was created on May 29, 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7evy78uf",
+      "quote": "\"date\":\"2024-05-29T14:31:12\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

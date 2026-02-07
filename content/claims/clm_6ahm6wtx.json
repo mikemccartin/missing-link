@@ -1,0 +1,32 @@
+{
+  "id": "clm_6ahm6wtx",
+  "title": "Benihana loyalty program page was last modified January 26, 2026",
+  "statement": "The Benihana loyalty program webpage was last modified on January 26, 2026",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_18ra0zr3",
+      "quote": "\"modified\":\"2026-01-26T12:19:19\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

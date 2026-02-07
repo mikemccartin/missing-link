@@ -1,0 +1,40 @@
+{
+  "id": "clm_xmg7qo9u",
+  "title": "Kona Grill Las Vegas address is 750 S. Rampart Blvd.",
+  "statement": "Kona Grill's Las Vegas location is at 750 S. Rampart Blvd. Las Vegas, NV – Boca Park 89145",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "las-vegas",
+      "role": "related"
+    },
+    {
+      "slug": "boca-park",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ztu5baw9",
+      "quote": "750 S. Rampart Blvd. Las Vegas, NV – Boca Park 89145"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

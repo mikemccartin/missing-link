@@ -1,0 +1,36 @@
+{
+  "id": "clm_rs3nxehs",
+  "title": "Loyalty program requires US residency and minimum age",
+  "statement": "The Friends with Benefits Loyalty Program is only available to US legal residents aged 18 or older when they enroll.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xl737qcu",
+      "quote": "The Loyalty Program is only available to individual legal residents of the United States, and the District of Columbia who are 18 years of age or older when they enroll"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

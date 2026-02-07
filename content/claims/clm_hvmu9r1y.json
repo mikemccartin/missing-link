@@ -1,0 +1,32 @@
+{
+  "id": "clm_hvmu9r1y",
+  "title": "Benihana operates official website at benihana.com",
+  "statement": "Benihana operates an official website at the domain benihana.com",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_q1vfogg5",
+      "quote": "https://www.benihana.com/reservations/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

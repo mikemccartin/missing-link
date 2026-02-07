@@ -1,0 +1,32 @@
+{
+  "id": "clm_17zjjcha",
+  "title": "STK offers Wagyu by Region selections including A5 Picanha and California Strip",
+  "statement": "STK's holiday menu includes Wagyu by Region selections featuring A5 Picanha and California Strip cuts.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1dre71np",
+      "quote": "Wagyu by Region selections, including the prestigious A5 Picanha and California Strip"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

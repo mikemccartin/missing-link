@@ -1,0 +1,36 @@
+{
+  "id": "clm_f6a01vl3",
+  "title": "Friends With Benefits offers free appetizer for signup",
+  "statement": "The Friends With Benefits program provides a free appetizer to new members upon registration.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b0tyj3ud",
+      "quote": "Instantly unlock insider status and savor a FREE APPETIZER just for signing up!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

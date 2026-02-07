@@ -1,0 +1,32 @@
+{
+  "id": "clm_dtdb829k",
+  "title": "Kona Grill operates a gift cards webpage",
+  "statement": "Kona Grill has a dedicated gift cards page on their website at konagrill.com/gift-cards/",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_d9csnuh2",
+      "quote": "\"link\":\"https:\\/\\/konagrill.com\\/gift-cards\\/\",\"title\":{\"rendered\":\"Gift Cards\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

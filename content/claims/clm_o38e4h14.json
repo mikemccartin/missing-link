@@ -1,0 +1,32 @@
+{
+  "id": "clm_o38e4h14",
+  "title": "RA Sushi offers tempura options including shrimp, calamari and vegetables",
+  "statement": "RA Sushi serves tempura that is lightly battered and comes in colossal shrimp, shrimp, calamari, and vegetable varieties.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3js1y2no",
+      "quote": "TEMPURA Lightly battered and served with tempura sauce. Your choice of: Colossal shrimp Shrimp Calamari Vegetable"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

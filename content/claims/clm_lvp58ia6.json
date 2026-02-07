@@ -1,0 +1,36 @@
+{
+  "id": "clm_lvp58ia6",
+  "title": "STK offers $65 dinner menu during Dine LA",
+  "statement": "STK offers a $65 prix-fixe dinner menu highlighted by Mermaid Surf & Turf and Wild Mushroom Risotto during Dine LA Restaurant Week.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "dine-la-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4gc2l1c5",
+      "quote": "or a $65 Dinner highlighted by the decadent Mermaid Surf & Turf and Wild Mushroom Risotto"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

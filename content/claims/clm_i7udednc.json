@@ -1,0 +1,32 @@
+{
+  "id": "clm_i7udednc",
+  "title": "RA Sushi has wine offerings on their menu",
+  "statement": "RA Sushi includes wine as part of their restaurant menu offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9d0w2rvi",
+      "quote": "\"title\":\"Wine\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

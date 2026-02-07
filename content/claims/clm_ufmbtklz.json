@@ -1,0 +1,32 @@
+{
+  "id": "clm_ufmbtklz",
+  "title": "Benihana operates loyalty programs",
+  "statement": "Benihana has loyalty programs for customers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_r433g1ua",
+      "quote": "For loyalty programs and all other inquiries, please use the form below."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

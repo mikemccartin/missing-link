@@ -1,0 +1,32 @@
+{
+  "id": "clm_8w1ds83h",
+  "title": "Sake brewing techniques arrived from China in 7th century",
+  "statement": "More sophisticated sake brewing techniques arrived from China in the seventh century, allowing sake to be refined into a clear liquid.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_009lw9q2",
+      "quote": "More sophisticated brewing techniques arrived from China in the seventh century, allowing sake to be refined into a clear liquid."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

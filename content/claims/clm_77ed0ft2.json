@@ -1,0 +1,32 @@
+{
+  "id": "clm_77ed0ft2",
+  "title": "Kona Grill Tigard phone number",
+  "statement": "Kona Grill Tigard's phone number is 971-329-4392.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s9nfdc5j",
+      "quote": "971-329-4392"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

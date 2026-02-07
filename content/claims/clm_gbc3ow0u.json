@@ -1,0 +1,36 @@
+{
+  "id": "clm_gbc3ow0u",
+  "title": "STK NYC Midtown address",
+  "statement": "STK NYC Midtown is located at 1114 Avenue of the Americas, New York, NY 10036.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "avenue-of-the-americas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zifi2f1",
+      "quote": "1114 Avenue of the Americas New York, NY 10036"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

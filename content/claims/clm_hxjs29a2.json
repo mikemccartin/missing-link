@@ -1,0 +1,32 @@
+{
+  "id": "clm_hxjs29a2",
+  "title": "STK Milan Happy Hour pricing",
+  "statement": "STK Milan offers Happy Hour with €3/€6/€9 pricing, typically Monday to Friday in early evening",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_egjeb4ip",
+      "quote": "STK Milan runs a €3 / €6 / €9 Happy Hour , billed as \"the most fashionable hour in Milan\", typically Monday to Friday in the early evening"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

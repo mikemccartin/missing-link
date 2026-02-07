@@ -1,0 +1,32 @@
+{
+  "id": "clm_6l3rapnv",
+  "title": "RA Sushi serves traditional cocktails with Japanese ingredients",
+  "statement": "RA Sushi offers classic cocktails modified with Japanese ingredients, including Old Fashioned with TOKI Japanese Whisky and Manhattan with Shibui Japanese Whisky.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6yf7dro1",
+      "quote": "OLD FASHIONED TOKI™ Japanese Whisky, sugar, Angostura, Japanese yuzu bitters... MANHATTAN Shibui Japanese Whisky, Sweet Vermouth, Luxardo cherry"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

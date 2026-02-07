@@ -1,0 +1,36 @@
+{
+  "id": "clm_cerg19id",
+  "title": "Benihana website uses Font Awesome icon library",
+  "statement": "Benihana's website incorporates Font Awesome Free 6.4.2 icon library through its CSS stylesheets.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "font-awesome",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1y20f9zc",
+      "quote": "Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_zmxoa5xj",
+  "title": "RA Sushi offers Restaurant Week menu",
+  "statement": "RA Sushi offers a Restaurant Week menu as part of their dining options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hvbc2h1u",
+      "quote": "RESTAURANT WEEK https://rasushi.com/menu/restaurant-week-60/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

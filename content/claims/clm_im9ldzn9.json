@@ -1,0 +1,32 @@
+{
+  "id": "clm_im9ldzn9",
+  "title": "Kona Grill North Star food preparation method",
+  "statement": "Kona Grill North Star prepares upscale American food freshly in a scratch kitchen",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vtklh80q",
+      "quote": "upscale American food freshly prepared in a scratch kitchen"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

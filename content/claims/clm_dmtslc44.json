@@ -1,0 +1,32 @@
+{
+  "id": "clm_dmtslc44",
+  "title": "RA Sushi serves sushi and Japanese cuisine",
+  "statement": "RA Sushi offers sushi, signature rolls, and Japanese cuisine to customers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vj3v7pye",
+      "quote": "Order up the best sushi in town and prepare to be blown away by our signature rolls and amazing Japanese cuisine."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

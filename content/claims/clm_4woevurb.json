@@ -1,0 +1,32 @@
+{
+  "id": "clm_4woevurb",
+  "title": "Kabuki Kids parties include collectible mugs",
+  "statement": "Kabuki Kids birthday celebrations at Benihana include a collectible Benihana mug for guests to take home.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ljahlki3",
+      "quote": "Every Kabuki Kids birthday celebration comes with a collectible Benihana mug to take home"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

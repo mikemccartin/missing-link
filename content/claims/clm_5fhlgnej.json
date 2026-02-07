@@ -1,0 +1,32 @@
+{
+  "id": "clm_5fhlgnej",
+  "title": "STK private event lunch pricing",
+  "statement": "STK San Francisco private event lunch pricing begins at $45 per person.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xacq3hic",
+      "quote": "Lunch pricing begins at $45"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

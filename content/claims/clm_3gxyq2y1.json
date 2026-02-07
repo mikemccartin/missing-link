@@ -1,0 +1,44 @@
+{
+  "id": "clm_3gxyq2y1",
+  "title": "Kona Grill Gilbert proximity to other businesses",
+  "statement": "Kona Grill Gilbert is located between Best Buy and Barnes and Noble, next to Total Wine and Spirit.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "best-buy",
+      "role": "related"
+    },
+    {
+      "slug": "barnes-and-noble",
+      "role": "related"
+    },
+    {
+      "slug": "total-wine-and-spirit",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_55enc9jq",
+      "quote": "You can find us between Best Buy and Barnes and Noble, next to Total Wine and Spirit"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

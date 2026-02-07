@@ -1,0 +1,32 @@
+{
+  "id": "clm_foyzdzes",
+  "title": "Pork Gyoza served with ponzu sauce",
+  "statement": "Pork Gyoza are sautéed Asian potstickers served with ponzu sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_td6mc7sg",
+      "quote": "PORK GYOZA Sautéed Asian potstickers served with ponzu sauce."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

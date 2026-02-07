@@ -1,0 +1,32 @@
+{
+  "id": "clm_m92r4k6n",
+  "title": "STK San Francisco offers Power Lunch pricing",
+  "statement": "STK San Francisco offers a $45 Prix Fixe Power Lunch Menu available Monday through Friday from 11am to 3pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_aofozpp1",
+      "quote": "$45 Prix Fixe. Available Monday - Friday, 11am - 3pm. Select One from Each Course. 45 Minutes Guaranteed"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

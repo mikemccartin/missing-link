@@ -1,0 +1,32 @@
+{
+  "id": "clm_da4rmijf",
+  "title": "Benihana website uses WordPress content management system",
+  "statement": "Benihana's website is built using WordPress, as evidenced by WordPress REST API endpoints and wp-json structure.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vlmxcv0y",
+      "quote": "\"url\":\"https:\\/\\/www.benihana.com\\/wp\",\"namespaces\":[\"oembed\\/1.0\",\"contact-form-7\\/v1\",\"rankmath\\/v1\",...,\"wp\\/v2\"]"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

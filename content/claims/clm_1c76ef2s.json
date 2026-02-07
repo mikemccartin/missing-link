@@ -1,0 +1,32 @@
+{
+  "id": "clm_1c76ef2s",
+  "title": "Nutrition page was created on January 13, 2025",
+  "statement": "The nutrition page was initially published on January 13, 2025 at 10:29:05 GMT",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_oflec9mo",
+      "quote": "\"date\":\"2025-01-13T10:29:05\",\"date_gmt\":\"2025-01-13T10:29:05\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

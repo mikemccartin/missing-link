@@ -1,0 +1,32 @@
+{
+  "id": "clm_5d5ifshj",
+  "title": "Benihana offers Wagyu of the World six-course menu",
+  "statement": "Benihana offers a six-course Wagyu of the World menu featuring premium cuts and unique flavors.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n90uhu3f",
+      "quote": "Savor the best with our six-course Wagyu of the World menu, featuring premium cuts and unique flavors."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

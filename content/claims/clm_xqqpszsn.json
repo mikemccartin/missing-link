@@ -1,0 +1,32 @@
+{
+  "id": "clm_xqqpszsn",
+  "title": "The ONE Group operates restaurants internationally",
+  "statement": "The ONE Group operates restaurant locations internationally with signature cocktails available across all locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9nz4uhh",
+      "quote": "You will find our Signature cocktails across all of our locations internationally"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

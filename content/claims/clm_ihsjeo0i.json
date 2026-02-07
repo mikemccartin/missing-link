@@ -1,0 +1,32 @@
+{
+  "id": "clm_ihsjeo0i",
+  "title": "RA Sushi offers Nigiri Assortment with seven types of fish",
+  "statement": "The Nigiri Assortment includes two pieces each of tuna, yellowtail and salmon, plus one piece each of whitefish, shrimp, octopus and sweet egg.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_x7jh14a9",
+      "quote": "Two pieces of each: tuna, yellowtail and salmon; served with one piece each: whitefish, shrimp, octopus and sweet egg"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_dafof0lk",
+  "title": "Friends with Benefits offers complimentary appetizer for new members",
+  "statement": "New members of the Friends with Benefits loyalty program receive a complimentary appetizer upon signing up.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s0bzzbkf",
+      "quote": "Join Friends with Benefits to unlock instant member status and enjoy a complimentary appetizer just for signing up."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_f4eq034u",
+  "title": "STK Milan operating hours",
+  "statement": "STK Milan operates Monday-Saturday 7:00pm-1:00am and Sunday 7:00pm-12:00am",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_egjeb4ip",
+      "quote": "Monday – Saturday: 7:00pm – 1:00am Sunday: 7:00pm – 12:00am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

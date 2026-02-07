@@ -1,0 +1,36 @@
+{
+  "id": "clm_q53mcbxx",
+  "title": "STK Nashville features DJ and live atmosphere during brunch",
+  "statement": "STK Nashville provides entertainment during brunch with a DJ spinning music and maintains a lively atmosphere.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nashville",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wwjzpdcr",
+      "quote": "Epic Vibes: DJ spinning, lively atmosphere, chic design."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

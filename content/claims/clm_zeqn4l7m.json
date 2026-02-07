@@ -1,0 +1,32 @@
+{
+  "id": "clm_zeqn4l7m",
+  "title": "Kona Grill offers Holiday Cheer Menu",
+  "statement": "Kona Grill provides a Holiday Cheer Menu as one of their dining options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_96mdnngd",
+      "quote": "Holiday Cheer Menu"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_e9q29h59",
+  "title": "Kona Grill Eden Prairie phone number",
+  "statement": "Kona Grill Eden Prairie's phone number is 952-941-3262.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wlcgr3ww",
+      "quote": "952-941-3262"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

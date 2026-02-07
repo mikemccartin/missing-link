@@ -1,0 +1,32 @@
+{
+  "id": "clm_oeuuuwgv",
+  "title": "Standard bottle discount requires $300+ per bottle minimum",
+  "statement": "The 25% discount on standard bottles at STK Las Vegas requires purchasing bottles that cost $300 or more each.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5r6n1i6e",
+      "quote": "ENJOY 25% OFF WHEN YOU PURCHASE TWO OR MORE STANDARD BOTTLES, $300+ EACH"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_ceiy4hjr",
+  "title": "STK Nashville offers Weekend Brunch",
+  "statement": "STK Nashville serves Weekend Brunch on Saturday and Sunday from 10am to 2pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_snyz0y40",
+      "quote": "Saturday & Sunday: 10am – 2pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

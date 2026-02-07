@@ -1,0 +1,32 @@
+{
+  "id": "clm_hqiia01u",
+  "title": "STK operates restaurants in multiple international locations",
+  "statement": "STK Steakhouse has locations across the United States, Canada, Mexico, Qatar, UAE, England, and Italy.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3tb7rtu8",
+      "quote": "Locations include Arizona, California, Colorado, D.C., Florida, Georgia, Illinois, Massachusetts, Mexico, Nevada, New York, North Carolina, Puerto Rico, Tennessee, Texas, Utah, Washington, Ontario, Qatar, United Arab Emirates, England, Italy"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

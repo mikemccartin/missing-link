@@ -1,0 +1,32 @@
+{
+  "id": "clm_a0a3x8zp",
+  "title": "Bao Yum serves cheeseburger bao",
+  "statement": "Bao Yum offers cheeseburger bao as one of their menu items.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_iz5y9y9u",
+      "quote": "Cheeseburger Bao"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

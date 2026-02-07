@@ -1,0 +1,32 @@
+{
+  "id": "clm_f3e91unf",
+  "title": "STK Steakhouse offers delivery and takeout services",
+  "statement": "STK Steakhouse provides delivery and takeout services for their menu items including steak, seafood, and sides.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5t929lkd",
+      "quote": "Let us bring STK to you! Steak, seafood, sides & more!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

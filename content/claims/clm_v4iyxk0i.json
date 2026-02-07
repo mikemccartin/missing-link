@@ -1,0 +1,36 @@
+{
+  "id": "clm_v4iyxk0i",
+  "title": "Company owns 69 Benihana restaurants, 1 Samurai restaurant and 12 RA Sushi restaurants",
+  "statement": "Benihana owns 69 Benihana restaurants, one Samurai restaurant, and 12 RA Sushi restaurants.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_db0l3ppq",
+      "quote": "Company owns 69 Benihana restaurants, one Samurai restaurant and 12 RA Sushi restaurants"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

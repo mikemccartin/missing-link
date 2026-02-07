@@ -1,0 +1,32 @@
+{
+  "id": "clm_l2tvrokx",
+  "title": "Wagyu fried rice serves two people",
+  "statement": "RA Sushi's wagyu fried rice is meant for two people to share.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1h7158kp",
+      "quote": "WAGYU FRIED RICE TO SHARE Rice, egg, chopped vegetables and spicy mayo (meant for two)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

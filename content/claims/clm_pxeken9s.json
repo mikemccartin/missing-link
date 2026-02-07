@@ -1,0 +1,32 @@
+{
+  "id": "clm_pxeken9s",
+  "title": "RA Sushi offers gift cards",
+  "statement": "RA Sushi has a dedicated gift cards page on their website, indicating they offer gift card services to customers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xxhoi99z",
+      "quote": "\"title\":{\"rendered\":\"Gift Cards\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_g1kqu0ik",
+  "title": "Benihana Inc. does not donate to sports teams or leagues",
+  "statement": "Benihana Inc. does not donate to sports teams or leagues.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8uypu4d5",
+      "quote": "Sports teams or leagues"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

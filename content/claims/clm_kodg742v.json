@@ -1,0 +1,32 @@
+{
+  "id": "clm_kodg742v",
+  "title": "Hakutsuru produces Nama Draft sake from Nada",
+  "statement": "Hakutsuru produces Nama 'Draft' Junmai sake from Nada that is light, crisp, and refreshing.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y0il5z0w",
+      "quote": "HAKUTSURU NAMA 'DRAFT' | Nada Junmai \u2013 Light, crisp, refreshing"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

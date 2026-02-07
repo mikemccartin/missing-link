@@ -1,0 +1,32 @@
+{
+  "id": "clm_n6upilt6",
+  "title": "Be The Chef requires minimum age of 18",
+  "statement": "Participants in Benihana's Be The Chef program must be at least 18 years of age.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_opm98ynp",
+      "quote": "Must be at least 18 years of age."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

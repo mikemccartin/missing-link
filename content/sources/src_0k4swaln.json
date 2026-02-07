@@ -1,0 +1,9 @@
+{
+  "id": "src_0k4swaln",
+  "title": "About",
+  "publisher": "Kona Grill",
+  "url": "https://konagrill.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkonagrill.com%2Fabout%2F",
+  "accessDate": "2026-02-06",
+  "type": "webpage",
+  "excerpt": "An about page from Kona Grill's website, accessed via oEmbed API endpoint."
+}

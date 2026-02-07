@@ -1,0 +1,32 @@
+{
+  "id": "clm_x5nl5npu",
+  "title": "Kona Grill website uses Tailwind CSS framework",
+  "statement": "The Kona Grill website incorporates Tailwind CSS v3.4.16 styling framework.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qzacd5wv",
+      "quote": "tailwindcss v3.4.16 | MIT License | https://tailwindcss.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

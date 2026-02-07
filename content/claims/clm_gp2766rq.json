@@ -1,0 +1,32 @@
+{
+  "id": "clm_gp2766rq",
+  "title": "STK London operating hours Friday-Saturday",
+  "statement": "STK London operates Friday through Saturday from 12:00pm to 1:00am.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3xi1w6m0",
+      "quote": "Friday - Saturday: 12:00pm – 1:00am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

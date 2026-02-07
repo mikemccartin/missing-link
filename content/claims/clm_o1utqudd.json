@@ -1,0 +1,36 @@
+{
+  "id": "clm_o1utqudd",
+  "title": "Magnum Mondays offers 25% discount on select magnums",
+  "statement": "STK Las Vegas offers 25% off select magnum bottles every Monday night during Magnum Mondays.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "las-vegas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5r6n1i6e",
+      "quote": "Enjoy 25% off select Magnums and two standard-sized bottles ($300+/ea)."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

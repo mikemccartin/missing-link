@@ -1,0 +1,32 @@
+{
+  "id": "clm_nw965agw",
+  "title": "RA Sushi provides health department warning about raw foods",
+  "statement": "RA Sushi informs customers that consuming raw or undercooked foods may increase risk of foodborne illness as required by the Health Department.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sheh5z1n",
+      "quote": "We are required by the Health Department to inform you that consuming raw or under cooked meats, poultry, seafood, shellfish or eggs may increase your risk of food borne illness"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_o6fw4sr6",
+  "title": "Hibachi Chateaubriand is 8.5 ounces of center cut tenderloin",
+  "statement": "The Hibachi Chateaubriand menu item consists of 8.5 ounces of center cut tenderloin and mushrooms lightly seasoned.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cmukepq1",
+      "quote": "HIBACHI CHATEAUBRIAND* 8.5 ounces of center cut tenderloin and mushrooms lightly seasoned."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

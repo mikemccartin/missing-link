@@ -1,0 +1,36 @@
+{
+  "id": "clm_xayshpe1",
+  "title": "STK Niagara Fallsview has multiple menu categories",
+  "statement": "STK Niagara Fallsview offers A La Carte, Market Salads & Starters, Beverage Menu, Cocktails, Wine List, Wine by the Glass, and Bubbles menu sections.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-niagara-fallsview",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_na8nfylx",
+      "quote": "A La Carte Market Salads & Starters Beverage Menu Cocktails (2.5 Ounces) Wine List Wine by the Glass (6 Ounces) Bubbles"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

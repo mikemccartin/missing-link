@@ -1,0 +1,32 @@
+{
+  "id": "clm_l6iwupjy",
+  "title": "Kona Grill offers dine-in, delivery, and catering services",
+  "statement": "Kona Grill provides dine-in dining, delivery service, and catering options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bjvprkj0",
+      "quote": "Kona Grill | Steak, Seafood, Sushi | Dine-in, Delivery, & Catering"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

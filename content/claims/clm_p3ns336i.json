@@ -1,0 +1,36 @@
+{
+  "id": "clm_p3ns336i",
+  "title": "STK Washington DC participates in Restaurant Week",
+  "statement": "STK Washington DC offers a Restaurant Week dinner menu priced at $65 with one selection from each course.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-washington-dc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9h73b3s",
+      "quote": "Restaurant Week Dinner | $65 | Select 1 From Each Course"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

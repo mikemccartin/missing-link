@@ -1,0 +1,36 @@
+{
+  "id": "clm_rlko7m0f",
+  "title": "Kona Grill San Antonio location address",
+  "statement": "Kona Grill San Antonio - Landmark location is at 5603 Presidio Parkway, San Antonio, TX",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "san-antonio",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xov3kibj",
+      "quote": "5603 Presidio Parkway, San Antonio, TX"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

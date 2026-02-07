@@ -1,0 +1,36 @@
+{
+  "id": "clm_1ep6exa7",
+  "title": "Kona Grill Gilbert location in SanTan Village",
+  "statement": "Kona Grill Gilbert is located in SanTan Village shopping center.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "santan-village",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_55enc9jq",
+      "quote": "Kona Grill Gilbert in SanTan Village is conveniently located on Williams Field Road and the 202 (San Tan Freeway)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

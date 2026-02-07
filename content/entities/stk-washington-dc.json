@@ -1,0 +1,7 @@
+{
+  "slug": "stk-washington-dc",
+  "name": "STK Washington DC",
+  "type": "organization",
+  "description": "A location of STK Steakhouse restaurant chain located in Washington DC.",
+  "parentEntity": "stk-steakhouse"
+}

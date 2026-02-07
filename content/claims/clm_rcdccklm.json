@@ -1,0 +1,36 @@
+{
+  "id": "clm_rcdccklm",
+  "title": "STK San Diego is located on the first floor of Andaz San Diego",
+  "statement": "STK San Diego operates on the first floor of the Andaz San Diego hotel.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "andaz-san-diego",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5rvpgspm",
+      "quote": "STK Steakhouse San Diego is located on the first floor of Andaz San Diego."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

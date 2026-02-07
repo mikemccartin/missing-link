@@ -1,0 +1,32 @@
+{
+  "id": "clm_upwp18wx",
+  "title": "togrp accessibility statement page created in April 2025",
+  "statement": "The accessibility statement page was created on April 2, 2025 at 10:48:59",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0ehz0390",
+      "quote": "\"date\":\"2025-04-02T10:48:59\",\"date_gmt\":\"2025-04-02T10:48:59\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

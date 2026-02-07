@@ -1,0 +1,40 @@
+{
+  "id": "clm_sfqlhm7j",
+  "title": "STK NYC Midtown location relative to Bryant Park",
+  "statement": "STK NYC Midtown is located on Avenue of the Americas just off Bryant Park.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "bryant-park",
+      "role": "related"
+    },
+    {
+      "slug": "avenue-of-the-americas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zifi2f1",
+      "quote": "On Avenue of the Americas just off Bryant Park"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

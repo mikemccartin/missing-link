@@ -1,0 +1,36 @@
+{
+  "id": "clm_e4dsdecx",
+  "title": "Kona Grill Cincinnati location at Liberty Center",
+  "statement": "Kona Grill Cincinnati is located at Liberty Center",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "liberty-center",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yzadv6kt",
+      "quote": "Liberty Center"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

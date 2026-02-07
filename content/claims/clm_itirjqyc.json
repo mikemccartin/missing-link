@@ -1,0 +1,32 @@
+{
+  "id": "clm_itirjqyc",
+  "title": "The ONE Group offers licensing opportunities for their dining brands",
+  "statement": "The ONE Group provides licensing opportunities for partners to bring their dining brands to new markets.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_20je7h5a",
+      "quote": "Submit your enquiry to explore licensing opportunities with The ONE Group. Partner with us to bring our world-renowned dining brands to new markets."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

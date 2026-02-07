@@ -1,0 +1,32 @@
+{
+  "id": "clm_n4txqfjv",
+  "title": "Kona Grill press page was last modified in February 2025",
+  "statement": "The Kona Grill press page was last modified on February 25, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_godfzqhb",
+      "quote": "\"modified\":\"2025-02-25T15:52:19\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

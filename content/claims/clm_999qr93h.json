@@ -1,0 +1,32 @@
+{
+  "id": "clm_999qr93h",
+  "title": "Kona Grill San Antonio phone number",
+  "statement": "The San Antonio Kona Grill location can be reached at 210-877-5355",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xov3kibj",
+      "quote": "CALL US 210-877-5355"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

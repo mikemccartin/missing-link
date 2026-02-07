@@ -1,0 +1,32 @@
+{
+  "id": "clm_sci6h7yo",
+  "title": "Power Lunch no modifications policy",
+  "statement": "Benihana's Power Lunch menu does not allow substitutions or modifications.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7ys05fy2",
+      "quote": "NO SUBSTITUTIONS OR MODIFICATIONS."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

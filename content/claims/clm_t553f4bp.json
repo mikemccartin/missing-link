@@ -1,0 +1,36 @@
+{
+  "id": "clm_t553f4bp",
+  "title": "Benihana adopted Code of Business Conduct and Ethics in 2010",
+  "statement": "Benihana Inc.'s Code of Business Conduct and Ethics was adopted in 2010.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "code-of-business-conduct-and-ethics",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j9vfh16d",
+      "quote": "Benihana Inc.'s Code of Business Conduct and Ethics, adopted in 2010, is more than a document"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

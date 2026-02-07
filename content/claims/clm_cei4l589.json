@@ -1,0 +1,44 @@
+{
+  "id": "clm_cei4l589",
+  "title": "Kona Grill Dallas location at NorthPark Center",
+  "statement": "Kona Grill Dallas is located at NorthPark Center on the first floor of the North side between Macy's and Nordstrom off of Park Lane.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "northpark-center",
+      "role": "related"
+    },
+    {
+      "slug": "macy-s",
+      "role": "related"
+    },
+    {
+      "slug": "nordstrom",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ht7ra9fn",
+      "quote": "We are located on the first floor of the North side of the center, between Macy's and Nordstrom off of Park Lane."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

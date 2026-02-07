@@ -1,0 +1,32 @@
+{
+  "id": "clm_oharhwav",
+  "title": "STK Doha offers Business Lunch service",
+  "statement": "STK Doha offers Business Lunch service Sunday to Thursday, typically from 12:00pm–3:30pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k79fjimt",
+      "quote": "STK Doha offers a B usiness Lunch Sunday to Thursday, typically from 12:00pm–3:30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

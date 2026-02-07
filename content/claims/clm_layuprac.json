@@ -1,0 +1,32 @@
+{
+  "id": "clm_layuprac",
+  "title": "Vibe Dining page created June 2024",
+  "statement": "The Vibe Dining page was created on June 13, 2024 at 08:04:42",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_66h61ukr",
+      "quote": "\"date\":\"2024-06-13T08:04:42\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

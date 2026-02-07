@@ -1,0 +1,40 @@
+{
+  "id": "clm_i15blnn3",
+  "title": "STK Doha location on 23rd floor of Ritz-Carlton",
+  "statement": "STK Doha is located on the 23rd floor of The Ritz-Carlton, West Bay Lagoon, Doha.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "the-ritz-carlton",
+      "role": "related"
+    },
+    {
+      "slug": "west-bay-lagoon",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k79fjimt",
+      "quote": "STK Doha is located on the 23rd floor of The Ritz‑Carlton, West Bay Lagoon, Doha"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

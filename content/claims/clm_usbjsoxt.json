@@ -1,0 +1,32 @@
+{
+  "id": "clm_usbjsoxt",
+  "title": "RA Sushi donations page was last modified in September 2025",
+  "statement": "The donations page on RA Sushi's website was last modified on September 23, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_zni2yrb1",
+      "quote": "\"modified\":\"2025-09-23T14:01:48\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

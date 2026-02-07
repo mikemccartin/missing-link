@@ -1,0 +1,36 @@
+{
+  "id": "clm_5hws8spa",
+  "title": "STK Doha offers A La Carte menu with premium steaks",
+  "statement": "STK Doha provides an A La Carte menu featuring premium steaks and dining options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-doha",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ku6wy5dm",
+      "quote": "STK Doha - A La Carte | Premium Steaks & Dining"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

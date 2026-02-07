@@ -1,0 +1,32 @@
+{
+  "id": "clm_5h58ay94",
+  "title": "STK offers multiple dining services",
+  "statement": "STK Steakhouse provides delivery, catering, and private event spaces in addition to regular dining.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ewo9ehpt",
+      "quote": "STK blends a modern steakhouse with a chic lounge, offering a unique vibe dining experience, offering delivery, catering, and private event spaces."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

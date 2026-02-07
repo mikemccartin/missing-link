@@ -1,0 +1,40 @@
+{
+  "id": "clm_7uk61ue8",
+  "title": "STK NYC Rooftop situated above STK Downtown",
+  "statement": "STK NYC Rooftop is positioned directly above STK NYC Downtown in the Meatpacking District.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nyc-downtown",
+      "role": "related"
+    },
+    {
+      "slug": "meatpacking-district",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7ndkz1ha",
+      "quote": "STK Rooftop is situated on top of STK Downtown, overlooking the Meatpacking District"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

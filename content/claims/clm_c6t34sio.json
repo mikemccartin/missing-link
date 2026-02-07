@@ -1,0 +1,32 @@
+{
+  "id": "clm_c6t34sio",
+  "title": "Hibachi Supreme includes 8 oz Chateaubriand and lobster tail",
+  "statement": "The Hibachi Supreme features an 8 oz center cut Chateaubriand tenderloin served with a grilled cold water lobster tail brushed with lobster butter.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ostntaj3",
+      "quote": "An 8 oz center cut Chateaubriand tenderloin is served with a grilled cold water lobster tail brushed with indulgent lobster butter"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

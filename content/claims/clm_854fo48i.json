@@ -1,0 +1,36 @@
+{
+  "id": "clm_854fo48i",
+  "title": "Members receive $50 birthday reward",
+  "statement": "Friends With Benefits loyalty program members receive a $50 birthday reward.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1p3j2gwf",
+      "quote": "We believe in spoiling our most loyal friends, so you'll enjoy a $50 birthday reward -- just because."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

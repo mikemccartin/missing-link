@@ -1,0 +1,32 @@
+{
+  "id": "clm_3cpyg2nl",
+  "title": "STK Doha offers private events services",
+  "statement": "STK Doha offers flexible dining and lounge spaces for private events from intimate dinners to large corporate or social events.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k79fjimt",
+      "quote": "STK Doha offers flexible dining and lounge spaces for everything from intimate dinners to large corporate or social events, with bespoke menus and full event support."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

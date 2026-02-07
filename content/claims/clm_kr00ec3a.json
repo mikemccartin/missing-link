@@ -1,0 +1,36 @@
+{
+  "id": "clm_kr00ec3a",
+  "title": "STK offers $55 dinner menu during Charlotte Restaurant Week",
+  "statement": "STK offers a $55 prix-fixe dinner menu highlighted by Mermaid Surf & Turf and Wild Mushroom Risotto during Charlotte Restaurant Week.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "charlotte-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5s6971xn",
+      "quote": "or a $55 Dinner highlighted by the decadent Mermaid Surf & Turf and Wild Mushroom Risotto"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

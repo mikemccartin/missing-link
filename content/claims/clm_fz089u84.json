@@ -1,0 +1,32 @@
+{
+  "id": "clm_fz089u84",
+  "title": "RA Sushi operates multiple locations in the United States",
+  "statement": "RA Sushi has multiple restaurant locations throughout the United States.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vyb0dew2",
+      "quote": "Gift and promotional cards valid at all locations in the U.S."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

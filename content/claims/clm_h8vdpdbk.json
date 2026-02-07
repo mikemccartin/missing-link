@@ -1,0 +1,32 @@
+{
+  "id": "clm_h8vdpdbk",
+  "title": "STK offers Steak Night promotion for $69 per person",
+  "statement": "STK offers a Steak Night promotion priced at $69 per person, available Sunday through Thursday, including La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_evmphkmk",
+      "quote": "Steak Night $69 per person. Sunday-Thursday. Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

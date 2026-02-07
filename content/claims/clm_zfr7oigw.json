@@ -1,0 +1,32 @@
+{
+  "id": "clm_zfr7oigw",
+  "title": "STK San Juan has happy hour from 4-6pm daily",
+  "statement": "STK San Juan offers happy hour daily from 4 to 6pm in the bar area only, not available on holidays and during special events.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_q63jqobb",
+      "quote": "Happy Hour available in Bar Area Only | 4 to 6pm | Daily. NOT AVAILABLE ON HOLIDAYS AND DURING SPECIAL EVENTS"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

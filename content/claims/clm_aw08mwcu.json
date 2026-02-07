@@ -1,0 +1,32 @@
+{
+  "id": "clm_aw08mwcu",
+  "title": "Kona Grill Eden Prairie location address",
+  "statement": "Kona Grill Eden Prairie is located at 11997 Singletree Lane Eden Prairie, MN 55344.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wlcgr3ww",
+      "quote": "11997 Singletree Lane Eden Prairie, MN 55344"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

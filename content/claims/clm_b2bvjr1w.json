@@ -1,0 +1,36 @@
+{
+  "id": "clm_b2bvjr1w",
+  "title": "Benihana At Home brings dining to customer locations",
+  "statement": "Benihana At Home service brings hibachi and sushi dining experience to customer's chosen destinations including backyards and homes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana-at-home",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_we1gtqch",
+      "quote": "Whether it's your backyard, home, or any destination of your choice, we'll bring the excitement right to you. Choose your hibachi and sushi favorites to make your event unforgettable."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

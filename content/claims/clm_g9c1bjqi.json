@@ -1,0 +1,32 @@
+{
+  "id": "clm_g9c1bjqi",
+  "title": "STK Steakhouse offers online catering ordering",
+  "statement": "STK Steakhouse provides online ordering for catering services through location selection.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_doah7b8a",
+      "quote": "Select a location ... Order Now"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

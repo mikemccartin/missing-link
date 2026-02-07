@@ -1,0 +1,36 @@
+{
+  "id": "clm_3cc0il2o",
+  "title": "Carrara Tomahawk steaks sold by the pound",
+  "statement": "STK offers Carrara Tomahawk steaks available for purchase by the pound.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "carrara-tomahawk",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1dre71np",
+      "quote": "The Carrara Tomahawks available by the pound"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

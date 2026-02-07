@@ -1,0 +1,32 @@
+{
+  "id": "clm_p402n1fm",
+  "title": "Benihana provides accessibility customer service contact",
+  "statement": "Benihana offers customer service for accessibility issues via email at [email protected] or phone at 305-702-2880.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tfcossuo",
+      "quote": "please contact us via email at this address: [email protected] . Alternatively you can call our customer service number 305-702-2880"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_m19t1syc",
+  "title": "STK Steakhouse operates in Chicago, Illinois",
+  "statement": "STK Steakhouse has a location at 9 W Kinzie St, Chicago, IL 60654 with phone number 312-340-5636",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Chicago 9 W Kinzie St Chicago, IL 60654 312-340-5636"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

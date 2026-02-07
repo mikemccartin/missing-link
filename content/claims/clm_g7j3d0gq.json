@@ -1,0 +1,32 @@
+{
+  "id": "clm_g7j3d0gq",
+  "title": "The ONE Group has job candidate privacy notice",
+  "statement": "The ONE Group publishes a job candidate privacy notice on their website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lnw8gc2v",
+      "quote": "\"title\":\"Job Candidate Privacy Notice\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -13,6 +13,7 @@
     "spider": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/spider.ts",
     "process-crawl": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/process-crawl.ts",
     "approve-drafts": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/approve-drafts.ts",
+    "dedup-drafts": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/dedup-drafts.ts",
     "check": "npm run validate && npm run build"
   },
   "dependencies": {

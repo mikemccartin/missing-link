@@ -1,0 +1,36 @@
+{
+  "id": "clm_4frwrmpr",
+  "title": "STK Boston is located at 222 Berkeley St, Boston, MA 02116",
+  "statement": "STK Boston is located at 222 Berkeley Street, Boston, Massachusetts 02116 in the Back Bay neighborhood.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "back-bay",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n44n8mug",
+      "quote": "STK Boston is located at 222 Berkeley St, Boston, MA 02116 , in the Back Bay neighborhood near Copley Square and Newbury Street."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

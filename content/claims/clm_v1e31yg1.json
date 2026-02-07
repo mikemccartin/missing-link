@@ -1,0 +1,36 @@
+{
+  "id": "clm_v1e31yg1",
+  "title": "Kona Grill has location at 4087 New Bond St Columbus OH",
+  "statement": "Kona Grill operates a restaurant location at 4087 New Bond St #502 Columbus, OH 43218",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "columbus",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j3lb4s3c",
+      "quote": "4087 New Bond St #502 Columbus, OH 43218"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

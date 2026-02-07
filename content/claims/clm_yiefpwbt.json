@@ -1,0 +1,32 @@
+{
+  "id": "clm_yiefpwbt",
+  "title": "STK Denver weekend hours",
+  "statement": "STK Denver is open Friday and Saturday from 11am to 12am, Sunday from 10am to 11pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y2fi34ec",
+      "quote": "Friday & Saturday: 11am – 12am Sunday: 10am – 11pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

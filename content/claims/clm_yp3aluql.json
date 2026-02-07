@@ -1,0 +1,32 @@
+{
+  "id": "clm_yp3aluql",
+  "title": "Benihana's Hibachi Bounty includes multiple seafood items",
+  "statement": "Benihana's Hibachi Bounty of the Seas includes shrimp, scallops, snapper, calamari, vegetables and sake wine, served with ginger lime butter.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hmvajiau",
+      "quote": "HIBACHI BOUNTY OF THE SEAS Shrimp, scallops, snapper, calamari, vegetables and sake wine. Served with ginger lime butter."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

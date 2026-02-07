@@ -1,0 +1,32 @@
+{
+  "id": "clm_rnto4md5",
+  "title": "Taste of Benihana not valid with other discounts or birthday certificate",
+  "statement": "The Taste of Benihana offer is not valid with any other discounts, promotions, or birthday certificates.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9f40zk56",
+      "quote": "Not valid with any other discounts or promotions, including the birthday certificate."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

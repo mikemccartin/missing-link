@@ -1,0 +1,32 @@
+{
+  "id": "clm_vl4o53x2",
+  "title": "STK South Beach offers Steak Night promotion",
+  "statement": "STK South Beach runs a Steak Night promotion Sunday-Thursday for $69 per person including La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ahsojywq",
+      "quote": "Steak Night Sunday-Thursday. $69 per person. Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

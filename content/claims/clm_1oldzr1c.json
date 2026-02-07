@@ -1,0 +1,40 @@
+{
+  "id": "clm_1oldzr1c",
+  "title": "STK NYC Rooftop offers Lodge Dinner menu",
+  "statement": "STK NYC Rooftop location serves a Lodge Dinner menu featuring premium steaks and Japanese A5 Wagyu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nyc-rooftop",
+      "role": "related"
+    },
+    {
+      "slug": "japanese-a5-wagyu",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_au709v7c",
+      "quote": "STK NYC - Rooftop - Lodge Dinner | Premium Steaks & Dining... Premium steaks, Japanese A5 Wagyu, seafood bar, and signature cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

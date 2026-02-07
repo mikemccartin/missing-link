@@ -1,0 +1,32 @@
+{
+  "id": "clm_lcfep9zq",
+  "title": "RA Sushi uses $3, $6, $9 pricing structure for Happy Hour",
+  "statement": "RA Sushi's Happy Hour menu features items priced at $3, $6, and $9.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9etqndtl",
+      "quote": "$3 | $6 | $9 Happy Hour"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

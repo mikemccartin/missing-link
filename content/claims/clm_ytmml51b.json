@@ -1,0 +1,32 @@
+{
+  "id": "clm_ytmml51b",
+  "title": "RA Sushi accessibility statement updated October 4, 2025",
+  "statement": "RA Sushi's accessibility statement was last updated on October 4, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_aec9fw3t",
+      "quote": "This statement was updated on 4 October 2025."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_06txoff2",
+  "title": "STK Bellevue operating hours Monday-Thursday",
+  "statement": "STK Bellevue operates Monday through Thursday from 11am to 11pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kyn5h6qo",
+      "quote": "Monday – Thursday: 11am – 11pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

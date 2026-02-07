@@ -1,0 +1,36 @@
+{
+  "id": "clm_c0s9bxt9",
+  "title": "Only one reward certificate allowed per guest per check",
+  "statement": "RA Sushi's policy allows only one certificate or reward to be used per guest, per check.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4cqr3dsg",
+      "quote": "Per our Terms and Conditions, only one certificate or reward may be used per guest, per check."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

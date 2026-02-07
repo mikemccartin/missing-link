@@ -1,0 +1,32 @@
+{
+  "id": "clm_oxnxoshv",
+  "title": "Benihana provides teppanyaki experience with wagyu beef",
+  "statement": "Benihana prepares wagyu beef for a teppanyaki experience as part of their Wagyu of the World offering.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n90uhu3f",
+      "quote": "Experience Wagyu of the World at Benihana, featuring the finest cuts of Wagyu beef, expertly prepared for a rich, flavorful teppanyaki experience."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

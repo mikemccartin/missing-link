@@ -1,0 +1,32 @@
+{
+  "id": "clm_500stf4d",
+  "title": "Benihana offers lifestyle-compatible menu options",
+  "statement": "Benihana provides menu items compatible with gluten sensitive, keto, vegan, and vegetarian lifestyles.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ixsd5f2a",
+      "quote": "The below icons will indicate the different dishes lifestyle compatibility. Gluten Sensitive Keto Vegan Vegetarian"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

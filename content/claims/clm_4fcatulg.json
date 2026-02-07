@@ -1,0 +1,32 @@
+{
+  "id": "clm_4fcatulg",
+  "title": "Benihana has master teppanyaki chefs",
+  "statement": "At Benihana, master teppanyaki chefs bring traditions to life with fresh ingredients and theatrical cooking techniques.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_009lw9q2",
+      "quote": "At Benihana, our master teppanyaki chefs bring these traditions to life with fresh ingredients and theatrical cooking techniques."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_8lnj8jde",
+  "title": "Rice became integral to sushi in 15th century",
+  "statement": "Rice became an integral part of sushi in the 15th century because it was too valuable to waste.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_009lw9q2",
+      "quote": "It wasn't until the 15th century that rice became an integral part of the dish because it was just too valuable to waste."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

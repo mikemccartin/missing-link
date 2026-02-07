@@ -1,0 +1,32 @@
+{
+  "id": "clm_5idpqe10",
+  "title": "Benihana Happy Hour not available on holidays",
+  "statement": "Benihana's Happy Hour is not available on holidays.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rgbmv5wi",
+      "quote": "Happy Hour not available on holidays."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

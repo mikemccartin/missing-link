@@ -1,0 +1,32 @@
+{
+  "id": "clm_rve7hc3b",
+  "title": "STK Steakhouse website supports multiple English language variants",
+  "statement": "STK Steakhouse's website offers content in both US English and British English variants.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8z5pwtx2",
+      "quote": "\"translations\":{\"en-us\":6,\"en-gb\":905}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

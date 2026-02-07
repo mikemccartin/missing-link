@@ -1,0 +1,32 @@
+{
+  "id": "clm_4dbdddw9",
+  "title": "STK Los Angeles operating hours",
+  "statement": "STK Los Angeles is open Monday-Thursday 11am-11pm, Friday & Saturday 11am-12am, and Sunday 10am-11pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6tmgux27",
+      "quote": "STK Los Angeles is open Monday – Thursday 11am – 11pm, Friday & Saturday 11am – 12am, and Sunday 10am – 11pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

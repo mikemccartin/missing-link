@@ -1,0 +1,32 @@
+{
+  "id": "clm_emd1f7gy",
+  "title": "STK Steakhouse operates multiple Florida locations",
+  "statement": "STK Steakhouse operates locations in Aventura, Orlando, and South Beach, Florida.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gqv7ug26",
+      "quote": "Florida Aventura Orlando South Beach"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_8thgfc5w",
+  "title": "Benihana loyalty program page was published April 28, 2025",
+  "statement": "The Benihana loyalty program webpage was published on April 28, 2025",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_18ra0zr3",
+      "quote": "\"date\":\"2025-04-28T02:00:07\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

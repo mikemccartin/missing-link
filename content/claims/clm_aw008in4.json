@@ -1,0 +1,36 @@
+{
+  "id": "clm_aw008in4",
+  "title": "RA Sushi uses Mapbox for location mapping",
+  "statement": "RA Sushi's reservation system uses Mapbox mapping services to display restaurant locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "mapbox",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lnsxo2lq",
+      "quote": "mapboxgl.accessToken = 'pk.eyJ1IjoiZmFuYXRpY2Rldi1yYS1zdXNoaSIsImEiOiJjbWU4aWt2bWwwZDA2MmpxdnVicTM0aXBhIn0.mcj-szZYPCGYzJ7QNJFu7Q'"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

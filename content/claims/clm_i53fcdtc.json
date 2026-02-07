@@ -1,0 +1,32 @@
+{
+  "id": "clm_i53fcdtc",
+  "title": "STK Bellevue Sunday operating hours",
+  "statement": "STK Bellevue operates on Sunday from 9am to 11pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kyn5h6qo",
+      "quote": "Sunday: 9am – 11pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

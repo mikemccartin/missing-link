@@ -1,0 +1,10 @@
+{
+  "slug": "benihana",
+  "name": "Benihana",
+  "type": "organization",
+  "description": "A restaurant chain specializing in teppanyaki-style Japanese cuisine with theatrical hibachi dining experiences.",
+  "links": {
+    "officialSite": "https://benihana.com/"
+  },
+  "parentEntity": "the-one-group-hospitality"
+}

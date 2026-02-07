@@ -1,0 +1,32 @@
+{
+  "id": "clm_rfoqisry",
+  "title": "Benihana operates official website",
+  "statement": "Benihana operates an official website at benihana.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1qc2ngbd",
+      "quote": "\"provider_name\":\"Benihana\",\"provider_url\":\"https:\\/\\/www.benihana.com\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

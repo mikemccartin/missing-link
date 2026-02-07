@@ -1,0 +1,36 @@
+{
+  "id": "clm_rfnq8uau",
+  "title": "Benihana offers Valentine's Six-Course Feast",
+  "statement": "Benihana offers a Valentine's Six-Course Feast menu for the holiday.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "valentine",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s86phq8d",
+      "quote": "Valentine's Six-Course Feast - Benihana"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

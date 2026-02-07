@@ -1,0 +1,32 @@
+{
+  "id": "clm_6d6o574c",
+  "title": "STK Stratford hosts Saturday Vibe Brunch",
+  "statement": "STK Stratford hosts a high-energy Vibe Brunch on Saturdays with brunch dishes, cocktails and music.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wxwxewhr",
+      "quote": "STK Stratford hosts a high‑energy Vibe Brunch on Saturdays, with brunch dishes, cocktails and music"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

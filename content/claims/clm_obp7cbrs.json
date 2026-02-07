@@ -1,0 +1,36 @@
+{
+  "id": "clm_obp7cbrs",
+  "title": "STK offers $35 lunch menu during Dine LA",
+  "statement": "STK offers a $35 prix-fixe lunch menu featuring Tuna Tartare Tacos and Steakhouse Skirt Steak during Dine LA Restaurant Week.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "dine-la-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4gc2l1c5",
+      "quote": "enjoy our exclusive prix-fixe menus, including a $35 Lunch featuring Tuna Tartare Tacos and Steakhouse Skirt Steak"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

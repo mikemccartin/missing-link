@@ -1,0 +1,36 @@
+{
+  "id": "clm_5hj62327",
+  "title": "Nicky Mailliard died at age 13 from brain cancer",
+  "statement": "Nicky Mailliard passed away at the age of 13 after a valiant battle with brain cancer.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "nicky-mailliard",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_osiocoto",
+      "quote": "Nicky passed away at the age of 13, after a valiant battle with brain cancer."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

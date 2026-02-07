@@ -1,0 +1,32 @@
+{
+  "id": "clm_r9nx65vx",
+  "title": "Kona Grill has location in Columbus, Ohio",
+  "statement": "Kona Grill operates a restaurant location in Columbus, OH.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e3nwgans",
+      "quote": "Columbus, OH https://konagrill.com/location/columbus-oh/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

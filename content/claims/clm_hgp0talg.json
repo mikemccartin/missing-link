@@ -1,0 +1,32 @@
+{
+  "id": "clm_hgp0talg",
+  "title": "Power Lunch filet mignon and NY strip pricing",
+  "statement": "Benihana's Power Lunch offers filet mignon or NY strip steak options for $19.95.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7ys05fy2",
+      "quote": "FILET MIGNON* OR NY STRIP* 19.95"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

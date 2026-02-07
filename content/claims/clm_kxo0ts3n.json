@@ -1,0 +1,36 @@
+{
+  "id": "clm_kxo0ts3n",
+  "title": "Samurai serves sushi and sashimi prepared by sushi chefs",
+  "statement": "Samurai has sushi chefs who prepare signature sushi and sashimi using high-quality ingredients.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2rlcb7ef",
+      "quote": "Our sushi chefs artfully prepare a wide variety of signature sushi and sashimi, using only hand-selected, high-quality ingredients."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

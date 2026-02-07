@@ -1,0 +1,32 @@
+{
+  "id": "clm_2q2r1b0o",
+  "title": "Kona Grill provides customer contact services",
+  "statement": "Kona Grill accepts customer feedback, questions, comments, and inquiries through their website contact system.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ehb1zmv4",
+      "quote": "We are happy to hear from you! Submit your feedback or contact us directly today."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

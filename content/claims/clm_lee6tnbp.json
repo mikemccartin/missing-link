@@ -1,0 +1,32 @@
+{
+  "id": "clm_lee6tnbp",
+  "title": "Kona Grill offers lean protein and plant-forward options",
+  "statement": "Kona Grill's menu includes grilled seafood, salads and plant-forward sides as lower-calorie choices.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j5ctuurf",
+      "quote": "Grilled seafood, salads and plant-forward sides are great choices if you're keeping calories down."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

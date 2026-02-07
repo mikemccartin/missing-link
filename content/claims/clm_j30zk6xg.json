@@ -1,0 +1,32 @@
+{
+  "id": "clm_j30zk6xg",
+  "title": "togrp cookie policy page was last modified on September 16, 2025",
+  "statement": "The cookie policy page on togrp.com was last modified on September 16, 2025 at 10:59:49.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cow6pbde",
+      "quote": "\"modified\":\"2025-09-16T10:59:49\",\"modified_gmt\":\"2025-09-16T10:59:49\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_5wdmcogq",
+  "title": "RA Sushi offers online reservations through OpenTable",
+  "statement": "RA Sushi provides an online reservation system using OpenTable's platform for customers to book tables at their restaurants.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "opentable",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_zk7bs43l",
+      "quote": "Make an online reservation at your favorite RA Sushi restaurant with our OpenTable® tool."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

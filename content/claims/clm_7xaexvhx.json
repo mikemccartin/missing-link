@@ -1,0 +1,36 @@
+{
+  "id": "clm_7xaexvhx",
+  "title": "Kona Grill uses WordPress theme created by Fanatic Design",
+  "statement": "Kona Grill's website uses a WordPress theme called 'Kona Grill 2025' created by Fanatic Design.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "fanatic-design",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qzacd5wv",
+      "quote": "Theme Name: Kona Grill 2025\nTheme URI: https://fanatic.co.uk/\nAuthor: Fanatic Design\nAuthor URI: https://fanatic.co.uk/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

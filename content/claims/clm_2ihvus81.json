@@ -1,0 +1,32 @@
+{
+  "id": "clm_2ihvus81",
+  "title": "Benihana has seasonal menu specials",
+  "statement": "Benihana offers seasonal specials featuring limited-time dishes with fresh flavors.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b7a066mx",
+      "quote": "Discover Benihana's seasonal specials, featuring limited-time dishes crafted with fresh, vibrant flavors."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

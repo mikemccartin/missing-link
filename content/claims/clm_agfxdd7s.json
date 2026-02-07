@@ -1,0 +1,32 @@
+{
+  "id": "clm_agfxdd7s",
+  "title": "togrp website has privacy policy page",
+  "statement": "togrp.com has a privacy policy page with the slug 'privacy-policy'",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_byza0tpu",
+      "quote": "\"slug\":\"privacy-policy\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/togrp.com\\/privacy-policy\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

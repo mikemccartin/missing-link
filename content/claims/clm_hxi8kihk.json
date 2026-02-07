@@ -1,0 +1,32 @@
+{
+  "id": "clm_hxi8kihk",
+  "title": "RA Sushi has location in Plantation, Florida",
+  "statement": "RA Sushi operates a restaurant location in Plantation, FL.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hb5cux13",
+      "quote": "Plantation, FL"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_e2cerjkf",
+  "title": "STK Doha provides valet parking through Ritz-Carlton",
+  "statement": "Guests access STK through The Ritz-Carlton, West Bay Lagoon, which provides valet and on-site parking for restaurant visitors.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "the-ritz-carlton",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k79fjimt",
+      "quote": "Guests access STK through The Ritz‑Carlton, West Bay Lagoon, which provides valet and on‑site parking for restaurant visitors."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

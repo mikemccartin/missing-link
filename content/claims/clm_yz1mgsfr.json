@@ -1,0 +1,32 @@
+{
+  "id": "clm_yz1mgsfr",
+  "title": "RA Sushi offers $18 Filet Steak & Frites deal",
+  "statement": "RA Sushi offers a Filet Steak & Frites dish for $18 as a promotional deal.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0huubil3",
+      "quote": "$18 Filet Steak & Frites"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "clm_enercfrb",
+  "title": "STK Steakhouse website uses Chassis theme framework",
+  "statement": "The STK Steakhouse website is built using the Chassis by Fanatic WordPress theme framework.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "fanatic-design",
+      "role": "related"
+    },
+    {
+      "slug": "chassis-by-fanatic",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4dvxrjs6",
+      "quote": "Theme Name: Chassis by Fanatic Theme URI: https://fanatic.co.uk/ Author: Fanatic Design"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

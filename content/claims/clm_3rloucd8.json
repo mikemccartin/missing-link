@@ -1,0 +1,32 @@
+{
+  "id": "clm_3rloucd8",
+  "title": "RA Sushi provides customer contact form",
+  "statement": "RA Sushi offers a contact form for customers to submit feedback and inquiries.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_w1f66mcn",
+      "quote": "Have something on your mind? We'd love to hear it."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_bnpntur1",
+  "title": "STK NYC Rooftop offers Steak Night promotion",
+  "statement": "STK NYC Rooftop offers a Steak Night promotion Sunday through Thursday for $69 per person, including La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nyc-rooftop",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_au709v7c",
+      "quote": "Steak Night Sunday-Thursday. $69 Per Person. Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

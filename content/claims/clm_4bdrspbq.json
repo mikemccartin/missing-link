@@ -1,0 +1,36 @@
+{
+  "id": "clm_4bdrspbq",
+  "title": "STK Dubai has seafood and cocktail offerings",
+  "statement": "STK Dubai features a seafood bar and signature cocktails in addition to premium steaks.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-dubai",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ikoumisr",
+      "quote": "Premium steaks, Japanese A5 Wagyu, seafood bar, and signature cocktails."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_db0t4wpr",
+  "title": "STK Charlotte hosts live music every Wednesday",
+  "statement": "STK Charlotte hosts live music performances on their patio every Wednesday from 6-9PM.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-charlotte",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_axuvj47s",
+      "quote": "Every Wednesday from 6–9PM, sip cocktails, savor your STK favorites, and vibe to live performances under the city lights."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_811qrtel",
+  "title": "The ONE Group distinguishes vibe dining through 7 core elements",
+  "statement": "The ONE Group's vibe dining experience is distinguished through 7 core elements: music, drinks, environment, facilities, food, lighting, and service.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9nz4uhh",
+      "quote": "We distinguish ourselves through 7 core elements"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

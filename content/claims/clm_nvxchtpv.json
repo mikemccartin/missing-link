@@ -1,0 +1,32 @@
+{
+  "id": "clm_nvxchtpv",
+  "title": "STK Salt Lake City address and location",
+  "statement": "STK Salt Lake City is located at 111 S. 300 W, Suite 101, Salt Lake City, UT 84101 in the downtown Warehouse District.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1koeyxvf",
+      "quote": "STK Salt Lake City is located at 111 S. 300 W, Suite 101, Salt Lake City, UT 84101 , in the downtown Warehouse District"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

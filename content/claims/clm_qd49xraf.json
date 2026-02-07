@@ -1,0 +1,32 @@
+{
+  "id": "clm_qd49xraf",
+  "title": "Kona Grill takes customer privacy seriously",
+  "statement": "Kona Grill has made a commitment to ensuring the privacy of customer data.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_d1bjra8n",
+      "quote": "Kona Grill takes your privacy seriously. Learn about our commitment to ensuring the privacy of your data."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

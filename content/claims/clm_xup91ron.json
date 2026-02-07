@@ -1,0 +1,36 @@
+{
+  "id": "clm_xup91ron",
+  "title": "STK Milan offers Steak Night menu for €59 per person",
+  "statement": "STK Milan has a Steak Night menu priced at €59 per person available Sunday through Thursday, including a bottle of prosecco, white or red wine.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-milan",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hxiu3mcd",
+      "quote": "STEAK NIGHT MENU - ENGLISH € 59 per person | Sunday - Thursday | Includes a bottle of prosecco, white or red wine"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_tn83bqeu",
+  "title": "togrp operates a restaurant ordering page",
+  "statement": "togrp.com has a webpage titled 'Choose a Restaurant to Order From' located at /friends-with-benefits/order/",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_p10rjcux",
+      "quote": "\"title\":{\"rendered\":\"Choose a Restaurant to Order From\"},\"link\":\"https:\\/\\/togrp.com\\/friends-with-benefits\\/order\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

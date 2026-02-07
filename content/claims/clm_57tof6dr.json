@@ -1,0 +1,36 @@
+{
+  "id": "clm_57tof6dr",
+  "title": "STK Milan district location",
+  "statement": "STK Milan is located in the Repubblica/Porta Nuova district close to Brera and Milano Centrale",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "porta-nuova",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_egjeb4ip",
+      "quote": "STK Milan is located at Piazza della Repubblica 13, 20124 Milano , in the Repubblica / Porta Nuova district close to Brera and Milano Centrale"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_h44ic60g",
+  "title": "The ONE Group used external evaluation for accessibility assessment",
+  "statement": "The ONE Group assessed the accessibility of togrp.com using external evaluation approaches.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_uod8tiw7",
+      "quote": "The One Group assessed the accessibility of togrp.com by the following approaches: External evaluation"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

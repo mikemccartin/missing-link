@@ -1,0 +1,48 @@
+{
+  "id": "clm_z3to9laq",
+  "title": "The ONE Group owns iconic restaurant brands",
+  "statement": "The ONE Group's iconic restaurant brands include STK, Benihana, Kona Grill, and RA Sushi.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nd13ttpz",
+      "quote": "The ONE Group's iconic restaurant brands include STK®, Benihana®, Kona Grill®, and RA® Sushi."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

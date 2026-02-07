@@ -1,0 +1,32 @@
+{
+  "id": "clm_7tyni4j6",
+  "title": "togrp has a Samurai page on their website",
+  "statement": "togrp.com has a published page with the slug 'samurai' and ID 322.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kaa50oyy",
+      "quote": "\"slug\":\"samurai\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/togrp.com\\/samurai\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

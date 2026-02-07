@@ -1,0 +1,32 @@
+{
+  "id": "clm_5xrnh5jz",
+  "title": "Benihana Mojito contains Bacardi Rum and Benihana Sake",
+  "statement": "The Benihana Mojito cocktail is made with Bacardi Rum, Benihana Sake, fresh limes and mint.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6mq7laq8",
+      "quote": "BENIHANA MOJITO Bacardi Rum, Benihana Sake, fresh limes and mint."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

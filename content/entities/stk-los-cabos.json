@@ -1,0 +1,7 @@
+{
+  "slug": "stk-los-cabos",
+  "name": "STK Los Cabos",
+  "type": "organization",
+  "description": "An STK Steakhouse location situated inside Los Cabos International Airport near Terminal 2 in Mexico.",
+  "parentEntity": "stk-steakhouse"
+}

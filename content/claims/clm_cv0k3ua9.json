@@ -1,0 +1,32 @@
+{
+  "id": "clm_cv0k3ua9",
+  "title": "Kona Grill Cincinnati email contact",
+  "statement": "Kona Grill Cincinnati's email address is Liberty Township@konagrill.com",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yzadv6kt",
+      "quote": "Liberty Township@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

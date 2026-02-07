@@ -1,0 +1,32 @@
+{
+  "id": "clm_gus4brhf",
+  "title": "Mai Tai served in collectible mug",
+  "statement": "Benihana's Mai Tai cocktail is served in a collectible mug.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y9ghkdfm",
+      "quote": "MAI TAI Myers's Platinum Rum with orgeat syrup, Angostura bitters, tropical fruit juices and Myers's Dark Rum float. Enjoy in a collectible mug."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_9lvg6wwc",
+  "title": "Parents must register children for Kabuki Kids program",
+  "statement": "Children cannot register themselves for Kabuki Kids; their parent or legal guardian must register for them.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_27x3g4i0",
+      "quote": "THE CHILD'S PARENT/LEGAL GUARDIAN MUST REGISTER FOR HIM/HER."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

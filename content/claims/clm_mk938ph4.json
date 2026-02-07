@@ -1,0 +1,32 @@
+{
+  "id": "clm_mk938ph4",
+  "title": "STK NYC Rooftop located at 26 Little West 12th Street",
+  "statement": "STK NYC Rooftop is located on the 4th floor at 26 Little West 12th Street, New York, NY 10014.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7ndkz1ha",
+      "quote": "STK NYC Rooftop is located on the 4th floor at 26 Little West 12th Street, New York, NY 10014"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

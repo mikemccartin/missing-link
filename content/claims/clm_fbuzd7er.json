@@ -1,0 +1,32 @@
+{
+  "id": "clm_fbuzd7er",
+  "title": "STK Fallsview operating hours weekends",
+  "statement": "STK Steakhouse Niagara Fallsview operates Friday and Saturday from 12:00pm to 2:00am.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sqh2cfld",
+      "quote": "Friday - Saturday: 12:00pm – 2:00am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

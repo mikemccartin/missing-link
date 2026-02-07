@@ -1,0 +1,32 @@
+{
+  "id": "clm_9doqokeg",
+  "title": "RA Sushi offers Valentine's Day menu",
+  "statement": "RA Sushi provides a special Valentine's Feast menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hvbc2h1u",
+      "quote": "Valentine's Feast https://rasushi.com/menu/valentines-day-menu/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

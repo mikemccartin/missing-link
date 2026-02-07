@@ -1,0 +1,32 @@
+{
+  "id": "clm_4zsz6gva",
+  "title": "The ONE Group shares personal information with third parties",
+  "statement": "The ONE Group may sell or share personal information to marketing and advertising service providers for targeted advertising purposes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7mzkp8ca",
+      "quote": "We may sell or share this information to or with marketing and advertising service providers for targeted advertising purposes."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

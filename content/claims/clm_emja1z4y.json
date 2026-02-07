@@ -1,0 +1,36 @@
+{
+  "id": "clm_emja1z4y",
+  "title": "$50 birthday reward for loyalty members",
+  "statement": "RA Sushi provides a $50 birthday reward to Friends with Benefits loyalty program members.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ucgbywvx",
+      "quote": "expect a $50 birthday reward on us — no strings attached"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

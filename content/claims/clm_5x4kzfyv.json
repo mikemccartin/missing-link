@@ -1,0 +1,32 @@
+{
+  "id": "clm_5x4kzfyv",
+  "title": "Benihana serves Ramune Japanese children's drink",
+  "statement": "Benihana offers Ramune, described as a nostalgic Japanese children's drink, in Strawberry, Grape, or Lemon-lime flavors.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sobxnm1o",
+      "quote": "RAMUNE Nostalgic Japanese Children\u201bs drink in Strawberry, Grape, or Lemon-lime."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

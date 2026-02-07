@@ -1,0 +1,32 @@
+{
+  "id": "clm_1dhk1mc4",
+  "title": "Sushi & Me teaches both children and adults sushi making",
+  "statement": "The Sushi & Me experience teaches both children and adults the art of sushi making and allows them to create their own sushi.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e8v25jm9",
+      "quote": "A culinary experience teaching both the child and adult the fine art of how to make sushi and an opportunity to create their own sushi masterpieces"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

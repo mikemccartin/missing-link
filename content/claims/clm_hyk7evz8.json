@@ -1,0 +1,32 @@
+{
+  "id": "clm_hyk7evz8",
+  "title": "STK Steakhouse operates in London, England",
+  "statement": "STK Steakhouse operates two London locations: Stratford (40 Celebration Ave, East Village) and Strand (336-337 Strand)",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "London - Stratford The Gantry, 40 Celebration Ave, East Village, London E20 1DB... London - Strand 336-337 Strand, London WC2R 1HA"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

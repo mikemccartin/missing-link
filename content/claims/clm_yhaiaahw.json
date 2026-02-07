@@ -1,0 +1,32 @@
+{
+  "id": "clm_yhaiaahw",
+  "title": "California Roll contains imitation crab",
+  "statement": "RA Sushi's California Roll contains Kani Kama crab and Kani Kama Crab mix which are imitation crab.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sheh5z1n",
+      "quote": "\u2020Kani Kama crab & Kani Kama Crab mix contain imitation crab."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

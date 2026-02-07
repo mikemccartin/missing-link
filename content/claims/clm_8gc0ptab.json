@@ -1,0 +1,32 @@
+{
+  "id": "clm_8gc0ptab",
+  "title": "RA Sushi serves plum wine",
+  "statement": "RA Sushi offers Kinsen Plum Wine on their wine menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ebljw9dn",
+      "quote": "KINSEN PLUM WINE"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

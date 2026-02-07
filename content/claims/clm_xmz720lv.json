@@ -1,0 +1,36 @@
+{
+  "id": "clm_xmz720lv",
+  "title": "STK London Stratford offers Valentine's Day menu",
+  "statement": "STK London Stratford provides a Valentine's Day menu priced at £90 per person.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-london-stratford",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2jljc2mu",
+      "quote": "Valentine's Day Menu £90 per person"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

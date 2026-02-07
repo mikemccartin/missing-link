@@ -1,0 +1,32 @@
+{
+  "id": "clm_qg5uvp36",
+  "title": "Benihana provides gluten-free soy sauce option",
+  "statement": "Benihana offers gluten-free soy sauce as an available option.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rrwmfb90",
+      "quote": "GLUTEN FREE SOY SAUCE AVAILABLE"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

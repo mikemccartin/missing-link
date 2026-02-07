@@ -1,0 +1,7 @@
+{
+  "slug": "stk-milan",
+  "name": "STK Milan",
+  "type": "organization",
+  "description": "A Milan location of STK Steakhouse located at Piazza della Repubblica, offering steaks, cocktails and lounge dining experience.",
+  "parentEntity": "stk-steakhouse"
+}

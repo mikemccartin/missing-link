@@ -1,0 +1,40 @@
+{
+  "id": "clm_anu2dgf2",
+  "title": "Kona Grill El Paso location at The Fountains at Farah",
+  "statement": "Kona Grill El Paso is located at The Fountains at Farah.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "the-fountains-at-farah",
+      "role": "related"
+    },
+    {
+      "slug": "el-paso",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7a29pr0q",
+      "quote": "The Fountains at Farah"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

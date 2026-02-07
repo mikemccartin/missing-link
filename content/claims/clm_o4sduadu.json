@@ -1,0 +1,32 @@
+{
+  "id": "clm_o4sduadu",
+  "title": "STK Steakhouse operates in Milan, Italy",
+  "statement": "STK Steakhouse has a location at Piazza della Repubblica, 13, 20124 Milano MI, Italy with phone number (39) 02-8",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Milan Piazza della Repubblica, 13, 20124 Milano MI, Italy (39) 02-8"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

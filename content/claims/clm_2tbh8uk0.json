@@ -1,0 +1,32 @@
+{
+  "id": "clm_2tbh8uk0",
+  "title": "RA Sushi Happy Hour operates Monday-Friday 3-6pm",
+  "statement": "RA Sushi's Happy Hour runs Monday through Friday from 3:00 PM to 6:00 PM, though hours may vary by location.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9etqndtl",
+      "quote": "Monday – Friday, 3–6 p.m. (Hours may vary by location)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

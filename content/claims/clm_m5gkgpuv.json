@@ -1,0 +1,32 @@
+{
+  "id": "clm_m5gkgpuv",
+  "title": "The ONE Group operates as hospitality services company",
+  "statement": "The ONE Group positions itself as a hospitality services company.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jvwp9m29",
+      "quote": "Reservations - The ONE Group - Hospitality Services"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_bpaqc8eo",
+  "title": "RA Sushi website provides RSS feed with hourly updates",
+  "statement": "RA Sushi's website offers an RSS feed that updates on an hourly basis.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8zmumehx",
+      "quote": "hourly"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

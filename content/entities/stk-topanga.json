@@ -1,0 +1,7 @@
+{
+  "slug": "stk-topanga",
+  "name": "STK Topanga",
+  "type": "organization",
+  "description": "A location of STK Steakhouse situated in Westfield Topanga shopping center in Canoga Park, California.",
+  "parentEntity": "stk-steakhouse"
+}

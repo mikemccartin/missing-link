@@ -1,0 +1,32 @@
+{
+  "id": "clm_opk0nuk4",
+  "title": "Benihana menu pricing varies by location",
+  "statement": "Menu, pricing and availability may vary by location at Benihana restaurants.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4h24k6m4",
+      "quote": "Menu, pricing and availability may vary by location."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

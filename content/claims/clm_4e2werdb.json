@@ -1,0 +1,36 @@
+{
+  "id": "clm_4e2werdb",
+  "title": "STK offers an Endless Holiday Menu with premium ingredients",
+  "statement": "STK Steakhouse features an Endless Holiday Menu with rare and decadent seasonal specialties including A5 Japanese Wagyu dishes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "a5-japanese-wagyu",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1dre71np",
+      "quote": "STK Endless Holiday Menu, featuring a collection of rare and decadent seasonal specialties... A5 Japanese Wagyu Potstickers... A5 Japanese Wagyu Steak Fried Rice"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

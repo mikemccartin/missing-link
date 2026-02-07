@@ -1,0 +1,52 @@
+{
+  "id": "clm_n6u88bwq",
+  "title": "The ONE Group operates multiple restaurant brands",
+  "statement": "The ONE Group operates restaurant brands including Samurai, STK Steakhouse, Kona Grill, RA Sushi, and Benihana.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2rlcb7ef",
+      "quote": "Brand: stk-steakhouse Brand: kona-grill Brand: ra-sushi Brand: benihana Brand: samurai"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

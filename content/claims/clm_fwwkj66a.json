@@ -1,0 +1,32 @@
+{
+  "id": "clm_fwwkj66a",
+  "title": "Privacy policy last updated July 23, 2025",
+  "statement": "The ONE Group's privacy policy was last updated on July 23rd, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nd13ttpz",
+      "quote": "Last update: July 23rd , 2025."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

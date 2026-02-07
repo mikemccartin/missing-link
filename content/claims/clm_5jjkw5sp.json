@@ -1,0 +1,32 @@
+{
+  "id": "clm_5jjkw5sp",
+  "title": "RA Sushi adopted Code of Business Conduct and Ethics in 2010",
+  "statement": "RA Sushi's Code of Business Conduct and Ethics was adopted in 2010.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_61x2glmk",
+      "quote": "Our Code of Business Conduct and Ethics, adopted in 2010, is more than a document – it is the foundation for the way we conduct ourselves and do business throughout the states."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

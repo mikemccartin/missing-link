@@ -1,0 +1,32 @@
+{
+  "id": "clm_s8jfxm07",
+  "title": "RA Sushi offers inventive cocktails",
+  "statement": "RA Sushi serves inventive cocktails as part of their menu offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vj3v7pye",
+      "quote": "At RA, we're all about lively music, an energetic atmosphere, inventive cocktails and out-of-this-world sushi."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

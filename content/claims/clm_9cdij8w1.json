@@ -1,0 +1,36 @@
+{
+  "id": "clm_9cdij8w1",
+  "title": "Benihana uses OpenTable for reservations",
+  "statement": "Benihana uses OpenTable as third-party software for their reservation system, which causes some accessibility issues.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "opentable",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tfcossuo",
+      "quote": "This error specifically is due to 3rd party software (Open Table) and not immediately resolvable."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

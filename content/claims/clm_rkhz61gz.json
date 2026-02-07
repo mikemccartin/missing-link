@@ -1,0 +1,32 @@
+{
+  "id": "clm_rkhz61gz",
+  "title": "STK Steakhouse implements vibe dining concept",
+  "statement": "STK Steakhouse implements The ONE Group's vibe dining concept, combining music, ambiance, and food for social dining experiences.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9nz4uhh",
+      "quote": "Discover the concept of Vibe Dining at STK Steakhouse. Immerse yourself in a dining experience where music, ambiance, and exceptional food create the perfect social atmosphere."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

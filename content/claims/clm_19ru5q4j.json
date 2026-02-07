@@ -1,0 +1,32 @@
+{
+  "id": "clm_19ru5q4j",
+  "title": "RA Sushi recently launched a new website",
+  "statement": "RA Sushi launched a new website to address accessibility issues and is still evaluating its accessibility.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_aec9fw3t",
+      "quote": "We have just launched a new website in efforts to address many past accessibility issues, however we are still in process of evaluating the accessibility of the new site."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_b745k50u",
+  "title": "Benihana operates throughout the United States",
+  "statement": "Benihana conducts business throughout the states.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j9vfh16d",
+      "quote": "it is the foundation for the way we conduct ourselves and do business throughout the states"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_vweyym4x",
+  "title": "Benihana integrates with OpenTable for reservations",
+  "statement": "Benihana uses OpenTable's reservation system for booking at locations with OpenTable restaurant IDs.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "opentable",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gzhh3bwp",
+      "quote": "if (locationFound && locationFound.openTableRestaurantId)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

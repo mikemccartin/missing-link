@@ -1,0 +1,36 @@
+{
+  "id": "clm_krcziuso",
+  "title": "Benihana partnered with Flock Foods for chicken crisp snack",
+  "statement": "Benihana has partnered with Flock Foods to launch a new Benihana-inspired Teriyaki Chicken Crisp snack.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "flock-foods",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3zvlqbad",
+      "quote": "Benihana has partnered with Flock Foods to launch a new Benihana-inspired Teriyaki Chicken Crisp snack."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

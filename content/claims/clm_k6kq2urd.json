@@ -1,0 +1,32 @@
+{
+  "id": "clm_k6kq2urd",
+  "title": "Kona Grill North Star serves sushi",
+  "statement": "Kona Grill North Star offers award-winning sushi as part of their menu",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vtklh80q",
+      "quote": "award-winning sushi"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

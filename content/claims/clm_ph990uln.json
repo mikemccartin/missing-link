@@ -1,0 +1,32 @@
+{
+  "id": "clm_ph990uln",
+  "title": "RA Sushi offers Hibachi Burritos for limited time",
+  "statement": "RA Sushi serves Hibachi Burritos as a limited time menu offering.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4bw269q3",
+      "quote": "Try the bold Hibachi Burritos at RA Sushi... Available for a limited time only."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

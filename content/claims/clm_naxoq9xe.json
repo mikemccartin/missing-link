@@ -1,0 +1,32 @@
+{
+  "id": "clm_naxoq9xe",
+  "title": "Be The Chef package includes multiple items",
+  "statement": "Each Be The Chef package includes training session, meals, hat, apron, certificate and commemorative photo.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_opm98ynp",
+      "quote": "Each package includes a training session, Splash 'N Meadow entr\u00e9es and vegetable fried rice for guest chef and guests, Benihana hat, Benihana apron, Benihana Teppanyaki Chef certificate and commemorative photo."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

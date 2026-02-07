@@ -1,0 +1,32 @@
+{
+  "id": "clm_b9d5bvd7",
+  "title": "Kona Grill offers upscale American food and sushi",
+  "statement": "Kona Grill offers upscale American food freshly prepared in a scratch kitchen and award-winning sushi",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yzadv6kt",
+      "quote": "upscale American food freshly prepared in a scratch kitchen, award-winning sushi"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

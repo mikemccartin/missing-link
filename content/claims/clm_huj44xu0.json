@@ -1,0 +1,32 @@
+{
+  "id": "clm_huj44xu0",
+  "title": "Class includes take-home items and certificate",
+  "statement": "The class fee includes a complimentary Benihana apron, Kabuki Sushi Dessert Treat, Certificate of Achievement and commemorative photo.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_krmxpfaq",
+      "quote": "includes a complimentary Benihana apron, Kabuki Sushi Dessert Treat and a Certificate of Achievement plus a commemorative photo"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

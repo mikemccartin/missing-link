@@ -1,0 +1,36 @@
+{
+  "id": "clm_45n9ks8i",
+  "title": "STK Steakhouse operates internationally in Qatar",
+  "statement": "STK Steakhouse has a location on the 23rd Floor of The Ritz-Carlton, West Bay Lagoon, Doha, Qatar with phone number 4484 8588",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "the-ritz-carlton",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Doha 23rd Floor of The Ritz-Carlton West Bay Lagoon, Doha, Qatar 4484 8588"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

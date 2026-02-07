@@ -1,0 +1,32 @@
+{
+  "id": "clm_4kgpw3j5",
+  "title": "Kona Grill offers $26 Steak Date special",
+  "statement": "Kona Grill offers a $26 Steak Date available all day, every day with choice of Steak Frites or Wagyu Fried Rice.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ba680o0",
+      "quote": "Kona Grill's $26 Steak Date is available all day, every day, and now features your choice of two amazing dishes"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

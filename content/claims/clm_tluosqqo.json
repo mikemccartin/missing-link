@@ -1,0 +1,36 @@
+{
+  "id": "clm_tluosqqo",
+  "title": "The ONE Group offers Friends with Benefits registration",
+  "statement": "The ONE Group provides a registration process for their Friends with Benefits program through their website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_etvlbiyv",
+      "quote": "Friends with Benefits Registration - The ONE Group - Hospitality Services"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

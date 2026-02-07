@@ -1,0 +1,36 @@
+{
+  "id": "clm_lnthufno",
+  "title": "STK Nashville brunch operates Sundays 10am-2pm",
+  "statement": "STK Nashville offers brunch service every Sunday from 10am to 2pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nashville",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wwjzpdcr",
+      "quote": "Available every Sunday: all the classics, all the fun and a little extra sparkle. When: Sundays, 10am–2pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

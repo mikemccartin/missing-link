@@ -1,0 +1,32 @@
+{
+  "id": "clm_hfzwl99k",
+  "title": "STK Orlando private event pricing",
+  "statement": "STK Orlando private event pricing begins at $45 for lunch, $95 for dinner and $50 per person for canape parties",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5okrshbl",
+      "quote": "Lunch pricing begins at $45, Dinner at $95 and Canape Parties at $50 per person."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

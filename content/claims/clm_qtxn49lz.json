@@ -1,0 +1,32 @@
+{
+  "id": "clm_qtxn49lz",
+  "title": "togrp has a cookie policy page",
+  "statement": "togrp maintains a cookie policy page on their website at togrp.com/cookie-policy/.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cow6pbde",
+      "quote": "\"slug\":\"cookie-policy\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/togrp.com\\/cookie-policy\\/\",\"title\":{\"rendered\":\"Cookie Policy\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

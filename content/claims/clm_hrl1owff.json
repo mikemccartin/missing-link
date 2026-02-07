@@ -1,0 +1,32 @@
+{
+  "id": "clm_hrl1owff",
+  "title": "RA Sushi does not provide food donations",
+  "statement": "RA Sushi does not provide food donations or food samplings for fundraising events.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ltow6jz",
+      "quote": "Please note that RA Sushi does not provide food donations or food samplings for fundraising events."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

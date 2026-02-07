@@ -1,0 +1,36 @@
+{
+  "id": "clm_ytdytnuz",
+  "title": "STK Toronto offers Rose Rituals for $69 per person",
+  "statement": "STK Toronto has a Rose Rituals menu option priced at $69 per person.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-toronto",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kaxru3xo",
+      "quote": "Rose Rituals $69 per person"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

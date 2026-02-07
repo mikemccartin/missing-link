@@ -1,0 +1,32 @@
+{
+  "id": "clm_hreyief3",
+  "title": "STK table reservations typically last two hours",
+  "statement": "STK reserves dining tables for approximately two hours to maintain service flow.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ua7c9h8s",
+      "quote": "To keep the vibe flowing for everyone, tables are typically reserved for around two hours."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

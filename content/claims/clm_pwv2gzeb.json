@@ -1,0 +1,32 @@
+{
+  "id": "clm_pwv2gzeb",
+  "title": "RA Sushi operates 24/7 ethics hotline",
+  "statement": "RA Sushi provides an ethical advocate line available 24 hours a day, 365 days a year for reporting misconduct.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_61x2glmk",
+      "quote": "This link can be used 24 hours a day, 365 days a year by employees or others to speak anonymously, or in confidence, in connection with any perceived accounting or auditing irregularities"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

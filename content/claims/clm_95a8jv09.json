@@ -1,0 +1,36 @@
+{
+  "id": "clm_95a8jv09",
+  "title": "Bara Chirashi is a signature item",
+  "statement": "Bara Chirashi is designated as a signature item at RA Sushi.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "bara-chirashi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pwtfddxc",
+      "quote": "Signature Item BARA CHIRASHI"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

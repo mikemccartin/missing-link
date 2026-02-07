@@ -1,0 +1,32 @@
+{
+  "id": "clm_pa3igwmq",
+  "title": "RA Sushi offers catering services",
+  "statement": "RA Sushi provides catering services with dedicated nutritional information.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_017cpktz",
+      "quote": "RA Sushi Catering Nutritional Information (PDF)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

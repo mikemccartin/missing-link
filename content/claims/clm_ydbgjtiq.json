@@ -1,0 +1,32 @@
+{
+  "id": "clm_ydbgjtiq",
+  "title": "RA Sushi operates official website at rasushi.com",
+  "statement": "RA Sushi operates an official website at rasushi.com that hosts their menu information.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hvbc2h1u",
+      "quote": "Menus – RA Sushi https://rasushi.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

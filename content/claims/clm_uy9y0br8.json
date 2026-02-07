@@ -1,0 +1,32 @@
+{
+  "id": "clm_uy9y0br8",
+  "title": "STK Boston offers private event spaces and catering services",
+  "statement": "STK Boston provides private and semi-private event spaces for birthdays, corporate events, and holiday parties.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_n44n8mug",
+      "quote": "STK Boston offers stunning private and semi‑private event spaces for birthdays, corporate events, holiday parties and more"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

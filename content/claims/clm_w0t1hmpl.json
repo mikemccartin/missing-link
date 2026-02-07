@@ -1,0 +1,32 @@
+{
+  "id": "clm_w0t1hmpl",
+  "title": "Taste of Kona costs $39 for 3-course dinner",
+  "statement": "Kona Grill's Taste of Kona is a 3-course dinner menu available all week for $39, including wine or bubbles.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ba680o0",
+      "quote": "this exclusive 3-course menu offers a delectable array of dishes... Each meal comes with glass of Wine or Bubbles, all for just $39!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

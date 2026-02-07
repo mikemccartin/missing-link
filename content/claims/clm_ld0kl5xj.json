@@ -1,0 +1,32 @@
+{
+  "id": "clm_ld0kl5xj",
+  "title": "Kona Grill offers private events and dining services",
+  "statement": "Kona Grill provides private event hosting services for various occasions including corporate lunches, dinners, family gatherings, and celebrations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_mhmyysxb",
+      "quote": "Whether it is a corporate lunch outing, pharma dinner, family gathering, reception, birthday, anniversary, or baby shower – Kona Grill is your ONE & ONLY destination for your next event!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

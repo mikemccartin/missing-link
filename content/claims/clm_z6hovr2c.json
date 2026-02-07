@@ -1,0 +1,32 @@
+{
+  "id": "clm_z6hovr2c",
+  "title": "Benihana offers Bounty of the Seven Seas menu",
+  "statement": "Benihana features a Bounty of the Seven Seas menu with premium seafood teppanyaki dishes for a limited time.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lxqy4gxu",
+      "quote": "Indulge in Bounty of the Seven Seas at Benihana, featuring premium seafood teppanyaki dishes with bold flavors and fresh ingredients for a limited time."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

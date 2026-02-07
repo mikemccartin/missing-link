@@ -1,0 +1,32 @@
+{
+  "id": "clm_pkllw3lo",
+  "title": "Birthday parties require 8 people with 2+ children under 12",
+  "statement": "Birthday party reservations must include a party of eight with at least two children under age 12 dining.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_27x3g4i0",
+      "quote": "Reservations for birthday parties must be made in advance and must include a party of eight with at least two children under the age of 12 dining to receive the offer."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

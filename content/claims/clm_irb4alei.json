@@ -1,0 +1,32 @@
+{
+  "id": "clm_irb4alei",
+  "title": "TOG has California-specific privacy notice for job candidates",
+  "statement": "TOG provides a separate California Job Candidate Privacy Notice for job candidates with residency in California.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5h3fvlr3",
+      "quote": "If you are job candidate with residency in California, you have certain rights regarding your personal data. Please review our California Job Candidate Privacy Notice: https://togrp.com/california-job-candidate-privacy-notice/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

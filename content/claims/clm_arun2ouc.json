@@ -1,0 +1,32 @@
+{
+  "id": "clm_arun2ouc",
+  "title": "Filet Steak Frites offered for $18",
+  "statement": "Benihana offers Filet Steak Frites for $18, available in bar, lounge, and patio areas.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nqe7pzrx",
+      "quote": "$18 Filet Steak Frites Tax and gratuity not included. Available in the bar, lounge, and patio where offered."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

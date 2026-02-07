@@ -1,0 +1,32 @@
+{
+  "id": "clm_uh6ljcvw",
+  "title": "Benihana has a location in Salt Lake City",
+  "statement": "Benihana operates a restaurant location in Salt Lake City.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kumabcvz",
+      "quote": "Salt Lake City https://www.benihana.com/locations/salt-lake-city/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

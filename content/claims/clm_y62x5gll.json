@@ -1,0 +1,32 @@
+{
+  "id": "clm_y62x5gll",
+  "title": "Kona Grill Tampa food and service offerings",
+  "statement": "Kona Grill Tampa serves upscale American food prepared in a scratch kitchen, award-winning sushi, and operates a modern bar.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_z41hk1ea",
+      "quote": "upscale American food freshly prepared in a scratch kitchen, award-winning sushi and modern bar"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

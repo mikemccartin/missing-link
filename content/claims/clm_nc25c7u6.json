@@ -1,0 +1,36 @@
+{
+  "id": "clm_nc25c7u6",
+  "title": "Benihana started with one restaurant in New York City in 1964",
+  "statement": "Benihana began as one teppanyaki restaurant in New York City in 1964.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_14nxkz4n",
+      "quote": "The brand has grown from one teppanyaki restaurant in New York City in 1964 to 77 restaurants"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

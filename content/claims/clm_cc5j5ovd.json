@@ -1,0 +1,40 @@
+{
+  "id": "clm_cc5j5ovd",
+  "title": "Kona Grill Alpharetta location address",
+  "statement": "Kona Grill has a location at 5100 Avalon Blvd Alpharetta, GA 30009.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "alpharetta",
+      "role": "related"
+    },
+    {
+      "slug": "avalon",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ag2mnccd",
+      "quote": "5100 Avalon Blvd Alpharetta, GA 30009"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

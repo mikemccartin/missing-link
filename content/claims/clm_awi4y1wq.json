@@ -1,0 +1,44 @@
+{
+  "id": "clm_awi4y1wq",
+  "title": "Kona Grill Denver location in Cherry Creek Shopping Center",
+  "statement": "Kona Grill Denver is located in Cherry Creek Shopping Center off 1st Ave next to Neiman Marcus.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "cherry-creek-shopping-center",
+      "role": "related"
+    },
+    {
+      "slug": "neiman-marcus",
+      "role": "related"
+    },
+    {
+      "slug": "west-elm",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pzt2woln",
+      "quote": "We are located off 1st Ave next to Neiman Marcus, in front of the valet entrance and across the street from West Elm."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

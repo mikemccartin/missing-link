@@ -1,0 +1,36 @@
+{
+  "id": "clm_inrkc5bw",
+  "title": "STK Washington DC offers power lunch with time guarantee",
+  "statement": "STK Washington DC offers a $45 Prix Fixe Power Lunch Menu available Monday-Friday 11am-3pm with 45 minutes guaranteed service.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-washington-dc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9h73b3s",
+      "quote": "$45 Prix Fixe. Available Monday - Friday, 11am - 3pm. Select One from Each Course. 45 Minutes Guaranteed"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

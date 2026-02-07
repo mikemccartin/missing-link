@@ -1,0 +1,32 @@
+{
+  "id": "clm_xbqnmi5f",
+  "title": "Some Benihana private dining options have different group minimums",
+  "statement": "Some of Benihana's private dining options have different minimum group size requirements.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ruc0rcdn",
+      "quote": "Some of our private dining options have different group minimums"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

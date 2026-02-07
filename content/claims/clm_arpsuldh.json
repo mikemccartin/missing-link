@@ -1,0 +1,32 @@
+{
+  "id": "clm_arpsuldh",
+  "title": "STK Charlotte private dining capacity",
+  "statement": "STK Charlotte features private rooms that seat up to 20 guests per room or 40 combined for seated dinner events.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_822hsh8y",
+      "quote": "Our expandable private event rooms seat 20 people per room and comfortably host 40 guests for a seated dinner."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

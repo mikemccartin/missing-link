@@ -1,0 +1,32 @@
+{
+  "id": "clm_x1qvtc9o",
+  "title": "Power Lunch includes brownie dessert to-go",
+  "statement": "Every Power Lunch includes a brownie dessert to take away",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_afzx9v0i",
+      "quote": "every Power Lunch comes with a sweet brownie to-go"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

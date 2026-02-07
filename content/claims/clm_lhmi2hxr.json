@@ -1,0 +1,32 @@
+{
+  "id": "clm_lhmi2hxr",
+  "title": "Bao Yum Offers Delivery Service",
+  "statement": "Bao Yum offers food delivery through multiple delivery partners",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_z7mf6wcf",
+      "quote": "Choose from one of our delivery partners below:"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

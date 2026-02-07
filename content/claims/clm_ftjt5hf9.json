@@ -1,0 +1,36 @@
+{
+  "id": "clm_ftjt5hf9",
+  "title": "STK South Beach location address",
+  "statement": "STK South Beach is located at 2305 Collins Ave, Miami Beach, FL 33139.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "collins-avenue",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t083h583",
+      "quote": "2305 Collins Ave Miami Beach, FL 33139"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

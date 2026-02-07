@@ -1,0 +1,52 @@
+{
+  "id": "clm_jy474nfn",
+  "title": "Points earned at multiple restaurant brands",
+  "statement": "Friends with Benefits members earn points for spending at STK Steakhouse, Kona Grill, Benihana, RA Sushi, Samurai, and Salt Water Social.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    },
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "samurai",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s0bzzbkf",
+      "quote": "Earn points for every dollar you spend at STK Steakhouse, Kona Grill, Benihana, RA Sushi, Samurai, and Salt Water Social"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

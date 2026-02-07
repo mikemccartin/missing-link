@@ -1,0 +1,32 @@
+{
+  "id": "clm_8i6qu280",
+  "title": "STK South Beach offers Restaurant Week dinner",
+  "statement": "STK South Beach participates in Restaurant Week with a $60 dinner menu featuring selections from three courses.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ahsojywq",
+      "quote": "Restaurant Week Dinner $60 | Select 1 From Each Course"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

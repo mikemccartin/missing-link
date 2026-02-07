@@ -1,0 +1,32 @@
+{
+  "id": "clm_vj8q886b",
+  "title": "Power Lunch requires special seating notification",
+  "statement": "Guests must notify the host upon check-in that they're there for the 45-Minute Power Lunch to be seated at a designated teppan table.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qljpz088",
+      "quote": "Guests must notify the host upon check-in that they're there for the 45-Minute Power Lunch to be seated at a designated teppan table."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

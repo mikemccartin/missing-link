@@ -1,0 +1,32 @@
+{
+  "id": "clm_jf7y3sqd",
+  "title": "STK Los Cabos breakfast menu availability",
+  "statement": "STK Los Cabos serves a dedicated breakfast menu alongside an all day menu",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_icjfm2ha",
+      "quote": "Yes STK Los Cabos serves a dedicated Breakfast Menu alongside an All Day Menu , ideal for early morning flights, layovers, and relaxed airport dining."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

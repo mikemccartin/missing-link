@@ -1,0 +1,32 @@
+{
+  "id": "clm_pkz4sp3u",
+  "title": "STK Atlanta operates Monday-Thursday 11am-11:30pm",
+  "statement": "STK Atlanta is open Monday through Thursday from 11am to 11:30pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_konbsmnj",
+      "quote": "Monday – Thursday: 11am – 11:30pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

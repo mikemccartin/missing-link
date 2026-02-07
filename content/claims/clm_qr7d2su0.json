@@ -1,0 +1,40 @@
+{
+  "id": "clm_qr7d2su0",
+  "title": "STK San Diego is located at 600 F Street, San Diego, CA 92101",
+  "statement": "STK San Diego is located at 600 F Street, San Diego, CA 92101 in the Gaslamp Quarter.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "gaslamp-quarter",
+      "role": "related"
+    },
+    {
+      "slug": "andaz-san-diego",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5rvpgspm",
+      "quote": "STK San Diego is located at 600 F Street, San Diego, CA 92101, on the first floor of Andaz San Diego in the Gaslamp Quarter."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

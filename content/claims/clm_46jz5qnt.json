@@ -1,0 +1,32 @@
+{
+  "id": "clm_46jz5qnt",
+  "title": "Tax and gratuity not included in promotional price",
+  "statement": "The $18 price for the Filet Steak & Frites deal does not include tax and gratuity.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0huubil3",
+      "quote": "Tax and gratuity not included."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

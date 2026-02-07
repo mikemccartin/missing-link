@@ -1,0 +1,32 @@
+{
+  "id": "clm_zeduwt4l",
+  "title": "Kona Grill offers Kona Jambalaya as an appetizer",
+  "statement": "Kona Grill serves Kona Jambalaya described as having bold flavors.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_unaqxb56",
+      "quote": "You can also start things off with the bold flavors of our Kona Jambalaya"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

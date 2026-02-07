@@ -1,0 +1,36 @@
+{
+  "id": "clm_a9orh3pu",
+  "title": "The ONE Group uses OpenTable for reservations",
+  "statement": "The ONE Group uses OpenTable and other reservation service providers for their reservations feature.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "opentable",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nd13ttpz",
+      "quote": "some content or applications associated with our Sites may be provided by third parties, such as the reservations feature provided through OpenTable and other reservation service providers"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

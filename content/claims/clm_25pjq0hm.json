@@ -1,0 +1,32 @@
+{
+  "id": "clm_25pjq0hm",
+  "title": "The ONE Group integrates accessibility into procurement practices",
+  "statement": "The ONE Group integrates accessibility into their procurement practices.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_uod8tiw7",
+      "quote": "Integrate accessibility into our procurement practices."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

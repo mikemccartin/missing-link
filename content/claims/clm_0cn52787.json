@@ -1,0 +1,32 @@
+{
+  "id": "clm_0cn52787",
+  "title": "Benihana offers non-alcoholic beer options",
+  "statement": "Benihana provides non-alcoholic beer options including Asahi 0.0 and Athletic Golden.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_clil7tuk",
+      "quote": "ASAHI 0.0 (NON-ALCOHOLIC) ... ATHLETIC GOLDEN (NON-ALCOHOLIC)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

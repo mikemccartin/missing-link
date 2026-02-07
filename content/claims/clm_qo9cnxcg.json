@@ -1,0 +1,32 @@
+{
+  "id": "clm_qo9cnxcg",
+  "title": "STK Charlotte offers Steak Night special pricing",
+  "statement": "STK Charlotte offers a Steak Night special for $69 per person on Sunday through Thursday, including La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vomgvkxq",
+      "quote": "$69 Per Person. Sunday-Thursday, Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

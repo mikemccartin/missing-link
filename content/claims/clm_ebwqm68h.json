@@ -1,0 +1,36 @@
+{
+  "id": "clm_ebwqm68h",
+  "title": "STK Washington DC offers multiple dining menus",
+  "statement": "STK Washington DC provides dinner menu, lunch menu, brunch menu, happy hour menu, and special event menus.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-washington-dc",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9h73b3s",
+      "quote": "Choose a Menu: Dinner Menu, Lunch Menu, Power Lunch Menu, Pre Theater Menu, Sunday Brunch, Happy Hour Menu, Steak Night, Restaurant Week"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

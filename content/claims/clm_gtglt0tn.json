@@ -1,0 +1,32 @@
+{
+  "id": "clm_gtglt0tn",
+  "title": "TOG retains candidate information for limited time if unsuccessful",
+  "statement": "If an application is unsuccessful or declined, TOG retains personal information for a limited period for future opportunities and legal compliance.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f1nuouc2",
+      "quote": "If your application is unsuccessful or if it is successful and you choose not to accept our offer, we will retain your Personal Information for a limited period of time in accordance with our data retention policy"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

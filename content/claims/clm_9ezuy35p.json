@@ -1,0 +1,32 @@
+{
+  "id": "clm_9ezuy35p",
+  "title": "Ahi Tuna Poke Bowl is a signature item",
+  "statement": "The Ahi Tuna Poke Bowl is designated as a signature menu item at RA Sushi.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_o0qoomij",
+      "quote": "Signature Item AHI TUNA POKE BOWL Ahi tuna, cucumber and green onions mixed in poke sauce"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

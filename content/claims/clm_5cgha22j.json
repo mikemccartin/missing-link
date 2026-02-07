@@ -1,0 +1,32 @@
+{
+  "id": "clm_5cgha22j",
+  "title": "STK Las Vegas phone number is 877-681-8291",
+  "statement": "STK Las Vegas can be contacted at phone number 877-681-8291.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sc3d0ebn",
+      "quote": "877-681-8291"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_hegxkb07",
+  "title": "RA Sushi About Us page last modified October 2025",
+  "statement": "RA Sushi's About Us webpage was last modified on October 3, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8duq7pyd",
+      "quote": "\"modified\":\"2025-10-03T11:15:11\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

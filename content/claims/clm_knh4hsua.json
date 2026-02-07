@@ -1,0 +1,36 @@
+{
+  "id": "clm_knh4hsua",
+  "title": "STK London location within ME London Hotel",
+  "statement": "STK London – Strand is located within ME London Hotel.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "me-london-hotel",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3xi1w6m0",
+      "quote": "STK London – Strand is located at 336–337 Strand, London WC2R 1HA , within ME London Hotel"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

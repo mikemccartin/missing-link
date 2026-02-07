@@ -1,0 +1,40 @@
+{
+  "id": "clm_9ui0979w",
+  "title": "Benihana offers proprietary sauces",
+  "statement": "Benihana serves proprietary sauces including Benihana Original Garlic Sauce and Benihana Original Yum Yum Sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana-original-garlic-sauce",
+      "role": "related"
+    },
+    {
+      "slug": "benihana-original-yum-yum-sauce",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rrwmfb90",
+      "quote": "Benihana Original Garlic Sauce™ 2 oz or 16 oz... Benihana Original Yum Yum Sauce™ 2 oz or 16 oz"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

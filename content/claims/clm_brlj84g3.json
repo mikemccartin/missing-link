@@ -1,0 +1,32 @@
+{
+  "id": "clm_brlj84g3",
+  "title": "Benihana's California Roll contains imitation crab",
+  "statement": "The California Roll served at Benihana contains kani kama crab and kani kama crab mix, which are imitation crab products.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0337kl9b",
+      "quote": "Kani kama crab & kani kama crab mix contain imitation crab."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

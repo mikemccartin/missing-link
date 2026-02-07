@@ -1,0 +1,32 @@
+{
+  "id": "clm_rtpldq6r",
+  "title": "togrp operates a reservations page",
+  "statement": "togrp has a reservations page as part of their 'friends-with-benefits' section on their website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_r2fl1e9b",
+      "quote": "\"link\":\"https:\\/\\/togrp.com\\/friends-with-benefits\\/reservations\\/\",\"title\":{\"rendered\":\"Reservations\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_ibm17uns",
+  "title": "RA Sushi provides braille gift cards via phone order",
+  "statement": "RA Sushi offers gift cards with braille that can be ordered by calling 1-305-702-2897.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vyb0dew2",
+      "quote": "If you wish to purchase a gift card with braille, you may order one by calling 1-305-702-2897."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

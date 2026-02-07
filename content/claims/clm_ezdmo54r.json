@@ -1,0 +1,32 @@
+{
+  "id": "clm_ezdmo54r",
+  "title": "STK serves contemporary American cuisine",
+  "statement": "STK serves contemporary American cuisine and specialty cocktails for brunch, lunch, dinner and happy hour.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6fhf6fb1",
+      "quote": "Enjoy our contemporary American cuisine and speciality cocktails for brunch, lunch, dinner and happy hour."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

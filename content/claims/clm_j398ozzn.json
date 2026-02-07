@@ -1,0 +1,32 @@
+{
+  "id": "clm_j398ozzn",
+  "title": "STK operates a loyalty rewards program",
+  "statement": "STK offers a loyalty program where customers earn points for every dollar spent.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6fhf6fb1",
+      "quote": "Earn points for every dollar you spend. Join our loyalty program"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

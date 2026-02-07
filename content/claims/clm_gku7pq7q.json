@@ -1,0 +1,32 @@
+{
+  "id": "clm_gku7pq7q",
+  "title": "Hibachi Supreme served with six accompaniments",
+  "statement": "The Hibachi Supreme is served with onion soup, salad, hibachi shrimp appetizer, hibachi vegetables, Japanese hot green tea, and ice cream or sherbet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s86phq8d",
+      "quote": "SERVED WITH \u2022Onion soup \u2022Salad \u2022Hibachi shrimp appetizer \u2022Hibachi vegetables \u2022Japanese hot green tea \u2022Ice cream or sherbet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

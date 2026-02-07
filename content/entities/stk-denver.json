@@ -1,0 +1,7 @@
+{
+  "slug": "stk-denver",
+  "name": "STK Denver",
+  "type": "organization",
+  "description": "A location of STK Steakhouse in Denver, Colorado that serves modern steakhouse cuisine.",
+  "parentEntity": "stk-steakhouse"
+}

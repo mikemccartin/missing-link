@@ -1,0 +1,32 @@
+{
+  "id": "clm_as88sbtj",
+  "title": "RA Sushi website uses Contact Form 7 plugin",
+  "statement": "RA Sushi's website implements Contact Form 7 plugin for form functionality.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kxh9lrpy",
+      "quote": "\"contact-form-7\\/v1\",\"rankmath\\/v1\",\"rankmath\\/v1\\/setupWizard\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

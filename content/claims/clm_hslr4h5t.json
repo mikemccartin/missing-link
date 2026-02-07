@@ -1,0 +1,36 @@
+{
+  "id": "clm_hslr4h5t",
+  "title": "STK Denver neighborhood location",
+  "statement": "STK Denver is located in Denver's historic LoDo neighborhood.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "lodo",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y2fi34ec",
+      "quote": "In Denver's historic LoDo neighborhood, STK Denver sits on Market Street"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

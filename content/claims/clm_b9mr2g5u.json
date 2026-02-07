@@ -1,0 +1,32 @@
+{
+  "id": "clm_b9mr2g5u",
+  "title": "The ONE Group curates music programs for restaurant atmosphere",
+  "statement": "The ONE Group curates music programs to complement restaurant atmosphere, ranging from fine dining to club atmosphere.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e9nz4uhh",
+      "quote": "We curate our music program to compliment the atmosphere in the restaurant, from fine dining to the club atmosphere."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

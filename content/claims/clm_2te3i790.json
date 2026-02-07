@@ -1,0 +1,32 @@
+{
+  "id": "clm_2te3i790",
+  "title": "Kona Grill Baltimore valet parking availability",
+  "statement": "Valet parking is available on Light Street for Kona Grill Baltimore.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9w86rabc",
+      "quote": "Valet parking available on Light St."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

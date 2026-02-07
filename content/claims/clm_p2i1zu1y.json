@@ -1,0 +1,32 @@
+{
+  "id": "clm_p2i1zu1y",
+  "title": "Kona Grill 2025 theme is version 1.0.0",
+  "statement": "The Kona Grill 2025 WordPress theme is currently at version 1.0.0.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qzacd5wv",
+      "quote": "Version: 1.0.0"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

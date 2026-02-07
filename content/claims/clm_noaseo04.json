@@ -1,0 +1,32 @@
+{
+  "id": "clm_noaseo04",
+  "title": "STK Aventura has a $69 Steak Night promotion",
+  "statement": "STK Aventura offers a Steak Night promotion for $69 per person for dinner for two, Sunday through Thursday, including a bottle of wine.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yn8rc1p0",
+      "quote": "$69 Per Person. Dinner for Two. Sunday - Thursday. Includes bottle of La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

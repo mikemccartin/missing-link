@@ -1,0 +1,32 @@
+{
+  "id": "clm_9l17s2un",
+  "title": "STK Bellevue offers Steak Night promotion",
+  "statement": "STK Bellevue offers a $69 per person Steak Night promotion Sunday through Thursday that includes La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_12jpky1y",
+      "quote": "$69 Per Person. Sunday-Thursday, Includes: La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

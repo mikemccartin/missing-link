@@ -1,0 +1,32 @@
+{
+  "id": "clm_wm1ujnmw",
+  "title": "RA Sushi has a donations page on their website",
+  "statement": "RA Sushi maintains a donations page at https://rasushi.com/donations/ that was created on August 12, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_zni2yrb1",
+      "quote": "\"title\":{\"rendered\":\"Donations\"},\"link\":\"https:\\/\\/rasushi.com\\/donations\\/\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

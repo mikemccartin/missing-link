@@ -1,0 +1,32 @@
+{
+  "id": "clm_xc8kwon1",
+  "title": "Benihana broke Guinness World Record for Longest Cooking Marathon in 2018",
+  "statement": "Benihana broke the Guinness World Record for Longest Cooking Marathon in 2018.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_db0l3ppq",
+      "quote": "2018 : Benihana breaks Guinness World Record for Longest Cooking Marathon"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

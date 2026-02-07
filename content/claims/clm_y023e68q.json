@@ -1,0 +1,40 @@
+{
+  "id": "clm_y023e68q",
+  "title": "STK operates two London locations",
+  "statement": "STK has two restaurant locations in London: one in Stratford and one on the Strand.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-london-stratford",
+      "role": "related"
+    },
+    {
+      "slug": "stk-london-strand",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2jljc2mu",
+      "quote": "London – Stratford, London – Strand"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

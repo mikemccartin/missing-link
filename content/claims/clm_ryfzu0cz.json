@@ -1,0 +1,32 @@
+{
+  "id": "clm_ryfzu0cz",
+  "title": "Free garage parking for lunch patrons",
+  "statement": "STK Salt Lake City provides free garage parking for lunch patrons until 4pm Monday through Sunday.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1koeyxvf",
+      "quote": "Free garage parking is available for STK lunch patrons until 4pm Monday – Sunday"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

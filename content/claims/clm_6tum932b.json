@@ -1,0 +1,32 @@
+{
+  "id": "clm_6tum932b",
+  "title": "The ONE Group maintains a privacy policy",
+  "statement": "The ONE Group has published a privacy policy on their website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wgnzkstg",
+      "quote": "\"title\":\"Privacy Policy\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

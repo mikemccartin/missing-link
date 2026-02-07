@@ -1,0 +1,7 @@
+{
+  "slug": "stk-nyc-downtown",
+  "name": "STK NYC Downtown",
+  "type": "organization",
+  "description": "A specific location of STK Steakhouse situated in Manhattan's Meatpacking District. It serves steaks, seafood, and offers weekend brunch, happy hour, and private events.",
+  "parentEntity": "stk-steakhouse"
+}

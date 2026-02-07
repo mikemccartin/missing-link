@@ -1,0 +1,36 @@
+{
+  "id": "clm_wy0s2bas",
+  "title": "STK Group brands are available for licensing through The ONE Group",
+  "statement": "The ONE Group offers licensing opportunities for STK Group brands through an inquiry form process.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_20je7h5a",
+      "quote": "If you are interested in licensing an STK Group brand, please fill out the form below and a member of our team will get back to you via your preferred method of contact."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_j8vda8cp",
+  "title": "RA Sushi offers free appetizer for loyalty program signup",
+  "statement": "RA Sushi provides a free appetizer to customers who sign up for their Friends with Benefits loyalty program.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4cqr3dsg",
+      "quote": "Join our loyalty program Friends with Benefits to unlock instant member status and enjoy a free appetiser just for signing up."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

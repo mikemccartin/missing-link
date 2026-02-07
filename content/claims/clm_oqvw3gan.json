@@ -1,0 +1,36 @@
+{
+  "id": "clm_oqvw3gan",
+  "title": "STK Oak Brook offers Happy Hour menu",
+  "statement": "STK Oak Brook provides a Happy Hour menu as part of their dining options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-oak-brook",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b9ls10lk",
+      "quote": "Experience fine dining at STK Oak Brook with our Happy Hour menu"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

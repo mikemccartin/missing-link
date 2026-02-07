@@ -1,0 +1,36 @@
+{
+  "id": "clm_xwwzvokt",
+  "title": "STK Los Cabos uses USDA-approved imported products",
+  "statement": "All products at STK Los Cabos are US imported and approved by the USDA.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "usda",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_tam49yst",
+      "quote": "All our products are US imported and approved by the USDA"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

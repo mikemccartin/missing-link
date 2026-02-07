@@ -1,0 +1,40 @@
+{
+  "id": "clm_t2tw0v2l",
+  "title": "Modern sushi began in 1824",
+  "statement": "Modern sushi as we know it began in 1824 when Yohei Hanaya started selling raw seafood on rice beds in Edo.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "yohei-hanaya",
+      "role": "related"
+    },
+    {
+      "slug": "edo",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_009lw9q2",
+      "quote": "But sushi as we know it today didn't truly arrive until 1824, when Yohei Hanaya started selling raw slices of seafood on beds of rice in his Edo food stall."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

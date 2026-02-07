@@ -1,0 +1,36 @@
+{
+  "id": "clm_0psdxput",
+  "title": "RA Sushi reservation system uses Mapbox for location services",
+  "statement": "RA Sushi's online reservation platform integrates Mapbox mapping services to help customers find restaurant locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "mapbox",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_zk7bs43l",
+      "quote": "mapboxgl.accessToken = 'pk.eyJ1IjoiZmFuYXRpY2Rldi1yYS1zdXNoaSIsImEiOiJjbWU4aWt2bWwwZDA2MmpxdnVicTM0aXBhIn0.mcj-szZYPCGYzJ7QNJFu7Q';"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

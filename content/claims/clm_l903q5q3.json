@@ -1,0 +1,32 @@
+{
+  "id": "clm_l903q5q3",
+  "title": "STK Orlando private dining availability",
+  "statement": "STK Orlando features private dining rooms on the main floor and semi-private spaces on the second level",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5okrshbl",
+      "quote": "STK Orlando features private dining rooms on the main floor and semi‑private spaces on the second level with an indoor/outdoor wraparound bar"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

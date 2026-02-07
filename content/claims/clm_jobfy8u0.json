@@ -1,0 +1,36 @@
+{
+  "id": "clm_jobfy8u0",
+  "title": "STK Dallas Restaurant Week lunch pricing",
+  "statement": "STK Dallas offers Restaurant Week lunch for $29 with selection of one item from each course.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-dallas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ex5xzb2g",
+      "quote": "Restaurant Week Lunch $29 | Select 1 From Each Course"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

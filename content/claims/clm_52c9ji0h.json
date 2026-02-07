@@ -1,0 +1,36 @@
+{
+  "id": "clm_52c9ji0h",
+  "title": "STK venues feature DJ entertainment",
+  "statement": "Every STK Steakhouse venue has a DJ to create a high-energy atmosphere.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_olckrnm5",
+      "quote": "Every venue has a DJ to create an infectious, high-energy atmosphere."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_nmcpz9bt",
+  "title": "STK NYC Downtown operates Steak Night promotion Sunday-Thursday",
+  "statement": "STK NYC Downtown offers a Steak Night promotion Sunday through Thursday for $69 per person including a bottle of La Marca Prosecco or Bonanza Cabernet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_phc3r0j1",
+      "quote": "Steak Night Sunday-Thursday. $69 Per Person. Includes: Bottle of La Marca Prosecco or Bonanza Cabernet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

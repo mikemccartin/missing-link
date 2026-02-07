@@ -1,0 +1,36 @@
+{
+  "id": "clm_vdtw8xco",
+  "title": "RA Sushi Valentine's Feast runs February 9-16, 2026",
+  "statement": "RA Sushi offers a Valentine's Feast promotion from February 9 through February 16, 2026.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "valentine",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ag3rscau",
+      "quote": "February 9–16 Dine-In Only"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

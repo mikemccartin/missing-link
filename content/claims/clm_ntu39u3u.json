@@ -1,0 +1,32 @@
+{
+  "id": "clm_ntu39u3u",
+  "title": "The ONE Group participated in investor conferences in September 2024",
+  "statement": "The ONE Group Hospitality, Inc. participated in four September investor conferences in 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gwueztkl",
+      "quote": "The ONE Group Hospitality, Inc. to Participate in Four September Investor Conferences"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

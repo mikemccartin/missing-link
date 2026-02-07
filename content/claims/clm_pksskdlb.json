@@ -1,0 +1,40 @@
+{
+  "id": "clm_pksskdlb",
+  "title": "Proximity to Vivint Arena and Salt Palace Convention Center",
+  "statement": "STK Salt Lake City is located near Vivint Arena and the Salt Palace Convention Center.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "vivint-arena",
+      "role": "related"
+    },
+    {
+      "slug": "salt-palace-convention-center",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1koeyxvf",
+      "quote": "STK Salt Lake City sits on 300 West just a short walk from Vivint Arena , the Salt Palace Convention Center"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

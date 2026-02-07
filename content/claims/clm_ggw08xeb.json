@@ -1,0 +1,40 @@
+{
+  "id": "clm_ggw08xeb",
+  "title": "togrp uses Chassis WordPress theme by Fanatic Design",
+  "statement": "The website togrp.com uses the Chassis WordPress theme created by Fanatic Design.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "fanatic-design",
+      "role": "related"
+    },
+    {
+      "slug": "chassis",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e3jds2zk",
+      "quote": "Theme Name: Chassis by Fanatic Theme URI: https://fanatic.co.uk/ Author: Fanatic Design"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

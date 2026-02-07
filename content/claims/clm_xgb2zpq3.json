@@ -1,0 +1,32 @@
+{
+  "id": "clm_xgb2zpq3",
+  "title": "Hibachi Steak contains grilled New York strip steak and mushrooms",
+  "statement": "The Hibachi Steak dish is made with grilled New York strip steak and mushrooms.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_td6mc7sg",
+      "quote": "HIBACHI STEAK Grilled New York strip steak and mushrooms"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "src_saux700o",
+  "title": "Kona Grill oEmbed Endpoint",
+  "publisher": "Kona Grill",
+  "url": "https://konagrill.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkonagrill.com%2F",
+  "accessDate": "2026-02-06",
+  "type": "webpage",
+  "excerpt": "Technical oEmbed endpoint providing metadata for Kona Grill's homepage embedding functionality"
+}

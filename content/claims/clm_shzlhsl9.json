@@ -1,0 +1,32 @@
+{
+  "id": "clm_shzlhsl9",
+  "title": "TOG shares information with service providers for business purposes",
+  "statement": "TOG discloses personal information to recruitment services, background check providers, and fraud detection services for business purposes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f1nuouc2",
+      "quote": "Recruitment and personnel management service providers, background check providers, fraud detection and security service providers"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

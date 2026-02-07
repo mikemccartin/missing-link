@@ -1,0 +1,32 @@
+{
+  "id": "clm_b0nmvxpv",
+  "title": "RA Sushi offers digital and physical gift cards",
+  "statement": "RA Sushi provides both digital gift cards and mailed plastic gift cards, including braille options by request.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hbuiv06u",
+      "quote": "We offer both digital gift cards and mailed plastic gift cards. By request we also offer a gift card with braille."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

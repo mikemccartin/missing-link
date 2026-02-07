@@ -1,0 +1,32 @@
+{
+  "id": "clm_np95qda4",
+  "title": "Benihana will update cage-free egg progress annually",
+  "statement": "Benihana will update their progress on cage-free egg sourcing annually.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_on9j5ri1",
+      "quote": "We will update our progress annually"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

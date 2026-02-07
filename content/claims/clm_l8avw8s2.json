@@ -1,0 +1,32 @@
+{
+  "id": "clm_l8avw8s2",
+  "title": "togrp contact page created on June 17, 2024",
+  "statement": "togrp's contact page was created on June 17, 2024 at 13:53:15",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_082v8ez8",
+      "quote": "\"date\":\"2024-06-17T13:53:15\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

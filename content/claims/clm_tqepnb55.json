@@ -1,0 +1,32 @@
+{
+  "id": "clm_tqepnb55",
+  "title": "RA Sushi offers Spicy Shrimp Soup with specific ingredients",
+  "statement": "RA Sushi serves Spicy Shrimp Soup with shrimp in spicy miso broth, tofu, green onions, mushrooms and spinach.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_50orwhzz",
+      "quote": "SPICY SHRIMP SOUP Shrimp simmered in a spicy miso broth with tofu, green onions, mushrooms and spinach"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

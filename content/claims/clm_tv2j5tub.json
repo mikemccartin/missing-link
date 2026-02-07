@@ -1,0 +1,32 @@
+{
+  "id": "clm_tv2j5tub",
+  "title": "Kona Grill private events page was last modified in December 2024",
+  "statement": "The private events page was last modified on December 30, 2024",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bjznehrj",
+      "quote": "\"modified\":\"2025-12-30T09:46:15\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_vym3fsoq",
+  "title": "Kona Grill privacy policy last updated July 23rd, 2025",
+  "statement": "The privacy policy for Kona Grill was last updated on July 23rd, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8bww5ipc",
+      "quote": "Last update: July 23rd, 2025."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

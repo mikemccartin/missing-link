@@ -1,0 +1,32 @@
+{
+  "id": "clm_u9g91i2p",
+  "title": "Benihana offers Kabuki Sushi classes for children ages 5-12",
+  "statement": "Benihana offers a sushi-making class called Kabuki Sushi for young guests ages five to 12.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_krmxpfaq",
+      "quote": "Benihana is pleased to introduce a sushi-making class for our young guests, ages five to 12!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

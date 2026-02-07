@@ -1,0 +1,40 @@
+{
+  "id": "clm_10zmy0vz",
+  "title": "TOG collects information from third-party platforms",
+  "statement": "TOG receives personal information from third-party sites like LinkedIn and Indeed that candidates authorize to share information.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "linkedin",
+      "role": "related"
+    },
+    {
+      "slug": "indeed",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f1nuouc2",
+      "quote": "Personal Information provided by third party sites that you authorize to disclose information with us, such as LinkedIn or Indeed."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

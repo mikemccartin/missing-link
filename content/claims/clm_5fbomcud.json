@@ -1,0 +1,32 @@
+{
+  "id": "clm_5fbomcud",
+  "title": "Benihana offers signature cocktails during Happy Hour",
+  "statement": "Benihana's Happy Hour includes signature cocktails such as Benihana Punch, Mai Tai, Haiku Colada, and Cucumber Collins.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rgbmv5wi",
+      "quote": "SIGNATURE COCKTAILS \u2022 Benihana Punch \u2022 Mai Tai \u2022 Haiku Colada \u2022 Cucumber Collins"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

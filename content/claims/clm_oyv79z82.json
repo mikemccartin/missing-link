@@ -1,0 +1,36 @@
+{
+  "id": "clm_oyv79z82",
+  "title": "RA Sushi operates a loyalty program called Friends With Benefits",
+  "statement": "RA Sushi has a loyalty program named 'Friends With Benefits' that customers can join.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_dwwwejhk",
+      "quote": "Friends With Benefits Join our Loyalty Program"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

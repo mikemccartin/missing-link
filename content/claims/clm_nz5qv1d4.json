@@ -1,0 +1,32 @@
+{
+  "id": "clm_nz5qv1d4",
+  "title": "RA Sushi incorporates sake into multiple cocktails",
+  "statement": "RA Sushi uses various types of sake in cocktails, including Nigori Crème de Sake, MIO Sparkling Sake, and sweet nigori sake.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ouf02ne2",
+      "quote": "NIGORI LYCHEETINI Wheatley Craft Vodka, lychee purée and sweet nigori sake, shaken ice cold"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

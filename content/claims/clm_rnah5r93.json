@@ -1,0 +1,32 @@
+{
+  "id": "clm_rnah5r93",
+  "title": "RA Sushi offers Ferrari Ros\u00e9 Sparkling wine",
+  "statement": "RA Sushi includes Ferrari Ros\u00e9 Sparkling wine on their wine menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k8gp16v1",
+      "quote": "FERRARI ROS\u00c9 SPARKLING"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

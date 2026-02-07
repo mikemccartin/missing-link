@@ -1,0 +1,32 @@
+{
+  "id": "clm_6044huyj",
+  "title": "Benihana Punch served in collectible mug",
+  "statement": "The Benihana Punch cocktail is served in a collectible mug.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y9ghkdfm",
+      "quote": "BENIHANA PUNCH Myers's Platinum Rum, Bols strawberry and peach liqueurs and tropical fruit juices. Enjoy in a collectible mug."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

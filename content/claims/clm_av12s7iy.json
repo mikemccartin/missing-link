@@ -1,0 +1,32 @@
+{
+  "id": "clm_av12s7iy",
+  "title": "togrp Job Candidate Privacy Notice was published on July 23, 2025",
+  "statement": "The Job Candidate Privacy Notice page was created and published on July 23, 2025 at 08:46:56 GMT.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6cqrc0su",
+      "quote": "\"date\":\"2025-07-23T08:46:56\",\"date_gmt\":\"2025-07-23T08:46:56\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

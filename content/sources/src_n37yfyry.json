@@ -1,0 +1,9 @@
+{
+  "id": "src_n37yfyry",
+  "title": "Loyalty",
+  "publisher": "RA Sushi",
+  "url": "https://rasushi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frasushi.com%2Floyalty%2F",
+  "accessDate": "2026-02-06",
+  "type": "webpage",
+  "excerpt": "An embed endpoint for RA Sushi's loyalty program page containing minimal content and JavaScript code for iframe embedding functionality."
+}

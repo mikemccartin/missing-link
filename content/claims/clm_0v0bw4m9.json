@@ -1,0 +1,32 @@
+{
+  "id": "clm_0v0bw4m9",
+  "title": "STK Bellevue address and location",
+  "statement": "STK Bellevue is located at 610 Bellevue Way NE #110, Bellevue, WA 98004 in downtown Bellevue.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kyn5h6qo",
+      "quote": "STK Bellevue is located at 610 Bellevue Way NE #110, Bellevue, WA 98004, in the heart of Downtown Bellevue"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

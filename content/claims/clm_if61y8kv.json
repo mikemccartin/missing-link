@@ -1,0 +1,32 @@
+{
+  "id": "clm_if61y8kv",
+  "title": "Cocktails available in multiple serving options",
+  "statement": "RA Sushi's cocktails are available as single servings, bowl servings for two or more people, and alcohol-free mocktail versions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hnabzuej",
+      "quote": "BOWL (for two or more) SINGLE SERVING MOCKTAIL (alcohol-free)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

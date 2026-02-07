@@ -1,0 +1,36 @@
+{
+  "id": "clm_fo0diioc",
+  "title": "Bao Yum website displays Deliveroo branding",
+  "statement": "The Bao Yum website includes Deliveroo white logo imagery uploaded in April 2021.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    },
+    {
+      "slug": "deliveroo",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ekukdh74",
+      "quote": "\"thumbnail_url\":\"https:\\/\\/baoyum.com\\/\\/wp-content\\/uploads\\/2021\\/04\\/deliveroo-white2.png\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

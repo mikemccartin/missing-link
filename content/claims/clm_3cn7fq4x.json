@@ -1,0 +1,32 @@
+{
+  "id": "clm_3cn7fq4x",
+  "title": "Benihana operates 79 restaurants in United States, Caribbean, and Central/South America",
+  "statement": "Benihana has 79 restaurants across the United States, Caribbean, and Central and South America.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_db0l3ppq",
+      "quote": "our recognition today as a cultural icon with 79 Benihana restaurants in the United States, Caribbean, and Central and South America"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

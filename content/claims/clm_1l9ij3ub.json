@@ -1,0 +1,36 @@
+{
+  "id": "clm_1l9ij3ub",
+  "title": "STK has Salt Lake City location",
+  "statement": "STK Steakhouse operates a restaurant location in Salt Lake City, Utah.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-salt-lake-city",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k9ka3cbs",
+      "quote": "STK Salt Lake City - Dinner Menu | Premium Steaks & Dining"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

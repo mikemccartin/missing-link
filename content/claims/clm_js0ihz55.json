@@ -1,0 +1,32 @@
+{
+  "id": "clm_js0ihz55",
+  "title": "RA Sushi operates website at rasushi.com",
+  "statement": "RA Sushi operates an official website at the domain rasushi.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kxh9lrpy",
+      "quote": "\"name\":\"RA Sushi\",\"description\":\"\",\"url\":\"https:\\/\\/rasushi.com\\/wp\",\"home\":\"https:\\/\\/rasushi.com\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

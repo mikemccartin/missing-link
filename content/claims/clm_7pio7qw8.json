@@ -1,0 +1,32 @@
+{
+  "id": "clm_7pio7qw8",
+  "title": "Power Lunch not available at all Benihana locations",
+  "statement": "Power Lunch is not available at Benihana locations in Monterey, Little Rock, Key West, Edison, Milwaukee, Las Vegas Strip, Las Vegas Westgate, Orlando Lake Buena Vista, and Brickell.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qljpz088",
+      "quote": "Available at all Benihana locations except for Monterey, Little Rock, Key West, Edison, Milwaukee, Las Vegas Strip, Las Vegas \u2013 Westgate, Orlando- Lake Buena Vista, Brickell"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

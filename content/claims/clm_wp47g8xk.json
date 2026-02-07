@@ -1,0 +1,36 @@
+{
+  "id": "clm_wp47g8xk",
+  "title": "Maximum $500 dining dollars redemption per month",
+  "statement": "A maximum of $500 in Dining Dollars may be redeemed per check per month.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xl737qcu",
+      "quote": "A maximum of $500 in Dining Dollars may be redeemed per check per month"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_35jf8zad",
+  "title": "RA Sushi provides customer service number 305-702-2880",
+  "statement": "RA Sushi operates a customer service phone line at 305-702-2880 for accessibility assistance.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_aec9fw3t",
+      "quote": "Alternatively you can call our customer service number 305-702-2880 and we will be happy to assist you"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

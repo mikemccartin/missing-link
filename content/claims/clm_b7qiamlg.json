@@ -1,0 +1,36 @@
+{
+  "id": "clm_b7qiamlg",
+  "title": "Kona Grill has a location in Riverton, Utah",
+  "statement": "Kona Grill operates a restaurant location in Riverton, Utah at 13253 Teal Ridge Way Suite J-190.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "riverton",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_fhsvufvh",
+      "quote": "13253 Teal Ridge Way Suite J-190, Riverton, UT 84096"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

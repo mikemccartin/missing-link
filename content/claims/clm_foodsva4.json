@@ -1,0 +1,36 @@
+{
+  "id": "clm_foodsva4",
+  "title": "Chassis theme version 1.0.0 provides WordPress website framework",
+  "statement": "The Chassis WordPress theme is version 1.0.0 and provides a framework for building bespoke WordPress websites.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "chassis",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_99frs28d",
+      "quote": "Description: Providing the framework to build a completely bespoke WordPress website. Version: 1.0.0"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

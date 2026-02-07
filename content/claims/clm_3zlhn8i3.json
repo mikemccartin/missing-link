@@ -1,0 +1,36 @@
+{
+  "id": "clm_3zlhn8i3",
+  "title": "Rewards expire after 30 days",
+  "statement": "Rewards in the Friends with Benefits program expire 30 days from the date of activation.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s0bzzbkf",
+      "quote": "Rewards expire 30 days from the date of activation."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

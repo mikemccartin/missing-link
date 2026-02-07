@@ -1,0 +1,36 @@
+{
+  "id": "clm_p4mogb2u",
+  "title": "Kona Grill Oak Brook location relative to Dick's Sporting Goods",
+  "statement": "Kona Grill Oak Brook is located across the street from Dick's Sporting Goods on the south side of Butterfield Road",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "dick",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1am3h43x",
+      "quote": "across the street from Dick's Sporting Goods on the south side of Butterfield Road"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

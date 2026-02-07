@@ -1,0 +1,32 @@
+{
+  "id": "clm_bndu1h8d",
+  "title": "STK Midtown seated dinner capacity",
+  "statement": "STK Midtown can host up to 200 guests for seated dinner events.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zifi2f1",
+      "quote": "up to 200 guests for a seated dinner"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

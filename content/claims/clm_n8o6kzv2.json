@@ -1,0 +1,40 @@
+{
+  "id": "clm_n8o6kzv2",
+  "title": "RA Sushi website uses Chassis WordPress theme by Fanatic Design",
+  "statement": "RA Sushi's website is built using the Chassis WordPress theme framework created by Fanatic Design.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "fanatic-design",
+      "role": "related"
+    },
+    {
+      "slug": "chassis",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_99frs28d",
+      "quote": "Theme Name: Chassis by Fanatic Theme URI: https://fanatic.co.uk/ Author: Fanatic Design"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

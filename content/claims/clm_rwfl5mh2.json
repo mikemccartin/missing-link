@@ -1,0 +1,36 @@
+{
+  "id": "clm_rwfl5mh2",
+  "title": "Benihana at Home includes catering and private events",
+  "statement": "Benihana at Home service covers catering and private events among its offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana-at-home",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_m4ratk76",
+      "quote": "Get details on catering, private events, and more."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

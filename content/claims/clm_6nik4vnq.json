@@ -1,0 +1,32 @@
+{
+  "id": "clm_6nik4vnq",
+  "title": "Perfect Pi\u00f1a Margarita available in multiple serving options",
+  "statement": "The Perfect Pi\u00f1a Margarita is offered in bowl size for two or more people, single serving, and alcohol-free mocktail versions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5un1nk6b",
+      "quote": "BOWL (for two or more) SINGLE SERVING MOCKTAIL (alcohol-free)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

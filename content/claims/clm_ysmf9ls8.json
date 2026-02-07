@@ -1,0 +1,36 @@
+{
+  "id": "clm_ysmf9ls8",
+  "title": "STK offers $60 dinner prix-fixe menu during Restaurant Week",
+  "statement": "STK offers a $60 dinner prix-fixe menu highlighted by Mermaid Surf & Turf and Wild Mushroom Risotto during Restaurant Week.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "new-york-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_qb5uz6wm",
+      "quote": "or a $60 Dinner highlighted by the decadent Mermaid Surf & Turf and Wild Mushroom Risotto"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

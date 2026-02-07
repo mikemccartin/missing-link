@@ -1,0 +1,36 @@
+{
+  "id": "clm_bidi1vkd",
+  "title": "STK Chicago location address",
+  "statement": "STK Chicago is located at 9 W Kinzie St, Chicago, IL 60654 in the River North neighborhood.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "river-north",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_en2jtk9y",
+      "quote": "STK Chicago is located at 9 W Kinzie St, Chicago, IL 60654, in the River North neighborhood."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

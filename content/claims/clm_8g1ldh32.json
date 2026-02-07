@@ -1,0 +1,32 @@
+{
+  "id": "clm_8g1ldh32",
+  "title": "Bao Yum has a London location with a menu",
+  "statement": "Bao Yum operates a location in London and provides a menu for that location.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_gcs888hk",
+      "quote": "\"title\":\"London Menu - Bao Yum\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

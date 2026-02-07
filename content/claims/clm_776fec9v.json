@@ -1,0 +1,32 @@
+{
+  "id": "clm_776fec9v",
+  "title": "Benihana has $3 $6 $9 Happy Hour pricing",
+  "statement": "Benihana restaurants offer happy hour with tiered pricing at $3, $6, and $9.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8ytcpob1",
+      "quote": "$3 $6 $9 Happy Hour"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_qdr6fuxw",
+  "title": "STK Steakhouse has dedicated events planning team",
+  "statement": "STK Steakhouse employs expert events planning staff to handle private event details and can be reached at (833)785-3887.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wqjiuv7n",
+      "quote": "our expert events planning team are here to ensure that every last detail is taken care of. For help on planning your next event, call (833)785-3887"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

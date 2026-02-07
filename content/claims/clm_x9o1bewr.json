@@ -1,0 +1,32 @@
+{
+  "id": "clm_x9o1bewr",
+  "title": "Kona Grill operates website at konagrill.com",
+  "statement": "Kona Grill's official website is located at https://konagrill.com",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_poduqbrl",
+      "quote": "\"name\":\"Kona Grill\",\"description\":\"\",\"url\":\"https:\\/\\/konagrill.com\\/wp\",\"home\":\"https:\\/\\/konagrill.com\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

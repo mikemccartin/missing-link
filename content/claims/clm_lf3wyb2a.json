@@ -1,0 +1,36 @@
+{
+  "id": "clm_lf3wyb2a",
+  "title": "Benihana has 24/7 compliance hotline with phone numbers",
+  "statement": "Benihana's compliance hotline operates 24/7 at (844) 260-0002 for English and (800) 216-1288 for Spanish speakers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "compliance-ethics-hotline",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j9vfh16d",
+      "quote": "The third party service provider may be reached 24 hours a day, 7 days a week at (844) 260-0002 for English speaking USA and Canada, or (800) 216-1288 for Spanish speaking North America"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

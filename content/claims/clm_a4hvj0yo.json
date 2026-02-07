@@ -1,0 +1,32 @@
+{
+  "id": "clm_a4hvj0yo",
+  "title": "STK emphasizes social dining experience",
+  "statement": "STK distinguishes itself by emphasizing the social experience and taking a vibe-driven approach to fine dining.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_iyu21inv",
+      "quote": "STK distinguishes itself by emphasizing the social experience and taking a vibe-driven approach to fine dining"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

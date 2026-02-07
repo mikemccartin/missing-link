@@ -1,0 +1,32 @@
+{
+  "id": "clm_wdb8dpt9",
+  "title": "RA Sushi offers lifestyle menu with dietary options",
+  "statement": "RA Sushi provides a lifestyle menu featuring gluten-free, low-calorie, vegetarian, and high-protein dishes.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_85l3t7nz",
+      "quote": "Choose RA's lifestyle menu for gluten free, low-cal, vegetarian, and high protein dishes."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

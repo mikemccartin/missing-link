@@ -1,0 +1,40 @@
+{
+  "id": "clm_70ct671g",
+  "title": "Chassis theme version 1.0.0 provides framework for bespoke WordPress sites",
+  "statement": "Chassis theme version 1.0.0 provides the framework to build completely bespoke WordPress websites.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "chassis",
+      "role": "related"
+    },
+    {
+      "slug": "fanatic-design",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e3jds2zk",
+      "quote": "Description: Providing the framework to build a completely bespoke WordPress website. Version: 1.0.0"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

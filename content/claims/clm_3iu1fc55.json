@@ -1,0 +1,32 @@
+{
+  "id": "clm_3iu1fc55",
+  "title": "MIO is a sparkling sake from Nada with delicate sweetness",
+  "statement": "MIO is a sparkling sake from Nada that is light with delicate sweetness.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y0il5z0w",
+      "quote": "MIO SPARKLING | Nada Light with delicate sweetness"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

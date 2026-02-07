@@ -1,0 +1,32 @@
+{
+  "id": "clm_cmp8z4ku",
+  "title": "Benihana operates 77 restaurants as of June 2019",
+  "statement": "As of June 2019, Benihana operated 77 restaurants in the United States, Central and South America (excluding Mexico), and the Caribbean.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f3ifsklw",
+      "quote": "The BENIHANA name is well known throughout the food industry as an established, quality-conscious brand that has grown from one teppanyaki restaurant in New York City to 77 restaurants in the United States, Central and South America (excluding Mexico), and the Caribbean as of June 2019"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_qkuzziu0",
+  "title": "Kona Grill offers vegan and vegetarian options",
+  "statement": "Kona Grill offers vegan and vegetarian dishes prepared in their scratch kitchen.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t8zvgx98",
+      "quote": "We pride ourselves on a diverse menu with delicious Vegan and Vegetarian dishes prepared in our scratch kitchen."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

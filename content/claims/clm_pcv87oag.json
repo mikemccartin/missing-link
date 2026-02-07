@@ -1,0 +1,36 @@
+{
+  "id": "clm_pcv87oag",
+  "title": "STK Steakhouse page created in May 2024",
+  "statement": "The STK Steakhouse page on togrp.com was created on May 29, 2024 at 14:10:14.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s0361egi",
+      "quote": "\"date\":\"2024-05-29T14:10:14\",\"date_gmt\":\"2024-05-29T14:10:14\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

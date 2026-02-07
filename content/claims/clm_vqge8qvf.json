@@ -1,0 +1,32 @@
+{
+  "id": "clm_vqge8qvf",
+  "title": "STK offers Steak Night special",
+  "statement": "STK Salt Lake City offers Steak Night Sunday-Thursday for $69 per person, including a Jones Soda per person.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k9ka3cbs",
+      "quote": "Sunday - Thursday. $69 Per Person. Includes: A Jones Soda per person"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_dyv86u1h",
+  "title": "STK Las Vegas has Steak Night promotion pricing",
+  "statement": "STK Las Vegas offers Steak Night for $89 per person Sunday through Thursday from 3:30-5:30pm and 10pm-close.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2dzuaa0q",
+      "quote": "Steak Night $89 per person. Sun - Thu 3:30 - 5:30pm & 10pm - Close"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

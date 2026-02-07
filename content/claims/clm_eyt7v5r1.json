@@ -1,0 +1,36 @@
+{
+  "id": "clm_eyt7v5r1",
+  "title": "Benihana works toward GAP-certified chicken sourcing",
+  "statement": "Benihana continues to work toward sourcing chicken certified by the Global Animal Partnership (GAP).",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "global-animal-partnership",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_on9j5ri1",
+      "quote": "Benihana is a strong supporter and advocate of animal welfare and continues to work toward sourcing chicken certified by the Global Animal Partnership (GAP)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

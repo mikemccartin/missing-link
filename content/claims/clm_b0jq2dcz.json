@@ -1,0 +1,36 @@
+{
+  "id": "clm_b0jq2dcz",
+  "title": "Kona Grill Baltimore location relative to streets",
+  "statement": "Kona Grill Baltimore is located on Pratt Street between Charles Street and Light Street.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "inner-harbor",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9w86rabc",
+      "quote": "We're located at the Inner Harbor downtown, on Pratt Street between Charles Street & Light Street."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

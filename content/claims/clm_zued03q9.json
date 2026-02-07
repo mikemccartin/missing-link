@@ -1,0 +1,32 @@
+{
+  "id": "clm_zued03q9",
+  "title": "STK Orlando offers Restaurant Week menu",
+  "statement": "STK Orlando offers a Restaurant Week menu priced at $60 where customers select one item from each course.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_01lres8c",
+      "quote": "Restaurant Week $60 | Select 1 From Each Course"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

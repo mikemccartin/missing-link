@@ -1,0 +1,32 @@
+{
+  "id": "clm_751hns2h",
+  "title": "RA Sushi provides bold Japanese flavors",
+  "statement": "RA Sushi's menu features bold Japanese flavors as part of their dining experience.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hevl5kag",
+      "quote": "get ready for freshly made inventive rolls, sashimi, bold Japanese flavors and a high energy dining experience"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

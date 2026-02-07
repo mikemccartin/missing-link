@@ -1,0 +1,32 @@
+{
+  "id": "clm_asi4k6if",
+  "title": "Benihana offers handcrafted cocktails",
+  "statement": "Benihana serves handcrafted cocktails as part of their beverage offerings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b7a066mx",
+      "quote": "Sip your way through the season with our handcrafted cocktails."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

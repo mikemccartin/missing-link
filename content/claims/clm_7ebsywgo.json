@@ -1,0 +1,32 @@
+{
+  "id": "clm_7ebsywgo",
+  "title": "The ONE Group has a cookie policy",
+  "statement": "The ONE Group maintains a cookie policy that explains how they use cookies on their website and provides options for managing cookie preferences.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cxas67aw",
+      "quote": "Read The ONE Group's cookie policy to understand how we use cookies on our website and your options to manage your cookie preferences."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

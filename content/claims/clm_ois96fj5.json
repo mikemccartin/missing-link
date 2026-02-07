@@ -1,0 +1,36 @@
+{
+  "id": "clm_ois96fj5",
+  "title": "togrp website has RA SUSHI page",
+  "statement": "togrp.com has a dedicated page for RA SUSHI with the URL slug 'ra-sushi'",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_jiwmivdc",
+      "quote": "\"slug\":\"ra-sushi\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/togrp.com\\/ra-sushi\\/\",\"title\":{\"rendered\":\"RA SUSHI\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

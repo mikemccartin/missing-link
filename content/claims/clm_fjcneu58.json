@@ -1,0 +1,32 @@
+{
+  "id": "clm_fjcneu58",
+  "title": "togrp has an accessibility statement page",
+  "statement": "togrp maintains an accessibility statement page on their website at /accessibility-statement/",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0ehz0390",
+      "quote": "\"slug\":\"accessibility-statement\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/togrp.com\\/accessibility-statement\\/\",\"title\":{\"rendered\":\"Accessibility Statement\"}"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

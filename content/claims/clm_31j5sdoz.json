@@ -1,0 +1,32 @@
+{
+  "id": "clm_31j5sdoz",
+  "title": "Kizakura Lucky Cat beer details",
+  "statement": "Kizakura Lucky Cat is a white ale from Kyoto, Japan with 5% ABV, served in 11.2 oz with yuzu aroma and hint of peppercorn.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_17b533m3",
+      "quote": "KIZAKURA \"LUCKY CAT\" White Ale | Kyoto, Japan | 11.2 oz | ABV 5% Yuzu aroma with a hint of peppercorn"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

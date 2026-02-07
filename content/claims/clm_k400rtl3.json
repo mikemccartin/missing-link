@@ -1,0 +1,32 @@
+{
+  "id": "clm_k400rtl3",
+  "title": "Donation requests must be mailed on organization letterhead",
+  "statement": "Donation requests to Benihana Inc. must be on the organization's letterhead and cannot be accepted by phone or email.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8uypu4d5",
+      "quote": "The request must be on your organization's letterhead. Please mail your request to the below address (we cannot accept requests by phone or email)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

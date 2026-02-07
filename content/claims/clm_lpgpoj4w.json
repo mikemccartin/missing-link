@@ -1,0 +1,36 @@
+{
+  "id": "clm_lpgpoj4w",
+  "title": "Kona Grill Huntsville Location in Bridge Street Town Centre",
+  "statement": "Kona Grill Huntsville is located in Bridge Street Town Centre",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "bridge-street-town-centre",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rd1zx5oj",
+      "quote": "Whats happening at Huntsville Bridge Street Town Centre"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

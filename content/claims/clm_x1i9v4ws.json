@@ -1,0 +1,32 @@
+{
+  "id": "clm_x1i9v4ws",
+  "title": "The ONE Group has subsidiaries and affiliates",
+  "statement": "The ONE Group may refer to The ONE Group Hospitality, Inc. and/or all or any of its subsidiaries and affiliates.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7mzkp8ca",
+      "quote": "\"The ONE Group\", \"we,\" \"us,\" and \"our\" may refer to The ONE Group Hospitality, Inc. and/or all or any of its subsidiaries and affiliates."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

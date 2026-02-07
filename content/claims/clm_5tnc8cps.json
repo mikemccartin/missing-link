@@ -1,0 +1,32 @@
+{
+  "id": "clm_5tnc8cps",
+  "title": "STK Charlotte provides multiple dining menu options",
+  "statement": "STK Charlotte offers dinner menu, lunch menu, Sunday brunch, cocktails, wine by the bottle, and various specialty menus.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vomgvkxq",
+      "quote": "Dinner Menu, Market Salads & Starters, Beverage Menu, Cocktails, Lunch Menu... Sunday Brunch, All You Can Eat STK Brunch, Wine by the Bottle"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

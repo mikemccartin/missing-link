@@ -1,0 +1,36 @@
+{
+  "id": "clm_g2km85w1",
+  "title": "Rewards expire 30 days after activation",
+  "statement": "Rewards in the Friends with Benefits program expire 30 days from the date of activation.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_4cqr3dsg",
+      "quote": "Rewards expire 30 days from the date of activation."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

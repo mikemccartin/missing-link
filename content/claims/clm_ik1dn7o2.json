@@ -1,0 +1,32 @@
+{
+  "id": "clm_ik1dn7o2",
+  "title": "STK Steakhouse operates in Las Vegas, Nevada",
+  "statement": "STK Steakhouse has a location at 3708 Las Vegas Boulevard South, Las Vegas, NV 89109 with phone number 877-681-8291",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Las Vegas 3708 Las Vegas Boulevard South Las Vegas, NV 89109 877-681-8291"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

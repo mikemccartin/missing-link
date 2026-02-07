@@ -1,0 +1,32 @@
+{
+  "id": "clm_0n47r7zu",
+  "title": "RA Sushi gift cards valid at all U.S. locations except Events Only venues",
+  "statement": "RA Sushi gift and promotional cards are valid at all locations in the U.S. excluding those labeled as Events Only.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_vyb0dew2",
+      "quote": "*Gift and promotional cards valid at all locations in the U.S. excluding those labeled as Events Only."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "clm_1t15kxl0",
+  "title": "STK Charlotte participates in Charlotte Restaurant Week",
+  "statement": "STK Charlotte participates in Charlotte Restaurant Week as one of their happenings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-charlotte",
+      "role": "related"
+    },
+    {
+      "slug": "charlotte-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_axuvj47s",
+      "quote": "Charlotte Restaurant Week at STK"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_yh92yb2k",
+  "title": "STK Dubai offers multiple dining options",
+  "statement": "STK Dubai provides A La Carte Menu, Happy Hour, Saturday Brunch, and various specialized menus including Vegan options.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-dubai",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ikoumisr",
+      "quote": "A La Carte Menu, Starters, Happy Hour, Bites, Drink Menu, Single Malt Whisky, Saturday Brunch... Vegan"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

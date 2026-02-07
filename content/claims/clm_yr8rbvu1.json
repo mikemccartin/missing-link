@@ -1,0 +1,32 @@
+{
+  "id": "clm_yr8rbvu1",
+  "title": "Kabuki Kids program age limit is 12 and younger",
+  "statement": "The Benihana Kabuki Kids program is exclusively for children ages 12 and younger.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_27x3g4i0",
+      "quote": "Celebrate your child's birthday with our exclusive Benihana Kabuki Kids\u00ae program, just for kids ages 12 and younger."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

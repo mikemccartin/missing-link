@@ -1,0 +1,32 @@
+{
+  "id": "clm_4rlsupl1",
+  "title": "Kona Grill provides nutritional PDF downloads",
+  "statement": "Kona Grill offers downloadable PDF documents containing up-to-date nutritional information.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j5ctuurf",
+      "quote": "Click below to view or download the most up-to-date nutritional info for Kona Grill. Our PDF includes full nutrition breakdowns."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

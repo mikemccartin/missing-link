@@ -1,0 +1,32 @@
+{
+  "id": "clm_rstrgk54",
+  "title": "RA Sushi offers shareables menu items",
+  "statement": "RA Sushi has a menu category called 'Shareables' available on their website.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_cumz5bh9",
+      "quote": "\"provider_name\":\"RA Sushi\",\"provider_url\":\"https:\\/\\/rasushi.com\",\"title\":\"Shareables\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

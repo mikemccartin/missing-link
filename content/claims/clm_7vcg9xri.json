@@ -1,0 +1,32 @@
+{
+  "id": "clm_7vcg9xri",
+  "title": "Bao Yum operating hours weekdays",
+  "statement": "Bao Yum operates Monday through Friday from 7am to 8pm",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_g2jr85la",
+      "quote": "Monday – Friday: 7am – 8pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

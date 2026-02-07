@@ -1,0 +1,32 @@
+{
+  "id": "clm_lhp8v0ws",
+  "title": "RA Sushi serves Miso Soup as signature item",
+  "statement": "RA Sushi offers Miso Soup containing tofu, seaweed and green onions in miso broth as a signature menu item.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_50orwhzz",
+      "quote": "MISO SOUP Tofu, seaweed and green onions in a miso broth Signature Item"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

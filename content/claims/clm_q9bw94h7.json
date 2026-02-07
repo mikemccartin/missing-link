@@ -1,0 +1,32 @@
+{
+  "id": "clm_q9bw94h7",
+  "title": "Benihana offers filet mignon upgrade option",
+  "statement": "Benihana provides an option to upgrade to filet mignon for an additional $9.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_81tp0b2w",
+      "quote": "UPGRADE TO FILET MIGNON $9"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

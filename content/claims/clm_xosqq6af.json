@@ -1,0 +1,32 @@
+{
+  "id": "clm_xosqq6af",
+  "title": "RA Sushi website uses RankMath SEO plugin",
+  "statement": "RA Sushi's website implements RankMath plugin for search engine optimization functionality.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kxh9lrpy",
+      "quote": "\"rankmath\\/v1\",\"rankmath\\/v1\\/setupWizard\",\"rankmath\\/v1\\/an\",\"wordfence\\/v1\",\"rankmath\\/v1\\/in\",\"rankmath\\/v1\\/status\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

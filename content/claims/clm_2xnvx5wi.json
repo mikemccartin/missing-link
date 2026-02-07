@@ -1,0 +1,36 @@
+{
+  "id": "clm_2xnvx5wi",
+  "title": "STK has location in Oak Brook, Illinois",
+  "statement": "STK Steakhouse operates a restaurant location in Oak Brook, Illinois.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-oak-brook",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_b9ls10lk",
+      "quote": "STK Oak Brook - Happy Hour | Premium Steaks & Dining"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

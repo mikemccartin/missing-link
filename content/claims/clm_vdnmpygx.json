@@ -1,0 +1,36 @@
+{
+  "id": "clm_vdnmpygx",
+  "title": "Welcome reward provides $35 complimentary starter",
+  "statement": "New loyalty program members receive a welcome reward entitling them to one complimentary starter valued up to $35.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xl737qcu",
+      "quote": "The Welcome Reward entitles you to one complimentary starter valued up to $35, good on your next visit"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

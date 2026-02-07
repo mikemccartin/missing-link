@@ -1,0 +1,32 @@
+{
+  "id": "clm_rn23xhaa",
+  "title": "Kona Grill locations have varied operating hours",
+  "statement": "Kona Grill locations operate with different schedules, with some open until midnight or 1am on weekends and others closing at 10pm or 11pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_u4rahgau",
+      "quote": "Monday - Thursday: 11am - 12am Friday & Saturday: 11am - 1am Sunday: 10am - 11pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

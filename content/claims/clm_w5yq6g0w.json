@@ -1,0 +1,32 @@
+{
+  "id": "clm_w5yq6g0w",
+  "title": "Kona Grill website uses GMT timezone",
+  "statement": "Kona Grill's website is configured with GMT offset of 0",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_poduqbrl",
+      "quote": "\"gmt_offset\":\"0\",\"timezone_string\":\"\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

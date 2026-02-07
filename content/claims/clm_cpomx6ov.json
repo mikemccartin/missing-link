@@ -1,0 +1,32 @@
+{
+  "id": "clm_cpomx6ov",
+  "title": "Kona Grill serves steaks, seafood, sushi and margaritas",
+  "statement": "Kona Grill's menu includes hearty steaks, fresh seafood, sushi, and margaritas.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_haho5haf",
+      "quote": "featuring an array of delicious menu items including hearty steaks and fresh seafood complemented by the best choice of sushi and margaritas at any grill in America"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

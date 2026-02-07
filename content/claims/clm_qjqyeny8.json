@@ -1,0 +1,32 @@
+{
+  "id": "clm_qjqyeny8",
+  "title": "Benihana serves hibachi chicken with specific ingredients",
+  "statement": "Benihana's hibachi chicken consists of chicken breast and mushrooms with sesame seeds.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_81tp0b2w",
+      "quote": "HIBACHI CHICKEN Chicken breast and mushrooms with sesame seeds"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

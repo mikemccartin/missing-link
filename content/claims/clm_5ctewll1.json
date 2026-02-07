@@ -1,0 +1,40 @@
+{
+  "id": "clm_5ctewll1",
+  "title": "STK Charlotte located at 201 S. College Street",
+  "statement": "STK Charlotte is located at 201 S. College Street, Charlotte, NC 28202 in Uptown near Spectrum Center and Charlotte Convention Center.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "spectrum-center",
+      "role": "related"
+    },
+    {
+      "slug": "charlotte-convention-center",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_822hsh8y",
+      "quote": "STK Charlotte is located at 201 S. College Street, Charlotte, NC 28202 , in Uptown near Spectrum Center and the Charlotte Convention Center."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

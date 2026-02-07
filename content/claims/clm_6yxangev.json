@@ -1,0 +1,32 @@
+{
+  "id": "clm_6yxangev",
+  "title": "RA Sushi makes homemade pineapple cheese wontons",
+  "statement": "RA Sushi serves homemade crispy wontons filled with pineapple, cream cheese and green onions with pineapple dipping sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3js1y2no",
+      "quote": "Homemade crispy wontons filled with pineapple, cream cheese and green onions; served with pineapple dipping sauce"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

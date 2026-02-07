@@ -1,0 +1,32 @@
+{
+  "id": "clm_89nd087u",
+  "title": "STK Stratford proximity to transport",
+  "statement": "STK Stratford is located just a short walk from Stratford and Stratford International stations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wxwxewhr",
+      "quote": "just a short walk from Stratford and Stratford International stations"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "clm_hz02em33",
+  "title": "Font Awesome 6.4.2 copyright held by Fonticons, Inc. in 2023",
+  "statement": "Font Awesome Free 6.4.2 is copyrighted by Fonticons, Inc. as of 2023.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "font-awesome",
+      "role": "related"
+    },
+    {
+      "slug": "fonticons",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1y20f9zc",
+      "quote": "Copyright 2023 Fonticons, Inc."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

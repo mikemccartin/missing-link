@@ -1,0 +1,32 @@
+{
+  "id": "clm_9g5dff8l",
+  "title": "Kona Grill operates 23 locations nationwide",
+  "statement": "Kona Grill has 23 restaurant locations across the United States.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_bjvprkj0",
+      "quote": "23 Locations Nationwide"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

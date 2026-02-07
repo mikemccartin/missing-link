@@ -1,0 +1,32 @@
+{
+  "id": "clm_k7cbiy2a",
+  "title": "Cinnamon Tempura Ice Cream is a signature item at RA Sushi",
+  "statement": "RA Sushi features Cinnamon Tempura Ice Cream as a signature item, made with lightly battered cinnamon-swirl ice cream that is flash fried and finished with sauces.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j2aemk7x",
+      "quote": "Lightly battered cinnamon-swirl ice cream, flash fried and finished with raspberry and chocolate sauces"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

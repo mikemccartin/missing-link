@@ -1,0 +1,32 @@
+{
+  "id": "clm_m3teygzu",
+  "title": "Benihana Happy Hour operates Monday-Friday 3-6 p.m.",
+  "statement": "Benihana's $3 $6 $9 Happy Hour runs Monday through Friday from 3:00 p.m. to 6:00 p.m.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_rgbmv5wi",
+      "quote": "Monday-Friday, 3-6 p.m."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

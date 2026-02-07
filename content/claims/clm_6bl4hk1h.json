@@ -1,0 +1,32 @@
+{
+  "id": "clm_6bl4hk1h",
+  "title": "Kona Grill has multiple menu categories",
+  "statement": "Kona Grill offers various menu categories including All Day Menu, Starters, Beverages, Margarita Heaven, Happy Hour, Eats, Bento Box, and Brunch Menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9q64rtdx",
+      "quote": "All Day Menu Starters Beverages Margarita Heaven Happy Hour Eats Kids Menu Bento Box... Brunch Menu"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

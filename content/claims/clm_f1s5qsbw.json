@@ -1,0 +1,32 @@
+{
+  "id": "clm_f1s5qsbw",
+  "title": "Kona Grill offers catering services",
+  "statement": "Kona Grill provides catering services for various events including office lunches, group dinners, family gatherings, receptions, birthdays, anniversaries, and baby showers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_990t6ov4",
+      "quote": "Whether it is an office lunch, group dinner, family gathering, reception, birthday, anniversary, or baby shower – Kona Grill is your ONE & ONLY choice for Catering!"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

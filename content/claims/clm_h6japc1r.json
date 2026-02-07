@@ -1,0 +1,36 @@
+{
+  "id": "clm_h6japc1r",
+  "title": "STK Milan location address",
+  "statement": "STK Milan is located at Piazza della Repubblica, 13, 20124 Milano MI, Italy",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "piazza-della-repubblica",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_egjeb4ip",
+      "quote": "Piazza della Repubblica, 13, 20124 Milano MI, Italy"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

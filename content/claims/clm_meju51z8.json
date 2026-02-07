@@ -1,0 +1,36 @@
+{
+  "id": "clm_meju51z8",
+  "title": "Benihana opened location in North Bay Village-Miami Beach",
+  "statement": "Benihana came to North Bay Village-Miami Beach location",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "north-bay-village-miami-beach",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_zo4gdsfb",
+      "quote": "Benihana Comes Home To North Bay Village-Miami Beach"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

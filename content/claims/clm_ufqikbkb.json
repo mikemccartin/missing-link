@@ -1,0 +1,32 @@
+{
+  "id": "clm_ufqikbkb",
+  "title": "STK Atlanta can host 200 guests for seated dinner",
+  "statement": "STK Atlanta can host up to 200 guests for a seated dinner.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_konbsmnj",
+      "quote": "we can host up to 200 guests for a seated dinner"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

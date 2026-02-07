@@ -1,0 +1,32 @@
+{
+  "id": "clm_l37c3u6z",
+  "title": "STK Charlotte offers Social Hour with $3|$6|$9 pricing",
+  "statement": "STK Charlotte offers a Social Hour with $3, $6, and $9 bites and drinks on select days.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_822hsh8y",
+      "quote": "STK Charlotte offers a Social Hour with $3 | $6 | $9 bites and drinks on select days"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

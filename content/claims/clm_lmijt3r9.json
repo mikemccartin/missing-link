@@ -1,0 +1,32 @@
+{
+  "id": "clm_lmijt3r9",
+  "title": "Hakkaisan is Junmai Ginjo sake from Niigata in 720ml bottles",
+  "statement": "Hakkaisan is a Junmai Ginjo sake from Niigata prefecture served in 720ml bottles.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6mq7laq8",
+      "quote": "HAKKAISAN Subtle and light; baked apple and oak. 720 ml Junmai Ginjo, Niigata"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

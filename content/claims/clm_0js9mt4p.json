@@ -1,0 +1,36 @@
+{
+  "id": "clm_0js9mt4p",
+  "title": "Kona Grill Columbus phone number is 614-569-3465",
+  "statement": "The Columbus Kona Grill location can be reached by phone at 614-569-3465",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "columbus",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j3lb4s3c",
+      "quote": "614-569-3465"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

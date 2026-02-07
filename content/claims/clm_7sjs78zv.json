@@ -1,0 +1,32 @@
+{
+  "id": "clm_7sjs78zv",
+  "title": "Kona Grill Woodbridge email contact",
+  "statement": "Kona Grill Woodbridge's email contact is Iselin@konagrill.com.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yk7e5d96",
+      "quote": "Iselin@konagrill.com"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

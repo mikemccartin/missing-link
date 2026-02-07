@@ -1,0 +1,32 @@
+{
+  "id": "clm_zllbn3u4",
+  "title": "Kona Grill operates in multiple US states",
+  "statement": "Kona Grill has restaurant locations across multiple US states including Georgia, Maryland, Idaho, Indiana, Ohio, Texas, Colorado, Minnesota, and others",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_afzx9v0i",
+      "quote": "Alpharetta, GA, Baltimore, MD, Boise, ID, Carmel, IN, Cincinnati, OH, Columbus, OH, Dallas, TX, Denver, CO, Eden Prairie, MN"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

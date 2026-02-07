@@ -1,0 +1,32 @@
+{
+  "id": "clm_z992c7qj",
+  "title": "STK Denver location address",
+  "statement": "STK Denver is located at 1550 Market Street, Denver, CO 80202.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_y2fi34ec",
+      "quote": "STK Denver is located at 1550 Market Street, Denver, CO 80202"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

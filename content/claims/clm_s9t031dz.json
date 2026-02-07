@@ -1,0 +1,32 @@
+{
+  "id": "clm_s9t031dz",
+  "title": "STK Steakhouse operates locations in Canada",
+  "statement": "STK Steakhouse has restaurant locations in Ontario, Canada, including Niagara Fallsview and Toronto.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_idczhilv",
+      "quote": "Ontario Niagara Fallsview Toronto"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

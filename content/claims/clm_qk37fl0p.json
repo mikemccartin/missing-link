@@ -1,0 +1,32 @@
+{
+  "id": "clm_qk37fl0p",
+  "title": "Kona Grill Oak Brook address",
+  "statement": "Kona Grill Oak Brook is located at 3051 Butterfield Rd Oak Brook, IL 60523",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1am3h43x",
+      "quote": "3051 Butterfield Rd Oak Brook,IL 60523"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

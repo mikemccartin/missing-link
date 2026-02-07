@@ -1,0 +1,48 @@
+{
+  "id": "clm_hn9hdv75",
+  "title": "STK participates in restaurant week events",
+  "statement": "STK Steakhouse participates in restaurant week events in Los Angeles, Charlotte, Chicago, and New York.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "dinela",
+      "role": "related"
+    },
+    {
+      "slug": "charlotte-restaurant-week",
+      "role": "related"
+    },
+    {
+      "slug": "chicago-restaurant-week",
+      "role": "related"
+    },
+    {
+      "slug": "new-york-restaurant-week",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_dw2ttpvb",
+      "quote": "DineLA at STK - LA Restaurant Week, Charlotte Restaurant Week at STK, Chicago Restaurant Week at STK, New York Restaurant Week at STK"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

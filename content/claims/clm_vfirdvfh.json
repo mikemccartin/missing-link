@@ -1,0 +1,40 @@
+{
+  "id": "clm_vfirdvfh",
+  "title": "STK South Beach located within 1 Hotel",
+  "statement": "STK South Beach is located within 1 Hotel South Beach on Collins Avenue.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "1-hotel-south-beach",
+      "role": "related"
+    },
+    {
+      "slug": "collins-avenue",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t083h583",
+      "quote": "STK South Beach is located within 1 Hotel South Beach on Collins Avenue"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

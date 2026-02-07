@@ -1,0 +1,36 @@
+{
+  "id": "clm_hw9kavx9",
+  "title": "Points earned across RA Sushi and sister brands",
+  "statement": "Friends with Benefits members earn points when spending at RA Sushi and its sister brands.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ucgbywvx",
+      "quote": "Earn points every time you spend across RA Sushi and our sister brands"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

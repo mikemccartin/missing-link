@@ -1,0 +1,36 @@
+{
+  "id": "clm_uax1e5zj",
+  "title": "The ONE Group offers Friends with Benefits Rewards program",
+  "statement": "The ONE Group operates a Friends with Benefits Rewards program that has terms of use.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_shqj9cy0",
+      "quote": "\"title\":\"Friends with Benefits Rewards Terms of Use\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

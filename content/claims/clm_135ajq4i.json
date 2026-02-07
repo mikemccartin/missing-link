@@ -1,0 +1,36 @@
+{
+  "id": "clm_135ajq4i",
+  "title": "STK Toronto has a Steak Night promotion",
+  "statement": "STK Toronto offers a Steak Night promotion for $89 per person from Sunday through Thursday, including one round of bubbles or house Cabernet per person.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-toronto",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kaxru3xo",
+      "quote": "Steak Night $89 per person. Sunday - Thursday. Includes: 1 Round of Bubbles or House Cabernet Per Person"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

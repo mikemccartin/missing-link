@@ -1,0 +1,36 @@
+{
+  "id": "clm_zrpusm8o",
+  "title": "Vegas locals and industry get 25% off dining on Mondays",
+  "statement": "Vegas locals and industry professionals receive 25% off dining every Monday at STK Las Vegas.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "las-vegas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5r6n1i6e",
+      "quote": "Vegas locals and industry professionals enjoy 25% off dining every Monday"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

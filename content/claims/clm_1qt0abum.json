@@ -1,0 +1,32 @@
+{
+  "id": "clm_1qt0abum",
+  "title": "RA Sushi serves Amabuki sake from Saga prefecture",
+  "statement": "RA Sushi offers Amabuki \"I Love Sushi\" Junmai sake from Saga prefecture in 180 ml bottles.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_nfpt77wm",
+      "quote": "AMABUKI \"I LOVE SUSHI\" | Saga Junmai \u2013 Slightly dry with light umami 180 ml Bottle"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

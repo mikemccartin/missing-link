@@ -1,0 +1,36 @@
+{
+  "id": "clm_qh94aa99",
+  "title": "Bara Chirashi is a signature menu item at RA Sushi",
+  "statement": "Bara Chirashi is marked as a signature item containing ahi tuna, salmon, yellowtail, shrimp, cucumber and green onions in poke sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "bara-chirashi",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_x7jh14a9",
+      "quote": "Signature Item BARA CHIRASHI Ahi tuna, salmon, yellowtail, shrimp, cucumber and green onions mixed in poke sauce"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

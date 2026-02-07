@@ -1,0 +1,36 @@
+{
+  "id": "clm_ngk4r0t7",
+  "title": "Kona Grill sources seafood daily from Pacific Ocean",
+  "statement": "Kona Grill's fresh-caught seafood is flown in daily from the Pacific Ocean.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "pacific-ocean",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1zbinuqq",
+      "quote": "Our fresh-caught seafood is flown in from the Pacific Ocean daily"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

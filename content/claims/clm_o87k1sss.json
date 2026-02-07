@@ -1,0 +1,32 @@
+{
+  "id": "clm_o87k1sss",
+  "title": "Taste of Benihana available for dine-in only in bar and lounge area",
+  "statement": "The Taste of Benihana experience is available for dine-in only in the bar and lounge area.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9f40zk56",
+      "quote": "Available for dine-in only in the bar and lounge area."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

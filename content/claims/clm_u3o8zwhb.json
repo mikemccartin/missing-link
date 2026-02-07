@@ -1,0 +1,40 @@
+{
+  "id": "clm_u3o8zwhb",
+  "title": "Kona Grill Troy location address",
+  "statement": "Kona Grill Troy is located at 30 E Big Beaver Rd. Troy, MI 48083",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "troy",
+      "role": "related"
+    },
+    {
+      "slug": "big-beaver-road",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19emvtj9",
+      "quote": "30 E Big Beaver Rd. Troy, MI 48083"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_a9i92pmo",
+  "title": "RA Sushi serves entrées on their menu",
+  "statement": "RA Sushi offers entrées as part of their restaurant menu.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_md3t8im4",
+      "quote": "\"title\":\"Entr\\u00e9es\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

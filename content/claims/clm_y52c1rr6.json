@@ -1,0 +1,32 @@
+{
+  "id": "clm_y52c1rr6",
+  "title": "TOG retains personal data based on three criteria",
+  "statement": "TOG retains personal data as long as there's an ongoing relationship, legal obligation requires it, or it's needed to safeguard TOG's legal position.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5h3fvlr3",
+      "quote": "TOG retains your personal data as long as it has an ongoing relationship with you; TOG retains your personal data where it is required to do so by a legal obligation... TOG retains your personal data where this is advisable to safeguard or improve TOG's legal position"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

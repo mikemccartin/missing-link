@@ -1,0 +1,40 @@
+{
+  "id": "clm_5qjwdssj",
+  "title": "Kona Grill Oak Brook location relative to malls",
+  "statement": "Kona Grill Oak Brook is located between Oak Brook and Yorktown Center malls",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "oak-brook-center",
+      "role": "related"
+    },
+    {
+      "slug": "yorktown-center",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_1am3h43x",
+      "quote": "We are conveniently located between the Oak Brook and Yorktown Center malls"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

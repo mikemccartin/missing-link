@@ -1,0 +1,36 @@
+{
+  "id": "clm_d9nosqw3",
+  "title": "STK Las Vegas located inside The Cosmopolitan Hotel",
+  "statement": "STK Las Vegas is located inside The Cosmopolitan Hotel and artfully blends a modern steakhouse and chic lounge into one.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "the-cosmopolitan",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_sc3d0ebn",
+      "quote": "STK Las Vegas located in the Cosmopolitan Hotel artfully blends the modern steakhouse and a chic lounge into one"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_ogjvjc6m",
+  "title": "RA Sushi offers both digital and physical gift cards",
+  "statement": "RA Sushi provides customers with the option to purchase either digital gift cards or mailed plastic gift cards.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_j9b1f91o",
+      "quote": "We offer both digital gift cards and mailed plastic gift cards."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

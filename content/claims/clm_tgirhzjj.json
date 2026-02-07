@@ -1,0 +1,36 @@
+{
+  "id": "clm_tgirhzjj",
+  "title": "Nicky Mailliard was from Scottsdale, Arizona",
+  "statement": "Nicky Mailliard lived in Scottsdale, Arizona.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "related"
+    },
+    {
+      "slug": "nicky-mailliard",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_osiocoto",
+      "quote": "Nicky Mailliard of Scottsdale, Arizona"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

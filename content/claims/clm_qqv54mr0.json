@@ -1,0 +1,32 @@
+{
+  "id": "clm_qqv54mr0",
+  "title": "Kona Grill Troy phone number",
+  "statement": "The Troy Kona Grill location can be reached at 248-619-9060",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_19emvtj9",
+      "quote": "248-619-9060"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

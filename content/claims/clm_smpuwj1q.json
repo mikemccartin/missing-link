@@ -1,0 +1,32 @@
+{
+  "id": "clm_smpuwj1q",
+  "title": "Kona Grill operates multiple restaurant locations",
+  "statement": "Kona Grill has multiple restaurant locations, each with a unique restaurant ID.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_xz4nfbya",
+      "quote": "const selectedOption = document.querySelector(`option[value='${this.selectedLocation}']`); if (selectedOption) { this.restaurantId = selectedOption.getAttribute('data-restaurant-id'); }"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

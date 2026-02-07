@@ -1,0 +1,36 @@
+{
+  "id": "clm_pipbekou",
+  "title": "Kona Grill Las Vegas phone number is 702-547-5552",
+  "statement": "The Las Vegas Kona Grill location can be reached at phone number 702-547-5552",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "las-vegas",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ztu5baw9",
+      "quote": "702-547-5552"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

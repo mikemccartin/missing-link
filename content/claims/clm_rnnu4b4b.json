@@ -1,0 +1,32 @@
+{
+  "id": "clm_rnnu4b4b",
+  "title": "Chicken Katsu served with Asian BBQ dipping sauce",
+  "statement": "RA Sushi's Chicken Katsu is panko-breaded chicken with Asian coleslaw and served with Asian BBQ dipping sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pwtfddxc",
+      "quote": "CHICKEN KATSU Panko-breaded chicken with Asian coleslaw; served with Asian BBQ dipping sauce."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

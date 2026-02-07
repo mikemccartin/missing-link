@@ -1,0 +1,36 @@
+{
+  "id": "clm_z4t9cc8x",
+  "title": "Benihana page creation and modification dates",
+  "statement": "The Benihana page on togrp.com was created on May 29, 2024, and last modified on May 28, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    },
+    {
+      "slug": "benihana",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_k54sm1ji",
+      "quote": "\"date\":\"2024-05-29T15:31:31\",\"date_gmt\":\"2024-05-29T15:31:31\",\"modified\":\"2025-05-28T08:00:59\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

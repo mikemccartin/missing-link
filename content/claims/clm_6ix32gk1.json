@@ -1,0 +1,32 @@
+{
+  "id": "clm_6ix32gk1",
+  "title": "Wagyu Fried Rice is described as fan-favorite",
+  "statement": "Wagyu Fried Rice is characterized as a fan-favorite dish at Kona Grill.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3sbcomeh",
+      "quote": "our fan-favorite Wagyu Fried Rice"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

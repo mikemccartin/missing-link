@@ -1,0 +1,32 @@
+{
+  "id": "clm_one7b5en",
+  "title": "Class teaches children to make California Roll and Shrimp Crunchy Roll",
+  "statement": "The Kabuki Sushi class teaches children to make signature Benihana rolls including California Roll and Shrimp Crunchy Roll.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_krmxpfaq",
+      "quote": "provide hands-on instructions for assembling some signature Benihana rolls including the California Roll and Shrimp Crunchy Roll"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_srqsd8w9",
+  "title": "Benihana offers takeout discount code HIBACHI10",
+  "statement": "Benihana offers $10 off orders of $40 or more on takeout or delivery using code HIBACHI10 from participating locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ostntaj3",
+      "quote": "Use code HIBACHI10 at checkout to get $10 off orders of $40 or more on takeout or delivery from participating locations"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

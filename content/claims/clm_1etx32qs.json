@@ -1,0 +1,32 @@
+{
+  "id": "clm_1etx32qs",
+  "title": "Benihana serves lunch menu with teppanyaki and sushi options",
+  "statement": "Benihana offers a lunch menu featuring teppanyaki grilled items like hibachi steak, chicken, shrimp, scallops, as well as sushi combinations and poke bowls.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0337kl9b",
+      "quote": "At Benihana, it's not just a meal, it's an experience. Enjoy teppanyaki favorites like Hibachi Steak, Chicken and Shrimp, as well as sushi and sashimi."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

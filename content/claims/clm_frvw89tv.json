@@ -1,0 +1,32 @@
+{
+  "id": "clm_frvw89tv",
+  "title": "Benihana offers one-on-one teppanyaki training sessions",
+  "statement": "Benihana provides one-on-one teppanyaki training sessions with master chefs through their 'Be the Chef' experience.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e8v25jm9",
+      "quote": "Enjoy a one-on-one teppanyaki training session with one of our master chefs"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

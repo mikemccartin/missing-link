@@ -1,0 +1,36 @@
+{
+  "id": "clm_l3ow7q40",
+  "title": "The Gulch described as Nashville hub for murals and live music",
+  "statement": "The Gulch is described as Nashville's hub for murals, live music, and trendy shops.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "related"
+    },
+    {
+      "slug": "the-gulch",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wwjzpdcr",
+      "quote": "Located in The Gulch, Nashville's hub for murals, live music, and the trendiest shops."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

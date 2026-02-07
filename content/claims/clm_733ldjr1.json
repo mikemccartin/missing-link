@@ -1,0 +1,32 @@
+{
+  "id": "clm_733ldjr1",
+  "title": "Yakisoba is a signature item at RA Sushi",
+  "statement": "Yakisoba noodles with mixed vegetables is designated as a signature item at RA Sushi.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_pwtfddxc",
+      "quote": "Signature Item YAKISOBA Yakisoba noodles with mixed vegetables"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

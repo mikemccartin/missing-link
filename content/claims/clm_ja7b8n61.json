@@ -1,0 +1,32 @@
+{
+  "id": "clm_ja7b8n61",
+  "title": "STK San Juan operating hours weekdays",
+  "statement": "STK San Juan is open Sunday through Thursday from 4pm to 11pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t3ujdueu",
+      "quote": "Sunday – Thursday: 4pm – 11pm"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

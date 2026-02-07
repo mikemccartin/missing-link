@@ -1,0 +1,40 @@
+{
+  "id": "clm_5o3xv4n2",
+  "title": "STK Nashville located at 700 12th Avenue South",
+  "statement": "STK Nashville is located at 700 12th Avenue South in The Gulch district of Nashville.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-nashville",
+      "role": "related"
+    },
+    {
+      "slug": "the-gulch",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wwjzpdcr",
+      "quote": "Where: 700 12th Avenue South, The Gulch, Nashville"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

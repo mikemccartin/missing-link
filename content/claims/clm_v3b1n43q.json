@@ -1,0 +1,32 @@
+{
+  "id": "clm_v3b1n43q",
+  "title": "STK Bellevue Happy Hour pricing structure",
+  "statement": "STK Bellevue offers a $3 | $6 | $9 Happy Hour with tiered pricing.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kyn5h6qo",
+      "quote": "STK Bellevue offers a $3 | $6 | $9 Happy Hour"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

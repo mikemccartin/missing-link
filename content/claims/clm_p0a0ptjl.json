@@ -1,0 +1,32 @@
+{
+  "id": "clm_p0a0ptjl",
+  "title": "STK Washington operating hours Monday-Thursday",
+  "statement": "STK Washington operates Monday through Thursday from 11am to 12am",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ths5sr01",
+      "quote": "Monday – Thursday: 11am – 12am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

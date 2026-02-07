@@ -1,0 +1,44 @@
+{
+  "id": "clm_zw4y3kz0",
+  "title": "STK Bellevue proximity to shopping centers",
+  "statement": "STK Bellevue is located near Bellevue Square, Lincoln Square, and The Bravern shopping centers.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "bellevue-square",
+      "role": "related"
+    },
+    {
+      "slug": "lincoln-square",
+      "role": "related"
+    },
+    {
+      "slug": "the-bravern",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kyn5h6qo",
+      "quote": "in the heart of Downtown Bellevue near Bellevue Square and Lincoln Square... The perfect place to kick off or wrap up an evening around Bellevue Square, Lincoln Square, or The Bravern"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

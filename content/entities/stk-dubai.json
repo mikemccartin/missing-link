@@ -1,0 +1,7 @@
+{
+  "slug": "stk-dubai",
+  "name": "STK Dubai",
+  "type": "organization",
+  "description": "A Dubai location of STK Steakhouse located at Rixos Premium Dubai in Jumeirah Beach Residence.",
+  "parentEntity": "stk-steakhouse"
+}

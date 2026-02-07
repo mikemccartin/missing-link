@@ -1,0 +1,36 @@
+{
+  "id": "clm_49fmq5ve",
+  "title": "One reward per guest per check limit",
+  "statement": "Only one certificate or reward may be used per guest, per check in the Friends with Benefits program.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_s0bzzbkf",
+      "quote": "Per our Terms and Conditions, only one certificate or reward may be used per guest, per check."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

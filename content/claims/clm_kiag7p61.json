@@ -1,0 +1,32 @@
+{
+  "id": "clm_kiag7p61",
+  "title": "STK operates in 22+ cities across 8 countries",
+  "statement": "STK Steakhouse has locations in cities including Atlanta, Los Angeles, NYC, Toronto, London, Milan, Dubai, and Doha across the United States, Canada, Mexico, England, Italy, UAE, and Qatar.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ujkxed6e",
+      "quote": "Arizona Scottsdale California Los Angeles San Diego San Francisco... Qatar Doha United Arab Emirates Dubai England London – Stratford London – Strand Italy Milan"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

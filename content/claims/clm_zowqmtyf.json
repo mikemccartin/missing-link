@@ -1,0 +1,32 @@
+{
+  "id": "clm_zowqmtyf",
+  "title": "Samurai page was created on May 30, 2024",
+  "statement": "The Samurai page on togrp.com was initially created on May 30, 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_kaa50oyy",
+      "quote": "\"date\":\"2024-05-30T19:24:02\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_ni0xru0v",
+  "title": "Valentine's feast includes six specific courses",
+  "statement": "The six-course experience includes onion soup, salad, hibachi shrimp appetizer, hibachi vegetables, Japanese hot green tea, and choice of ice cream or sherbet.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    },
+    {
+      "slug": "valentine",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ostntaj3",
+      "quote": "Your six-course experience includes onion soup, crisp salad, hibachi shrimp appetizer, hibachi vegetables, Japanese hot green tea, and your choice of ice cream or sherbet"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_e6q8lo43",
+  "title": "Maximum 8 mugs per birthday party",
+  "statement": "Birthday parties are limited to a maximum of eight mugs per party.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_27x3g4i0",
+      "quote": "Maximum of eight (8) mugs per birthday party."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

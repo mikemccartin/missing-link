@@ -1,0 +1,9 @@
+{
+  "id": "src_udwbi3up",
+  "title": "About Us",
+  "publisher": "RA Sushi",
+  "url": "https://rasushi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frasushi.com%2Fabout-us%2F",
+  "accessDate": "2026-02-06",
+  "type": "webpage",
+  "excerpt": "An oEmbed endpoint for RA Sushi's About Us page, containing minimal structural information about the restaurant company's website."
+}

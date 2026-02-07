@@ -1,0 +1,32 @@
+{
+  "id": "clm_f03vmzoe",
+  "title": "Nutrition page was last modified in February 2026",
+  "statement": "The nutrition page was last modified on February 6, 2026 at 11:13:33 GMT",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_oflec9mo",
+      "quote": "\"modified\":\"2026-02-06T11:13:33\",\"modified_gmt\":\"2026-02-06T11:13:33\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

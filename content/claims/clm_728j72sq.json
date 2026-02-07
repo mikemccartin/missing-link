@@ -1,0 +1,40 @@
+{
+  "id": "clm_728j72sq",
+  "title": "STK San Juan location in Condado district",
+  "statement": "STK San Juan is set along Ashford Avenue in Condado, surrounded by oceanfront resorts, nightlife, and casinos.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "condado",
+      "role": "related"
+    },
+    {
+      "slug": "ashford-avenue",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t3ujdueu",
+      "quote": "Set along Ashford Avenue in Condado, STK San Juan brings a modern steakhouse and chic lounge to one of San Juan's most walkable beachfront districts, surrounded by oceanfront resorts, nightlife, and casinos."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

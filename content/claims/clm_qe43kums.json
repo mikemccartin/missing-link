@@ -1,0 +1,32 @@
+{
+  "id": "clm_qe43kums",
+  "title": "STK Steakhouse operates in Boston, Massachusetts",
+  "statement": "STK Steakhouse has a location at 222 Berkeley St, Boston, MA 02116 with phone number 617-315-8274",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Boston 222 Berkeley St Boston, MA 02116, USA 617-315-8274"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

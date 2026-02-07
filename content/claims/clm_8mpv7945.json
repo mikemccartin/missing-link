@@ -1,0 +1,32 @@
+{
+  "id": "clm_8mpv7945",
+  "title": "STK Stratford offers Sunday Roast",
+  "statement": "STK Stratford offers Sunday Roast with all the trimmings.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_wxwxewhr",
+      "quote": "also offers Sunday Roast with all the trimmings"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_ftrm355r",
+  "title": "RA Sushi operates multiple restaurant locations",
+  "statement": "RA Sushi has multiple restaurant locations that customers can choose from for reservations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_evji84xl",
+      "quote": "Make an online reservation at your favorite RA Sushi restaurant"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

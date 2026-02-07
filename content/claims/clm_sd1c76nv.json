@@ -1,0 +1,32 @@
+{
+  "id": "clm_sd1c76nv",
+  "title": "Bao Yum Copyright Year",
+  "statement": "Bao Yum holds copyright for the year 2026",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "bao-yum",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e0x8esv3",
+      "quote": "© 2026 Bao Yum."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from baoyum.com crawl"
+    }
+  ]
+}

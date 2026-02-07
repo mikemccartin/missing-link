@@ -1,0 +1,36 @@
+{
+  "id": "clm_caro6qsv",
+  "title": "The ONE Group operates internationally",
+  "statement": "The ONE Group provides hospitality management services for hotels, casinos and other high-end venues both nationally and internationally.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_0nddr49e",
+      "quote": "provides hospitality management services for hotels, casinos and other high-end venues both nationally and internationally"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

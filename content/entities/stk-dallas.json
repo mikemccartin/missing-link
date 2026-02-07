@@ -1,0 +1,7 @@
+{
+  "slug": "stk-dallas",
+  "name": "STK Dallas",
+  "type": "organization",
+  "description": "A Dallas location of STK Steakhouse located in Uptown Dallas on McKinney Avenue.",
+  "parentEntity": "stk-steakhouse"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_04azh1dc",
+  "title": "togrp uses WordPress content management system",
+  "statement": "togrp's website uses WordPress as evidenced by the wp-json API endpoint structure and WordPress-specific metadata fields",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "the-one-group-hospitality",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ju5hz99k",
+      "quote": "\"link\":\"https:\\/\\/togrp.com\\/friends-with-benefits-inquiries\\/\",\"type\":\"page\",\"status\":\"publish\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from togrp.com crawl"
+    }
+  ]
+}

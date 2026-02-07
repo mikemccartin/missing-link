@@ -1,0 +1,36 @@
+{
+  "id": "clm_yy53lzlh",
+  "title": "RA Sushi uses OpenTable for reservation management",
+  "statement": "RA Sushi integrates with OpenTable's reservation system using OpenTable restaurant IDs for their locations.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    },
+    {
+      "slug": "opentable",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_lnsxo2lq",
+      "quote": "if (locationFound && locationFound.openTableRestaurantId)"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

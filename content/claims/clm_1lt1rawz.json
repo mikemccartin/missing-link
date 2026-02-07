@@ -1,0 +1,32 @@
+{
+  "id": "clm_1lt1rawz",
+  "title": "Kona Grill careers page was created in January 2025",
+  "statement": "The Kona Grill careers page was initially created on January 13, 2025.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_6844ir9l",
+      "quote": "\"date\":\"2025-01-13T10:04:20\""
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_usj5xj21",
+  "title": "Kona Grill serves bento boxes with orange bear",
+  "statement": "Kona Grill's bento box is served with orange bear.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_9q64rtdx",
+      "quote": "Bento Box served with orange bear"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_6qfjz0ec",
+  "title": "Benihana franchise fee is $40,000",
+  "statement": "The franchise fee payable to Benihana National Corp. for opening a new Benihana restaurant is $40,000.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_f3ifsklw",
+      "quote": "Initial costs required to open a new BENIHANA restaurant include, without limitation, equipment and fixtures, inventory, insurance, working capital, liquor license costs, and other expenses, including a $40,000 franchise fee payable to BNC."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_tu1ujx1q",
+  "title": "Features retractable glass enclosure for year-round dining",
+  "statement": "STK NYC Rooftop uses a retractable glass enclosure that allows year-round rooftop dining with climate control.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_7ndkz1ha",
+      "quote": "Our retractable glass enclosure allows you to experience the charm of STK Rooftop year-round"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_omyp38ej",
+  "title": "STK Dallas offers Sunday Brunch",
+  "statement": "STK Dallas serves Sunday Brunch between 10am and 2pm.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_iizfqkp0",
+      "quote": "STK Dallas serves Sunday Brunch, between 10am – 2pm, with steakhouse dishes, brunch favorites, and cocktails in a high‑energy Uptown setting."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_43rtha4i",
+  "title": "Kona Grill Alpharetta phone number",
+  "statement": "The Kona Grill Alpharetta location can be reached at 470-226-1540.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "alpharetta",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ag2mnccd",
+      "quote": "470-226-1540"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm_jwtoausr",
+  "title": "RA Sushi prices and menu items vary by location",
+  "statement": "RA Sushi has different prices and menu items depending on the restaurant location.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5un1nk6b",
+      "quote": "Prices and menu items vary by location."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

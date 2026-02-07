@@ -1,0 +1,36 @@
+{
+  "id": "clm_p93p9oee",
+  "title": "Only one certificate allowed per guest per check",
+  "statement": "Kona Grill's policy allows only one certificate or reward to be used per guest, per check.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_t8zvgx98",
+      "quote": "Per our Terms and Conditions, only one certificate or reward may be used per guest, per check."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

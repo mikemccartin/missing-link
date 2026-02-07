@@ -1,0 +1,32 @@
+{
+  "id": "clm_a284wwfj",
+  "title": "Benihana serves Hokkaido scallops",
+  "statement": "Benihana offers tender Hokkaido scallops grilled hibachi style with lemon.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_val50e61",
+      "quote": "Tender Hokkaido scallops grilled hibachi style with lemon."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

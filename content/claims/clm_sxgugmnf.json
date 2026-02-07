@@ -1,0 +1,32 @@
+{
+  "id": "clm_sxgugmnf",
+  "title": "COVID-19 pandemic impacted Benihana's supply chain implementation goals",
+  "statement": "COVID-19 pandemic disruptions to Benihana's supply chain may cause delays with their supplier implementation goal of 2024.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_on9j5ri1",
+      "quote": "we recognize the severe impact of the COVID-19 pandemic has resulted in massive disruptions to our supply chain and may cause a delay with our supplier"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

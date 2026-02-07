@@ -1,0 +1,36 @@
+{
+  "id": "clm_sftub41n",
+  "title": "Friends with Benefits offers $50 birthday reward",
+  "statement": "Members of the Friends with Benefits loyalty program receive a $50 birthday reward.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "related"
+    },
+    {
+      "slug": "friends-with-benefits",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_q6tawk7q",
+      "quote": "you'll enjoy a $50 birthday reward — just because"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

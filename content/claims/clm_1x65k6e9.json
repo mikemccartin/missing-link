@@ -1,0 +1,32 @@
+{
+  "id": "clm_1x65k6e9",
+  "title": "RA Sushi's pork gyoza are saut\u00e9ed Asian potstickers served with ponzu sauce",
+  "statement": "The pork gyoza at RA Sushi are saut\u00e9ed Asian potstickers that come with ponzu sauce.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "ra-sushi",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_3js1y2no",
+      "quote": "PORK GYOZA Saut\u00e9ed Asian potstickers served with ponzu sauce"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from rasushi.com crawl"
+    }
+  ]
+}

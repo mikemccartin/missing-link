@@ -1,0 +1,32 @@
+{
+  "id": "clm_uhtxtcos",
+  "title": "Kona Grill has location in Eden Prairie, Minnesota",
+  "statement": "Kona Grill operates a restaurant location in Eden Prairie, MN.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_e3nwgans",
+      "quote": "Eden Prairie, MN https://konagrill.com/location/eden-prairie-mn/"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

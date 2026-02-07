@@ -1,0 +1,32 @@
+{
+  "id": "clm_dermccsd",
+  "title": "Benihana meals are prepared in shared kitchens",
+  "statement": "Benihana prepares meals in shared kitchens despite taking care to minimize cross-contact for dietary restrictions.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_8xhz3jce",
+      "quote": "Please note that while we take care to minimize cross-contact, our meals are prepared in shared kitchens."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}

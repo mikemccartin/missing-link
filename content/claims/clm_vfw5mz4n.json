@@ -1,0 +1,32 @@
+{
+  "id": "clm_vfw5mz4n",
+  "title": "STK Steakhouse operates in Atlanta, Georgia",
+  "statement": "STK Steakhouse has a location at 1075 Peachtree St, NE, Atlanta, GA 30309 with phone number 404-793-0144",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_hd3uyr9t",
+      "quote": "Atlanta 1075 Peachtree St, NE Atlanta, GA 30309 404-793-0144"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

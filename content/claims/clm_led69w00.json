@@ -1,0 +1,36 @@
+{
+  "id": "clm_led69w00",
+  "title": "Kona Grill Woodbridge location relative to Renaissance Hotel",
+  "statement": "Kona Grill Woodbridge is located in front of the Renaissance Hotel on Route 1 South, 100 yards past Gill Lane.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    },
+    {
+      "slug": "renaissance-hotel",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_yk7e5d96",
+      "quote": "We are located in front of the Renaissance Hotel; turn right on Rt 1 South, and you will find us 100 yards past Gill Lane"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

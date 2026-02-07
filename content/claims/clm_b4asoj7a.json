@@ -1,0 +1,32 @@
+{
+  "id": "clm_b4asoj7a",
+  "title": "Kona Grill offers $6 bar burger",
+  "statement": "Kona Grill offers a $6 Kona Bar Burger available all day, every day, exclusively at the bar.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5ba680o0",
+      "quote": "Pull up a seat and enjoy the unbeatable value of our $6 Kona Burger. This exclusive offer is available all day, every day, only at the bar"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

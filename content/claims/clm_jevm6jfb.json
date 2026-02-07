@@ -1,0 +1,32 @@
+{
+  "id": "clm_jevm6jfb",
+  "title": "STK Toronto has schedule change",
+  "statement": "STK Toronto changes its operating hours beginning February 15th from its previous schedule.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_2rydufxk",
+      "quote": "Until 2/15 Monday – Thursday: 4pm – 11pm Friday: 3pm – 12am Saturday: 11am – 12am Sunday: 11am – 11pm Beginning 2/15 Sunday – Thursday: 3pm – 11pm Friday & Saturday: 3pm – 12am"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

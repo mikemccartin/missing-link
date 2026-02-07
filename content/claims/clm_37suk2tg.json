@@ -1,0 +1,32 @@
+{
+  "id": "clm_37suk2tg",
+  "title": "Power Lunch served in 45 minutes guaranteed",
+  "statement": "Kona Grill guarantees the Power Lunch is served within 45 minutes",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "kona-grill",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_afzx9v0i",
+      "quote": "a 3-course meal for just $19, served in 45 minutes, guaranteed"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from konagrill.com crawl"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm_6bf5nqps",
+  "title": "STK Orlando location address",
+  "statement": "STK Orlando is located at 1580 E. Buena Vista Drive, Orlando, FL 32830",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "disney-springs",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_5okrshbl",
+      "quote": "STK Orlando is located at 1580 E. Buena Vista Drive, Orlando, FL 32830 , in Disney Springs at Walt Disney World Resort."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-06",
+    "updatedAt": "2026-02-06"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-06",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

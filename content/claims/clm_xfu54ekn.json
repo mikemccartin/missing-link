@@ -1,0 +1,36 @@
+{
+  "id": "clm_xfu54ekn",
+  "title": "STK Doha offers seafood and cocktails",
+  "statement": "STK Doha features a seafood bar and signature cocktails in addition to steaks.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "stk-steakhouse",
+      "role": "subject"
+    },
+    {
+      "slug": "stk-doha",
+      "role": "related"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_ku6wy5dm",
+      "quote": "Premium steaks, Japanese A5 Wagyu, seafood bar, and signature cocktails"
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from stksteakhouse.com crawl"
+    }
+  ]
+}

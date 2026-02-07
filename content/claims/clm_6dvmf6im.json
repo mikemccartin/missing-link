@@ -1,0 +1,32 @@
+{
+  "id": "clm_6dvmf6im",
+  "title": "Sushi & Me classes include food, beverages, and keepsakes",
+  "statement": "Classes begin with non-alcohol beverages, edamame and shrimp tempura, and include aprons, certificates, and two keepsake photos.",
+  "status": "asserted",
+  "entities": [
+    {
+      "slug": "benihana",
+      "role": "subject"
+    }
+  ],
+  "topics": [],
+  "citations": [
+    {
+      "sourceId": "src_24r5ajfg",
+      "quote": "Sushi & Me Class begins with a non-alcohol beverage, edamame and shrimp tempura. Each party will receive a Benihana children's and adult apron, one Sushi & Me Certificate and two keepsake photos."
+    }
+  ],
+  "provenance": {
+    "author": "missing.link-spider",
+    "createdAt": "2026-02-07",
+    "updatedAt": "2026-02-07"
+  },
+  "version": 1,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-02-07",
+      "summary": "Auto-extracted from www.benihana.com crawl"
+    }
+  ]
+}
