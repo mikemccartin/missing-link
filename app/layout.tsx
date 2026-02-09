@@ -26,6 +26,7 @@ export default function RootLayout({
             <a href="/topics">Topics</a>
             <a href="/sources">Sources</a>
             <a href="/corrections">Corrections</a>
+            <a href="/stats">Stats</a>
           </nav>
         </header>
         {children}
